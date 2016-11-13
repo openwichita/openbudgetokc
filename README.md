@@ -1,10 +1,10 @@
-# Open Budget OKC
+# Open Budget Wichita
 
 [![Build Status](https://travis-ci.org/codeforokc/openbudgetokc.svg?branch=master)](https://travis-ci.org/codeforokc/openbudgetokc)
 
 ## Chat
 
-Join the Code for OKC Slack room here: http://slack.codeforokc.org/. Once there, check out the #openbudgetokc channel for discussion about this project.
+Join the Open Wichita Slack room here: http://openwichita-slack.herokuapp.com/. Once there, check out the #openbudget channel for discussion about this project.
 
 ## Getting Started
 
@@ -13,10 +13,11 @@ __Fork me!__
 Fork and clone the project!
 
 ```
-$ git clone git@github.com:[your-user]/openbudgetokc.git
-$ cd openbudgetokc
+$ git clone git@github.com:[your-user]/openbudgetwichita.git
+$ cd openbudgetwichita
 ```
 
+[//]: <> (TODO: Point to our wiki, once we have one)
 [Read helpful info about image sizes, data types and color schemes on the wiki.](https://github.com/codeforokc/openbudgetokc/wiki)
 
 ---
@@ -27,7 +28,7 @@ $ cd openbudgetokc
 Most of the new development on Oklahoma City data visualizations is currently occuring in the sandbox directory. Each of the charts can be viewed by opening them directly in your browser.
 
 ```
-$ open openbudgetokc/sandbox/zoomable.html
+$ open openbudgetwichita/sandbox/zoomable.html
 ```
 
 This area is in active development so all of the graphs may not be functioning correctly!
