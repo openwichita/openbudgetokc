@@ -17,7 +17,7 @@ $ git clone git@github.com:[your-user]/openbudgetwichita.git
 $ cd openbudgetwichita
 ```
 
-[//]: <> (TODO: Point to our wiki, once we have one)
+[](TODO: Point to our wiki, once we have one)
 [Read helpful info about image sizes, data types and color schemes on the wiki.](https://github.com/codeforokc/openbudgetokc/wiki)
 
 ---
