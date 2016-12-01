@@ -33,13 +33,14 @@ $ open openbudgetwichita/sandbox/zoomable.html
 
 This area is in active development so all of the graphs may not be functioning correctly!
 
+
 #### Generating json files from a csv
 
 We have a small script written in ruby for generating a json file from a csv of city data. The script asks for the file and then steps through each required field and asks you to specify the correct header which matches. 
 
 To run the script
 ```
-$ cd <project_root>/sandbox
+$ cd <project_root>/data-utilities
 $ ruby data_to_json.rb
 ```
 
