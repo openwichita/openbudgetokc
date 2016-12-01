@@ -1,6 +1,6 @@
 # Open Budget Wichita
 
-[![Build Status](https://travis-ci.org/codeforokc/openbudgetokc.svg?branch=master)](https://travis-ci.org/codeforokc/openbudgetokc)
+[![Build Status](https://api.travis-ci.org/openwichita/openbudgetwichita.svg?branch=master)](https://travis-ci.org/openwichita/openbudgetwichita)
 
 ## Chat
 
@@ -18,7 +18,7 @@ $ cd openbudgetwichita
 ```
 
 [](TODO: Point to our wiki, once we have one)
-[Read helpful info about image sizes, data types and color schemes on the wiki.](https://github.com/codeforokc/openbudgetokc/wiki)
+[Read helpful info about image sizes, data types and color schemes on the wiki.](https://github.com/openwichita/openbudgetwichita/wiki)
 
 ---
 ## Developing Locally
