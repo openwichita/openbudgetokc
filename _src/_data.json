@@ -2,12 +2,12 @@
 
 {
   "globals": {
-    "title": "Open Budget: OKC",
-    "uri": "http://openbudgetokc.org"
+    "title": "Open Budget: Wichita",
+    "uri": "http://budget.openwichita.com"
   },
 
   "index": {
-    "title": "Open Budget: OKC",
+    "title": "Open Budget: Wichita",
     "slug": "home"
   }
 
