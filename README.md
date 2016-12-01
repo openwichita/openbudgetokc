@@ -1,6 +1,6 @@
 # Open Budget Wichita
 
-[![Build Status](https://travis-ci.org/codeforokc/openbudgetokc.svg?branch=master)](https://travis-ci.org/codeforokc/openbudgetokc)
+[![Build Status](https://api.travis-ci.org/openwichita/openbudgetwichita.svg?branch=master)](https://travis-ci.org/openwichita/openbudgetwichita)
 
 ## Chat
 
@@ -18,14 +18,14 @@ $ cd openbudgetwichita
 ```
 
 [](TODO: Point to our wiki, once we have one)
-[Read helpful info about image sizes, data types and color schemes on the wiki.](https://github.com/codeforokc/openbudgetokc/wiki)
+[Read helpful info about image sizes, data types and color schemes on the wiki.](https://github.com/openwichita/openbudgetwichita/wiki)
 
 ---
 ## Developing Locally
 
 ### D3 Sandbox
 
-Most of the new development on Oklahoma City data visualizations is currently occuring in the sandbox directory. Each of the charts can be viewed by opening them directly in your browser.
+Most of the new development on Wichita data visualizations is currently occuring in the sandbox directory. Each of the charts can be viewed by opening them directly in your browser.
 
 ```
 $ open openbudgetwichita/sandbox/zoomable.html
@@ -97,7 +97,7 @@ This project is coded with:
 
 To request revenue and expense data for a new fiscal year, submit an Open Records request and type the following in the description field. Update FYXX with the last two digits of the year (ex: FY16).
 
--A csv file of the City of Oklahoma City revenue and expenditure budget for FYXX, including Fund, Fund name, Operating Unit, Operating Unit Description, Agency, Agency Name, Program ID, Program Name, Line of Business ID, Line of Business name, Account, Account Name, Account Description, Budget Amount. (Budget database query names qry_Current_Yr_Budget_detail and qry_Current_Yr_Budget_Detail_Revenue)
+-A csv file of the City of Wichita revenue and expenditure budget for FYXX, including Fund, Fund name, Operating Unit, Operating Unit Description, Agency, Agency Name, Program ID, Program Name, Line of Business ID, Line of Business name, Account, Account Name, Account Description, Budget Amount. (Budget database query names qry_Current_Yr_Budget_detail and qry_Current_Yr_Budget_Detail_Revenue)
 
 This chart takes as input the full budget datatable from data.oaklandnet.com
 (in CSV format)
