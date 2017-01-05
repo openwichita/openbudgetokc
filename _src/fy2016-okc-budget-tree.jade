@@ -49,7 +49,18 @@
     
     .children rect.parent {
       fill: #bbb;
-      fill-opacity: .5;
+      fill-opacity: 1;
+      -webkit-transition: fill-opacity .5s;
+      transition: fill-opacity .5s;
+    }
+
+    .children:hover{
+      cursor: pointer;
+    }
+
+    .children:hover rect.parent {
+      fill: #bbb;
+      fill-opacity: .85;
     }
     
     .children:hover rect.child {
