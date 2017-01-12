@@ -56,7 +56,7 @@ csv.each do |row|
     lob: row[headers[lob.to_i]],  #row["OperatingUnitDescription"],
     program: row[headers[program_name.to_i]],  #row["OperatingUnitDescription"],
     key: row[headers[account.to_i]], #row["ProgramName"],
-    value: row[headers[amount.to_i]] #row["Budget"].to_i
+    value: row[headers[amount.to_i]].gsub('$', '').gsub(',', '').gsub('.00', '') #row["Budget"].to_i
   }
 end
 
