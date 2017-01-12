@@ -26,10 +26,10 @@ headers.each_with_index { |header, index| puts "#{index}: #{header}"}
 
 fund = gets
 
-puts "Please select the number corresponding to the operating unit:"
-headers.each_with_index { |header, index| puts "#{index}: #{header}"}
+#puts "Please select the number corresponding to the operating unit:"
+#headers.each_with_index { |header, index| puts "#{index}: #{header}"}
 
-operating_unit = gets
+#operating_unit = gets
 
 puts "Please select the number corresponding to the operating lob:"
 headers.each_with_index { |header, index| puts "#{index}: #{header}"}
@@ -47,7 +47,6 @@ headers.each_with_index { |header, index| puts "#{index}: #{header}"}
 amount = gets
 
 data = []
-stuff = []
 csv.each do |row|
   data << {
     agency: row[headers[agency.to_i]], #row["Account Description"],
