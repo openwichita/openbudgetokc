@@ -48,6 +48,15 @@ amount = gets
 
 data = []
 csv.each do |row|
+
+  # In the Wichita dataset, the `obj_lvl_3` column (which correlates to
+  # "account" here) determines whether the line is revenue or an expenditure. If
+  # it begins with 1-5, it's an expense, and 6-9 notates revenue.
+  obj_lvl_3_id = row[headers[6]]
+
+  # Only collecting expenses here
+  next unless [1,2,3,4,5].include? obj_lvl_3_id[0].to_i
+
   data << {
     agency: row[headers[agency.to_i]], #row["Account Description"],
     #account: row[headers[account.to_i]], #row["Account Description"],

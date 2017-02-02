@@ -499,14 +499,6 @@
     "agency": "City Manager",
     "fund": "020008",
     "lob": "City Manager Administration",
-    "program": "Reimbursed expend-interfund & interdept",
-    "key": "Reimbursed expend-interfund & interdept",
-    "value": "96929"
-  },
-  {
-    "agency": "City Manager",
-    "fund": "020008",
-    "lob": "City Manager Administration",
     "program": "Periodicals/Subscriptions",
     "key": "Periodicals/Subscriptions",
     "value": "452"
@@ -995,14 +987,6 @@
     "agency": "City Manager",
     "fund": "023801",
     "lob": "Intrust Bank Arena Parking Activities",
-    "program": "Surface lots - non metered",
-    "key": "Surface lots - non metered",
-    "value": "317750"
-  },
-  {
-    "agency": "City Manager",
-    "fund": "023801",
-    "lob": "Intrust Bank Arena Parking Activities",
     "program": "Non-capital shop equipment < $5,000 each",
     "key": "Non-capital shop equipment < $5,000 each",
     "value": "5000"
@@ -1086,38 +1070,6 @@
     "program": "Building parts and materials",
     "key": "Building parts and materials",
     "value": "12000"
-  },
-  {
-    "agency": "City Manager",
-    "fund": "023802",
-    "lob": "WaterWalk Parking Complex",
-    "program": "Reimbursements",
-    "key": "Reimbursements",
-    "value": "80077"
-  },
-  {
-    "agency": "City Manager",
-    "fund": "023803",
-    "lob": "Block 1 Garage Ambassador 360 E William",
-    "program": "Parking structures - non metered",
-    "key": "Parking structures - non metered",
-    "value": "60000"
-  },
-  {
-    "agency": "City Manager",
-    "fund": "023803",
-    "lob": "Block 1 Garage Ambassador 360 E William",
-    "program": "Parking",
-    "key": "Parking",
-    "value": "14545"
-  },
-  {
-    "agency": "City Manager",
-    "fund": "023803",
-    "lob": "Block 1 Garage Ambassador 360 E William",
-    "program": "Reimbursements",
-    "key": "Reimbursements",
-    "value": "75000"
   },
   {
     "agency": "City Manager",
@@ -1283,25 +1235,9 @@
     "agency": "City Manager",
     "fund": "023804",
     "lob": "Old Town Parking District",
-    "program": "Parking structures - non metered",
-    "key": "Parking structures - non metered",
-    "value": "340000"
-  },
-  {
-    "agency": "City Manager",
-    "fund": "023804",
-    "lob": "Old Town Parking District",
     "program": "Contributions to other funds",
     "key": "Contributions to other funds",
     "value": "40000"
-  },
-  {
-    "agency": "City Manager",
-    "fund": "023806",
-    "lob": "William Street Garage",
-    "program": "Parking structures - non metered",
-    "key": "Parking structures - non metered",
-    "value": "21000"
   },
   {
     "agency": "City Manager",
@@ -1459,57 +1395,9 @@
     "agency": "City Manager",
     "fund": "023807",
     "lob": "City Hall Parking",
-    "program": "Lot meters",
-    "key": "Lot meters",
-    "value": "38000"
-  },
-  {
-    "agency": "City Manager",
-    "fund": "023807",
-    "lob": "City Hall Parking",
-    "program": "Surface lots - non metered",
-    "key": "Surface lots - non metered",
-    "value": "72000"
-  },
-  {
-    "agency": "City Manager",
-    "fund": "023807",
-    "lob": "City Hall Parking",
-    "program": "City employees - parking garage",
-    "key": "City employees - parking garage",
-    "value": "112000"
-  },
-  {
-    "agency": "City Manager",
-    "fund": "023807",
-    "lob": "City Hall Parking",
     "program": "Contributions to other funds",
     "key": "Contributions to other funds",
     "value": "30000"
-  },
-  {
-    "agency": "City Manager",
-    "fund": "023808",
-    "lob": "General Surface Parking",
-    "program": "Street meters",
-    "key": "Street meters",
-    "value": "75000"
-  },
-  {
-    "agency": "City Manager",
-    "fund": "023808",
-    "lob": "General Surface Parking",
-    "program": "Lot meters",
-    "key": "Lot meters",
-    "value": "84000"
-  },
-  {
-    "agency": "City Manager",
-    "fund": "023808",
-    "lob": "General Surface Parking",
-    "program": "Parking",
-    "key": "Parking",
-    "value": "75000"
   },
   {
     "agency": "City Manager",
@@ -1598,14 +1486,6 @@
     "program": "Management Fees",
     "key": "Management Fees",
     "value": "61680"
-  },
-  {
-    "agency": "City Manager",
-    "fund": "023809",
-    "lob": "Market & William Garage-215 S Market",
-    "program": "Parking",
-    "key": "Parking",
-    "value": "46800"
   },
   {
     "agency": "City Manager",
@@ -1987,30 +1867,6 @@
     "agency": "City Manager",
     "fund": "028001",
     "lob": "Economic Development",
-    "program": "CID/EDX/Proj Down Town - Application Fee",
-    "key": "CID/EDX/Proj Down Town - Application Fee",
-    "value": "18000"
-  },
-  {
-    "agency": "City Manager",
-    "fund": "028001",
-    "lob": "Economic Development",
-    "program": "IRB administration",
-    "key": "IRB administration",
-    "value": "260000"
-  },
-  {
-    "agency": "City Manager",
-    "fund": "028001",
-    "lob": "Economic Development",
-    "program": "Economic Development",
-    "key": "Economic Development",
-    "value": "36000"
-  },
-  {
-    "agency": "City Manager",
-    "fund": "028001",
-    "lob": "Economic Development",
     "program": "Studies/Consultants",
     "key": "Studies/Consultants",
     "value": "115000"
@@ -2126,14 +1982,6 @@
     "program": "Food supplies",
     "key": "Food supplies",
     "value": "2500"
-  },
-  {
-    "agency": "City Manager",
-    "fund": "028001",
-    "lob": "Economic Development",
-    "program": "Interfund transfers",
-    "key": "Interfund transfers",
-    "value": "185000"
   },
   {
     "agency": "City Manager",
@@ -2270,38 +2118,6 @@
     "program": "Water",
     "key": "Water",
     "value": "12200"
-  },
-  {
-    "agency": "City Manager",
-    "fund": "028006",
-    "lob": "Prop Mgmt - Operations",
-    "program": "Parking",
-    "key": "Parking",
-    "value": "110000"
-  },
-  {
-    "agency": "City Manager",
-    "fund": "028006",
-    "lob": "Prop Mgmt - Operations",
-    "program": "Surface lots - non metered",
-    "key": "Surface lots - non metered",
-    "value": "35000"
-  },
-  {
-    "agency": "City Manager",
-    "fund": "028006",
-    "lob": "Prop Mgmt - Operations",
-    "program": "Fee - Sale of Land Property",
-    "key": "Fee - Sale of Land Property",
-    "value": "150000"
-  },
-  {
-    "agency": "City Manager",
-    "fund": "028006",
-    "lob": "Prop Mgmt - Operations",
-    "program": "Sale of property-Land",
-    "key": "Sale of property-Land",
-    "value": "100000"
   },
   {
     "agency": "City Manager",
@@ -2526,46 +2342,6 @@
     "program": "Trash service",
     "key": "Trash service",
     "value": "950"
-  },
-  {
-    "agency": "City Manager",
-    "fund": "028006",
-    "lob": "Prop Mgmt - Operations",
-    "program": "Rent - City owned bldg office",
-    "key": "Rent - City owned bldg office",
-    "value": "145000"
-  },
-  {
-    "agency": "City Manager",
-    "fund": "028006",
-    "lob": "Prop Mgmt - Operations",
-    "program": "Rent - City owned bldg parking",
-    "key": "Rent - City owned bldg parking",
-    "value": "3000"
-  },
-  {
-    "agency": "City Manager",
-    "fund": "028006",
-    "lob": "Prop Mgmt - Operations",
-    "program": "Rent - Other Bldg and Parking rent/lease",
-    "key": "Rent - Other Bldg and Parking rent/lease",
-    "value": "86850"
-  },
-  {
-    "agency": "City Manager",
-    "fund": "028006",
-    "lob": "Prop Mgmt - Operations",
-    "program": "Property Mgmt Fee - Leasing Property",
-    "key": "Property Mgmt Fee - Leasing Property",
-    "value": "30000"
-  },
-  {
-    "agency": "City Manager",
-    "fund": "028101",
-    "lob": "Administrative Services",
-    "program": "Reimbursements",
-    "key": "Reimbursements",
-    "value": "68000"
   },
   {
     "agency": "City Manager",
@@ -3203,14 +2979,6 @@
     "agency": "City Manager",
     "fund": "028106",
     "lob": "City Clerk",
-    "program": "Sale of services/commodities",
-    "key": "Sale of services/commodities",
-    "value": "200"
-  },
-  {
-    "agency": "City Manager",
-    "fund": "028106",
-    "lob": "City Clerk",
     "program": "Bi-weekly wages",
     "key": "Bi-weekly wages",
     "value": "128481"
@@ -3483,14 +3251,6 @@
     "agency": "City Manager",
     "fund": "028301",
     "lob": "Special Alcohol Administration",
-    "program": "Private club liquor tax",
-    "key": "Private club liquor tax",
-    "value": "2082903"
-  },
-  {
-    "agency": "City Manager",
-    "fund": "028301",
-    "lob": "Special Alcohol Administration",
     "program": "Other professional services",
     "key": "Other professional services",
     "value": "100000"
@@ -3539,81 +3299,9 @@
     "agency": "Department of Finance",
     "fund": "031056",
     "lob": "Plan 3b Wichita EE Retirement",
-    "program": "Interfund transfers",
-    "key": "Interfund transfers",
-    "value": "400000"
-  },
-  {
-    "agency": "Department of Finance",
-    "fund": "031056",
-    "lob": "Plan 3b Wichita EE Retirement",
     "program": "Securities lending management fees",
     "key": "Securities lending management fees",
     "value": "769"
-  },
-  {
-    "agency": "Department of Finance",
-    "fund": "031056",
-    "lob": "Plan 3b Wichita EE Retirement",
-    "program": "Other interest earnings",
-    "key": "Other interest earnings",
-    "value": "71"
-  },
-  {
-    "agency": "Department of Finance",
-    "fund": "031056",
-    "lob": "Plan 3b Wichita EE Retirement",
-    "program": "Employer - WER Plan 3",
-    "key": "Employer - WER Plan 3",
-    "value": "197481"
-  },
-  {
-    "agency": "Department of Finance",
-    "fund": "031056",
-    "lob": "Plan 3b Wichita EE Retirement",
-    "program": "Employee - WER Plan 3",
-    "key": "Employee - WER Plan 3",
-    "value": "197481"
-  },
-  {
-    "agency": "Department of Finance",
-    "fund": "031056",
-    "lob": "Plan 3b Wichita EE Retirement",
-    "program": "Realized gain/loss pension investments",
-    "key": "Realized gain/loss pension investments",
-    "value": "207927"
-  },
-  {
-    "agency": "Department of Finance",
-    "fund": "031056",
-    "lob": "Plan 3b Wichita EE Retirement",
-    "program": "Incr (decr) in fair value of investments",
-    "key": "Incr (decr) in fair value of investments",
-    "value": "183669"
-  },
-  {
-    "agency": "Department of Finance",
-    "fund": "031056",
-    "lob": "Plan 3b Wichita EE Retirement",
-    "program": "Interest earnings-Pension",
-    "key": "Interest earnings-Pension",
-    "value": "80861"
-  },
-  {
-    "agency": "Department of Finance",
-    "fund": "031056",
-    "lob": "Plan 3b Wichita EE Retirement",
-    "program": "Dividend earnings-Pension",
-    "key": "Dividend earnings-Pension",
-    "value": "103964"
-  },
-  {
-    "agency": "Department of Finance",
-    "fund": "031056",
-    "lob": "Plan 3b Wichita EE Retirement",
-    "program": "Securities lending-Pension",
-    "key": "Securities lending-Pension",
-    "value": "1792"
   },
   {
     "agency": "Department of Finance",
@@ -3771,161 +3459,9 @@
     "agency": "Department of Finance",
     "fund": "031058",
     "lob": "Plan 3 Wichita EE Retirement",
-    "program": "Other interest earnings",
-    "key": "Other interest earnings",
-    "value": "348"
-  },
-  {
-    "agency": "Department of Finance",
-    "fund": "031058",
-    "lob": "Plan 3 Wichita EE Retirement",
-    "program": "Employer - WER Plan 3",
-    "key": "Employer - WER Plan 3",
-    "value": "1061070"
-  },
-  {
-    "agency": "Department of Finance",
-    "fund": "031058",
-    "lob": "Plan 3 Wichita EE Retirement",
-    "program": "Employee - WER Plan 3",
-    "key": "Employee - WER Plan 3",
-    "value": "1061070"
-  },
-  {
-    "agency": "Department of Finance",
-    "fund": "031058",
-    "lob": "Plan 3 Wichita EE Retirement",
-    "program": "Realized gain/loss pension investments",
-    "key": "Realized gain/loss pension investments",
-    "value": "420328"
-  },
-  {
-    "agency": "Department of Finance",
-    "fund": "031058",
-    "lob": "Plan 3 Wichita EE Retirement",
-    "program": "Incr (decr) in fair value of investments",
-    "key": "Incr (decr) in fair value of investments",
-    "value": "371290"
-  },
-  {
-    "agency": "Department of Finance",
-    "fund": "031058",
-    "lob": "Plan 3 Wichita EE Retirement",
-    "program": "Interest earnings-Pension",
-    "key": "Interest earnings-Pension",
-    "value": "163461"
-  },
-  {
-    "agency": "Department of Finance",
-    "fund": "031058",
-    "lob": "Plan 3 Wichita EE Retirement",
-    "program": "Dividend earnings-Pension",
-    "key": "Dividend earnings-Pension",
-    "value": "210164"
-  },
-  {
-    "agency": "Department of Finance",
-    "fund": "031058",
-    "lob": "Plan 3 Wichita EE Retirement",
-    "program": "Securities lending-Pension",
-    "key": "Securities lending-Pension",
-    "value": "3623"
-  },
-  {
-    "agency": "Department of Finance",
-    "fund": "031058",
-    "lob": "Plan 3 Wichita EE Retirement",
     "program": "Contributions to other funds",
     "key": "Contributions to other funds",
     "value": "3438830"
-  },
-  {
-    "agency": "Department of Finance",
-    "fund": "031062",
-    "lob": "Employees Retirement",
-    "program": "Other interest earnings",
-    "key": "Other interest earnings",
-    "value": "13767"
-  },
-  {
-    "agency": "Department of Finance",
-    "fund": "031062",
-    "lob": "Employees Retirement",
-    "program": "Employer contributions",
-    "key": "Employer contributions",
-    "value": "8361893"
-  },
-  {
-    "agency": "Department of Finance",
-    "fund": "031062",
-    "lob": "Employees Retirement",
-    "program": "Employee contributions",
-    "key": "Employee contributions",
-    "value": "2649230"
-  },
-  {
-    "agency": "Department of Finance",
-    "fund": "031062",
-    "lob": "Employees Retirement",
-    "program": "Realized gain/loss pension investments",
-    "key": "Realized gain/loss pension investments",
-    "value": "16983718"
-  },
-  {
-    "agency": "Department of Finance",
-    "fund": "031062",
-    "lob": "Employees Retirement",
-    "program": "County Employer contributions",
-    "key": "County Employer contributions",
-    "value": "65580"
-  },
-  {
-    "agency": "Department of Finance",
-    "fund": "031062",
-    "lob": "Employees Retirement",
-    "program": "County Employee contributions",
-    "key": "County Employee contributions",
-    "value": "25066"
-  },
-  {
-    "agency": "Department of Finance",
-    "fund": "031062",
-    "lob": "Employees Retirement",
-    "program": "Incr (decr) in fair value of investments",
-    "key": "Incr (decr) in fair value of investments",
-    "value": "15002284"
-  },
-  {
-    "agency": "Department of Finance",
-    "fund": "031062",
-    "lob": "Employees Retirement",
-    "program": "Interest earnings-Pension",
-    "key": "Interest earnings-Pension",
-    "value": "6604779"
-  },
-  {
-    "agency": "Department of Finance",
-    "fund": "031062",
-    "lob": "Employees Retirement",
-    "program": "Dividend earnings-Pension",
-    "key": "Dividend earnings-Pension",
-    "value": "8491859"
-  },
-  {
-    "agency": "Department of Finance",
-    "fund": "031062",
-    "lob": "Employees Retirement",
-    "program": "Securities lending-Pension",
-    "key": "Securities lending-Pension",
-    "value": "146396"
-  },
-  {
-    "agency": "Department of Finance",
-    "fund": "031062",
-    "lob": "Employees Retirement",
-    "program": "Interfund transfers",
-    "key": "Interfund transfers",
-    "value": "3200000"
   },
   {
     "agency": "Department of Finance",
@@ -4411,73 +3947,9 @@
     "agency": "Department of Finance",
     "fund": "031070",
     "lob": "Police & Fire Retirement",
-    "program": "Other interest earnings",
-    "key": "Other interest earnings",
-    "value": "15337"
-  },
-  {
-    "agency": "Department of Finance",
-    "fund": "031070",
-    "lob": "Police & Fire Retirement",
-    "program": "Employer contributions",
-    "key": "Employer contributions",
-    "value": "13188843"
-  },
-  {
-    "agency": "Department of Finance",
-    "fund": "031070",
-    "lob": "Police & Fire Retirement",
-    "program": "Employee contributions",
-    "key": "Employee contributions",
-    "value": "4804031"
-  },
-  {
-    "agency": "Department of Finance",
-    "fund": "031070",
-    "lob": "Police & Fire Retirement",
-    "program": "Realized gain/loss pension investments",
-    "key": "Realized gain/loss pension investments",
-    "value": "19050785"
-  },
-  {
-    "agency": "Department of Finance",
-    "fund": "031070",
-    "lob": "Police & Fire Retirement",
-    "program": "Incr (decr) in fair value of investments",
-    "key": "Incr (decr) in fair value of investments",
-    "value": "16828193"
-  },
-  {
-    "agency": "Department of Finance",
-    "fund": "031070",
-    "lob": "Police & Fire Retirement",
-    "program": "Securities lending-Pension",
-    "key": "Securities lending-Pension",
-    "value": "164214"
-  },
-  {
-    "agency": "Department of Finance",
-    "fund": "031070",
-    "lob": "Police & Fire Retirement",
     "program": "Contributions to other funds",
     "key": "Contributions to other funds",
     "value": "351013"
-  },
-  {
-    "agency": "Department of Finance",
-    "fund": "031070",
-    "lob": "Police & Fire Retirement",
-    "program": "Interest earnings-Pension",
-    "key": "Interest earnings-Pension",
-    "value": "7408639"
-  },
-  {
-    "agency": "Department of Finance",
-    "fund": "031070",
-    "lob": "Police & Fire Retirement",
-    "program": "Dividend earnings-Pension",
-    "key": "Dividend earnings-Pension",
-    "value": "9525392"
   },
   {
     "agency": "Department of Finance",
@@ -4486,14 +3958,6 @@
     "program": "Contributions to other funds",
     "key": "Contributions to other funds",
     "value": "2180000"
-  },
-  {
-    "agency": "Department of Finance",
-    "fund": "031229",
-    "lob": "Special Parks & Rec. transfer",
-    "program": "Private club liquor tax",
-    "key": "Private club liquor tax",
-    "value": "2082903"
   },
   {
     "agency": "Department of Finance",
@@ -4881,46 +4345,6 @@
   },
   {
     "agency": "Department of Finance",
-    "fund": "032301",
-    "lob": "SSMID",
-    "program": "Property taxes",
-    "key": "Property taxes",
-    "value": "623514"
-  },
-  {
-    "agency": "Department of Finance",
-    "fund": "032301",
-    "lob": "SSMID",
-    "program": "Delinquent property taxes",
-    "key": "Delinquent property taxes",
-    "value": "26500"
-  },
-  {
-    "agency": "Department of Finance",
-    "fund": "032301",
-    "lob": "SSMID",
-    "program": "Motor vehicle tax",
-    "key": "Motor vehicle tax",
-    "value": "25231"
-  },
-  {
-    "agency": "Department of Finance",
-    "fund": "032951",
-    "lob": "East Bank TIF- Hyatt",
-    "program": "Property taxes",
-    "key": "Property taxes",
-    "value": "561668"
-  },
-  {
-    "agency": "Department of Finance",
-    "fund": "032951",
-    "lob": "East Bank TIF- Hyatt",
-    "program": "Tax increment financing revenue",
-    "key": "Tax increment financing revenue",
-    "value": "242687"
-  },
-  {
-    "agency": "Department of Finance",
     "fund": "032951",
     "lob": "East Bank TIF- Hyatt",
     "program": "Contributions to other funds",
@@ -4929,67 +4353,11 @@
   },
   {
     "agency": "Department of Finance",
-    "fund": "032952",
-    "lob": "East Bank TIF-WaterWalk",
-    "program": "Property taxes",
-    "key": "Property taxes",
-    "value": "860423"
-  },
-  {
-    "agency": "Department of Finance",
-    "fund": "032952",
-    "lob": "East Bank TIF-WaterWalk",
-    "program": "Parking",
-    "key": "Parking",
-    "value": "25000"
-  },
-  {
-    "agency": "Department of Finance",
-    "fund": "032979",
-    "lob": "Old Town Cinema TIF District",
-    "program": "Property taxes",
-    "key": "Property taxes",
-    "value": "548359"
-  },
-  {
-    "agency": "Department of Finance",
-    "fund": "032979",
-    "lob": "Old Town Cinema TIF District",
-    "program": "Other contributions",
-    "key": "Other contributions",
-    "value": "50000"
-  },
-  {
-    "agency": "Department of Finance",
     "fund": "032979",
     "lob": "Old Town Cinema TIF District",
     "program": "Contributions to other funds",
     "key": "Contributions to other funds",
     "value": "590000"
-  },
-  {
-    "agency": "Department of Finance",
-    "fund": "032982",
-    "lob": "Center City South-Exchange Place Project",
-    "program": "Property taxes",
-    "key": "Property taxes",
-    "value": "1035"
-  },
-  {
-    "agency": "Department of Finance",
-    "fund": "032982",
-    "lob": "Center City South-Exchange Place Project",
-    "program": "Delinquent property taxes",
-    "key": "Delinquent property taxes",
-    "value": "12666"
-  },
-  {
-    "agency": "Department of Finance",
-    "fund": "032983",
-    "lob": "Northeast Redevelop TIF District Fund",
-    "program": "Property taxes",
-    "key": "Property taxes",
-    "value": "31600"
   },
   {
     "agency": "Department of Finance",
@@ -5009,38 +4377,6 @@
   },
   {
     "agency": "Department of Finance",
-    "fund": "032984",
-    "lob": "Center City South-Arena Development Ph 1",
-    "program": "Property taxes",
-    "key": "Property taxes",
-    "value": "171961"
-  },
-  {
-    "agency": "Department of Finance",
-    "fund": "032984",
-    "lob": "Center City South-Arena Development Ph 1",
-    "program": "Delinquent property taxes",
-    "key": "Delinquent property taxes",
-    "value": "346"
-  },
-  {
-    "agency": "Department of Finance",
-    "fund": "032984",
-    "lob": "Center City South-Arena Development Ph 1",
-    "program": "Miscellaneous revenue",
-    "key": "Miscellaneous revenue",
-    "value": "10825"
-  },
-  {
-    "agency": "Department of Finance",
-    "fund": "032986",
-    "lob": "Ken Mar TIF",
-    "program": "Property taxes",
-    "key": "Property taxes",
-    "value": "57004"
-  },
-  {
-    "agency": "Department of Finance",
     "fund": "032986",
     "lob": "Ken Mar TIF",
     "program": "Contributions to other funds",
@@ -5057,30 +4393,6 @@
   },
   {
     "agency": "Department of Finance",
-    "fund": "032987",
-    "lob": "Douglas/Hillside TIF",
-    "program": "Property taxes",
-    "key": "Property taxes",
-    "value": "33403"
-  },
-  {
-    "agency": "Department of Finance",
-    "fund": "032987",
-    "lob": "Douglas/Hillside TIF",
-    "program": "Delinquent property taxes",
-    "key": "Delinquent property taxes",
-    "value": "20026"
-  },
-  {
-    "agency": "Department of Finance",
-    "fund": "032988",
-    "lob": "Union Station TIF",
-    "program": "Property taxes",
-    "key": "Property taxes",
-    "value": "75000"
-  },
-  {
-    "agency": "Department of Finance",
     "fund": "032988",
     "lob": "Union Station TIF",
     "program": "Other contractuals",
@@ -5094,22 +4406,6 @@
     "program": "AD&D premium - voluntary",
     "key": "AD&D premium - voluntary",
     "value": "140000"
-  },
-  {
-    "agency": "Department of Finance",
-    "fund": "036004",
-    "lob": "Self Insurance Group Life",
-    "program": "Employer contributions",
-    "key": "Employer contributions",
-    "value": "464126"
-  },
-  {
-    "agency": "Department of Finance",
-    "fund": "036004",
-    "lob": "Self Insurance Group Life",
-    "program": "Employee contributions",
-    "key": "Employee contributions",
-    "value": "928251"
   },
   {
     "agency": "Department of Finance",
@@ -5227,38 +4523,6 @@
     "agency": "Department of Finance",
     "fund": "036103",
     "lob": "Self Insurance Group Health",
-    "program": "Employer contributions",
-    "key": "Employer contributions",
-    "value": "34498703"
-  },
-  {
-    "agency": "Department of Finance",
-    "fund": "036103",
-    "lob": "Self Insurance Group Health",
-    "program": "Employee contributions",
-    "key": "Employee contributions",
-    "value": "7726039"
-  },
-  {
-    "agency": "Department of Finance",
-    "fund": "036103",
-    "lob": "Self Insurance Group Health",
-    "program": "Other contributions",
-    "key": "Other contributions",
-    "value": "344987"
-  },
-  {
-    "agency": "Department of Finance",
-    "fund": "036103",
-    "lob": "Self Insurance Group Health",
-    "program": "Reimbursements",
-    "key": "Reimbursements",
-    "value": "1000000"
-  },
-  {
-    "agency": "Department of Finance",
-    "fund": "036103",
-    "lob": "Self Insurance Group Health",
     "program": "Studies/Consultants",
     "key": "Studies/Consultants",
     "value": "167000"
@@ -5363,14 +4627,6 @@
     "agency": "Department of Finance",
     "fund": "036104",
     "lob": "Self Insurance Health - Retirees",
-    "program": "Employee contributions",
-    "key": "Employee contributions",
-    "value": "3383908"
-  },
-  {
-    "agency": "Department of Finance",
-    "fund": "036104",
-    "lob": "Self Insurance Health - Retirees",
     "program": "Health Admin Expense",
     "key": "Health Admin Expense",
     "value": "196058"
@@ -5398,22 +4654,6 @@
     "program": "Health Admin Expense",
     "key": "Health Admin Expense",
     "value": "9353"
-  },
-  {
-    "agency": "Department of Finance",
-    "fund": "036105",
-    "lob": "Self Insurance Health - Cobra",
-    "program": "Employee contributions",
-    "key": "Employee contributions",
-    "value": "76895"
-  },
-  {
-    "agency": "Department of Finance",
-    "fund": "036106",
-    "lob": "Self Insurance Wellness",
-    "program": "Reimbursements",
-    "key": "Reimbursements",
-    "value": "40000"
   },
   {
     "agency": "Department of Finance",
@@ -5561,22 +4801,6 @@
   },
   {
     "agency": "Department of Finance",
-    "fund": "036107",
-    "lob": "Self Insurance Group Dental",
-    "program": "Employee contributions",
-    "key": "Employee contributions",
-    "value": "1837220"
-  },
-  {
-    "agency": "Department of Finance",
-    "fund": "036108",
-    "lob": "Self Insurance Dental - Retirees",
-    "program": "Employee contributions",
-    "key": "Employee contributions",
-    "value": "130847"
-  },
-  {
-    "agency": "Department of Finance",
     "fund": "036108",
     "lob": "Self Insurance Dental - Retirees",
     "program": "Health expenses",
@@ -5622,14 +4846,6 @@
     "program": "Health Admin Expense",
     "key": "Health Admin Expense",
     "value": "24"
-  },
-  {
-    "agency": "Department of Finance",
-    "fund": "036109",
-    "lob": "Self Insurance Dental - Cobra",
-    "program": "Employee contributions",
-    "key": "Employee contributions",
-    "value": "239"
   },
   {
     "agency": "Department of Finance",
@@ -5790,38 +5006,6 @@
     "program": "Other training/transportation",
     "key": "Other training/transportation",
     "value": "500"
-  },
-  {
-    "agency": "Department of Finance",
-    "fund": "036202",
-    "lob": "Self Insurance Workers Comp",
-    "program": "Employer contributions",
-    "key": "Employer contributions",
-    "value": "3769059"
-  },
-  {
-    "agency": "Department of Finance",
-    "fund": "036202",
-    "lob": "Self Insurance Workers Comp",
-    "program": "Reimbursed expend-interfund & interdept",
-    "key": "Reimbursed expend-interfund & interdept",
-    "value": "38089"
-  },
-  {
-    "agency": "Department of Finance",
-    "fund": "036202",
-    "lob": "Self Insurance Workers Comp",
-    "program": "Miscellaneous revenue",
-    "key": "Miscellaneous revenue",
-    "value": "100000"
-  },
-  {
-    "agency": "Department of Finance",
-    "fund": "036202",
-    "lob": "Self Insurance Workers Comp",
-    "program": "Self Insurance-deductibles",
-    "key": "Self Insurance-deductibles",
-    "value": "350000"
   },
   {
     "agency": "Department of Finance",
@@ -6337,30 +5521,6 @@
   },
   {
     "agency": "Department of Finance",
-    "fund": "036301",
-    "lob": "Self Insurance Risk Management",
-    "program": "Employer contributions",
-    "key": "Employer contributions",
-    "value": "1801911"
-  },
-  {
-    "agency": "Department of Finance",
-    "fund": "036301",
-    "lob": "Self Insurance Risk Management",
-    "program": "Reimbursed expend-interfund & interdept",
-    "key": "Reimbursed expend-interfund & interdept",
-    "value": "70250"
-  },
-  {
-    "agency": "Department of Finance",
-    "fund": "036319",
-    "lob": "Self Insurance Safety Office",
-    "program": "Reimbursed expend-interfund & interdept",
-    "key": "Reimbursed expend-interfund & interdept",
-    "value": "98592"
-  },
-  {
-    "agency": "Department of Finance",
     "fund": "036319",
     "lob": "Self Insurance Safety Office",
     "program": "Bi-weekly wages",
@@ -6843,22 +6003,6 @@
     "agency": "Department of Finance",
     "fund": "037002",
     "lob": "Directors Office Admin",
-    "program": "Reimbursed expend-interfund & interdept",
-    "key": "Reimbursed expend-interfund & interdept",
-    "value": "179632"
-  },
-  {
-    "agency": "Department of Finance",
-    "fund": "037002",
-    "lob": "Directors Office Admin",
-    "program": "Administrative fees",
-    "key": "Administrative fees",
-    "value": "71672"
-  },
-  {
-    "agency": "Department of Finance",
-    "fund": "037002",
-    "lob": "Directors Office Admin",
     "program": "PBX - instrument charges",
     "key": "PBX - instrument charges",
     "value": "2685"
@@ -7054,22 +6198,6 @@
     "program": "Miscellaneous and sundry",
     "key": "Miscellaneous and sundry",
     "value": "2916039"
-  },
-  {
-    "agency": "Department of Finance",
-    "fund": "037024",
-    "lob": "TBID Service ",
-    "program": "Transient guest tax",
-    "key": "Transient guest tax",
-    "value": "2987711"
-  },
-  {
-    "agency": "Department of Finance",
-    "fund": "037101",
-    "lob": "General Accounting",
-    "program": "Reimbursed expend-interfund & interdept",
-    "key": "Reimbursed expend-interfund & interdept",
-    "value": "49728"
   },
   {
     "agency": "Department of Finance",
@@ -7734,22 +6862,6 @@
     "program": "Inventory (clearing account)",
     "key": "Inventory (clearing account)",
     "value": "150000"
-  },
-  {
-    "agency": "Department of Finance",
-    "fund": "037219",
-    "lob": "Stationery Stores",
-    "program": "Sale of services/commodities",
-    "key": "Sale of services/commodities",
-    "value": "150000"
-  },
-  {
-    "agency": "Department of Finance",
-    "fund": "037408",
-    "lob": "Treasury Office",
-    "program": "Reimbursed expend-interfund & interdept",
-    "key": "Reimbursed expend-interfund & interdept",
-    "value": "536562"
   },
   {
     "agency": "Department of Finance",
@@ -8702,14 +7814,6 @@
     "program": "Other non-capitalized equip <$5,000 each",
     "key": "Other non-capitalized equip <$5,000 each",
     "value": "2000"
-  },
-  {
-    "agency": "Public Works & Utilities",
-    "fund": "130500",
-    "lob": "City Hall",
-    "program": "Vending machines",
-    "key": "Vending machines",
-    "value": "65"
   },
   {
     "agency": "Public Works & Utilities",
@@ -9894,14 +8998,6 @@
     "program": "Custodial supplies",
     "key": "Custodial supplies",
     "value": "200"
-  },
-  {
-    "agency": "Public Works & Utilities",
-    "fund": "130567",
-    "lob": "Lawrence-Dumont Stadium",
-    "program": "Other",
-    "key": "Other",
-    "value": "25000"
   },
   {
     "agency": "Public Works & Utilities",
@@ -11545,14 +10641,6 @@
   },
   {
     "agency": "Public Works & Utilities",
-    "fund": "130660",
-    "lob": "CMF Maintenance",
-    "program": "Rent/Lease-Office space",
-    "key": "Rent/Lease-Office space",
-    "value": "153820"
-  },
-  {
-    "agency": "Public Works & Utilities",
     "fund": "130670",
     "lob": "Police",
     "program": "Contractors",
@@ -12387,86 +11475,6 @@
     "agency": "Public Works & Utilities",
     "fund": "130807",
     "lob": "Fleet maintenance - I.S.",
-    "program": "Sale of services/commodities",
-    "key": "Sale of services/commodities",
-    "value": "4224215"
-  },
-  {
-    "agency": "Public Works & Utilities",
-    "fund": "130807",
-    "lob": "Fleet maintenance - I.S.",
-    "program": "Sale of property-Equipment(not vehicles)",
-    "key": "Sale of property-Equipment(not vehicles)",
-    "value": "100000"
-  },
-  {
-    "agency": "Public Works & Utilities",
-    "fund": "130807",
-    "lob": "Fleet maintenance - I.S.",
-    "program": "Sale of property-Vehicles",
-    "key": "Sale of property-Vehicles",
-    "value": "250000"
-  },
-  {
-    "agency": "Public Works & Utilities",
-    "fund": "130807",
-    "lob": "Fleet maintenance - I.S.",
-    "program": "Sale of scrap",
-    "key": "Sale of scrap",
-    "value": "10000"
-  },
-  {
-    "agency": "Public Works & Utilities",
-    "fund": "130807",
-    "lob": "Fleet maintenance - I.S.",
-    "program": "Markup",
-    "key": "Markup",
-    "value": "35000"
-  },
-  {
-    "agency": "Public Works & Utilities",
-    "fund": "130807",
-    "lob": "Fleet maintenance - I.S.",
-    "program": "Vehicles",
-    "key": "Vehicles",
-    "value": "7967322"
-  },
-  {
-    "agency": "Public Works & Utilities",
-    "fund": "130807",
-    "lob": "Fleet maintenance - I.S.",
-    "program": "Rent - Other Bldg and Parking rent/lease",
-    "key": "Rent - Other Bldg and Parking rent/lease",
-    "value": "180000"
-  },
-  {
-    "agency": "Public Works & Utilities",
-    "fund": "130807",
-    "lob": "Fleet maintenance - I.S.",
-    "program": "Reimbursements",
-    "key": "Reimbursements",
-    "value": "30000"
-  },
-  {
-    "agency": "Public Works & Utilities",
-    "fund": "130807",
-    "lob": "Fleet maintenance - I.S.",
-    "program": "Vehicle/equip accident reimbursement",
-    "key": "Vehicle/equip accident reimbursement",
-    "value": "25000"
-  },
-  {
-    "agency": "Public Works & Utilities",
-    "fund": "130807",
-    "lob": "Fleet maintenance - I.S.",
-    "program": "Miscellaneous revenue",
-    "key": "Miscellaneous revenue",
-    "value": "75000"
-  },
-  {
-    "agency": "Public Works & Utilities",
-    "fund": "130807",
-    "lob": "Fleet maintenance - I.S.",
     "program": "Appliances < $5,000 each",
     "key": "Appliances < $5,000 each",
     "value": "2250"
@@ -12913,22 +11921,6 @@
   },
   {
     "agency": "Public Works & Utilities",
-    "fund": "130808",
-    "lob": "Fire Fleet maintenance - I.S.",
-    "program": "Vehicles",
-    "key": "Vehicles",
-    "value": "1045200"
-  },
-  {
-    "agency": "Public Works & Utilities",
-    "fund": "130809",
-    "lob": "Fleet Fuel Mgmt System -  I.S.",
-    "program": "Markup",
-    "key": "Markup",
-    "value": "121000"
-  },
-  {
-    "agency": "Public Works & Utilities",
     "fund": "130809",
     "lob": "Fleet Fuel Mgmt System -  I.S.",
     "program": "Clothing allowance",
@@ -13321,14 +12313,6 @@
   },
   {
     "agency": "Public Works & Utilities",
-    "fund": "130849",
-    "lob": "Material Stores - I.S.",
-    "program": "Contingent revenue",
-    "key": "Contingent revenue",
-    "value": "1000000"
-  },
-  {
-    "agency": "Public Works & Utilities",
     "fund": "130906",
     "lob": "Co - Operative Labor Program",
     "program": "Bi-weekly wages",
@@ -13526,14 +12510,6 @@
     "program": "Contractors",
     "key": "Contractors",
     "value": "150000"
-  },
-  {
-    "agency": "Public Works & Utilities",
-    "fund": "131367",
-    "lob": "Neighborhood Cleanups",
-    "program": "Other contributions",
-    "key": "Other contributions",
-    "value": "2000"
   },
   {
     "agency": "Public Works & Utilities",
@@ -13915,14 +12891,6 @@
     "agency": "Public Works & Utilities",
     "fund": "131376",
     "lob": "Construction and Demolition Landfill",
-    "program": "Landfill charges",
-    "key": "Landfill charges",
-    "value": "1554000"
-  },
-  {
-    "agency": "Public Works & Utilities",
-    "fund": "131376",
-    "lob": "Construction and Demolition Landfill",
     "program": "Custodial supplies",
     "key": "Custodial supplies",
     "value": "1000"
@@ -13958,22 +12926,6 @@
     "program": "Contributions to other funds",
     "key": "Contributions to other funds",
     "value": "150000"
-  },
-  {
-    "agency": "Public Works & Utilities",
-    "fund": "131384",
-    "lob": "Landfill Post-Closure Fund",
-    "program": "Idle fund investments",
-    "key": "Idle fund investments",
-    "value": "6000"
-  },
-  {
-    "agency": "Public Works & Utilities",
-    "fund": "131384",
-    "lob": "Landfill Post-Closure Fund",
-    "program": "Gain/loss from sale of investments",
-    "key": "Gain/loss from sale of investments",
-    "value": "194000"
   },
   {
     "agency": "Public Works & Utilities",
@@ -14683,137 +13635,9 @@
     "agency": "Public Works & Utilities",
     "fund": "132001",
     "lob": "Engineering - Gas Tax",
-    "program": "Cement contractors",
-    "key": "Cement contractors",
-    "value": "15358"
-  },
-  {
-    "agency": "Public Works & Utilities",
-    "fund": "132001",
-    "lob": "Engineering - Gas Tax",
-    "program": "Other licenses",
-    "key": "Other licenses",
-    "value": "600"
-  },
-  {
-    "agency": "Public Works & Utilities",
-    "fund": "132001",
-    "lob": "Engineering - Gas Tax",
-    "program": "Minor street privilege",
-    "key": "Minor street privilege",
-    "value": "211920"
-  },
-  {
-    "agency": "Public Works & Utilities",
-    "fund": "132001",
-    "lob": "Engineering - Gas Tax",
-    "program": "Sidewalks",
-    "key": "Sidewalks",
-    "value": "17629"
-  },
-  {
-    "agency": "Public Works & Utilities",
-    "fund": "132001",
-    "lob": "Engineering - Gas Tax",
-    "program": "Overweight vehicles",
-    "key": "Overweight vehicles",
-    "value": "19287"
-  },
-  {
-    "agency": "Public Works & Utilities",
-    "fund": "132001",
-    "lob": "Engineering - Gas Tax",
-    "program": "Use of street",
-    "key": "Use of street",
-    "value": "44869"
-  },
-  {
-    "agency": "Public Works & Utilities",
-    "fund": "132001",
-    "lob": "Engineering - Gas Tax",
-    "program": "Pavement cuts",
-    "key": "Pavement cuts",
-    "value": "121454"
-  },
-  {
-    "agency": "Public Works & Utilities",
-    "fund": "132001",
-    "lob": "Engineering - Gas Tax",
-    "program": "Dirt cuts",
-    "key": "Dirt cuts",
-    "value": "321043"
-  },
-  {
-    "agency": "Public Works & Utilities",
-    "fund": "132001",
-    "lob": "Engineering - Gas Tax",
-    "program": "Curb cuts",
-    "key": "Curb cuts",
-    "value": "105194"
-  },
-  {
-    "agency": "Public Works & Utilities",
-    "fund": "132001",
-    "lob": "Engineering - Gas Tax",
-    "program": "Petition fees",
-    "key": "Petition fees",
-    "value": "19821"
-  },
-  {
-    "agency": "Public Works & Utilities",
-    "fund": "132001",
-    "lob": "Engineering - Gas Tax",
-    "program": "Sale of property-Vehicles",
-    "key": "Sale of property-Vehicles",
-    "value": "20000"
-  },
-  {
-    "agency": "Public Works & Utilities",
-    "fund": "132001",
-    "lob": "Engineering - Gas Tax",
-    "program": "Pavement cut surcharges",
-    "key": "Pavement cut surcharges",
-    "value": "12114"
-  },
-  {
-    "agency": "Public Works & Utilities",
-    "fund": "132001",
-    "lob": "Engineering - Gas Tax",
-    "program": "Engineering overhead charge",
-    "key": "Engineering overhead charge",
-    "value": "2485321"
-  },
-  {
-    "agency": "Public Works & Utilities",
-    "fund": "132001",
-    "lob": "Engineering - Gas Tax",
-    "program": "Jury duty",
-    "key": "Jury duty",
-    "value": "70"
-  },
-  {
-    "agency": "Public Works & Utilities",
-    "fund": "132001",
-    "lob": "Engineering - Gas Tax",
-    "program": "Administrative fees",
-    "key": "Administrative fees",
-    "value": "12333"
-  },
-  {
-    "agency": "Public Works & Utilities",
-    "fund": "132001",
-    "lob": "Engineering - Gas Tax",
     "program": "Part time/seasonal",
     "key": "Part time/seasonal",
     "value": "43210"
-  },
-  {
-    "agency": "Public Works & Utilities",
-    "fund": "132001",
-    "lob": "Engineering - Gas Tax",
-    "program": "Test wells",
-    "key": "Test wells",
-    "value": "3645"
   },
   {
     "agency": "Public Works & Utilities",
@@ -15065,27 +13889,11 @@
   },
   {
     "agency": "Public Works & Utilities",
-    "fund": "132005",
-    "lob": "Franchise Tax Application Costs",
-    "program": "Pavement cut repairs",
-    "key": "Pavement cut repairs",
-    "value": "5000"
-  },
-  {
-    "agency": "Public Works & Utilities",
     "fund": "132019",
     "lob": "Petition Preparation (Gas Tax)",
     "program": "Advertising",
     "key": "Advertising",
     "value": "12000"
-  },
-  {
-    "agency": "Public Works & Utilities",
-    "fund": "132035",
-    "lob": "Street Cut Repairs (Gas Tax)",
-    "program": "Pavement cut repairs",
-    "key": "Pavement cut repairs",
-    "value": "2266617"
   },
   {
     "agency": "Public Works & Utilities",
@@ -15118,22 +13926,6 @@
     "program": "Advertising",
     "key": "Advertising",
     "value": "1500"
-  },
-  {
-    "agency": "Public Works & Utilities",
-    "fund": "132100",
-    "lob": "Sidewalk Repair Program (Gas Tax)",
-    "program": "Sidewalk repairs",
-    "key": "Sidewalk repairs",
-    "value": "51998"
-  },
-  {
-    "agency": "Public Works & Utilities",
-    "fund": "132100",
-    "lob": "Sidewalk Repair Program (Gas Tax)",
-    "program": "Reimbursements",
-    "key": "Reimbursements",
-    "value": "94984"
   },
   {
     "agency": "Public Works & Utilities",
@@ -15611,14 +14403,6 @@
     "agency": "Public Works & Utilities",
     "fund": "132217",
     "lob": "Traffic Control Maintenance",
-    "program": "Reimbursements",
-    "key": "Reimbursements",
-    "value": "850"
-  },
-  {
-    "agency": "Public Works & Utilities",
-    "fund": "132217",
-    "lob": "Traffic Control Maintenance",
     "program": "Other contractuals",
     "key": "Other contractuals",
     "value": "700"
@@ -15742,62 +14526,6 @@
     "program": "Other non-capitalized equip <$5,000 each",
     "key": "Other non-capitalized equip <$5,000 each",
     "value": "750"
-  },
-  {
-    "agency": "Public Works & Utilities",
-    "fund": "132217",
-    "lob": "Traffic Control Maintenance",
-    "program": "Reimbursed expend-interfund & interdept",
-    "key": "Reimbursed expend-interfund & interdept",
-    "value": "20000"
-  },
-  {
-    "agency": "Public Works & Utilities",
-    "fund": "132217",
-    "lob": "Traffic Control Maintenance",
-    "program": "Vehicle/equip accident reimbursement",
-    "key": "Vehicle/equip accident reimbursement",
-    "value": "500"
-  },
-  {
-    "agency": "Public Works & Utilities",
-    "fund": "132217",
-    "lob": "Traffic Control Maintenance",
-    "program": "Miscellaneous revenue",
-    "key": "Miscellaneous revenue",
-    "value": "32500"
-  },
-  {
-    "agency": "Public Works & Utilities",
-    "fund": "132225",
-    "lob": "Street Maintenance",
-    "program": "Sale of property-Equipment(not vehicles)",
-    "key": "Sale of property-Equipment(not vehicles)",
-    "value": "20000"
-  },
-  {
-    "agency": "Public Works & Utilities",
-    "fund": "132225",
-    "lob": "Street Maintenance",
-    "program": "Sale of property-Vehicles",
-    "key": "Sale of property-Vehicles",
-    "value": "2000"
-  },
-  {
-    "agency": "Public Works & Utilities",
-    "fund": "132225",
-    "lob": "Street Maintenance",
-    "program": "Reimbursed expend-interfund & interdept",
-    "key": "Reimbursed expend-interfund & interdept",
-    "value": "2000"
-  },
-  {
-    "agency": "Public Works & Utilities",
-    "fund": "132225",
-    "lob": "Street Maintenance",
-    "program": "Miscellaneous revenue",
-    "key": "Miscellaneous revenue",
-    "value": "1500"
   },
   {
     "agency": "Public Works & Utilities",
@@ -21000,54 +19728,6 @@
     "value": "3148"
   },
   {
-    "agency": "Housing & Community Services",
-    "fund": "090900",
-    "lob": "Homelessness Assistance Fund",
-    "program": "Interfund transfers",
-    "key": "Interfund transfers",
-    "value": "191368"
-  },
-  {
-    "agency": "Housing & Community Services",
-    "fund": "090900",
-    "lob": "Homelessness Assistance Fund",
-    "program": "Other County aid",
-    "key": "Other County aid",
-    "value": "191368"
-  },
-  {
-    "agency": "Library",
-    "fund": "101014",
-    "lob": "Administrative Services",
-    "program": "Library desk receipts (fines)",
-    "key": "Library desk receipts (fines)",
-    "value": "337000"
-  },
-  {
-    "agency": "Library",
-    "fund": "101014",
-    "lob": "Administrative Services",
-    "program": "Copy machine revenue",
-    "key": "Copy machine revenue",
-    "value": "12000"
-  },
-  {
-    "agency": "Library",
-    "fund": "101014",
-    "lob": "Administrative Services",
-    "program": "Public Computing",
-    "key": "Public Computing",
-    "value": "32000"
-  },
-  {
-    "agency": "Library",
-    "fund": "101014",
-    "lob": "Administrative Services",
-    "program": "Meeting rooms",
-    "key": "Meeting rooms",
-    "value": "12000"
-  },
-  {
     "agency": "Library",
     "fund": "101014",
     "lob": "Administrative Services",
@@ -21334,14 +20014,6 @@
     "program": "Bi-weekly wages",
     "key": "Bi-weekly wages",
     "value": "4050510"
-  },
-  {
-    "agency": "Library",
-    "fund": "101014",
-    "lob": "Administrative Services",
-    "program": "Kansas set-off program collections      ",
-    "key": "Kansas set-off program collections      ",
-    "value": "50000"
   },
   {
     "agency": "Library",
@@ -21939,30 +20611,6 @@
     "agency": "CMO - Cultural Arts Division",
     "fund": "111000",
     "lob": "City Arts",
-    "program": "Craft receipts",
-    "key": "Craft receipts",
-    "value": "11000"
-  },
-  {
-    "agency": "CMO - Cultural Arts Division",
-    "fund": "111000",
-    "lob": "City Arts",
-    "program": "Vending machines",
-    "key": "Vending machines",
-    "value": "50"
-  },
-  {
-    "agency": "CMO - Cultural Arts Division",
-    "fund": "111000",
-    "lob": "City Arts",
-    "program": "Other - amusements",
-    "key": "Other - amusements",
-    "value": "300000"
-  },
-  {
-    "agency": "CMO - Cultural Arts Division",
-    "fund": "111000",
-    "lob": "City Arts",
     "program": "Gas-ONEOK Kansas Gas Service",
     "key": "Gas-ONEOK Kansas Gas Service",
     "value": "3400"
@@ -22054,86 +20702,6 @@
     "program": "Medical and laboratory services",
     "key": "Medical and laboratory services",
     "value": "150"
-  },
-  {
-    "agency": "CMO - Cultural Arts Division",
-    "fund": "111001",
-    "lob": "Cowtown Operations",
-    "program": "Admission fees",
-    "key": "Admission fees",
-    "value": "135000"
-  },
-  {
-    "agency": "CMO - Cultural Arts Division",
-    "fund": "111001",
-    "lob": "Cowtown Operations",
-    "program": "Photo Studio",
-    "key": "Photo Studio",
-    "value": "1000"
-  },
-  {
-    "agency": "CMO - Cultural Arts Division",
-    "fund": "111001",
-    "lob": "Cowtown Operations",
-    "program": "Craft receipts",
-    "key": "Craft receipts",
-    "value": "47000"
-  },
-  {
-    "agency": "CMO - Cultural Arts Division",
-    "fund": "111001",
-    "lob": "Cowtown Operations",
-    "program": "Entry fees",
-    "key": "Entry fees",
-    "value": "1000"
-  },
-  {
-    "agency": "CMO - Cultural Arts Division",
-    "fund": "111001",
-    "lob": "Cowtown Operations",
-    "program": "Concessions",
-    "key": "Concessions",
-    "value": "47000"
-  },
-  {
-    "agency": "CMO - Cultural Arts Division",
-    "fund": "111001",
-    "lob": "Cowtown Operations",
-    "program": "Film Contracts",
-    "key": "Film Contracts",
-    "value": "4000"
-  },
-  {
-    "agency": "CMO - Cultural Arts Division",
-    "fund": "111001",
-    "lob": "Cowtown Operations",
-    "program": "Vending machines",
-    "key": "Vending machines",
-    "value": "500"
-  },
-  {
-    "agency": "CMO - Cultural Arts Division",
-    "fund": "111001",
-    "lob": "Cowtown Operations",
-    "program": "Non-taxable admission fees",
-    "key": "Non-taxable admission fees",
-    "value": "40000"
-  },
-  {
-    "agency": "CMO - Cultural Arts Division",
-    "fund": "111001",
-    "lob": "Cowtown Operations",
-    "program": "Admission fees - museums",
-    "key": "Admission fees - museums",
-    "value": "93000"
-  },
-  {
-    "agency": "CMO - Cultural Arts Division",
-    "fund": "111001",
-    "lob": "Cowtown Operations",
-    "program": "Miscellaneous revenue",
-    "key": "Miscellaneous revenue",
-    "value": "5000"
   },
   {
     "agency": "CMO - Cultural Arts Division",
@@ -22593,30 +21161,6 @@
   },
   {
     "agency": "CMO - Cultural Arts Division",
-    "fund": "111005",
-    "lob": "Farm and Art Plaza",
-    "program": "Itinerant merchant",
-    "key": "Itinerant merchant",
-    "value": "600"
-  },
-  {
-    "agency": "CMO - Cultural Arts Division",
-    "fund": "111005",
-    "lob": "Farm and Art Plaza",
-    "program": "Rent - Other Bldg and Parking rent/lease",
-    "key": "Rent - Other Bldg and Parking rent/lease",
-    "value": "3300"
-  },
-  {
-    "agency": "CMO - Cultural Arts Division",
-    "fund": "111006",
-    "lob": "Old Town Plaza",
-    "program": "Rent - Other Bldg and Parking rent/lease",
-    "key": "Rent - Other Bldg and Parking rent/lease",
-    "value": "300"
-  },
-  {
-    "agency": "CMO - Cultural Arts Division",
     "fund": "111007",
     "lob": "Historical Museum",
     "program": "Other professional services",
@@ -22630,14 +21174,6 @@
     "program": "Other professional services",
     "key": "Other professional services",
     "value": "6430"
-  },
-  {
-    "agency": "CMO - Cultural Arts Division",
-    "fund": "111010",
-    "lob": "Community Events",
-    "program": "Community Events",
-    "key": "Community Events",
-    "value": "18830"
   },
   {
     "agency": "CMO - Cultural Arts Division",
@@ -23035,86 +21571,6 @@
     "agency": "CMO - Cultural Arts Division",
     "fund": "112000",
     "lob": "Century II",
-    "program": "Sale of services/commodities",
-    "key": "Sale of services/commodities",
-    "value": "18000"
-  },
-  {
-    "agency": "CMO - Cultural Arts Division",
-    "fund": "112000",
-    "lob": "Century II",
-    "program": "Other - amusements",
-    "key": "Other - amusements",
-    "value": "8000"
-  },
-  {
-    "agency": "CMO - Cultural Arts Division",
-    "fund": "112000",
-    "lob": "Century II",
-    "program": "Sale of property-Equipment(not vehicles)",
-    "key": "Sale of property-Equipment(not vehicles)",
-    "value": "5000"
-  },
-  {
-    "agency": "CMO - Cultural Arts Division",
-    "fund": "112000",
-    "lob": "Century II",
-    "program": "Electricity",
-    "key": "Electricity",
-    "value": "135000"
-  },
-  {
-    "agency": "CMO - Cultural Arts Division",
-    "fund": "112000",
-    "lob": "Century II",
-    "program": "Other services",
-    "key": "Other services",
-    "value": "10000"
-  },
-  {
-    "agency": "CMO - Cultural Arts Division",
-    "fund": "112000",
-    "lob": "Century II",
-    "program": "Meeting rooms",
-    "key": "Meeting rooms",
-    "value": "80000"
-  },
-  {
-    "agency": "CMO - Cultural Arts Division",
-    "fund": "112000",
-    "lob": "Century II",
-    "program": "Rent/Lease-Office space",
-    "key": "Rent/Lease-Office space",
-    "value": "65000"
-  },
-  {
-    "agency": "CMO - Cultural Arts Division",
-    "fund": "112000",
-    "lob": "Century II",
-    "program": "Exhibition",
-    "key": "Exhibition",
-    "value": "450000"
-  },
-  {
-    "agency": "CMO - Cultural Arts Division",
-    "fund": "112000",
-    "lob": "Century II",
-    "program": "Food storage",
-    "key": "Food storage",
-    "value": "180000"
-  },
-  {
-    "agency": "CMO - Cultural Arts Division",
-    "fund": "112000",
-    "lob": "Century II",
-    "program": "Convention hall",
-    "key": "Convention hall",
-    "value": "115000"
-  },
-  {
-    "agency": "CMO - Cultural Arts Division",
-    "fund": "112000",
-    "lob": "Century II",
     "program": "Long distance service",
     "key": "Long distance service",
     "value": "1000"
@@ -23467,62 +21923,6 @@
     "agency": "CMO - Cultural Arts Division",
     "fund": "112000",
     "lob": "Century II",
-    "program": "Theater",
-    "key": "Theater",
-    "value": "25000"
-  },
-  {
-    "agency": "CMO - Cultural Arts Division",
-    "fund": "112000",
-    "lob": "Century II",
-    "program": "Concert hall",
-    "key": "Concert hall",
-    "value": "145000"
-  },
-  {
-    "agency": "CMO - Cultural Arts Division",
-    "fund": "112000",
-    "lob": "Century II",
-    "program": "Other equipment and materials",
-    "key": "Other equipment and materials",
-    "value": "50000"
-  },
-  {
-    "agency": "CMO - Cultural Arts Division",
-    "fund": "112000",
-    "lob": "Century II",
-    "program": "Concession areas",
-    "key": "Concession areas",
-    "value": "175000"
-  },
-  {
-    "agency": "CMO - Cultural Arts Division",
-    "fund": "112000",
-    "lob": "Century II",
-    "program": "Rent/Lease-Telephone equipment",
-    "key": "Rent/Lease-Telephone equipment",
-    "value": "40000"
-  },
-  {
-    "agency": "CMO - Cultural Arts Division",
-    "fund": "112000",
-    "lob": "Century II",
-    "program": "Miscellaneous revenue",
-    "key": "Miscellaneous revenue",
-    "value": "1500"
-  },
-  {
-    "agency": "CMO - Cultural Arts Division",
-    "fund": "112000",
-    "lob": "Century II",
-    "program": "Cash over (short)",
-    "key": "Cash over (short)",
-    "value": "500"
-  },
-  {
-    "agency": "CMO - Cultural Arts Division",
-    "fund": "112000",
-    "lob": "Century II",
     "program": "Computer/printer supplies",
     "key": "Computer/printer supplies",
     "value": "700"
@@ -23534,78 +21934,6 @@
     "program": "Office supplies",
     "key": "Office supplies",
     "value": "3000"
-  },
-  {
-    "agency": "CMO - Cultural Arts Division",
-    "fund": "112001",
-    "lob": "Century II - Ticketing System",
-    "program": "Per Ticket Printing Fees",
-    "key": "Per Ticket Printing Fees",
-    "value": "20000"
-  },
-  {
-    "agency": "CMO - Cultural Arts Division",
-    "fund": "112001",
-    "lob": "Century II - Ticketing System",
-    "program": "Internet fees",
-    "key": "Internet fees",
-    "value": "30000"
-  },
-  {
-    "agency": "CMO - Cultural Arts Division",
-    "fund": "112001",
-    "lob": "Century II - Ticketing System",
-    "program": "Postage and Handling Fees",
-    "key": "Postage and Handling Fees",
-    "value": "2000"
-  },
-  {
-    "agency": "CMO - Cultural Arts Division",
-    "fund": "112001",
-    "lob": "Century II - Ticketing System",
-    "program": "Phone Order Fees",
-    "key": "Phone Order Fees",
-    "value": "3000"
-  },
-  {
-    "agency": "CMO - Cultural Arts Division",
-    "fund": "112001",
-    "lob": "Century II - Ticketing System",
-    "program": "Per Ticket Fees",
-    "key": "Per Ticket Fees",
-    "value": "240000"
-  },
-  {
-    "agency": "CMO - Cultural Arts Division",
-    "fund": "112001",
-    "lob": "Century II - Ticketing System",
-    "program": "Credit Card Fees",
-    "key": "Credit Card Fees",
-    "value": "76000"
-  },
-  {
-    "agency": "CMO - Cultural Arts Division",
-    "fund": "112001",
-    "lob": "Century II - Ticketing System",
-    "program": "Miscellaneous revenue",
-    "key": "Miscellaneous revenue",
-    "value": "500"
-  },
-  {
-    "agency": "CMO - Cultural Arts Division",
-    "fund": "112001",
-    "lob": "Century II - Ticketing System",
-    "program": "Staffing Fees",
-    "key": "Staffing Fees",
-    "value": "15000"
-  },
-  {
-    "agency": "CMO - Cultural Arts Division",
-    "fund": "112001",
-    "lob": "Century II - Ticketing System",
-    "program": "Set-up Fees",
-    "key": "Set-up Fees",
-    "value": "8000"
   },
   {
     "agency": "CMO - Cultural Arts Division",
@@ -23806,22 +22134,6 @@
     "program": "Maintenance - data equipment",
     "key": "Maintenance - data equipment",
     "value": "6205"
-  },
-  {
-    "agency": "CMO - Cultural Arts Division",
-    "fund": "112003",
-    "lob": "Hyatt Expo Hall Contract",
-    "program": "Meeting rooms",
-    "key": "Meeting rooms",
-    "value": "200000"
-  },
-  {
-    "agency": "CMO - Cultural Arts Division",
-    "fund": "112003",
-    "lob": "Hyatt Expo Hall Contract",
-    "program": "Reimbursements",
-    "key": "Reimbursements",
-    "value": "55960"
   },
   {
     "agency": "Public Works & Utilities",
@@ -24761,30 +23073,6 @@
   },
   {
     "agency": "Public Works & Utilities",
-    "fund": "133009",
-    "lob": "STORM WATER UTILITY REVENUE",
-    "program": "Residential sales",
-    "key": "Residential sales",
-    "value": "3009388"
-  },
-  {
-    "agency": "Public Works & Utilities",
-    "fund": "133009",
-    "lob": "STORM WATER UTILITY REVENUE",
-    "program": "Commercial sales",
-    "key": "Commercial sales",
-    "value": "6067526"
-  },
-  {
-    "agency": "Public Works & Utilities",
-    "fund": "133009",
-    "lob": "STORM WATER UTILITY REVENUE",
-    "program": "Late payment charges",
-    "key": "Late payment charges",
-    "value": "41000"
-  },
-  {
-    "agency": "Public Works & Utilities",
     "fund": "133116",
     "lob": "STORM WATER UTILITY",
     "program": "Medical and laboratory services",
@@ -25555,14 +23843,6 @@
     "agency": "Public Works & Utilities",
     "fund": "133224",
     "lob": "CITY-CTY FLOOD CONTRL",
-    "program": "Interfund transfers",
-    "key": "Interfund transfers",
-    "value": "1102333"
-  },
-  {
-    "agency": "Public Works & Utilities",
-    "fund": "133224",
-    "lob": "CITY-CTY FLOOD CONTRL",
     "program": "Other",
     "key": "Other",
     "value": "45443"
@@ -26035,14 +24315,6 @@
     "agency": "Public Works & Utilities",
     "fund": "133224",
     "lob": "CITY-CTY FLOOD CONTRL",
-    "program": "Operating - joint support",
-    "key": "Operating - joint support",
-    "value": "1102332"
-  },
-  {
-    "agency": "Public Works & Utilities",
-    "fund": "133224",
-    "lob": "CITY-CTY FLOOD CONTRL",
     "program": "PBX - line charges",
     "key": "PBX - line charges",
     "value": "1026"
@@ -26086,14 +24358,6 @@
     "program": "Express mail",
     "key": "Express mail",
     "value": "60"
-  },
-  {
-    "agency": "Public Works & Utilities",
-    "fund": "135203",
-    "lob": "State Office Building - was 205203",
-    "program": "Contingent revenue",
-    "key": "Contingent revenue",
-    "value": "950000"
   },
   {
     "agency": "Public Works & Utilities",
@@ -26587,14 +24851,6 @@
     "agency": "Public Works  & Utilities",
     "fund": "142002",
     "lob": "Envirn. Health- Administration",
-    "program": "Rent - Other Land rent/lease ",
-    "key": "Rent - Other Land rent/lease ",
-    "value": "21582"
-  },
-  {
-    "agency": "Public Works  & Utilities",
-    "fund": "142002",
-    "lob": "Envirn. Health- Administration",
     "program": "Other professional services",
     "key": "Other professional services",
     "value": "200"
@@ -26638,62 +24894,6 @@
     "program": "Maintenance - grounds",
     "key": "Maintenance - grounds",
     "value": "4000"
-  },
-  {
-    "agency": "Public Works  & Utilities",
-    "fund": "142016",
-    "lob": "Water Quality ",
-    "program": "Sewage permits",
-    "key": "Sewage permits",
-    "value": "5000"
-  },
-  {
-    "agency": "Public Works  & Utilities",
-    "fund": "142016",
-    "lob": "Water Quality ",
-    "program": "New well inspections",
-    "key": "New well inspections",
-    "value": "95000"
-  },
-  {
-    "agency": "Public Works  & Utilities",
-    "fund": "142016",
-    "lob": "Water Quality ",
-    "program": "Property inspections",
-    "key": "Property inspections",
-    "value": "82000"
-  },
-  {
-    "agency": "Public Works  & Utilities",
-    "fund": "142016",
-    "lob": "Water Quality ",
-    "program": "Well sampling/Bacteria",
-    "key": "Well sampling/Bacteria",
-    "value": "8000"
-  },
-  {
-    "agency": "Public Works  & Utilities",
-    "fund": "142016",
-    "lob": "Water Quality ",
-    "program": "Short notice request loan eval",
-    "key": "Short notice request loan eval",
-    "value": "4000"
-  },
-  {
-    "agency": "Public Works  & Utilities",
-    "fund": "142016",
-    "lob": "Water Quality ",
-    "program": "Water well sampling/nitrates",
-    "key": "Water well sampling/nitrates",
-    "value": "4400"
-  },
-  {
-    "agency": "Public Works  & Utilities",
-    "fund": "142016",
-    "lob": "Water Quality ",
-    "program": "New well permit",
-    "key": "New well permit",
-    "value": "18000"
   },
   {
     "agency": "Public Works  & Utilities",
@@ -27219,14 +25419,6 @@
     "agency": "Public Works  & Utilities",
     "fund": "142044",
     "lob": "Food",
-    "program": "Special food handlers classes",
-    "key": "Special food handlers classes",
-    "value": "10625"
-  },
-  {
-    "agency": "Public Works  & Utilities",
-    "fund": "142044",
-    "lob": "Food",
     "program": "PBX - instrument charges",
     "key": "PBX - instrument charges",
     "value": "600"
@@ -27326,22 +25518,6 @@
     "program": "Maintenance - data equipment",
     "key": "Maintenance - data equipment",
     "value": "800"
-  },
-  {
-    "agency": "Public Works  & Utilities",
-    "fund": "142044",
-    "lob": "Food",
-    "program": "City Grocery Licenses",
-    "key": "City Grocery Licenses",
-    "value": "59755"
-  },
-  {
-    "agency": "Public Works  & Utilities",
-    "fund": "142044",
-    "lob": "Food",
-    "program": "Ice cream vendors license",
-    "key": "Ice cream vendors license",
-    "value": "725"
   },
   {
     "agency": "Public Works  & Utilities",
@@ -27718,22 +25894,6 @@
     "program": "Meals and lodging allowance",
     "key": "Meals and lodging allowance",
     "value": "600"
-  },
-  {
-    "agency": "Public Works  & Utilities",
-    "fund": "142122",
-    "lob": "Environmental Assmnt and Remedtn ",
-    "program": "Reimbursed expend-interfund & interdept",
-    "key": "Reimbursed expend-interfund & interdept",
-    "value": "414474"
-  },
-  {
-    "agency": "Public Works  & Utilities",
-    "fund": "143083",
-    "lob": "Child Care Licensing",
-    "program": "Child care inspection",
-    "key": "Child care inspection",
-    "value": "162000"
   },
   {
     "agency": "Public Works  & Utilities",
@@ -28134,30 +26294,6 @@
     "program": "Contractors",
     "key": "Contractors",
     "value": "30000"
-  },
-  {
-    "agency": "Public Works  & Utilities",
-    "fund": "148557",
-    "lob": "Gilbert & Mosley-General Program Costs",
-    "program": "Property taxes",
-    "key": "Property taxes",
-    "value": "2620040"
-  },
-  {
-    "agency": "Public Works  & Utilities",
-    "fund": "148557",
-    "lob": "Gilbert & Mosley-General Program Costs",
-    "program": "Delinquent property taxes",
-    "key": "Delinquent property taxes",
-    "value": "50000"
-  },
-  {
-    "agency": "Public Works  & Utilities",
-    "fund": "148557",
-    "lob": "Gilbert & Mosley-General Program Costs",
-    "program": "Reimbursements",
-    "key": "Reimbursements",
-    "value": "110000"
   },
   {
     "agency": "Public Works  & Utilities",
@@ -28891,22 +27027,6 @@
     "agency": "Public Works  & Utilities",
     "fund": "148656",
     "lob": "North Industrial Corridor-General Progra",
-    "program": "Property taxes",
-    "key": "Property taxes",
-    "value": "1155300"
-  },
-  {
-    "agency": "Public Works  & Utilities",
-    "fund": "148656",
-    "lob": "North Industrial Corridor-General Progra",
-    "program": "Delinquent property taxes",
-    "key": "Delinquent property taxes",
-    "value": "10000"
-  },
-  {
-    "agency": "Public Works  & Utilities",
-    "fund": "148656",
-    "lob": "North Industrial Corridor-General Progra",
     "program": "Automotive",
     "key": "Automotive",
     "value": "50"
@@ -29107,14 +27227,6 @@
     "agency": "Public Works  & Utilities",
     "fund": "149013",
     "lob": "ENV HLTH / SWIMMING POOLS / CITY",
-    "program": "Swimming pool license",
-    "key": "Swimming pool license",
-    "value": "48500"
-  },
-  {
-    "agency": "Public Works  & Utilities",
-    "fund": "149013",
-    "lob": "ENV HLTH / SWIMMING POOLS / CITY",
     "program": "FICA",
     "key": "FICA",
     "value": "1434"
@@ -29278,14 +27390,6 @@
     "program": "Group health insurance",
     "key": "Group health insurance",
     "value": "5429"
-  },
-  {
-    "agency": "Public Works  & Utilities",
-    "fund": "149047",
-    "lob": "Tobacco Sales Regulation",
-    "program": "Tobacco sales",
-    "key": "Tobacco sales",
-    "value": "74800"
   },
   {
     "agency": "Public Works  & Utilities",
@@ -29587,38 +27691,6 @@
     "agency": "Metropolitan Planning",
     "fund": "150004",
     "lob": "Metropolitan Planning",
-    "program": "Residential cups",
-    "key": "Residential cups",
-    "value": "700"
-  },
-  {
-    "agency": "Metropolitan Planning",
-    "fund": "150004",
-    "lob": "Metropolitan Planning",
-    "program": "County conditional use",
-    "key": "County conditional use",
-    "value": "14600"
-  },
-  {
-    "agency": "Metropolitan Planning",
-    "fund": "150004",
-    "lob": "Metropolitan Planning",
-    "program": "Vacations",
-    "key": "Vacations",
-    "value": "26000"
-  },
-  {
-    "agency": "Metropolitan Planning",
-    "fund": "150004",
-    "lob": "Metropolitan Planning",
-    "program": "Interfund transfers",
-    "key": "Interfund transfers",
-    "value": "628635"
-  },
-  {
-    "agency": "Metropolitan Planning",
-    "fund": "150004",
-    "lob": "Metropolitan Planning",
     "program": "Contributions to other funds",
     "key": "Contributions to other funds",
     "value": "14000"
@@ -29654,118 +27726,6 @@
     "program": "Moves and changes",
     "key": "Moves and changes",
     "value": "350"
-  },
-  {
-    "agency": "Metropolitan Planning",
-    "fund": "150004",
-    "lob": "Metropolitan Planning",
-    "program": "City zone case",
-    "key": "City zone case",
-    "value": "46500"
-  },
-  {
-    "agency": "Metropolitan Planning",
-    "fund": "150004",
-    "lob": "Metropolitan Planning",
-    "program": "County zone case",
-    "key": "County zone case",
-    "value": "6500"
-  },
-  {
-    "agency": "Metropolitan Planning",
-    "fund": "150004",
-    "lob": "Metropolitan Planning",
-    "program": "City conditional use permit",
-    "key": "City conditional use permit",
-    "value": "13000"
-  },
-  {
-    "agency": "Metropolitan Planning",
-    "fund": "150004",
-    "lob": "Metropolitan Planning",
-    "program": "City board of zoning appeals",
-    "key": "City board of zoning appeals",
-    "value": "12000"
-  },
-  {
-    "agency": "Metropolitan Planning",
-    "fund": "150004",
-    "lob": "Metropolitan Planning",
-    "program": "Lot split",
-    "key": "Lot split",
-    "value": "13500"
-  },
-  {
-    "agency": "Metropolitan Planning",
-    "fund": "150004",
-    "lob": "Metropolitan Planning",
-    "program": "Subdivision fees",
-    "key": "Subdivision fees",
-    "value": "48500"
-  },
-  {
-    "agency": "Metropolitan Planning",
-    "fund": "150004",
-    "lob": "Metropolitan Planning",
-    "program": "County board of zoning appeals",
-    "key": "County board of zoning appeals",
-    "value": "3000"
-  },
-  {
-    "agency": "Metropolitan Planning",
-    "fund": "150004",
-    "lob": "Metropolitan Planning",
-    "program": "Administrative adjustment - BZA",
-    "key": "Administrative adjustment - BZA",
-    "value": "7000"
-  },
-  {
-    "agency": "Metropolitan Planning",
-    "fund": "150004",
-    "lob": "Metropolitan Planning",
-    "program": "Other fees",
-    "key": "Other fees",
-    "value": "2000"
-  },
-  {
-    "agency": "Metropolitan Planning",
-    "fund": "150004",
-    "lob": "Metropolitan Planning",
-    "program": "Operating - joint support",
-    "key": "Operating - joint support",
-    "value": "628635"
-  },
-  {
-    "agency": "Metropolitan Planning",
-    "fund": "150004",
-    "lob": "Metropolitan Planning",
-    "program": "Printed materials",
-    "key": "Printed materials",
-    "value": "50"
-  },
-  {
-    "agency": "Metropolitan Planning",
-    "fund": "150004",
-    "lob": "Metropolitan Planning",
-    "program": "Sale of maps",
-    "key": "Sale of maps",
-    "value": "50"
-  },
-  {
-    "agency": "Metropolitan Planning",
-    "fund": "150004",
-    "lob": "Metropolitan Planning",
-    "program": "Administrative adjustments",
-    "key": "Administrative adjustments",
-    "value": "6500"
-  },
-  {
-    "agency": "Metropolitan Planning",
-    "fund": "150004",
-    "lob": "Metropolitan Planning",
-    "program": "Commercial cups",
-    "key": "Commercial cups",
-    "value": "14000"
   },
   {
     "agency": "Metropolitan Planning",
@@ -31115,14 +29075,6 @@
     "agency": "Park",
     "fund": "171101",
     "lob": "Park - Administration",
-    "program": "Rent - Other Land rent/lease ",
-    "key": "Rent - Other Land rent/lease ",
-    "value": "19000"
-  },
-  {
-    "agency": "Park",
-    "fund": "171101",
-    "lob": "Park - Administration",
     "program": "FICA",
     "key": "FICA",
     "value": "31925"
@@ -32363,22 +30315,6 @@
     "agency": "Park",
     "fund": "172201",
     "lob": "Park Maintenance Central Support",
-    "program": "Rent - Other Bldg and Parking rent/lease",
-    "key": "Rent - Other Bldg and Parking rent/lease",
-    "value": "4269"
-  },
-  {
-    "agency": "Park",
-    "fund": "172201",
-    "lob": "Park Maintenance Central Support",
-    "program": "Reimbursements",
-    "key": "Reimbursements",
-    "value": "1200"
-  },
-  {
-    "agency": "Park",
-    "fund": "172201",
-    "lob": "Park Maintenance Central Support",
     "program": "Fuel",
     "key": "Fuel",
     "value": "10717"
@@ -32798,22 +30734,6 @@
     "program": "Fuel",
     "key": "Fuel",
     "value": "3317"
-  },
-  {
-    "agency": "Park",
-    "fund": "172204",
-    "lob": "Special Assignments",
-    "program": "Theater",
-    "key": "Theater",
-    "value": "19950"
-  },
-  {
-    "agency": "Park",
-    "fund": "172204",
-    "lob": "Special Assignments",
-    "program": "Rent - Other Bldg and Parking rent/lease",
-    "key": "Rent - Other Bldg and Parking rent/lease",
-    "value": "1200"
   },
   {
     "agency": "Park",
@@ -33931,14 +31851,6 @@
     "agency": "Park",
     "fund": "172209",
     "lob": "Park Projects/Construction",
-    "program": "Reimbursements",
-    "key": "Reimbursements",
-    "value": "5000"
-  },
-  {
-    "agency": "Park",
-    "fund": "172209",
-    "lob": "Park Projects/Construction",
     "program": "Materials",
     "key": "Materials",
     "value": "3705"
@@ -34326,22 +32238,6 @@
     "program": "Meals and lodging allowance",
     "key": "Meals and lodging allowance",
     "value": "500"
-  },
-  {
-    "agency": "Park",
-    "fund": "173101",
-    "lob": "Recreation - Administration",
-    "program": "Shelter (picnic)",
-    "key": "Shelter (picnic)",
-    "value": "7500"
-  },
-  {
-    "agency": "Park",
-    "fund": "173101",
-    "lob": "Recreation - Administration",
-    "program": "Other",
-    "key": "Other",
-    "value": "20000"
   },
   {
     "agency": "Park",
@@ -34761,94 +32657,6 @@
   },
   {
     "agency": "Park",
-    "fund": "173102",
-    "lob": "Adult Athletic Administration",
-    "program": "Sale of services/commodities",
-    "key": "Sale of services/commodities",
-    "value": "400"
-  },
-  {
-    "agency": "Park",
-    "fund": "173102",
-    "lob": "Adult Athletic Administration",
-    "program": "Entry fees",
-    "key": "Entry fees",
-    "value": "274800"
-  },
-  {
-    "agency": "Park",
-    "fund": "173102",
-    "lob": "Adult Athletic Administration",
-    "program": "Concessions",
-    "key": "Concessions",
-    "value": "2800"
-  },
-  {
-    "agency": "Park",
-    "fund": "173102",
-    "lob": "Adult Athletic Administration",
-    "program": "Other services",
-    "key": "Other services",
-    "value": "1620"
-  },
-  {
-    "agency": "Park",
-    "fund": "173102",
-    "lob": "Adult Athletic Administration",
-    "program": "Diamonds and fields",
-    "key": "Diamonds and fields",
-    "value": "69260"
-  },
-  {
-    "agency": "Park",
-    "fund": "173102",
-    "lob": "Adult Athletic Administration",
-    "program": "Rent - Other Bldg and Parking rent/lease",
-    "key": "Rent - Other Bldg and Parking rent/lease",
-    "value": "8250"
-  },
-  {
-    "agency": "Park",
-    "fund": "173102",
-    "lob": "Adult Athletic Administration",
-    "program": "Late payment charges",
-    "key": "Late payment charges",
-    "value": "435"
-  },
-  {
-    "agency": "Park",
-    "fund": "173103",
-    "lob": "Youth Athletic Administration",
-    "program": "Sale of services/commodities",
-    "key": "Sale of services/commodities",
-    "value": "3600"
-  },
-  {
-    "agency": "Park",
-    "fund": "173103",
-    "lob": "Youth Athletic Administration",
-    "program": "Admission fees",
-    "key": "Admission fees",
-    "value": "181000"
-  },
-  {
-    "agency": "Park",
-    "fund": "173103",
-    "lob": "Youth Athletic Administration",
-    "program": "Entry fees",
-    "key": "Entry fees",
-    "value": "33750"
-  },
-  {
-    "agency": "Park",
-    "fund": "173103",
-    "lob": "Youth Athletic Administration",
-    "program": "Concessions",
-    "key": "Concessions",
-    "value": "3000"
-  },
-  {
-    "agency": "Park",
     "fund": "173103",
     "lob": "Youth Athletic Administration",
     "program": "Plexar",
@@ -34974,30 +32782,6 @@
     "program": "PBX - line charges",
     "key": "PBX - line charges",
     "value": "114"
-  },
-  {
-    "agency": "Park",
-    "fund": "173103",
-    "lob": "Youth Athletic Administration",
-    "program": "Non-taxable admission fees",
-    "key": "Non-taxable admission fees",
-    "value": "16000"
-  },
-  {
-    "agency": "Park",
-    "fund": "173103",
-    "lob": "Youth Athletic Administration",
-    "program": "Other equipment and materials",
-    "key": "Other equipment and materials",
-    "value": "885"
-  },
-  {
-    "agency": "Park",
-    "fund": "173103",
-    "lob": "Youth Athletic Administration",
-    "program": "Rent - Other Bldg and Parking rent/lease",
-    "key": "Rent - Other Bldg and Parking rent/lease",
-    "value": "19479"
   },
   {
     "agency": "Park",
@@ -35198,30 +32982,6 @@
     "program": "Trash service",
     "key": "Trash service",
     "value": "700"
-  },
-  {
-    "agency": "Park",
-    "fund": "173202",
-    "lob": "Boston Center",
-    "program": "Other - amusements",
-    "key": "Other - amusements",
-    "value": "28000"
-  },
-  {
-    "agency": "Park",
-    "fund": "173202",
-    "lob": "Boston Center",
-    "program": "Meeting rooms",
-    "key": "Meeting rooms",
-    "value": "6000"
-  },
-  {
-    "agency": "Park",
-    "fund": "173202",
-    "lob": "Boston Center",
-    "program": "Rent/Lease-Office space",
-    "key": "Rent/Lease-Office space",
-    "value": "20084"
   },
   {
     "agency": "Park",
@@ -35515,22 +33275,6 @@
     "agency": "Park",
     "fund": "173203",
     "lob": "Colvin Center",
-    "program": "Other - amusements",
-    "key": "Other - amusements",
-    "value": "17000"
-  },
-  {
-    "agency": "Park",
-    "fund": "173203",
-    "lob": "Colvin Center",
-    "program": "Meeting rooms",
-    "key": "Meeting rooms",
-    "value": "1000"
-  },
-  {
-    "agency": "Park",
-    "fund": "173203",
-    "lob": "Colvin Center",
     "program": "Art supplies",
     "key": "Art supplies",
     "value": "200"
@@ -35750,94 +33494,6 @@
     "program": "Other commodities",
     "key": "Other commodities",
     "value": "917"
-  },
-  {
-    "agency": "Park",
-    "fund": "173204",
-    "lob": "Edgemoor Center",
-    "program": "Concessions",
-    "key": "Concessions",
-    "value": "150"
-  },
-  {
-    "agency": "Park",
-    "fund": "173204",
-    "lob": "Edgemoor Center",
-    "program": "Vending machines",
-    "key": "Vending machines",
-    "value": "800"
-  },
-  {
-    "agency": "Park",
-    "fund": "173204",
-    "lob": "Edgemoor Center",
-    "program": "Other - amusements",
-    "key": "Other - amusements",
-    "value": "60000"
-  },
-  {
-    "agency": "Park",
-    "fund": "173204",
-    "lob": "Edgemoor Center",
-    "program": "Meeting rooms",
-    "key": "Meeting rooms",
-    "value": "26000"
-  },
-  {
-    "agency": "Park",
-    "fund": "173205",
-    "lob": "Evergreen Center",
-    "program": "Concessions",
-    "key": "Concessions",
-    "value": "1800"
-  },
-  {
-    "agency": "Park",
-    "fund": "173205",
-    "lob": "Evergreen Center",
-    "program": "Vending machines",
-    "key": "Vending machines",
-    "value": "1200"
-  },
-  {
-    "agency": "Park",
-    "fund": "173205",
-    "lob": "Evergreen Center",
-    "program": "Other - amusements",
-    "key": "Other - amusements",
-    "value": "32000"
-  },
-  {
-    "agency": "Park",
-    "fund": "173205",
-    "lob": "Evergreen Center",
-    "program": "Entertainment",
-    "key": "Entertainment",
-    "value": "150"
-  },
-  {
-    "agency": "Park",
-    "fund": "173205",
-    "lob": "Evergreen Center",
-    "program": "Meeting rooms",
-    "key": "Meeting rooms",
-    "value": "20000"
-  },
-  {
-    "agency": "Park",
-    "fund": "173205",
-    "lob": "Evergreen Center",
-    "program": "Rent/Lease-Office space",
-    "key": "Rent/Lease-Office space",
-    "value": "9852"
-  },
-  {
-    "agency": "Park",
-    "fund": "173205",
-    "lob": "Evergreen Center",
-    "program": "Gyms",
-    "key": "Gyms",
-    "value": "5000"
   },
   {
     "agency": "Park",
@@ -36227,38 +33883,6 @@
     "agency": "Park",
     "fund": "173206",
     "lob": "Linwood Center",
-    "program": "Vending machines",
-    "key": "Vending machines",
-    "value": "400"
-  },
-  {
-    "agency": "Park",
-    "fund": "173206",
-    "lob": "Linwood Center",
-    "program": "Other - amusements",
-    "key": "Other - amusements",
-    "value": "50000"
-  },
-  {
-    "agency": "Park",
-    "fund": "173206",
-    "lob": "Linwood Center",
-    "program": "Meeting rooms",
-    "key": "Meeting rooms",
-    "value": "28000"
-  },
-  {
-    "agency": "Park",
-    "fund": "173206",
-    "lob": "Linwood Center",
-    "program": "Rent/Lease-Office space",
-    "key": "Rent/Lease-Office space",
-    "value": "20784"
-  },
-  {
-    "agency": "Park",
-    "fund": "173206",
-    "lob": "Linwood Center",
     "program": "Office supplies",
     "key": "Office supplies",
     "value": "300"
@@ -36505,86 +34129,6 @@
   },
   {
     "agency": "Park",
-    "fund": "173207",
-    "lob": "McAdams Center",
-    "program": "Vending machines",
-    "key": "Vending machines",
-    "value": "300"
-  },
-  {
-    "agency": "Park",
-    "fund": "173207",
-    "lob": "McAdams Center",
-    "program": "Other - amusements",
-    "key": "Other - amusements",
-    "value": "3000"
-  },
-  {
-    "agency": "Park",
-    "fund": "173207",
-    "lob": "McAdams Center",
-    "program": "Lessons/Classes",
-    "key": "Lessons/Classes",
-    "value": "3371"
-  },
-  {
-    "agency": "Park",
-    "fund": "173207",
-    "lob": "McAdams Center",
-    "program": "Meeting rooms",
-    "key": "Meeting rooms",
-    "value": "25000"
-  },
-  {
-    "agency": "Park",
-    "fund": "173208",
-    "lob": "Orchard Center",
-    "program": "Concessions",
-    "key": "Concessions",
-    "value": "150"
-  },
-  {
-    "agency": "Park",
-    "fund": "173208",
-    "lob": "Orchard Center",
-    "program": "Vending machines",
-    "key": "Vending machines",
-    "value": "750"
-  },
-  {
-    "agency": "Park",
-    "fund": "173208",
-    "lob": "Orchard Center",
-    "program": "Other - amusements",
-    "key": "Other - amusements",
-    "value": "65000"
-  },
-  {
-    "agency": "Park",
-    "fund": "173208",
-    "lob": "Orchard Center",
-    "program": "Entertainment",
-    "key": "Entertainment",
-    "value": "6500"
-  },
-  {
-    "agency": "Park",
-    "fund": "173208",
-    "lob": "Orchard Center",
-    "program": "Meeting rooms",
-    "key": "Meeting rooms",
-    "value": "40000"
-  },
-  {
-    "agency": "Park",
-    "fund": "173208",
-    "lob": "Orchard Center",
-    "program": "Rent/Lease-Office space",
-    "key": "Rent/Lease-Office space",
-    "value": "13776"
-  },
-  {
-    "agency": "Park",
     "fund": "173208",
     "lob": "Orchard Center",
     "program": "Lease/Rent-Buildings or grounds",
@@ -36806,30 +34350,6 @@
     "program": "Water",
     "key": "Water",
     "value": "1767"
-  },
-  {
-    "agency": "Park",
-    "fund": "173209",
-    "lob": "Osage Center",
-    "program": "Rent/Lease-Office space",
-    "key": "Rent/Lease-Office space",
-    "value": "2400"
-  },
-  {
-    "agency": "Park",
-    "fund": "173210",
-    "lob": "Woodard Center",
-    "program": "Vending machines",
-    "key": "Vending machines",
-    "value": "200"
-  },
-  {
-    "agency": "Park",
-    "fund": "173210",
-    "lob": "Woodard Center",
-    "program": "Other - amusements",
-    "key": "Other - amusements",
-    "value": "18000"
   },
   {
     "agency": "Park",
@@ -37057,30 +34577,6 @@
   },
   {
     "agency": "Park",
-    "fund": "173210",
-    "lob": "Woodard Center",
-    "program": "Entertainment",
-    "key": "Entertainment",
-    "value": "500"
-  },
-  {
-    "agency": "Park",
-    "fund": "173210",
-    "lob": "Woodard Center",
-    "program": "Gyms",
-    "key": "Gyms",
-    "value": "8500"
-  },
-  {
-    "agency": "Park",
-    "fund": "173301",
-    "lob": "Enclosed Shelters",
-    "program": "Meeting rooms",
-    "key": "Meeting rooms",
-    "value": "105000"
-  },
-  {
-    "agency": "Park",
     "fund": "173301",
     "lob": "Enclosed Shelters",
     "program": "Accrual",
@@ -37214,102 +34710,6 @@
     "program": "Group health insurance",
     "key": "Group health insurance",
     "value": "10606"
-  },
-  {
-    "agency": "Park",
-    "fund": "173303",
-    "lob": "Riverside Tennis Center",
-    "program": "Other general services and sales",
-    "key": "Other general services and sales",
-    "value": "8800"
-  },
-  {
-    "agency": "Park",
-    "fund": "173303",
-    "lob": "Riverside Tennis Center",
-    "program": "Admission fees",
-    "key": "Admission fees",
-    "value": "3000"
-  },
-  {
-    "agency": "Park",
-    "fund": "173303",
-    "lob": "Riverside Tennis Center",
-    "program": "Entry fees",
-    "key": "Entry fees",
-    "value": "17000"
-  },
-  {
-    "agency": "Park",
-    "fund": "173303",
-    "lob": "Riverside Tennis Center",
-    "program": "Concessions",
-    "key": "Concessions",
-    "value": "6500"
-  },
-  {
-    "agency": "Park",
-    "fund": "173303",
-    "lob": "Riverside Tennis Center",
-    "program": "Non-taxable admission fees",
-    "key": "Non-taxable admission fees",
-    "value": "29000"
-  },
-  {
-    "agency": "Park",
-    "fund": "173303",
-    "lob": "Riverside Tennis Center",
-    "program": "Lessons/Classes",
-    "key": "Lessons/Classes",
-    "value": "115000"
-  },
-  {
-    "agency": "Park",
-    "fund": "173303",
-    "lob": "Riverside Tennis Center",
-    "program": "Other services",
-    "key": "Other services",
-    "value": "79000"
-  },
-  {
-    "agency": "Park",
-    "fund": "173303",
-    "lob": "Riverside Tennis Center",
-    "program": "Pro shop sales",
-    "key": "Pro shop sales",
-    "value": "14000"
-  },
-  {
-    "agency": "Park",
-    "fund": "173303",
-    "lob": "Riverside Tennis Center",
-    "program": "Meeting rooms",
-    "key": "Meeting rooms",
-    "value": "700"
-  },
-  {
-    "agency": "Park",
-    "fund": "173303",
-    "lob": "Riverside Tennis Center",
-    "program": "Recreation",
-    "key": "Recreation",
-    "value": "15000"
-  },
-  {
-    "agency": "Park",
-    "fund": "173303",
-    "lob": "Riverside Tennis Center",
-    "program": "Diamonds and fields",
-    "key": "Diamonds and fields",
-    "value": "1500"
-  },
-  {
-    "agency": "Park",
-    "fund": "173303",
-    "lob": "Riverside Tennis Center",
-    "program": "Other",
-    "key": "Other",
-    "value": "9000"
   },
   {
     "agency": "Park",
@@ -37969,62 +35369,6 @@
   },
   {
     "agency": "Park",
-    "fund": "173304",
-    "lob": "Watson Park",
-    "program": "Concessions",
-    "key": "Concessions",
-    "value": "15000"
-  },
-  {
-    "agency": "Park",
-    "fund": "173304",
-    "lob": "Watson Park",
-    "program": "Other - amusements",
-    "key": "Other - amusements",
-    "value": "85000"
-  },
-  {
-    "agency": "Park",
-    "fund": "173304",
-    "lob": "Watson Park",
-    "program": "Other sales",
-    "key": "Other sales",
-    "value": "16000"
-  },
-  {
-    "agency": "Park",
-    "fund": "173304",
-    "lob": "Watson Park",
-    "program": "Recreation",
-    "key": "Recreation",
-    "value": "2500"
-  },
-  {
-    "agency": "Park",
-    "fund": "173304",
-    "lob": "Watson Park",
-    "program": "Diamonds and fields",
-    "key": "Diamonds and fields",
-    "value": "500"
-  },
-  {
-    "agency": "Park",
-    "fund": "173304",
-    "lob": "Watson Park",
-    "program": "Shelter (picnic)",
-    "key": "Shelter (picnic)",
-    "value": "27000"
-  },
-  {
-    "agency": "Park",
-    "fund": "173305",
-    "lob": "Great Plains Nature Center",
-    "program": "Lessons/Classes",
-    "key": "Lessons/Classes",
-    "value": "1500"
-  },
-  {
-    "agency": "Park",
     "fund": "173305",
     "lob": "Great Plains Nature Center",
     "program": "Bi-weekly wages",
@@ -38257,14 +35601,6 @@
   },
   {
     "agency": "Park",
-    "fund": "173306",
-    "lob": "Ice Center",
-    "program": "Rent/Lease-Office space",
-    "key": "Rent/Lease-Office space",
-    "value": "5000"
-  },
-  {
-    "agency": "Park",
     "fund": "173400",
     "lob": "Aquatics Administration",
     "program": "Bi-weekly wages",
@@ -38374,46 +35710,6 @@
     "program": "Workers compensation",
     "key": "Workers compensation",
     "value": "696"
-  },
-  {
-    "agency": "Park",
-    "fund": "173401",
-    "lob": "Aley Pool",
-    "program": "Admission fees",
-    "key": "Admission fees",
-    "value": "13000"
-  },
-  {
-    "agency": "Park",
-    "fund": "173401",
-    "lob": "Aley Pool",
-    "program": "Vending machines",
-    "key": "Vending machines",
-    "value": "1230"
-  },
-  {
-    "agency": "Park",
-    "fund": "173401",
-    "lob": "Aley Pool",
-    "program": "Lessons/Classes",
-    "key": "Lessons/Classes",
-    "value": "4800"
-  },
-  {
-    "agency": "Park",
-    "fund": "173401",
-    "lob": "Aley Pool",
-    "program": "Park and Recreation Aquatics passes",
-    "key": "Park and Recreation Aquatics passes",
-    "value": "1600"
-  },
-  {
-    "agency": "Park",
-    "fund": "173401",
-    "lob": "Aley Pool",
-    "program": "Other",
-    "key": "Other",
-    "value": "1200"
   },
   {
     "agency": "Park",
@@ -38694,94 +35990,6 @@
     "program": "Inventory for resale",
     "key": "Inventory for resale",
     "value": "1230"
-  },
-  {
-    "agency": "Park",
-    "fund": "173402",
-    "lob": "Boston Pool",
-    "program": "Admission fees",
-    "key": "Admission fees",
-    "value": "6500"
-  },
-  {
-    "agency": "Park",
-    "fund": "173402",
-    "lob": "Boston Pool",
-    "program": "Vending machines",
-    "key": "Vending machines",
-    "value": "1230"
-  },
-  {
-    "agency": "Park",
-    "fund": "173402",
-    "lob": "Boston Pool",
-    "program": "Lessons/Classes",
-    "key": "Lessons/Classes",
-    "value": "3600"
-  },
-  {
-    "agency": "Park",
-    "fund": "173402",
-    "lob": "Boston Pool",
-    "program": "Park and Recreation Aquatics passes",
-    "key": "Park and Recreation Aquatics passes",
-    "value": "1110"
-  },
-  {
-    "agency": "Park",
-    "fund": "173402",
-    "lob": "Boston Pool",
-    "program": "Other",
-    "key": "Other",
-    "value": "1600"
-  },
-  {
-    "agency": "Park",
-    "fund": "173403",
-    "lob": "College Hill Pool",
-    "program": "Admission fees",
-    "key": "Admission fees",
-    "value": "24000"
-  },
-  {
-    "agency": "Park",
-    "fund": "173403",
-    "lob": "College Hill Pool",
-    "program": "Vending machines",
-    "key": "Vending machines",
-    "value": "1230"
-  },
-  {
-    "agency": "Park",
-    "fund": "173403",
-    "lob": "College Hill Pool",
-    "program": "Lessons/Classes",
-    "key": "Lessons/Classes",
-    "value": "12600"
-  },
-  {
-    "agency": "Park",
-    "fund": "173403",
-    "lob": "College Hill Pool",
-    "program": "Park and Recreation Aquatics passes",
-    "key": "Park and Recreation Aquatics passes",
-    "value": "1025"
-  },
-  {
-    "agency": "Park",
-    "fund": "173403",
-    "lob": "College Hill Pool",
-    "program": "Other",
-    "key": "Other",
-    "value": "2100"
-  },
-  {
-    "agency": "Park",
-    "fund": "173403",
-    "lob": "College Hill Pool",
-    "program": "Reimbursements",
-    "key": "Reimbursements",
-    "value": "880"
   },
   {
     "agency": "Park",
@@ -39083,65 +36291,9 @@
     "agency": "Park",
     "fund": "173406",
     "lob": "Evergreen Pool",
-    "program": "Admission fees",
-    "key": "Admission fees",
-    "value": "7500"
-  },
-  {
-    "agency": "Park",
-    "fund": "173406",
-    "lob": "Evergreen Pool",
-    "program": "Vending machines",
-    "key": "Vending machines",
-    "value": "1230"
-  },
-  {
-    "agency": "Park",
-    "fund": "173406",
-    "lob": "Evergreen Pool",
-    "program": "Lessons/Classes",
-    "key": "Lessons/Classes",
-    "value": "1375"
-  },
-  {
-    "agency": "Park",
-    "fund": "173406",
-    "lob": "Evergreen Pool",
-    "program": "Park and Recreation Aquatics passes",
-    "key": "Park and Recreation Aquatics passes",
-    "value": "150"
-  },
-  {
-    "agency": "Park",
-    "fund": "173406",
-    "lob": "Evergreen Pool",
-    "program": "Other",
-    "key": "Other",
-    "value": "1150"
-  },
-  {
-    "agency": "Park",
-    "fund": "173406",
-    "lob": "Evergreen Pool",
     "program": "Custodial supplies",
     "key": "Custodial supplies",
     "value": "54"
-  },
-  {
-    "agency": "Park",
-    "fund": "173407",
-    "lob": "Harvest Pool",
-    "program": "Admission fees",
-    "key": "Admission fees",
-    "value": "14000"
-  },
-  {
-    "agency": "Park",
-    "fund": "173407",
-    "lob": "Harvest Pool",
-    "program": "Vending machines",
-    "key": "Vending machines",
-    "value": "1230"
   },
   {
     "agency": "Park",
@@ -39174,30 +36326,6 @@
     "program": "Unemployment compensation",
     "key": "Unemployment compensation",
     "value": "73"
-  },
-  {
-    "agency": "Park",
-    "fund": "173407",
-    "lob": "Harvest Pool",
-    "program": "Lessons/Classes",
-    "key": "Lessons/Classes",
-    "value": "19000"
-  },
-  {
-    "agency": "Park",
-    "fund": "173407",
-    "lob": "Harvest Pool",
-    "program": "Park and Recreation Aquatics passes",
-    "key": "Park and Recreation Aquatics passes",
-    "value": "2170"
-  },
-  {
-    "agency": "Park",
-    "fund": "173407",
-    "lob": "Harvest Pool",
-    "program": "Other",
-    "key": "Other",
-    "value": "3500"
   },
   {
     "agency": "Park",
@@ -39419,46 +36547,6 @@
     "agency": "Park",
     "fund": "173409",
     "lob": "McAdams Pool",
-    "program": "Admission fees",
-    "key": "Admission fees",
-    "value": "4300"
-  },
-  {
-    "agency": "Park",
-    "fund": "173409",
-    "lob": "McAdams Pool",
-    "program": "Vending machines",
-    "key": "Vending machines",
-    "value": "1230"
-  },
-  {
-    "agency": "Park",
-    "fund": "173409",
-    "lob": "McAdams Pool",
-    "program": "Other sales",
-    "key": "Other sales",
-    "value": "100"
-  },
-  {
-    "agency": "Park",
-    "fund": "173409",
-    "lob": "McAdams Pool",
-    "program": "Park and Recreation Aquatics passes",
-    "key": "Park and Recreation Aquatics passes",
-    "value": "600"
-  },
-  {
-    "agency": "Park",
-    "fund": "173409",
-    "lob": "McAdams Pool",
-    "program": "Other",
-    "key": "Other",
-    "value": "150"
-  },
-  {
-    "agency": "Park",
-    "fund": "173409",
-    "lob": "McAdams Pool",
     "program": "Custodial supplies",
     "key": "Custodial supplies",
     "value": "53"
@@ -39510,38 +36598,6 @@
     "program": "Workers compensation",
     "key": "Workers compensation",
     "value": "464"
-  },
-  {
-    "agency": "Park",
-    "fund": "173410",
-    "lob": "Minisa Pool",
-    "program": "Admission fees",
-    "key": "Admission fees",
-    "value": "7992"
-  },
-  {
-    "agency": "Park",
-    "fund": "173410",
-    "lob": "Minisa Pool",
-    "program": "Vending machines",
-    "key": "Vending machines",
-    "value": "1230"
-  },
-  {
-    "agency": "Park",
-    "fund": "173410",
-    "lob": "Minisa Pool",
-    "program": "Park and Recreation Aquatics passes",
-    "key": "Park and Recreation Aquatics passes",
-    "value": "1140"
-  },
-  {
-    "agency": "Park",
-    "fund": "173410",
-    "lob": "Minisa Pool",
-    "program": "Other",
-    "key": "Other",
-    "value": "2125"
   },
   {
     "agency": "Park",
@@ -39793,54 +36849,6 @@
   },
   {
     "agency": "Park",
-    "fund": "173411",
-    "lob": "Orchard Pool",
-    "program": "Other",
-    "key": "Other",
-    "value": "1950"
-  },
-  {
-    "agency": "Park",
-    "fund": "173411",
-    "lob": "Orchard Pool",
-    "program": "Admission fees",
-    "key": "Admission fees",
-    "value": "10700"
-  },
-  {
-    "agency": "Park",
-    "fund": "173411",
-    "lob": "Orchard Pool",
-    "program": "Vending machines",
-    "key": "Vending machines",
-    "value": "1230"
-  },
-  {
-    "agency": "Park",
-    "fund": "173411",
-    "lob": "Orchard Pool",
-    "program": "Lessons/Classes",
-    "key": "Lessons/Classes",
-    "value": "8050"
-  },
-  {
-    "agency": "Park",
-    "fund": "173411",
-    "lob": "Orchard Pool",
-    "program": "Park and Recreation Aquatics passes",
-    "key": "Park and Recreation Aquatics passes",
-    "value": "360"
-  },
-  {
-    "agency": "Park",
-    "fund": "173501",
-    "lob": "Summer of Discovery",
-    "program": "Other - amusements",
-    "key": "Other - amusements",
-    "value": "241491"
-  },
-  {
-    "agency": "Park",
     "fund": "173501",
     "lob": "Summer of Discovery",
     "program": "Other clothing",
@@ -40059,22 +37067,6 @@
     "agency": "Park",
     "fund": "173502",
     "lob": "Activity Camp",
-    "program": "Other - amusements",
-    "key": "Other - amusements",
-    "value": "153450"
-  },
-  {
-    "agency": "Park",
-    "fund": "173502",
-    "lob": "Activity Camp",
-    "program": "Cash transfer in - projects/grants",
-    "key": "Cash transfer in - projects/grants",
-    "value": "50000"
-  },
-  {
-    "agency": "Park",
-    "fund": "173502",
-    "lob": "Activity Camp",
     "program": "Office supplies",
     "key": "Office supplies",
     "value": "750"
@@ -40270,30 +37262,6 @@
     "program": "Contingency",
     "key": "Contingency",
     "value": "20000"
-  },
-  {
-    "agency": "Park",
-    "fund": "177101",
-    "lob": "Cemetery - Highland Park & Jamesburg",
-    "program": "Interment permit",
-    "key": "Interment permit",
-    "value": "2400"
-  },
-  {
-    "agency": "Park",
-    "fund": "177101",
-    "lob": "Cemetery - Highland Park & Jamesburg",
-    "program": "Monument permit",
-    "key": "Monument permit",
-    "value": "250"
-  },
-  {
-    "agency": "Park",
-    "fund": "177101",
-    "lob": "Cemetery - Highland Park & Jamesburg",
-    "program": "Fund investments",
-    "key": "Fund investments",
-    "value": "30000"
   },
   {
     "agency": "Park",
@@ -48001,46 +44969,6 @@
   },
   {
     "agency": "Golf Course System",
-    "fund": "210401",
-    "lob": "Macdonald Park Clubhouse",
-    "program": "Golf course season tickets",
-    "key": "Golf course season tickets",
-    "value": "73685"
-  },
-  {
-    "agency": "Golf Course System",
-    "fund": "210401",
-    "lob": "Macdonald Park Clubhouse",
-    "program": "Rent/Lease-Office space",
-    "key": "Rent/Lease-Office space",
-    "value": "136"
-  },
-  {
-    "agency": "Golf Course System",
-    "fund": "210401",
-    "lob": "Macdonald Park Clubhouse",
-    "program": "Advertising",
-    "key": "Advertising",
-    "value": "858"
-  },
-  {
-    "agency": "Golf Course System",
-    "fund": "210401",
-    "lob": "Macdonald Park Clubhouse",
-    "program": "Golf cart rentals",
-    "key": "Golf cart rentals",
-    "value": "211750"
-  },
-  {
-    "agency": "Golf Course System",
-    "fund": "210500",
-    "lob": "Sim Park",
-    "program": "Rent/Lease-Office space",
-    "key": "Rent/Lease-Office space",
-    "value": "136"
-  },
-  {
-    "agency": "Golf Course System",
     "fund": "210500",
     "lob": "Sim Park",
     "program": "Bi-weekly wages",
@@ -48561,62 +45489,6 @@
   },
   {
     "agency": "Golf Course System",
-    "fund": "210501",
-    "lob": "Sim Park Clubhouse",
-    "program": "Concessions",
-    "key": "Concessions",
-    "value": "109111"
-  },
-  {
-    "agency": "Golf Course System",
-    "fund": "210501",
-    "lob": "Sim Park Clubhouse",
-    "program": "Pro shop sales",
-    "key": "Pro shop sales",
-    "value": "2000"
-  },
-  {
-    "agency": "Golf Course System",
-    "fund": "210501",
-    "lob": "Sim Park Clubhouse",
-    "program": "Golf course green fees",
-    "key": "Golf course green fees",
-    "value": "695004"
-  },
-  {
-    "agency": "Golf Course System",
-    "fund": "210501",
-    "lob": "Sim Park Clubhouse",
-    "program": "Golf course season tickets",
-    "key": "Golf course season tickets",
-    "value": "82834"
-  },
-  {
-    "agency": "Golf Course System",
-    "fund": "210501",
-    "lob": "Sim Park Clubhouse",
-    "program": "Rent/Lease-Office space",
-    "key": "Rent/Lease-Office space",
-    "value": "137"
-  },
-  {
-    "agency": "Golf Course System",
-    "fund": "210501",
-    "lob": "Sim Park Clubhouse",
-    "program": "Golf cart rentals",
-    "key": "Golf cart rentals",
-    "value": "271601"
-  },
-  {
-    "agency": "Golf Course System",
-    "fund": "210600",
-    "lob": "Golf Administration",
-    "program": "Vending machines",
-    "key": "Vending machines",
-    "value": "20000"
-  },
-  {
-    "agency": "Golf Course System",
     "fund": "210600",
     "lob": "Golf Administration",
     "program": "Express mail",
@@ -48902,22 +45774,6 @@
     "program": "Postage - regular",
     "key": "Postage - regular",
     "value": "300"
-  },
-  {
-    "agency": "Golf Course System",
-    "fund": "210600",
-    "lob": "Golf Administration",
-    "program": "Rent/Lease-Office space",
-    "key": "Rent/Lease-Office space",
-    "value": "137"
-  },
-  {
-    "agency": "Golf Course System",
-    "fund": "210600",
-    "lob": "Golf Administration",
-    "program": "Advertising",
-    "key": "Advertising",
-    "value": "2060"
   },
   {
     "agency": "Golf Course System",
@@ -49297,14 +46153,6 @@
   },
   {
     "agency": "Non Departmental",
-    "fund": "225509",
-    "lob": "Sales Tax Construction Pledge",
-    "program": "Local sales tax",
-    "key": "Local sales tax",
-    "value": "30453231"
-  },
-  {
-    "agency": "Non Departmental",
     "fund": "225516",
     "lob": "Appropriated Fund Balance",
     "program": "Contributions to other funds",
@@ -49374,14 +46222,6 @@
     "program": "Contributions to other funds",
     "key": "Contributions to other funds",
     "value": "628635"
-  },
-  {
-    "agency": "Metro Area Bldg & Construction",
-    "fund": "230100",
-    "lob": "Central Inspection - Administration",
-    "program": "Reimbursements",
-    "key": "Reimbursements",
-    "value": "1842208"
   },
   {
     "agency": "Metro Area Bldg & Construction",
@@ -49707,14 +46547,6 @@
     "agency": "Metro Area Bldg & Construction",
     "fund": "230200",
     "lob": "Condemnation - Housing",
-    "program": "Reimbursements",
-    "key": "Reimbursements",
-    "value": "1211231"
-  },
-  {
-    "agency": "Metro Area Bldg & Construction",
-    "fund": "230200",
-    "lob": "Condemnation - Housing",
     "program": "Advertising",
     "key": "Advertising",
     "value": "6119"
@@ -49758,14 +46590,6 @@
     "program": "City administrative charges",
     "key": "City administrative charges",
     "value": "55049"
-  },
-  {
-    "agency": "Metro Area Bldg & Construction",
-    "fund": "230202",
-    "lob": "Commercial Zone Enforcement",
-    "program": "Reimbursements",
-    "key": "Reimbursements",
-    "value": "551157"
   },
   {
     "agency": "Metro Area Bldg & Construction",
@@ -50033,22 +46857,6 @@
   },
   {
     "agency": "Metro Area Bldg & Construction",
-    "fund": "239054",
-    "lob": "Lot Mowing",
-    "program": "Nusiance abatement/weed mowing",
-    "key": "Nusiance abatement/weed mowing",
-    "value": "11000"
-  },
-  {
-    "agency": "Metro Area Bldg & Construction",
-    "fund": "239062",
-    "lob": "Nuisance Abatement",
-    "program": "Nusiance abatement/lot cleanup",
-    "key": "Nusiance abatement/lot cleanup",
-    "value": "8900"
-  },
-  {
-    "agency": "Metro Area Bldg & Construction",
     "fund": "239062",
     "lob": "Nuisance Abatement",
     "program": "Postage - regular",
@@ -50254,22 +47062,6 @@
     "program": "Other commodities",
     "key": "Other commodities",
     "value": "200"
-  },
-  {
-    "agency": "Metro Area Bldg & Construction",
-    "fund": "239081",
-    "lob": "Code Enforcement",
-    "program": "Solid waste lic/other",
-    "key": "Solid waste lic/other",
-    "value": "92000"
-  },
-  {
-    "agency": "Human Resources",
-    "fund": "240100",
-    "lob": "Human Resources - Operations",
-    "program": "Court ordered withholding admin fees",
-    "key": "Court ordered withholding admin fees",
-    "value": "24000"
   },
   {
     "agency": "Human Resources",
@@ -50603,977 +47395,9 @@
     "agency": "Non Departmental",
     "fund": "300004",
     "lob": "General Fund Revenues",
-    "program": "Drinking establishment",
-    "key": "Drinking establishment",
-    "value": "84240"
-  },
-  {
-    "agency": "Non Departmental",
-    "fund": "300004",
-    "lob": "General Fund Revenues",
-    "program": "Drinking estab - entire hotel",
-    "key": "Drinking estab - entire hotel",
-    "value": "3500"
-  },
-  {
-    "agency": "Non Departmental",
-    "fund": "300004",
-    "lob": "General Fund Revenues",
-    "program": "Drinking estab - hotel caterer",
-    "key": "Drinking estab - hotel caterer",
-    "value": "2750"
-  },
-  {
-    "agency": "Non Departmental",
-    "fund": "300004",
-    "lob": "General Fund Revenues",
-    "program": "Class B - private clubs",
-    "key": "Class B - private clubs",
-    "value": "250"
-  },
-  {
-    "agency": "Non Departmental",
-    "fund": "300004",
-    "lob": "General Fund Revenues",
-    "program": "Class A - Private clubs",
-    "key": "Class A - Private clubs",
-    "value": "3250"
-  },
-  {
-    "agency": "Non Departmental",
-    "fund": "300004",
-    "lob": "General Fund Revenues",
-    "program": "Caterer",
-    "key": "Caterer",
-    "value": "2250"
-  },
-  {
-    "agency": "Non Departmental",
-    "fund": "300004",
-    "lob": "General Fund Revenues",
-    "program": "Temporary permit",
-    "key": "Temporary permit",
-    "value": "2160"
-  },
-  {
-    "agency": "Non Departmental",
-    "fund": "300004",
-    "lob": "General Fund Revenues",
-    "program": "Retailers - cereal malt bev",
-    "key": "Retailers - cereal malt bev",
-    "value": "8300"
-  },
-  {
-    "agency": "Non Departmental",
-    "fund": "300004",
-    "lob": "General Fund Revenues",
-    "program": "Tavern - cereal malt bev",
-    "key": "Tavern - cereal malt bev",
-    "value": "675"
-  },
-  {
-    "agency": "Non Departmental",
-    "fund": "300004",
-    "lob": "General Fund Revenues",
-    "program": "Gen/restaurant - cereal malt bev",
-    "key": "Gen/restaurant - cereal malt bev",
-    "value": "14975"
-  },
-  {
-    "agency": "Non Departmental",
-    "fund": "300004",
-    "lob": "General Fund Revenues",
-    "program": "Special event - cereal malt bev",
-    "key": "Special event - cereal malt bev",
-    "value": "250"
-  },
-  {
-    "agency": "Non Departmental",
-    "fund": "300004",
-    "lob": "General Fund Revenues",
-    "program": "Amusement parks",
-    "key": "Amusement parks",
-    "value": "650"
-  },
-  {
-    "agency": "Non Departmental",
-    "fund": "300004",
-    "lob": "General Fund Revenues",
-    "program": "Amusement rides",
-    "key": "Amusement rides",
-    "value": "6380"
-  },
-  {
-    "agency": "Non Departmental",
-    "fund": "300004",
-    "lob": "General Fund Revenues",
-    "program": "Rodeos/Petting Zoos/Animal Exhibitions",
-    "key": "Rodeos/Petting Zoos/Animal Exhibitions",
-    "value": "2200"
-  },
-  {
-    "agency": "Non Departmental",
-    "fund": "300004",
-    "lob": "General Fund Revenues",
     "program": "Planned savings",
     "key": "Planned savings",
     "value": "-3817477"
-  },
-  {
-    "agency": "Non Departmental",
-    "fund": "300004",
-    "lob": "General Fund Revenues",
-    "program": "Domino table",
-    "key": "Domino table",
-    "value": "160"
-  },
-  {
-    "agency": "Non Departmental",
-    "fund": "300004",
-    "lob": "General Fund Revenues",
-    "program": "Entertainment establishment",
-    "key": "Entertainment establishment",
-    "value": "49675"
-  },
-  {
-    "agency": "Non Departmental",
-    "fund": "300004",
-    "lob": "General Fund Revenues",
-    "program": "Fireworks display/aerial salutes",
-    "key": "Fireworks display/aerial salutes",
-    "value": "4950"
-  },
-  {
-    "agency": "Non Departmental",
-    "fund": "300004",
-    "lob": "General Fund Revenues",
-    "program": "Parade",
-    "key": "Parade",
-    "value": "1050"
-  },
-  {
-    "agency": "Non Departmental",
-    "fund": "300004",
-    "lob": "General Fund Revenues",
-    "program": "Shooting gallery",
-    "key": "Shooting gallery",
-    "value": "262"
-  },
-  {
-    "agency": "Non Departmental",
-    "fund": "300004",
-    "lob": "General Fund Revenues",
-    "program": "Adult special entertainer",
-    "key": "Adult special entertainer",
-    "value": "700"
-  },
-  {
-    "agency": "Non Departmental",
-    "fund": "300004",
-    "lob": "General Fund Revenues",
-    "program": "Theatre",
-    "key": "Theatre",
-    "value": "1400"
-  },
-  {
-    "agency": "Non Departmental",
-    "fund": "300004",
-    "lob": "General Fund Revenues",
-    "program": "Other amusement/recreation",
-    "key": "Other amusement/recreation",
-    "value": "4345"
-  },
-  {
-    "agency": "Non Departmental",
-    "fund": "300004",
-    "lob": "General Fund Revenues",
-    "program": "Property taxes",
-    "key": "Property taxes",
-    "value": "74417796"
-  },
-  {
-    "agency": "Non Departmental",
-    "fund": "300004",
-    "lob": "General Fund Revenues",
-    "program": "Delinquent property taxes",
-    "key": "Delinquent property taxes",
-    "value": "2100000"
-  },
-  {
-    "agency": "Non Departmental",
-    "fund": "300004",
-    "lob": "General Fund Revenues",
-    "program": "IRBs, In-lieu-of-taxes",
-    "key": "IRBs, In-lieu-of-taxes",
-    "value": "50000"
-  },
-  {
-    "agency": "Non Departmental",
-    "fund": "300004",
-    "lob": "General Fund Revenues",
-    "program": "WHA, in-lieu-of-taxes",
-    "key": "WHA, in-lieu-of-taxes",
-    "value": "50000"
-  },
-  {
-    "agency": "Non Departmental",
-    "fund": "300004",
-    "lob": "General Fund Revenues",
-    "program": "Other property taxes",
-    "key": "Other property taxes",
-    "value": "-673776"
-  },
-  {
-    "agency": "Non Departmental",
-    "fund": "300004",
-    "lob": "General Fund Revenues",
-    "program": "Motor vehicle tax",
-    "key": "Motor vehicle tax",
-    "value": "11677933"
-  },
-  {
-    "agency": "Non Departmental",
-    "fund": "300004",
-    "lob": "General Fund Revenues",
-    "program": "Local sales tax",
-    "key": "Local sales tax",
-    "value": "30453231"
-  },
-  {
-    "agency": "Non Departmental",
-    "fund": "300004",
-    "lob": "General Fund Revenues",
-    "program": "Water Utility",
-    "key": "Water Utility",
-    "value": "4396914"
-  },
-  {
-    "agency": "Non Departmental",
-    "fund": "300004",
-    "lob": "General Fund Revenues",
-    "program": "Sewer Utility",
-    "key": "Sewer Utility",
-    "value": "2831191"
-  },
-  {
-    "agency": "Non Departmental",
-    "fund": "300004",
-    "lob": "General Fund Revenues",
-    "program": "SBC/Southwestern Bell",
-    "key": "SBC/Southwestern Bell",
-    "value": "616927"
-  },
-  {
-    "agency": "Non Departmental",
-    "fund": "300004",
-    "lob": "General Fund Revenues",
-    "program": "KGE/Westar",
-    "key": "KGE/Westar",
-    "value": "23815587"
-  },
-  {
-    "agency": "Non Departmental",
-    "fund": "300004",
-    "lob": "General Fund Revenues",
-    "program": "Kansas Gas Service",
-    "key": "Kansas Gas Service",
-    "value": "5587009"
-  },
-  {
-    "agency": "Non Departmental",
-    "fund": "300004",
-    "lob": "General Fund Revenues",
-    "program": "Aquila/Black Hills Utility",
-    "key": "Aquila/Black Hills Utility",
-    "value": "1456220"
-  },
-  {
-    "agency": "Non Departmental",
-    "fund": "300004",
-    "lob": "General Fund Revenues",
-    "program": "COXCOM INC (MULTIMEDIA CABLEVISION)",
-    "key": "COXCOM INC (MULTIMEDIA CABLEVISION)",
-    "value": "3677560"
-  },
-  {
-    "agency": "Non Departmental",
-    "fund": "300004",
-    "lob": "General Fund Revenues",
-    "program": "AT&T - VIDEO SERVICES (SW BELL)",
-    "key": "AT&T - VIDEO SERVICES (SW BELL)",
-    "value": "930569"
-  },
-  {
-    "agency": "Non Departmental",
-    "fund": "300004",
-    "lob": "General Fund Revenues",
-    "program": "Birch Communications",
-    "key": "Birch Communications",
-    "value": "15000"
-  },
-  {
-    "agency": "Non Departmental",
-    "fund": "300004",
-    "lob": "General Fund Revenues",
-    "program": "Adelphia/TelCove/Level 3",
-    "key": "Adelphia/TelCove/Level 3",
-    "value": "150000"
-  },
-  {
-    "agency": "Non Departmental",
-    "fund": "300004",
-    "lob": "General Fund Revenues",
-    "program": "Sedg Co Elec Coop Assoc",
-    "key": "Sedg Co Elec Coop Assoc",
-    "value": "83000"
-  },
-  {
-    "agency": "Non Departmental",
-    "fund": "300004",
-    "lob": "General Fund Revenues",
-    "program": "MCIMetro Access / Verizon",
-    "key": "MCIMetro Access / Verizon",
-    "value": "46000"
-  },
-  {
-    "agency": "Non Departmental",
-    "fund": "300004",
-    "lob": "General Fund Revenues",
-    "program": "CenturyLink Communications/Qwest",
-    "key": "CenturyLink Communications/Qwest",
-    "value": "3000"
-  },
-  {
-    "agency": "Non Departmental",
-    "fund": "300004",
-    "lob": "General Fund Revenues",
-    "program": "XO Communications",
-    "key": "XO Communications",
-    "value": "1800"
-  },
-  {
-    "agency": "Non Departmental",
-    "fund": "300004",
-    "lob": "General Fund Revenues",
-    "program": "Butler REC",
-    "key": "Butler REC",
-    "value": "7600"
-  },
-  {
-    "agency": "Non Departmental",
-    "fund": "300004",
-    "lob": "General Fund Revenues",
-    "program": "Airespring Inc.",
-    "key": "Airespring Inc.",
-    "value": "280"
-  },
-  {
-    "agency": "Non Departmental",
-    "fund": "300004",
-    "lob": "General Fund Revenues",
-    "program": "EarthLink Business/New Edge Network",
-    "key": "EarthLink Business/New Edge Network",
-    "value": "120"
-  },
-  {
-    "agency": "Non Departmental",
-    "fund": "300004",
-    "lob": "General Fund Revenues",
-    "program": "Mitel NetSolutions",
-    "key": "Mitel NetSolutions",
-    "value": "109"
-  },
-  {
-    "agency": "Non Departmental",
-    "fund": "300004",
-    "lob": "General Fund Revenues",
-    "program": "Access Point",
-    "key": "Access Point",
-    "value": "840"
-  },
-  {
-    "agency": "Non Departmental",
-    "fund": "300004",
-    "lob": "General Fund Revenues",
-    "program": "Alarm company license",
-    "key": "Alarm company license",
-    "value": "13100"
-  },
-  {
-    "agency": "Non Departmental",
-    "fund": "300004",
-    "lob": "General Fund Revenues",
-    "program": "Alarm Revenue EDS",
-    "key": "Alarm Revenue EDS",
-    "value": "565000"
-  },
-  {
-    "agency": "Non Departmental",
-    "fund": "300004",
-    "lob": "General Fund Revenues",
-    "program": "Mobile home parks",
-    "key": "Mobile home parks",
-    "value": "24590"
-  },
-  {
-    "agency": "Non Departmental",
-    "fund": "300004",
-    "lob": "General Fund Revenues",
-    "program": "Wells/disposal - oil and gas",
-    "key": "Wells/disposal - oil and gas",
-    "value": "150"
-  },
-  {
-    "agency": "Non Departmental",
-    "fund": "300004",
-    "lob": "General Fund Revenues",
-    "program": "Charter limousine service",
-    "key": "Charter limousine service",
-    "value": "400"
-  },
-  {
-    "agency": "Non Departmental",
-    "fund": "300004",
-    "lob": "General Fund Revenues",
-    "program": "Company - ambulance/medicoach",
-    "key": "Company - ambulance/medicoach",
-    "value": "375"
-  },
-  {
-    "agency": "Non Departmental",
-    "fund": "300004",
-    "lob": "General Fund Revenues",
-    "program": "Driver/EMT - Ambulance",
-    "key": "Driver/EMT - Ambulance",
-    "value": "385"
-  },
-  {
-    "agency": "Non Departmental",
-    "fund": "300004",
-    "lob": "General Fund Revenues",
-    "program": "Emergency wrecker service",
-    "key": "Emergency wrecker service",
-    "value": "1545"
-  },
-  {
-    "agency": "Non Departmental",
-    "fund": "300004",
-    "lob": "General Fund Revenues",
-    "program": "Escort service",
-    "key": "Escort service",
-    "value": "200"
-  },
-  {
-    "agency": "Non Departmental",
-    "fund": "300004",
-    "lob": "General Fund Revenues",
-    "program": "Helistop/heliport",
-    "key": "Helistop/heliport",
-    "value": "300"
-  },
-  {
-    "agency": "Non Departmental",
-    "fund": "300004",
-    "lob": "General Fund Revenues",
-    "program": "Taxicab company",
-    "key": "Taxicab company",
-    "value": "600"
-  },
-  {
-    "agency": "Non Departmental",
-    "fund": "300004",
-    "lob": "General Fund Revenues",
-    "program": "Taxicab driver",
-    "key": "Taxicab driver",
-    "value": "1860"
-  },
-  {
-    "agency": "Non Departmental",
-    "fund": "300004",
-    "lob": "General Fund Revenues",
-    "program": "Exotic Animals",
-    "key": "Exotic Animals",
-    "value": "200"
-  },
-  {
-    "agency": "Non Departmental",
-    "fund": "300004",
-    "lob": "General Fund Revenues",
-    "program": "Auction house",
-    "key": "Auction house",
-    "value": "1500"
-  },
-  {
-    "agency": "Non Departmental",
-    "fund": "300004",
-    "lob": "General Fund Revenues",
-    "program": "Auction sale",
-    "key": "Auction sale",
-    "value": "90"
-  },
-  {
-    "agency": "Non Departmental",
-    "fund": "300004",
-    "lob": "General Fund Revenues",
-    "program": "Auto wrecking",
-    "key": "Auto wrecking",
-    "value": "4200"
-  },
-  {
-    "agency": "Non Departmental",
-    "fund": "300004",
-    "lob": "General Fund Revenues",
-    "program": "Coin-operated amuse/misc dev",
-    "key": "Coin-operated amuse/misc dev",
-    "value": "16674"
-  },
-  {
-    "agency": "Non Departmental",
-    "fund": "300004",
-    "lob": "General Fund Revenues",
-    "program": "Westar 1% increment",
-    "key": "Westar 1% increment",
-    "value": "4763118"
-  },
-  {
-    "agency": "Non Departmental",
-    "fund": "300004",
-    "lob": "General Fund Revenues",
-    "program": "Itinerant merchant",
-    "key": "Itinerant merchant",
-    "value": "7265"
-  },
-  {
-    "agency": "Non Departmental",
-    "fund": "300004",
-    "lob": "General Fund Revenues",
-    "program": "Misc sale",
-    "key": "Misc sale",
-    "value": "25753"
-  },
-  {
-    "agency": "Non Departmental",
-    "fund": "300004",
-    "lob": "General Fund Revenues",
-    "program": "Scrap processor",
-    "key": "Scrap processor",
-    "value": "6400"
-  },
-  {
-    "agency": "Non Departmental",
-    "fund": "300004",
-    "lob": "General Fund Revenues",
-    "program": "Secondhand dealer",
-    "key": "Secondhand dealer",
-    "value": "22460"
-  },
-  {
-    "agency": "Non Departmental",
-    "fund": "300004",
-    "lob": "General Fund Revenues",
-    "program": "Street merchandise vendor",
-    "key": "Street merchandise vendor",
-    "value": "10380"
-  },
-  {
-    "agency": "Non Departmental",
-    "fund": "300004",
-    "lob": "General Fund Revenues",
-    "program": "Advertising - signs/bills/posters",
-    "key": "Advertising - signs/bills/posters",
-    "value": "1640"
-  },
-  {
-    "agency": "Non Departmental",
-    "fund": "300004",
-    "lob": "General Fund Revenues",
-    "program": "Advertising - vehicular",
-    "key": "Advertising - vehicular",
-    "value": "175"
-  },
-  {
-    "agency": "Non Departmental",
-    "fund": "300004",
-    "lob": "General Fund Revenues",
-    "program": "Auctioneer",
-    "key": "Auctioneer",
-    "value": "310"
-  },
-  {
-    "agency": "Non Departmental",
-    "fund": "300004",
-    "lob": "General Fund Revenues",
-    "program": "Clairvoyant",
-    "key": "Clairvoyant",
-    "value": "100"
-  },
-  {
-    "agency": "Non Departmental",
-    "fund": "300004",
-    "lob": "General Fund Revenues",
-    "program": "Pawnbroker",
-    "key": "Pawnbroker",
-    "value": "11000"
-  },
-  {
-    "agency": "Non Departmental",
-    "fund": "300004",
-    "lob": "General Fund Revenues",
-    "program": "Precious metal dealer",
-    "key": "Precious metal dealer",
-    "value": "6375"
-  },
-  {
-    "agency": "Non Departmental",
-    "fund": "300004",
-    "lob": "General Fund Revenues",
-    "program": "Private merchant police",
-    "key": "Private merchant police",
-    "value": "5200"
-  },
-  {
-    "agency": "Non Departmental",
-    "fund": "300004",
-    "lob": "General Fund Revenues",
-    "program": "Charitable solicitation",
-    "key": "Charitable solicitation",
-    "value": "1260"
-  },
-  {
-    "agency": "Non Departmental",
-    "fund": "300004",
-    "lob": "General Fund Revenues",
-    "program": "Right of Way ",
-    "key": "Right of Way ",
-    "value": "2645"
-  },
-  {
-    "agency": "Non Departmental",
-    "fund": "300004",
-    "lob": "General Fund Revenues",
-    "program": "Other licenses",
-    "key": "Other licenses",
-    "value": "9000"
-  },
-  {
-    "agency": "Non Departmental",
-    "fund": "300004",
-    "lob": "General Fund Revenues",
-    "program": "Private club liquor tax",
-    "key": "Private club liquor tax",
-    "value": "2082903"
-  },
-  {
-    "agency": "Non Departmental",
-    "fund": "300004",
-    "lob": "General Fund Revenues",
-    "program": "Sale of services/commodities",
-    "key": "Sale of services/commodities",
-    "value": "12200"
-  },
-  {
-    "agency": "Non Departmental",
-    "fund": "300004",
-    "lob": "General Fund Revenues",
-    "program": "Printed materials",
-    "key": "Printed materials",
-    "value": "80"
-  },
-  {
-    "agency": "Non Departmental",
-    "fund": "300004",
-    "lob": "General Fund Revenues",
-    "program": "Other",
-    "key": "Other",
-    "value": "7837139"
-  },
-  {
-    "agency": "Non Departmental",
-    "fund": "300004",
-    "lob": "General Fund Revenues",
-    "program": "Other health services and sales",
-    "key": "Other health services and sales",
-    "value": "300000"
-  },
-  {
-    "agency": "Non Departmental",
-    "fund": "300004",
-    "lob": "General Fund Revenues",
-    "program": "Sale of property-Land",
-    "key": "Sale of property-Land",
-    "value": "200000"
-  },
-  {
-    "agency": "Non Departmental",
-    "fund": "300004",
-    "lob": "General Fund Revenues",
-    "program": "Rent/Lease-Office space",
-    "key": "Rent/Lease-Office space",
-    "value": "14425"
-  },
-  {
-    "agency": "Non Departmental",
-    "fund": "300004",
-    "lob": "General Fund Revenues",
-    "program": "Rent - Other Bldg and Parking rent/lease",
-    "key": "Rent - Other Bldg and Parking rent/lease",
-    "value": "55000"
-  },
-  {
-    "agency": "Non Departmental",
-    "fund": "300004",
-    "lob": "General Fund Revenues",
-    "program": "Idle fund investments",
-    "key": "Idle fund investments",
-    "value": "1200000"
-  },
-  {
-    "agency": "Non Departmental",
-    "fund": "300004",
-    "lob": "General Fund Revenues",
-    "program": "Jury duty",
-    "key": "Jury duty",
-    "value": "1800"
-  },
-  {
-    "agency": "Non Departmental",
-    "fund": "300004",
-    "lob": "General Fund Revenues",
-    "program": "Reimbursements",
-    "key": "Reimbursements",
-    "value": "30000"
-  },
-  {
-    "agency": "Non Departmental",
-    "fund": "300004",
-    "lob": "General Fund Revenues",
-    "program": "Reimbursed expend-interfund & interdept",
-    "key": "Reimbursed expend-interfund & interdept",
-    "value": "577627"
-  },
-  {
-    "agency": "Non Departmental",
-    "fund": "300004",
-    "lob": "General Fund Revenues",
-    "program": "Convention and Tourism",
-    "key": "Convention and Tourism",
-    "value": "2577"
-  },
-  {
-    "agency": "Non Departmental",
-    "fund": "300004",
-    "lob": "General Fund Revenues",
-    "program": "Landfill",
-    "key": "Landfill",
-    "value": "12042"
-  },
-  {
-    "agency": "Non Departmental",
-    "fund": "300004",
-    "lob": "General Fund Revenues",
-    "program": "Central Inspection",
-    "key": "Central Inspection",
-    "value": "275247"
-  },
-  {
-    "agency": "Non Departmental",
-    "fund": "300004",
-    "lob": "General Fund Revenues",
-    "program": "Special Alcohol programs",
-    "key": "Special Alcohol programs",
-    "value": "5810"
-  },
-  {
-    "agency": "Non Departmental",
-    "fund": "300004",
-    "lob": "General Fund Revenues",
-    "program": "State Office Building",
-    "key": "State Office Building",
-    "value": "1901"
-  },
-  {
-    "agency": "Non Departmental",
-    "fund": "300004",
-    "lob": "General Fund Revenues",
-    "program": "Admin Fees Special Revenue Funds",
-    "key": "Admin Fees Special Revenue Funds",
-    "value": "22395"
-  },
-  {
-    "agency": "Non Departmental",
-    "fund": "300004",
-    "lob": "General Fund Revenues",
-    "program": "Water Utility",
-    "key": "Water Utility",
-    "value": "793841"
-  },
-  {
-    "agency": "Non Departmental",
-    "fund": "300004",
-    "lob": "General Fund Revenues",
-    "program": "Sewer Utility",
-    "key": "Sewer Utility",
-    "value": "305416"
-  },
-  {
-    "agency": "Non Departmental",
-    "fund": "300004",
-    "lob": "General Fund Revenues",
-    "program": "Wichita Transit",
-    "key": "Wichita Transit",
-    "value": "330345"
-  },
-  {
-    "agency": "Non Departmental",
-    "fund": "300004",
-    "lob": "General Fund Revenues",
-    "program": "Airport Authority",
-    "key": "Airport Authority",
-    "value": "233287"
-  },
-  {
-    "agency": "Non Departmental",
-    "fund": "300004",
-    "lob": "General Fund Revenues",
-    "program": "Golf Course System",
-    "key": "Golf Course System",
-    "value": "196567"
-  },
-  {
-    "agency": "Non Departmental",
-    "fund": "300004",
-    "lob": "General Fund Revenues",
-    "program": "Storm Water Utility",
-    "key": "Storm Water Utility",
-    "value": "174300"
-  },
-  {
-    "agency": "Non Departmental",
-    "fund": "300004",
-    "lob": "General Fund Revenues",
-    "program": "Equipment Motor Pool",
-    "key": "Equipment Motor Pool",
-    "value": "289588"
-  },
-  {
-    "agency": "Non Departmental",
-    "fund": "300004",
-    "lob": "General Fund Revenues",
-    "program": "Group Life Insurance",
-    "key": "Group Life Insurance",
-    "value": "649"
-  },
-  {
-    "agency": "Non Departmental",
-    "fund": "300004",
-    "lob": "General Fund Revenues",
-    "program": "Data Processing ",
-    "key": "Data Processing ",
-    "value": "408317"
-  },
-  {
-    "agency": "Non Departmental",
-    "fund": "300004",
-    "lob": "General Fund Revenues",
-    "program": "Self Insurance",
-    "key": "Self Insurance",
-    "value": "14200"
-  },
-  {
-    "agency": "Non Departmental",
-    "fund": "300004",
-    "lob": "General Fund Revenues",
-    "program": "Worker's Compensation",
-    "key": "Worker's Compensation",
-    "value": "30905"
-  },
-  {
-    "agency": "Non Departmental",
-    "fund": "300004",
-    "lob": "General Fund Revenues",
-    "program": "Self Insurance-group health",
-    "key": "Self Insurance-group health",
-    "value": "52411"
-  },
-  {
-    "agency": "Non Departmental",
-    "fund": "300004",
-    "lob": "General Fund Revenues",
-    "program": "Employees' Retirement",
-    "key": "Employees' Retirement",
-    "value": "23669"
-  },
-  {
-    "agency": "Non Departmental",
-    "fund": "300004",
-    "lob": "General Fund Revenues",
-    "program": "Police & Fire Retirement",
-    "key": "Police & Fire Retirement",
-    "value": "23669"
-  },
-  {
-    "agency": "Non Departmental",
-    "fund": "300004",
-    "lob": "General Fund Revenues",
-    "program": "Economic Development",
-    "key": "Economic Development",
-    "value": "97522"
-  },
-  {
-    "agency": "Non Departmental",
-    "fund": "300004",
-    "lob": "General Fund Revenues",
-    "program": "Federal/State budgets",
-    "key": "Federal/State budgets",
-    "value": "197175"
-  },
-  {
-    "agency": "Non Departmental",
-    "fund": "300004",
-    "lob": "General Fund Revenues",
-    "program": "Wichita Housing Authority",
-    "key": "Wichita Housing Authority",
-    "value": "211519"
-  },
-  {
-    "agency": "Non Departmental",
-    "fund": "300004",
-    "lob": "General Fund Revenues",
-    "program": "Tax Increment Financing Funds (TIF)",
-    "key": "Tax Increment Financing Funds (TIF)",
-    "value": "11219"
-  },
-  {
-    "agency": "Non Departmental",
-    "fund": "300004",
-    "lob": "General Fund Revenues",
-    "program": "Interfund transfers",
-    "key": "Interfund transfers",
-    "value": "5000750"
-  },
-  {
-    "agency": "Non Departmental",
-    "fund": "300004",
-    "lob": "General Fund Revenues",
-    "program": "Bus. term./stock liquidation",
-    "key": "Bus. term./stock liquidation",
-    "value": "720"
-  },
-  {
-    "agency": "Non Departmental",
-    "fund": "300046",
-    "lob": "Tourism & Convention revenues",
-    "program": "Transient guest tax",
-    "key": "Transient guest tax",
-    "value": "7167201"
-  },
-  {
-    "agency": "Department of Finance",
-    "fund": "300095",
-    "lob": "Debt Service Fund",
-    "program": "Interfund transfers",
-    "key": "Interfund transfers",
-    "value": "27944551"
   },
   {
     "agency": "Department of Finance",
@@ -51622,622 +47446,6 @@
     "program": "Interest - temporary notes payment",
     "key": "Interest - temporary notes payment",
     "value": "22000000"
-  },
-  {
-    "agency": "Department of Finance",
-    "fund": "300095",
-    "lob": "Debt Service Fund",
-    "program": "Local sales tax",
-    "key": "Local sales tax",
-    "value": "400000"
-  },
-  {
-    "agency": "Department of Finance",
-    "fund": "300095",
-    "lob": "Debt Service Fund",
-    "program": "Premium on sale of bonds/notes",
-    "key": "Premium on sale of bonds/notes",
-    "value": "500000"
-  },
-  {
-    "agency": "Department of Finance",
-    "fund": "300095",
-    "lob": "Debt Service Fund",
-    "program": "Loan repayment - principal",
-    "key": "Loan repayment - principal",
-    "value": "286500"
-  },
-  {
-    "agency": "Department of Finance",
-    "fund": "300095",
-    "lob": "Debt Service Fund",
-    "program": "Property taxes",
-    "key": "Property taxes",
-    "value": "26153612"
-  },
-  {
-    "agency": "Department of Finance",
-    "fund": "300095",
-    "lob": "Debt Service Fund",
-    "program": "Delinquent property taxes",
-    "key": "Delinquent property taxes",
-    "value": "900000"
-  },
-  {
-    "agency": "Department of Finance",
-    "fund": "300095",
-    "lob": "Debt Service Fund",
-    "program": "IRBs, In-lieu-of-taxes",
-    "key": "IRBs, In-lieu-of-taxes",
-    "value": "10000"
-  },
-  {
-    "agency": "Department of Finance",
-    "fund": "300095",
-    "lob": "Debt Service Fund",
-    "program": "Other property taxes",
-    "key": "Other property taxes",
-    "value": "-238767"
-  },
-  {
-    "agency": "Department of Finance",
-    "fund": "300095",
-    "lob": "Debt Service Fund",
-    "program": "Special assessments",
-    "key": "Special assessments",
-    "value": "27090607"
-  },
-  {
-    "agency": "Department of Finance",
-    "fund": "300095",
-    "lob": "Debt Service Fund",
-    "program": "Delinquent special assessments",
-    "key": "Delinquent special assessments",
-    "value": "1750000"
-  },
-  {
-    "agency": "Department of Finance",
-    "fund": "300095",
-    "lob": "Debt Service Fund",
-    "program": "Advance pymts-special assess",
-    "key": "Advance pymts-special assess",
-    "value": "1036000"
-  },
-  {
-    "agency": "Department of Finance",
-    "fund": "300095",
-    "lob": "Debt Service Fund",
-    "program": "Utility delinquent specials",
-    "key": "Utility delinquent specials",
-    "value": "441574"
-  },
-  {
-    "agency": "Department of Finance",
-    "fund": "300095",
-    "lob": "Debt Service Fund",
-    "program": "Motor vehicle tax",
-    "key": "Motor vehicle tax",
-    "value": "4104128"
-  },
-  {
-    "agency": "Airport",
-    "fund": "300103",
-    "lob": "MID-CONTINENT AIRPORT REVENUES",
-    "program": "Non-scheduled airlines",
-    "key": "Non-scheduled airlines",
-    "value": "13870"
-  },
-  {
-    "agency": "Airport",
-    "fund": "300103",
-    "lob": "MID-CONTINENT AIRPORT REVENUES",
-    "program": "Cargo airlines",
-    "key": "Cargo airlines",
-    "value": "656838"
-  },
-  {
-    "agency": "Airport",
-    "fund": "300103",
-    "lob": "MID-CONTINENT AIRPORT REVENUES",
-    "program": "Apron fees",
-    "key": "Apron fees",
-    "value": "144750"
-  },
-  {
-    "agency": "Airport",
-    "fund": "300103",
-    "lob": "MID-CONTINENT AIRPORT REVENUES",
-    "program": "Cargo parking fees",
-    "key": "Cargo parking fees",
-    "value": "109554"
-  },
-  {
-    "agency": "Airport",
-    "fund": "300103",
-    "lob": "MID-CONTINENT AIRPORT REVENUES",
-    "program": "Cargo freight charges",
-    "key": "Cargo freight charges",
-    "value": "51508"
-  },
-  {
-    "agency": "Airport",
-    "fund": "300103",
-    "lob": "MID-CONTINENT AIRPORT REVENUES",
-    "program": "Meeting rooms",
-    "key": "Meeting rooms",
-    "value": "1000"
-  },
-  {
-    "agency": "Airport",
-    "fund": "300103",
-    "lob": "MID-CONTINENT AIRPORT REVENUES",
-    "program": "Fixed base operators",
-    "key": "Fixed base operators",
-    "value": "823661"
-  },
-  {
-    "agency": "Airport",
-    "fund": "300103",
-    "lob": "MID-CONTINENT AIRPORT REVENUES",
-    "program": "Aircraft service",
-    "key": "Aircraft service",
-    "value": "269930"
-  },
-  {
-    "agency": "Airport",
-    "fund": "300103",
-    "lob": "MID-CONTINENT AIRPORT REVENUES",
-    "program": "Industrial agencies",
-    "key": "Industrial agencies",
-    "value": "1885366"
-  },
-  {
-    "agency": "Airport",
-    "fund": "300103",
-    "lob": "MID-CONTINENT AIRPORT REVENUES",
-    "program": "All risk insurance ",
-    "key": "All risk insurance ",
-    "value": "11560"
-  },
-  {
-    "agency": "Airport",
-    "fund": "300103",
-    "lob": "MID-CONTINENT AIRPORT REVENUES",
-    "program": "Federal government",
-    "key": "Federal government",
-    "value": "589138"
-  },
-  {
-    "agency": "Airport",
-    "fund": "300103",
-    "lob": "MID-CONTINENT AIRPORT REVENUES",
-    "program": "Fuel storage",
-    "key": "Fuel storage",
-    "value": "350000"
-  },
-  {
-    "agency": "Airport",
-    "fund": "300103",
-    "lob": "MID-CONTINENT AIRPORT REVENUES",
-    "program": "Air cargo building",
-    "key": "Air cargo building",
-    "value": "421477"
-  },
-  {
-    "agency": "Airport",
-    "fund": "300103",
-    "lob": "MID-CONTINENT AIRPORT REVENUES",
-    "program": "Other hangar rent",
-    "key": "Other hangar rent",
-    "value": "1719126"
-  },
-  {
-    "agency": "Airport",
-    "fund": "300103",
-    "lob": "MID-CONTINENT AIRPORT REVENUES",
-    "program": "Airlines",
-    "key": "Airlines",
-    "value": "3187813"
-  },
-  {
-    "agency": "Airport",
-    "fund": "300103",
-    "lob": "MID-CONTINENT AIRPORT REVENUES",
-    "program": "Food service",
-    "key": "Food service",
-    "value": "570145"
-  },
-  {
-    "agency": "Airport",
-    "fund": "300103",
-    "lob": "MID-CONTINENT AIRPORT REVENUES",
-    "program": "Office tenants",
-    "key": "Office tenants",
-    "value": "293029"
-  },
-  {
-    "agency": "Airport",
-    "fund": "300103",
-    "lob": "MID-CONTINENT AIRPORT REVENUES",
-    "program": "Car rental agencies",
-    "key": "Car rental agencies",
-    "value": "3424898"
-  },
-  {
-    "agency": "Airport",
-    "fund": "300103",
-    "lob": "MID-CONTINENT AIRPORT REVENUES",
-    "program": "Coin operated services",
-    "key": "Coin operated services",
-    "value": "1000"
-  },
-  {
-    "agency": "Airport",
-    "fund": "300103",
-    "lob": "MID-CONTINENT AIRPORT REVENUES",
-    "program": "Automobile parking",
-    "key": "Automobile parking",
-    "value": "7460919"
-  },
-  {
-    "agency": "Airport",
-    "fund": "300103",
-    "lob": "MID-CONTINENT AIRPORT REVENUES",
-    "program": "Advertising",
-    "key": "Advertising",
-    "value": "255626"
-  },
-  {
-    "agency": "Airport",
-    "fund": "300103",
-    "lob": "MID-CONTINENT AIRPORT REVENUES",
-    "program": "Ground transportation",
-    "key": "Ground transportation",
-    "value": "46600"
-  },
-  {
-    "agency": "Airport",
-    "fund": "300103",
-    "lob": "MID-CONTINENT AIRPORT REVENUES",
-    "program": "Advertising",
-    "key": "Advertising",
-    "value": "3300"
-  },
-  {
-    "agency": "Airport",
-    "fund": "300103",
-    "lob": "MID-CONTINENT AIRPORT REVENUES",
-    "program": "Rent - Other Bldg and Parking rent/lease",
-    "key": "Rent - Other Bldg and Parking rent/lease",
-    "value": "58641"
-  },
-  {
-    "agency": "Airport",
-    "fund": "300103",
-    "lob": "MID-CONTINENT AIRPORT REVENUES",
-    "program": "PFC contributions (Airport)",
-    "key": "PFC contributions (Airport)",
-    "value": "3165011"
-  },
-  {
-    "agency": "Airport",
-    "fund": "300103",
-    "lob": "MID-CONTINENT AIRPORT REVENUES",
-    "program": "Miscellaneous revenue",
-    "key": "Miscellaneous revenue",
-    "value": "35000"
-  },
-  {
-    "agency": "Airport",
-    "fund": "300103",
-    "lob": "MID-CONTINENT AIRPORT REVENUES",
-    "program": "Tenant charges",
-    "key": "Tenant charges",
-    "value": "30000"
-  },
-  {
-    "agency": "Airport",
-    "fund": "300103",
-    "lob": "MID-CONTINENT AIRPORT REVENUES",
-    "program": "Gate cards",
-    "key": "Gate cards",
-    "value": "75000"
-  },
-  {
-    "agency": "Airport",
-    "fund": "300103",
-    "lob": "MID-CONTINENT AIRPORT REVENUES",
-    "program": "Sale of property-Vehicles",
-    "key": "Sale of property-Vehicles",
-    "value": "25000"
-  },
-  {
-    "agency": "Airport",
-    "fund": "300103",
-    "lob": "MID-CONTINENT AIRPORT REVENUES",
-    "program": "Electricity",
-    "key": "Electricity",
-    "value": "1971000"
-  },
-  {
-    "agency": "Airport",
-    "fund": "300103",
-    "lob": "MID-CONTINENT AIRPORT REVENUES",
-    "program": "Water",
-    "key": "Water",
-    "value": "4000"
-  },
-  {
-    "agency": "Airport",
-    "fund": "300103",
-    "lob": "MID-CONTINENT AIRPORT REVENUES",
-    "program": "Natural gas",
-    "key": "Natural gas",
-    "value": "622000"
-  },
-  {
-    "agency": "Airport",
-    "fund": "300103",
-    "lob": "MID-CONTINENT AIRPORT REVENUES",
-    "program": "Aviation fuel",
-    "key": "Aviation fuel",
-    "value": "536661"
-  },
-  {
-    "agency": "Airport",
-    "fund": "300103",
-    "lob": "MID-CONTINENT AIRPORT REVENUES",
-    "program": "Other utilities and commodities",
-    "key": "Other utilities and commodities",
-    "value": "14290"
-  },
-  {
-    "agency": "Airport",
-    "fund": "300103",
-    "lob": "MID-CONTINENT AIRPORT REVENUES",
-    "program": "Jobbing and contracts",
-    "key": "Jobbing and contracts",
-    "value": "35000"
-  },
-  {
-    "agency": "Airport",
-    "fund": "300103",
-    "lob": "MID-CONTINENT AIRPORT REVENUES",
-    "program": "Other services",
-    "key": "Other services",
-    "value": "290000"
-  },
-  {
-    "agency": "Airport",
-    "fund": "300103",
-    "lob": "MID-CONTINENT AIRPORT REVENUES",
-    "program": "Sale of crops",
-    "key": "Sale of crops",
-    "value": "5244"
-  },
-  {
-    "agency": "Airport",
-    "fund": "300103",
-    "lob": "MID-CONTINENT AIRPORT REVENUES",
-    "program": "Other sales",
-    "key": "Other sales",
-    "value": "40000"
-  },
-  {
-    "agency": "Airport",
-    "fund": "300103",
-    "lob": "MID-CONTINENT AIRPORT REVENUES",
-    "program": "Scheduled airlines",
-    "key": "Scheduled airlines",
-    "value": "2982513"
-  },
-  {
-    "agency": "Airport",
-    "fund": "300111",
-    "lob": "JABARA AIRPORT REVENUES",
-    "program": "Sale of crops",
-    "key": "Sale of crops",
-    "value": "2214"
-  },
-  {
-    "agency": "Airport",
-    "fund": "300111",
-    "lob": "JABARA AIRPORT REVENUES",
-    "program": "Aviation fuel",
-    "key": "Aviation fuel",
-    "value": "73552"
-  },
-  {
-    "agency": "Airport",
-    "fund": "300111",
-    "lob": "JABARA AIRPORT REVENUES",
-    "program": "Other services",
-    "key": "Other services",
-    "value": "2550"
-  },
-  {
-    "agency": "Airport",
-    "fund": "300111",
-    "lob": "JABARA AIRPORT REVENUES",
-    "program": "Fixed base operators",
-    "key": "Fixed base operators",
-    "value": "258748"
-  },
-  {
-    "agency": "Airport",
-    "fund": "300111",
-    "lob": "JABARA AIRPORT REVENUES",
-    "program": "Other hangar rent",
-    "key": "Other hangar rent",
-    "value": "102827"
-  },
-  {
-    "agency": "Airport",
-    "fund": "300111",
-    "lob": "JABARA AIRPORT REVENUES",
-    "program": "Rent - Other Bldg and Parking rent/lease",
-    "key": "Rent - Other Bldg and Parking rent/lease",
-    "value": "121524"
-  },
-  {
-    "agency": "Airport",
-    "fund": "300118",
-    "lob": "Customer Facility Charge (CFC)",
-    "program": "Customer Facility Charge (CFC)",
-    "key": "Customer Facility Charge (CFC)",
-    "value": "466444"
-  },
-  {
-    "agency": "Transit",
-    "fund": "300129",
-    "lob": "MTA Administration",
-    "program": "SRS flash passes",
-    "key": "SRS flash passes",
-    "value": "4160"
-  },
-  {
-    "agency": "Transit",
-    "fund": "300129",
-    "lob": "MTA Administration",
-    "program": "Adult Bus Fares Farebox",
-    "key": "Adult Bus Fares Farebox",
-    "value": "926940"
-  },
-  {
-    "agency": "Transit",
-    "fund": "300129",
-    "lob": "MTA Administration",
-    "program": "Youth passes",
-    "key": "Youth passes",
-    "value": "15580"
-  },
-  {
-    "agency": "Transit",
-    "fund": "300129",
-    "lob": "MTA Administration",
-    "program": "Half-Fare Single Ride",
-    "key": "Half-Fare Single Ride",
-    "value": "130370"
-  },
-  {
-    "agency": "Transit",
-    "fund": "300129",
-    "lob": "MTA Administration",
-    "program": "Van Fares Farebox",
-    "key": "Van Fares Farebox",
-    "value": "41580"
-  },
-  {
-    "agency": "Transit",
-    "fund": "300129",
-    "lob": "MTA Administration",
-    "program": "Interfund transfers",
-    "key": "Interfund transfers",
-    "value": "3775080"
-  },
-  {
-    "agency": "Transit",
-    "fund": "300129",
-    "lob": "MTA Administration",
-    "program": "Vending machines",
-    "key": "Vending machines",
-    "value": "7000"
-  },
-  {
-    "agency": "Transit",
-    "fund": "300129",
-    "lob": "MTA Administration",
-    "program": "Gate cards",
-    "key": "Gate cards",
-    "value": "1000"
-  },
-  {
-    "agency": "Transit",
-    "fund": "300129",
-    "lob": "MTA Administration",
-    "program": "Advertising",
-    "key": "Advertising",
-    "value": "75000"
-  },
-  {
-    "agency": "Transit",
-    "fund": "300129",
-    "lob": "MTA Administration",
-    "program": "Rent - Other Bldg and Parking rent/lease",
-    "key": "Rent - Other Bldg and Parking rent/lease",
-    "value": "24000"
-  },
-  {
-    "agency": "Transit",
-    "fund": "300129",
-    "lob": "MTA Administration",
-    "program": "Reimbursements",
-    "key": "Reimbursements",
-    "value": "43339"
-  },
-  {
-    "agency": "Transit",
-    "fund": "300129",
-    "lob": "MTA Administration",
-    "program": "Van 10 Ride",
-    "key": "Van 10 Ride",
-    "value": "1600"
-  },
-  {
-    "agency": "Transit",
-    "fund": "300129",
-    "lob": "MTA Administration",
-    "program": "Adult Single Ride",
-    "key": "Adult Single Ride",
-    "value": "548210"
-  },
-  {
-    "agency": "Transit",
-    "fund": "300129",
-    "lob": "MTA Administration",
-    "program": "Other",
-    "key": "Other",
-    "value": "2740"
-  },
-  {
-    "agency": "Transit",
-    "fund": "300129",
-    "lob": "MTA Administration",
-    "program": "Monthly Pass",
-    "key": "Monthly Pass",
-    "value": "19730"
-  },
-  {
-    "agency": "Transit",
-    "fund": "300129",
-    "lob": "MTA Administration",
-    "program": "Van 20 Ride",
-    "key": "Van 20 Ride",
-    "value": "219090"
-  },
-  {
-    "agency": "Non Departmental",
-    "fund": "300418",
-    "lob": "Special Highway Gas Tax Revenue",
-    "program": "Gas tax - direct",
-    "key": "Gas tax - direct",
-    "value": "10265970"
-  },
-  {
-    "agency": "Non Departmental",
-    "fund": "300418",
-    "lob": "Special Highway Gas Tax Revenue",
-    "program": "Gas tax - via SG County",
-    "key": "Gas tax - via SG County",
-    "value": "4547839"
-  },
-  {
-    "agency": "Non Departmental",
-    "fund": "300418",
-    "lob": "Special Highway Gas Tax Revenue",
-    "program": "Highway LINK maintenance payments",
-    "key": "Highway LINK maintenance payments",
-    "value": "100000"
   },
   {
     "agency": "Public Works & Utilities",
@@ -53590,430 +48798,6 @@
     "program": "Computer/Printer",
     "key": "Computer/Printer",
     "value": "700"
-  },
-  {
-    "agency": "Public Works & Utilities",
-    "fund": "185009",
-    "lob": "WATER UTILITY REVENUE",
-    "program": "Wholesale sales",
-    "key": "Wholesale sales",
-    "value": "5440867"
-  },
-  {
-    "agency": "Public Works & Utilities",
-    "fund": "185009",
-    "lob": "WATER UTILITY REVENUE",
-    "program": "Retail Volume Contract - Water",
-    "key": "Retail Volume Contract - Water",
-    "value": "1892122"
-  },
-  {
-    "agency": "Public Works & Utilities",
-    "fund": "185009",
-    "lob": "WATER UTILITY REVENUE",
-    "program": "Bad debt charge collections",
-    "key": "Bad debt charge collections",
-    "value": "7000"
-  },
-  {
-    "agency": "Public Works & Utilities",
-    "fund": "185009",
-    "lob": "WATER UTILITY REVENUE",
-    "program": "Backflow charges",
-    "key": "Backflow charges",
-    "value": "245000"
-  },
-  {
-    "agency": "Public Works & Utilities",
-    "fund": "185009",
-    "lob": "WATER UTILITY REVENUE",
-    "program": "Bulk sales (water or septic)",
-    "key": "Bulk sales (water or septic)",
-    "value": "370000"
-  },
-  {
-    "agency": "Public Works & Utilities",
-    "fund": "185009",
-    "lob": "WATER UTILITY REVENUE",
-    "program": "Flat rate residential",
-    "key": "Flat rate residential",
-    "value": "1000"
-  },
-  {
-    "agency": "Public Works & Utilities",
-    "fund": "185009",
-    "lob": "WATER UTILITY REVENUE",
-    "program": "Commercial fire hydrant service",
-    "key": "Commercial fire hydrant service",
-    "value": "485000"
-  },
-  {
-    "agency": "Public Works & Utilities",
-    "fund": "185009",
-    "lob": "WATER UTILITY REVENUE",
-    "program": "Code inspection fees",
-    "key": "Code inspection fees",
-    "value": "6000"
-  },
-  {
-    "agency": "Public Works & Utilities",
-    "fund": "185009",
-    "lob": "WATER UTILITY REVENUE",
-    "program": "Account origination/transfer fees",
-    "key": "Account origination/transfer fees",
-    "value": "410000"
-  },
-  {
-    "agency": "Public Works & Utilities",
-    "fund": "185009",
-    "lob": "WATER UTILITY REVENUE",
-    "program": "Priority service charge",
-    "key": "Priority service charge",
-    "value": "5000"
-  },
-  {
-    "agency": "Public Works & Utilities",
-    "fund": "185009",
-    "lob": "WATER UTILITY REVENUE",
-    "program": "Lawn connection fees",
-    "key": "Lawn connection fees",
-    "value": "500"
-  },
-  {
-    "agency": "Public Works & Utilities",
-    "fund": "185009",
-    "lob": "WATER UTILITY REVENUE",
-    "program": "Turn on/off for non-payment",
-    "key": "Turn on/off for non-payment",
-    "value": "160000"
-  },
-  {
-    "agency": "Public Works & Utilities",
-    "fund": "185009",
-    "lob": "WATER UTILITY REVENUE",
-    "program": "Late payment charges",
-    "key": "Late payment charges",
-    "value": "330000"
-  },
-  {
-    "agency": "Public Works & Utilities",
-    "fund": "185009",
-    "lob": "WATER UTILITY REVENUE",
-    "program": "Plant equity fees",
-    "key": "Plant equity fees",
-    "value": "1550000"
-  },
-  {
-    "agency": "Public Works & Utilities",
-    "fund": "185009",
-    "lob": "WATER UTILITY REVENUE",
-    "program": "1 inch service and meter sets",
-    "key": "1 inch service and meter sets",
-    "value": "700000"
-  },
-  {
-    "agency": "Public Works & Utilities",
-    "fund": "185009",
-    "lob": "WATER UTILITY REVENUE",
-    "program": "2 inch service and meter sets",
-    "key": "2 inch service and meter sets",
-    "value": "175000"
-  },
-  {
-    "agency": "Public Works & Utilities",
-    "fund": "185009",
-    "lob": "WATER UTILITY REVENUE",
-    "program": "Payment in absence of S.A.",
-    "key": "Payment in absence of S.A.",
-    "value": "20000"
-  },
-  {
-    "agency": "Public Works & Utilities",
-    "fund": "185009",
-    "lob": "WATER UTILITY REVENUE",
-    "program": "Industrial lab services",
-    "key": "Industrial lab services",
-    "value": "1400"
-  },
-  {
-    "agency": "Public Works & Utilities",
-    "fund": "185009",
-    "lob": "WATER UTILITY REVENUE",
-    "program": "Sale of scrap",
-    "key": "Sale of scrap",
-    "value": "72500"
-  },
-  {
-    "agency": "Public Works & Utilities",
-    "fund": "185009",
-    "lob": "WATER UTILITY REVENUE",
-    "program": "Miscellaneous sales",
-    "key": "Miscellaneous sales",
-    "value": "160000"
-  },
-  {
-    "agency": "Public Works & Utilities",
-    "fund": "185009",
-    "lob": "WATER UTILITY REVENUE",
-    "program": "Convenience fees",
-    "key": "Convenience fees",
-    "value": "350000"
-  },
-  {
-    "agency": "Public Works & Utilities",
-    "fund": "185009",
-    "lob": "WATER UTILITY REVENUE",
-    "program": "Rent - Other Bldg and Parking rent/lease",
-    "key": "Rent - Other Bldg and Parking rent/lease",
-    "value": "36000"
-  },
-  {
-    "agency": "Public Works & Utilities",
-    "fund": "185009",
-    "lob": "WATER UTILITY REVENUE",
-    "program": "Fund investments",
-    "key": "Fund investments",
-    "value": "50000"
-  },
-  {
-    "agency": "Public Works & Utilities",
-    "fund": "185009",
-    "lob": "WATER UTILITY REVENUE",
-    "program": "Accrued interest on bonds sold",
-    "key": "Accrued interest on bonds sold",
-    "value": "25000"
-  },
-  {
-    "agency": "Public Works & Utilities",
-    "fund": "185009",
-    "lob": "WATER UTILITY REVENUE",
-    "program": "Special assessment - Main Benefit Fee",
-    "key": "Special assessment - Main Benefit Fee",
-    "value": "30000"
-  },
-  {
-    "agency": "Public Works & Utilities",
-    "fund": "185009",
-    "lob": "WATER UTILITY REVENUE",
-    "program": "SA - Special Area Acquisition Fee",
-    "key": "SA - Special Area Acquisition Fee",
-    "value": "3500"
-  },
-  {
-    "agency": "Public Works & Utilities",
-    "fund": "185009",
-    "lob": "WATER UTILITY REVENUE",
-    "program": "Reimbursements",
-    "key": "Reimbursements",
-    "value": "100000"
-  },
-  {
-    "agency": "Public Works & Utilities",
-    "fund": "185009",
-    "lob": "WATER UTILITY REVENUE",
-    "program": "Residential sales",
-    "key": "Residential sales",
-    "value": "54382138"
-  },
-  {
-    "agency": "Public Works & Utilities",
-    "fund": "185009",
-    "lob": "WATER UTILITY REVENUE",
-    "program": "Commercial sales",
-    "key": "Commercial sales",
-    "value": "27276504"
-  },
-  {
-    "agency": "Public Works & Utilities",
-    "fund": "185017",
-    "lob": "SEWER UTILITY REVENUE",
-    "program": "Residential sales",
-    "key": "Residential sales",
-    "value": "33947077"
-  },
-  {
-    "agency": "Public Works & Utilities",
-    "fund": "185017",
-    "lob": "SEWER UTILITY REVENUE",
-    "program": "Commercial sales",
-    "key": "Commercial sales",
-    "value": "16239799"
-  },
-  {
-    "agency": "Public Works & Utilities",
-    "fund": "185017",
-    "lob": "SEWER UTILITY REVENUE",
-    "program": "Institutional sales",
-    "key": "Institutional sales",
-    "value": "1060507"
-  },
-  {
-    "agency": "Public Works & Utilities",
-    "fund": "185017",
-    "lob": "SEWER UTILITY REVENUE",
-    "program": "Wholesale sales",
-    "key": "Wholesale sales",
-    "value": "320564"
-  },
-  {
-    "agency": "Public Works & Utilities",
-    "fund": "185017",
-    "lob": "SEWER UTILITY REVENUE",
-    "program": "Commercial sales",
-    "key": "Commercial sales",
-    "value": "5425526"
-  },
-  {
-    "agency": "Public Works & Utilities",
-    "fund": "185017",
-    "lob": "SEWER UTILITY REVENUE",
-    "program": "Bulk sales (water or septic)",
-    "key": "Bulk sales (water or septic)",
-    "value": "107500"
-  },
-  {
-    "agency": "Public Works & Utilities",
-    "fund": "185017",
-    "lob": "SEWER UTILITY REVENUE",
-    "program": "Flat rate commercial",
-    "key": "Flat rate commercial",
-    "value": "573285"
-  },
-  {
-    "agency": "Public Works & Utilities",
-    "fund": "185017",
-    "lob": "SEWER UTILITY REVENUE",
-    "program": "Grease trap charge",
-    "key": "Grease trap charge",
-    "value": "215000"
-  },
-  {
-    "agency": "Public Works & Utilities",
-    "fund": "185017",
-    "lob": "SEWER UTILITY REVENUE",
-    "program": "Special (E) commercial sales",
-    "key": "Special (E) commercial sales",
-    "value": "67500"
-  },
-  {
-    "agency": "Public Works & Utilities",
-    "fund": "185017",
-    "lob": "SEWER UTILITY REVENUE",
-    "program": "Special (E) industrial sales",
-    "key": "Special (E) industrial sales",
-    "value": "1250000"
-  },
-  {
-    "agency": "Public Works & Utilities",
-    "fund": "185017",
-    "lob": "SEWER UTILITY REVENUE",
-    "program": "Late payment charges",
-    "key": "Late payment charges",
-    "value": "225000"
-  },
-  {
-    "agency": "Public Works & Utilities",
-    "fund": "185017",
-    "lob": "SEWER UTILITY REVENUE",
-    "program": "Plant equity fees",
-    "key": "Plant equity fees",
-    "value": "1100000"
-  },
-  {
-    "agency": "Public Works & Utilities",
-    "fund": "185017",
-    "lob": "SEWER UTILITY REVENUE",
-    "program": "Tap only - 2 inch and greater",
-    "key": "Tap only - 2 inch and greater",
-    "value": "4000"
-  },
-  {
-    "agency": "Public Works & Utilities",
-    "fund": "185017",
-    "lob": "SEWER UTILITY REVENUE",
-    "program": "Payment in absence of S.A.",
-    "key": "Payment in absence of S.A.",
-    "value": "40000"
-  },
-  {
-    "agency": "Public Works & Utilities",
-    "fund": "185017",
-    "lob": "SEWER UTILITY REVENUE",
-    "program": "Industrial lab services",
-    "key": "Industrial lab services",
-    "value": "35000"
-  },
-  {
-    "agency": "Public Works & Utilities",
-    "fund": "185017",
-    "lob": "SEWER UTILITY REVENUE",
-    "program": "Noncategorical permit",
-    "key": "Noncategorical permit",
-    "value": "235000"
-  },
-  {
-    "agency": "Public Works & Utilities",
-    "fund": "185017",
-    "lob": "SEWER UTILITY REVENUE",
-    "program": "Groundwater permit",
-    "key": "Groundwater permit",
-    "value": "1250"
-  },
-  {
-    "agency": "Public Works & Utilities",
-    "fund": "185017",
-    "lob": "SEWER UTILITY REVENUE",
-    "program": "Categorical violation fine",
-    "key": "Categorical violation fine",
-    "value": "12500"
-  },
-  {
-    "agency": "Public Works & Utilities",
-    "fund": "185017",
-    "lob": "SEWER UTILITY REVENUE",
-    "program": "Sale of scrap",
-    "key": "Sale of scrap",
-    "value": "5000"
-  },
-  {
-    "agency": "Public Works & Utilities",
-    "fund": "185017",
-    "lob": "SEWER UTILITY REVENUE",
-    "program": "Miscellaneous sales",
-    "key": "Miscellaneous sales",
-    "value": "225"
-  },
-  {
-    "agency": "Public Works & Utilities",
-    "fund": "185017",
-    "lob": "SEWER UTILITY REVENUE",
-    "program": "Rent - Other Bldg and Parking rent/lease",
-    "key": "Rent - Other Bldg and Parking rent/lease",
-    "value": "10000"
-  },
-  {
-    "agency": "Public Works & Utilities",
-    "fund": "185017",
-    "lob": "SEWER UTILITY REVENUE",
-    "program": "Fund investments",
-    "key": "Fund investments",
-    "value": "10000"
-  },
-  {
-    "agency": "Public Works & Utilities",
-    "fund": "185017",
-    "lob": "SEWER UTILITY REVENUE",
-    "program": "Accrued interest on bonds sold",
-    "key": "Accrued interest on bonds sold",
-    "value": "25000"
-  },
-  {
-    "agency": "Public Works & Utilities",
-    "fund": "185017",
-    "lob": "SEWER UTILITY REVENUE",
-    "program": "Reimbursements",
-    "key": "Reimbursements",
-    "value": "15000"
   },
   {
     "agency": "Public Works & Utilities",
@@ -57643,14 +52427,6 @@
     "agency": "Golf Course System",
     "fund": "210100",
     "lob": "Auburn Hills-Golf Course",
-    "program": "Rent/Lease-Office space",
-    "key": "Rent/Lease-Office space",
-    "value": "136"
-  },
-  {
-    "agency": "Golf Course System",
-    "fund": "210100",
-    "lob": "Auburn Hills-Golf Course",
     "program": "Outside services",
     "key": "Outside services",
     "value": "3000"
@@ -57907,14 +52683,6 @@
     "agency": "Golf Course System",
     "fund": "210101",
     "lob": "Auburn Hills-Clubhouse Operations",
-    "program": "Golf cart rentals",
-    "key": "Golf cart rentals",
-    "value": "233411"
-  },
-  {
-    "agency": "Golf Course System",
-    "fund": "210101",
-    "lob": "Auburn Hills-Clubhouse Operations",
     "program": "Printing and copying",
     "key": "Printing and copying",
     "value": "650"
@@ -57934,22 +52702,6 @@
     "program": "Accrual",
     "key": "Accrual",
     "value": "1449"
-  },
-  {
-    "agency": "Golf Course System",
-    "fund": "210101",
-    "lob": "Auburn Hills-Clubhouse Operations",
-    "program": "Concessions",
-    "key": "Concessions",
-    "value": "158612"
-  },
-  {
-    "agency": "Golf Course System",
-    "fund": "210101",
-    "lob": "Auburn Hills-Clubhouse Operations",
-    "program": "Pro shop sales",
-    "key": "Pro shop sales",
-    "value": "3300"
   },
   {
     "agency": "Golf Course System",
@@ -58166,54 +52918,6 @@
     "program": "Membership dues",
     "key": "Membership dues",
     "value": "1030"
-  },
-  {
-    "agency": "Golf Course System",
-    "fund": "210101",
-    "lob": "Auburn Hills-Clubhouse Operations",
-    "program": "Rent/Lease-Office space",
-    "key": "Rent/Lease-Office space",
-    "value": "136"
-  },
-  {
-    "agency": "Golf Course System",
-    "fund": "210101",
-    "lob": "Auburn Hills-Clubhouse Operations",
-    "program": "Golf course green fees",
-    "key": "Golf course green fees",
-    "value": "540010"
-  },
-  {
-    "agency": "Golf Course System",
-    "fund": "210101",
-    "lob": "Auburn Hills-Clubhouse Operations",
-    "program": "Golf course season tickets",
-    "key": "Golf course season tickets",
-    "value": "105923"
-  },
-  {
-    "agency": "Golf Course System",
-    "fund": "210101",
-    "lob": "Auburn Hills-Clubhouse Operations",
-    "program": "Golf driving range fees",
-    "key": "Golf driving range fees",
-    "value": "59510"
-  },
-  {
-    "agency": "Golf Course System",
-    "fund": "210101",
-    "lob": "Auburn Hills-Clubhouse Operations",
-    "program": "Golf Tournaments",
-    "key": "Golf Tournaments",
-    "value": "5000"
-  },
-  {
-    "agency": "Golf Course System",
-    "fund": "210101",
-    "lob": "Auburn Hills-Clubhouse Operations",
-    "program": "Meeting rooms",
-    "key": "Meeting rooms",
-    "value": "12822"
   },
   {
     "agency": "Golf Course System",
@@ -58665,22 +53369,6 @@
   },
   {
     "agency": "Golf Course System",
-    "fund": "210200",
-    "lob": "LW Clapp Park",
-    "program": "Rent/Lease-Office space",
-    "key": "Rent/Lease-Office space",
-    "value": "136"
-  },
-  {
-    "agency": "Golf Course System",
-    "fund": "210201",
-    "lob": "LW Clapp Park Clubhouse",
-    "program": "Concessions",
-    "key": "Concessions",
-    "value": "58207"
-  },
-  {
-    "agency": "Golf Course System",
     "fund": "210201",
     "lob": "LW Clapp Park Clubhouse",
     "program": "Part time/seasonal",
@@ -58918,54 +53606,6 @@
     "program": "Accrual",
     "key": "Accrual",
     "value": "1449"
-  },
-  {
-    "agency": "Golf Course System",
-    "fund": "210201",
-    "lob": "LW Clapp Park Clubhouse",
-    "program": "Pro shop sales",
-    "key": "Pro shop sales",
-    "value": "1500"
-  },
-  {
-    "agency": "Golf Course System",
-    "fund": "210201",
-    "lob": "LW Clapp Park Clubhouse",
-    "program": "Golf course green fees",
-    "key": "Golf course green fees",
-    "value": "384476"
-  },
-  {
-    "agency": "Golf Course System",
-    "fund": "210201",
-    "lob": "LW Clapp Park Clubhouse",
-    "program": "Golf course season tickets",
-    "key": "Golf course season tickets",
-    "value": "44154"
-  },
-  {
-    "agency": "Golf Course System",
-    "fund": "210201",
-    "lob": "LW Clapp Park Clubhouse",
-    "program": "Rent/Lease-Office space",
-    "key": "Rent/Lease-Office space",
-    "value": "136"
-  },
-  {
-    "agency": "Golf Course System",
-    "fund": "210201",
-    "lob": "LW Clapp Park Clubhouse",
-    "program": "Golf cart rentals",
-    "key": "Golf cart rentals",
-    "value": "149856"
-  },
-  {
-    "agency": "Golf Course System",
-    "fund": "210300",
-    "lob": "Tex Consolver Municipal Golf Course",
-    "program": "Rent/Lease-Office space",
-    "key": "Rent/Lease-Office space",
-    "value": "136"
   },
   {
     "agency": "Golf Course System",
@@ -59451,70 +54091,6 @@
     "agency": "Golf Course System",
     "fund": "210301",
     "lob": "Consolver Park Clubhouse",
-    "program": "Concessions",
-    "key": "Concessions",
-    "value": "118434"
-  },
-  {
-    "agency": "Golf Course System",
-    "fund": "210301",
-    "lob": "Consolver Park Clubhouse",
-    "program": "Pro shop sales",
-    "key": "Pro shop sales",
-    "value": "3600"
-  },
-  {
-    "agency": "Golf Course System",
-    "fund": "210301",
-    "lob": "Consolver Park Clubhouse",
-    "program": "Golf course green fees",
-    "key": "Golf course green fees",
-    "value": "724117"
-  },
-  {
-    "agency": "Golf Course System",
-    "fund": "210301",
-    "lob": "Consolver Park Clubhouse",
-    "program": "Golf course season tickets",
-    "key": "Golf course season tickets",
-    "value": "97364"
-  },
-  {
-    "agency": "Golf Course System",
-    "fund": "210301",
-    "lob": "Consolver Park Clubhouse",
-    "program": "Golf driving range fees",
-    "key": "Golf driving range fees",
-    "value": "70260"
-  },
-  {
-    "agency": "Golf Course System",
-    "fund": "210301",
-    "lob": "Consolver Park Clubhouse",
-    "program": "Rent/Lease-Office space",
-    "key": "Rent/Lease-Office space",
-    "value": "136"
-  },
-  {
-    "agency": "Golf Course System",
-    "fund": "210301",
-    "lob": "Consolver Park Clubhouse",
-    "program": "Advertising",
-    "key": "Advertising",
-    "value": "858"
-  },
-  {
-    "agency": "Golf Course System",
-    "fund": "210301",
-    "lob": "Consolver Park Clubhouse",
-    "program": "Golf cart rentals",
-    "key": "Golf cart rentals",
-    "value": "279743"
-  },
-  {
-    "agency": "Golf Course System",
-    "fund": "210301",
-    "lob": "Consolver Park Clubhouse",
     "program": "Contractors",
     "key": "Contractors",
     "value": "5000"
@@ -59798,22 +54374,6 @@
     "program": "Vehicle liability",
     "key": "Vehicle liability",
     "value": "200"
-  },
-  {
-    "agency": "Golf Course System",
-    "fund": "210400",
-    "lob": "Macdonald Golf Course ",
-    "program": "Rent/Lease-Office space",
-    "key": "Rent/Lease-Office space",
-    "value": "136"
-  },
-  {
-    "agency": "Golf Course System",
-    "fund": "210400",
-    "lob": "Macdonald Golf Course ",
-    "program": "Rent - Other Land rent/lease ",
-    "key": "Rent - Other Land rent/lease ",
-    "value": "13486"
   },
   {
     "agency": "Golf Course System",
@@ -60216,30 +54776,6 @@
     "value": "19091"
   },
   {
-    "agency": "Golf Course System",
-    "fund": "210401",
-    "lob": "Macdonald Park Clubhouse",
-    "program": "Concessions",
-    "key": "Concessions",
-    "value": "88255"
-  },
-  {
-    "agency": "Golf Course System",
-    "fund": "210401",
-    "lob": "Macdonald Park Clubhouse",
-    "program": "Pro shop sales",
-    "key": "Pro shop sales",
-    "value": "1660"
-  },
-  {
-    "agency": "Golf Course System",
-    "fund": "210401",
-    "lob": "Macdonald Park Clubhouse",
-    "program": "Golf course green fees",
-    "key": "Golf course green fees",
-    "value": "549593"
-  },
-  {
     "agency": "Department of Finance",
     "fund": "037408",
     "lob": "Treasury Office",
@@ -60552,14 +55088,6 @@
     "value": "60"
   },
   {
-    "agency": "Department of Finance",
-    "fund": "037416",
-    "lob": "Special Assessments",
-    "program": "Reimbursed expend-interfund & interdept",
-    "key": "Reimbursed expend-interfund & interdept",
-    "value": "310000"
-  },
-  {
     "agency": "Law Department",
     "fund": "040006",
     "lob": "City attorneys office",
@@ -60865,30 +55393,6 @@
   },
   {
     "agency": "Law Department",
-    "fund": "040006",
-    "lob": "City attorneys office",
-    "program": "Outside printing services (TAXABLE)",
-    "key": "Outside printing services (TAXABLE)",
-    "value": "500"
-  },
-  {
-    "agency": "Law Department",
-    "fund": "040006",
-    "lob": "City attorneys office",
-    "program": "Reimbursed expend-interfund & interdept",
-    "key": "Reimbursed expend-interfund & interdept",
-    "value": "168419"
-  },
-  {
-    "agency": "Law Department",
-    "fund": "040006",
-    "lob": "City attorneys office",
-    "program": "Miscellaneous revenue",
-    "key": "Miscellaneous revenue",
-    "value": "500"
-  },
-  {
-    "agency": "Law Department",
     "fund": "040007",
     "lob": "Law Prosecution",
     "program": "Employee pension",
@@ -60982,14 +55486,6 @@
     "program": "Accrual",
     "key": "Accrual",
     "value": "3165"
-  },
-  {
-    "agency": "Law Department",
-    "fund": "040007",
-    "lob": "Law Prosecution",
-    "program": "Reimbursed expend-interfund & interdept",
-    "key": "Reimbursed expend-interfund & interdept",
-    "value": "50000"
   },
   {
     "agency": "Law Department",
@@ -61142,222 +55638,6 @@
     "program": "Tort liability claims",
     "key": "Tort liability claims",
     "value": "700000"
-  },
-  {
-    "agency": "Law Department",
-    "fund": "040063",
-    "lob": "Gen. liability-tort management",
-    "program": "Interfund transfers",
-    "key": "Interfund transfers",
-    "value": "550000"
-  },
-  {
-    "agency": "Law Department",
-    "fund": "040063",
-    "lob": "Gen. liability-tort management",
-    "program": "Employer contributions",
-    "key": "Employer contributions",
-    "value": "211600"
-  },
-  {
-    "agency": "Municipal Court",
-    "fund": "050013",
-    "lob": "Court Clerk and Staff",
-    "program": "Traffic court fines",
-    "key": "Traffic court fines",
-    "value": "1300000"
-  },
-  {
-    "agency": "Municipal Court",
-    "fund": "050013",
-    "lob": "Court Clerk and Staff",
-    "program": "DUI fines",
-    "key": "DUI fines",
-    "value": "275000"
-  },
-  {
-    "agency": "Municipal Court",
-    "fund": "050013",
-    "lob": "Court Clerk and Staff",
-    "program": "DUI diversion fines",
-    "key": "DUI diversion fines",
-    "value": "200000"
-  },
-  {
-    "agency": "Municipal Court",
-    "fund": "050013",
-    "lob": "Court Clerk and Staff",
-    "program": "Speeding diversion fines",
-    "key": "Speeding diversion fines",
-    "value": "130000"
-  },
-  {
-    "agency": "Municipal Court",
-    "fund": "050013",
-    "lob": "Court Clerk and Staff",
-    "program": "Criminal court fines",
-    "key": "Criminal court fines",
-    "value": "290000"
-  },
-  {
-    "agency": "Municipal Court",
-    "fund": "050013",
-    "lob": "Court Clerk and Staff",
-    "program": "Domestic violence fines",
-    "key": "Domestic violence fines",
-    "value": "95000"
-  },
-  {
-    "agency": "Municipal Court",
-    "fund": "050013",
-    "lob": "Court Clerk and Staff",
-    "program": "DV deferred judgement fine",
-    "key": "DV deferred judgement fine",
-    "value": "55000"
-  },
-  {
-    "agency": "Municipal Court",
-    "fund": "050013",
-    "lob": "Court Clerk and Staff",
-    "program": "Petit larceny deferred judgement fine",
-    "key": "Petit larceny deferred judgement fine",
-    "value": "85000"
-  },
-  {
-    "agency": "Municipal Court",
-    "fund": "050013",
-    "lob": "Court Clerk and Staff",
-    "program": "Drug court deferred judgement fines",
-    "key": "Drug court deferred judgement fines",
-    "value": "4000"
-  },
-  {
-    "agency": "Municipal Court",
-    "fund": "050013",
-    "lob": "Court Clerk and Staff",
-    "program": "Bench warrant/SC fees",
-    "key": "Bench warrant/SC fees",
-    "value": "140000"
-  },
-  {
-    "agency": "Municipal Court",
-    "fund": "050013",
-    "lob": "Court Clerk and Staff",
-    "program": "Probation fees",
-    "key": "Probation fees",
-    "value": "135000"
-  },
-  {
-    "agency": "Municipal Court",
-    "fund": "050013",
-    "lob": "Court Clerk and Staff",
-    "program": "Witness fees - Defendant paid",
-    "key": "Witness fees - Defendant paid",
-    "value": "62000"
-  },
-  {
-    "agency": "Municipal Court",
-    "fund": "050013",
-    "lob": "Court Clerk and Staff",
-    "program": "PSFN - DIVERSION FINE",
-    "key": "PSFN - DIVERSION FINE",
-    "value": "8500"
-  },
-  {
-    "agency": "Municipal Court",
-    "fund": "050013",
-    "lob": "Court Clerk and Staff",
-    "program": "Jail Fees",
-    "key": "Jail Fees",
-    "value": "67000"
-  },
-  {
-    "agency": "Municipal Court",
-    "fund": "050013",
-    "lob": "Court Clerk and Staff",
-    "program": "THC Diversion Fine",
-    "key": "THC Diversion Fine",
-    "value": "62000"
-  },
-  {
-    "agency": "Municipal Court",
-    "fund": "050013",
-    "lob": "Court Clerk and Staff",
-    "program": "FAM Diversion Fine",
-    "key": "FAM Diversion Fine",
-    "value": "4000"
-  },
-  {
-    "agency": "Municipal Court",
-    "fund": "050013",
-    "lob": "Court Clerk and Staff",
-    "program": "Evaluation Fee",
-    "key": "Evaluation Fee",
-    "value": "160000"
-  },
-  {
-    "agency": "Municipal Court",
-    "fund": "050013",
-    "lob": "Court Clerk and Staff",
-    "program": "Drug Court Probation Program Fee",
-    "key": "Drug Court Probation Program Fee",
-    "value": "6000"
-  },
-  {
-    "agency": "Municipal Court",
-    "fund": "050013",
-    "lob": "Court Clerk and Staff",
-    "program": "CRF - Class Rescheduling Fee",
-    "key": "CRF - Class Rescheduling Fee",
-    "value": "1000"
-  },
-  {
-    "agency": "Municipal Court",
-    "fund": "050013",
-    "lob": "Court Clerk and Staff",
-    "program": "CMFN - Criminal Deferred Fine",
-    "key": "CMFN - Criminal Deferred Fine",
-    "value": "18000"
-  },
-  {
-    "agency": "Municipal Court",
-    "fund": "050013",
-    "lob": "Court Clerk and Staff",
-    "program": "CMDF - Criminal Deferred Fee",
-    "key": "CMDF - Criminal Deferred Fee",
-    "value": "8000"
-  },
-  {
-    "agency": "Municipal Court",
-    "fund": "050013",
-    "lob": "Court Clerk and Staff",
-    "program": "Convenience fees",
-    "key": "Convenience fees",
-    "value": "23000"
-  },
-  {
-    "agency": "Municipal Court",
-    "fund": "050013",
-    "lob": "Court Clerk and Staff",
-    "program": "Reimbursements",
-    "key": "Reimbursements",
-    "value": "2500"
-  },
-  {
-    "agency": "Municipal Court",
-    "fund": "050013",
-    "lob": "Court Clerk and Staff",
-    "program": "Reimbursed expend-interfund & interdept",
-    "key": "Reimbursed expend-interfund & interdept",
-    "value": "75000"
-  },
-  {
-    "agency": "Municipal Court",
-    "fund": "050013",
-    "lob": "Court Clerk and Staff",
-    "program": "Restitution",
-    "key": "Restitution",
-    "value": "7000"
   },
   {
     "agency": "Municipal Court",
@@ -61769,286 +56049,6 @@
   },
   {
     "agency": "Municipal Court",
-    "fund": "050062",
-    "lob": "Criminal Court",
-    "program": "Traffic court costs",
-    "key": "Traffic court costs",
-    "value": "365000"
-  },
-  {
-    "agency": "Municipal Court",
-    "fund": "050062",
-    "lob": "Criminal Court",
-    "program": "Criminal court costs",
-    "key": "Criminal court costs",
-    "value": "217000"
-  },
-  {
-    "agency": "Municipal Court",
-    "fund": "050062",
-    "lob": "Criminal Court",
-    "program": "Speeding diversion fees",
-    "key": "Speeding diversion fees",
-    "value": "95000"
-  },
-  {
-    "agency": "Municipal Court",
-    "fund": "050062",
-    "lob": "Criminal Court",
-    "program": "DV deferred judgement fee",
-    "key": "DV deferred judgement fee",
-    "value": "60000"
-  },
-  {
-    "agency": "Municipal Court",
-    "fund": "050062",
-    "lob": "Criminal Court",
-    "program": "Divers Appl Fee-Speeding",
-    "key": "Divers Appl Fee-Speeding",
-    "value": "55000"
-  },
-  {
-    "agency": "Municipal Court",
-    "fund": "050062",
-    "lob": "Criminal Court",
-    "program": "Divers Appl Fee-Domestic",
-    "key": "Divers Appl Fee-Domestic",
-    "value": "14500"
-  },
-  {
-    "agency": "Municipal Court",
-    "fund": "050062",
-    "lob": "Criminal Court",
-    "program": "Docket/Resched fees",
-    "key": "Docket/Resched fees",
-    "value": "150000"
-  },
-  {
-    "agency": "Municipal Court",
-    "fund": "050062",
-    "lob": "Criminal Court",
-    "program": "Miscellaneous fees",
-    "key": "Miscellaneous fees",
-    "value": "50000"
-  },
-  {
-    "agency": "Municipal Court",
-    "fund": "050062",
-    "lob": "Criminal Court",
-    "program": "Expungement fees",
-    "key": "Expungement fees",
-    "value": "16000"
-  },
-  {
-    "agency": "Municipal Court",
-    "fund": "050062",
-    "lob": "Criminal Court",
-    "program": "PSCF - DIVERSION FEE",
-    "key": "PSCF - DIVERSION FEE",
-    "value": "5000"
-  },
-  {
-    "agency": "Municipal Court",
-    "fund": "050062",
-    "lob": "Criminal Court",
-    "program": "Electronic Monitoring Fee",
-    "key": "Electronic Monitoring Fee",
-    "value": "1000"
-  },
-  {
-    "agency": "Municipal Court",
-    "fund": "050062",
-    "lob": "Criminal Court",
-    "program": "DWDF-Driving while suspend diversion fee",
-    "key": "DWDF-Driving while suspend diversion fee",
-    "value": "5000"
-  },
-  {
-    "agency": "Municipal Court",
-    "fund": "050062",
-    "lob": "Criminal Court",
-    "program": "DWFN-Driving while suspend divrsion fine",
-    "key": "DWFN-Driving while suspend divrsion fine",
-    "value": "4000"
-  },
-  {
-    "agency": "Municipal Court",
-    "fund": "050062",
-    "lob": "Criminal Court",
-    "program": "TMDF - Traffic diversion fee",
-    "key": "TMDF - Traffic diversion fee",
-    "value": "72828"
-  },
-  {
-    "agency": "Municipal Court",
-    "fund": "050070",
-    "lob": "Traffic Court",
-    "program": "Suspension Processing Fee",
-    "key": "Suspension Processing Fee",
-    "value": "29000"
-  },
-  {
-    "agency": "Municipal Court",
-    "fund": "050070",
-    "lob": "Traffic Court",
-    "program": "DUI diversion fees",
-    "key": "DUI diversion fees",
-    "value": "73467"
-  },
-  {
-    "agency": "Municipal Court",
-    "fund": "050070",
-    "lob": "Traffic Court",
-    "program": "Petit larceny deferred fees",
-    "key": "Petit larceny deferred fees",
-    "value": "48530"
-  },
-  {
-    "agency": "Municipal Court",
-    "fund": "050070",
-    "lob": "Traffic Court",
-    "program": "Drug diversion fees",
-    "key": "Drug diversion fees",
-    "value": "11080"
-  },
-  {
-    "agency": "Municipal Court",
-    "fund": "050070",
-    "lob": "Traffic Court",
-    "program": "Diversion Applica Fee-DUI",
-    "key": "Diversion Applica Fee-DUI",
-    "value": "20000"
-  },
-  {
-    "agency": "Municipal Court",
-    "fund": "050070",
-    "lob": "Traffic Court",
-    "program": "Divers Appl Fee-Petiit Theft",
-    "key": "Divers Appl Fee-Petiit Theft",
-    "value": "22000"
-  },
-  {
-    "agency": "Municipal Court",
-    "fund": "050070",
-    "lob": "Traffic Court",
-    "program": "Divers Appl Fee-Drug",
-    "key": "Divers Appl Fee-Drug",
-    "value": "10000"
-  },
-  {
-    "agency": "Municipal Court",
-    "fund": "050070",
-    "lob": "Traffic Court",
-    "program": "THC Diversion Fee",
-    "key": "THC Diversion Fee",
-    "value": "24070"
-  },
-  {
-    "agency": "Municipal Court",
-    "fund": "050070",
-    "lob": "Traffic Court",
-    "program": "FAM Diversion Fee",
-    "key": "FAM Diversion Fee",
-    "value": "10542"
-  },
-  {
-    "agency": "Municipal Court",
-    "fund": "050088",
-    "lob": "Traffic Bureau",
-    "program": "Health, Fire, OCI fines",
-    "key": "Health, Fire, OCI fines",
-    "value": "26000"
-  },
-  {
-    "agency": "Municipal Court",
-    "fund": "050088",
-    "lob": "Traffic Bureau",
-    "program": "Moving tickets court costs",
-    "key": "Moving tickets court costs",
-    "value": "1250000"
-  },
-  {
-    "agency": "Municipal Court",
-    "fund": "050088",
-    "lob": "Traffic Bureau",
-    "program": "Health, Fire, OCI court costs",
-    "key": "Health, Fire, OCI court costs",
-    "value": "10000"
-  },
-  {
-    "agency": "Municipal Court",
-    "fund": "050088",
-    "lob": "Traffic Bureau",
-    "program": "Parking late fees",
-    "key": "Parking late fees",
-    "value": "60000"
-  },
-  {
-    "agency": "Municipal Court",
-    "fund": "050088",
-    "lob": "Traffic Bureau",
-    "program": "Fire, Health, OCI late fees",
-    "key": "Fire, Health, OCI late fees",
-    "value": "2000"
-  },
-  {
-    "agency": "Municipal Court",
-    "fund": "050088",
-    "lob": "Traffic Bureau",
-    "program": "Moving violation fines",
-    "key": "Moving violation fines",
-    "value": "2408284"
-  },
-  {
-    "agency": "Municipal Court",
-    "fund": "050088",
-    "lob": "Traffic Bureau",
-    "program": "Parking violation fines",
-    "key": "Parking violation fines",
-    "value": "360000"
-  },
-  {
-    "agency": "Municipal Court",
-    "fund": "050088",
-    "lob": "Traffic Bureau",
-    "program": "Moving ticket warrant fees",
-    "key": "Moving ticket warrant fees",
-    "value": "122000"
-  },
-  {
-    "agency": "Municipal Court",
-    "fund": "050088",
-    "lob": "Traffic Bureau",
-    "program": "Parking ticket warrant fees",
-    "key": "Parking ticket warrant fees",
-    "value": "97000"
-  },
-  {
-    "agency": "Municipal Court",
-    "fund": "050088",
-    "lob": "Traffic Bureau",
-    "program": "Fire, Health, OCI warrant fees",
-    "key": "Fire, Health, OCI warrant fees",
-    "value": "6000"
-  },
-  {
-    "agency": "Municipal Court",
-    "fund": "050088",
-    "lob": "Traffic Bureau",
-    "program": "Extension fees",
-    "key": "Extension fees",
-    "value": "125000"
-  },
-  {
-    "agency": "Municipal Court",
-    "fund": "050088",
-    "lob": "Traffic Bureau",
-    "program": "Collect fee/overpmt ref",
-    "key": "Collect fee/overpmt ref",
-    "value": "340000"
-  },
-  {
-    "agency": "Municipal Court",
     "fund": "050153",
     "lob": "Probate Administration",
     "program": "Voice mail",
@@ -62401,54 +56401,6 @@
   },
   {
     "agency": "Municipal Court",
-    "fund": "050153",
-    "lob": "Probate Administration",
-    "program": "UA test fees",
-    "key": "UA test fees",
-    "value": "13000"
-  },
-  {
-    "agency": "Municipal Court",
-    "fund": "050153",
-    "lob": "Probate Administration",
-    "program": "Fingerprint fees",
-    "key": "Fingerprint fees",
-    "value": "45000"
-  },
-  {
-    "agency": "Municipal Court",
-    "fund": "050153",
-    "lob": "Probate Administration",
-    "program": "WDVC - Wichita Domestic Violence Class",
-    "key": "WDVC - Wichita Domestic Violence Class",
-    "value": "14000"
-  },
-  {
-    "agency": "Municipal Court",
-    "fund": "050153",
-    "lob": "Probate Administration",
-    "program": "WAMC - Wichita Anger Management Class",
-    "key": "WAMC - Wichita Anger Management Class",
-    "value": "2000"
-  },
-  {
-    "agency": "Municipal Court",
-    "fund": "051136",
-    "lob": "Public Defender",
-    "program": "City public defender",
-    "key": "City public defender",
-    "value": "300000"
-  },
-  {
-    "agency": "Municipal Court",
-    "fund": "051136",
-    "lob": "Public Defender",
-    "program": "CPD fees",
-    "key": "CPD fees",
-    "value": "170000"
-  },
-  {
-    "agency": "Municipal Court",
     "fund": "051136",
     "lob": "Public Defender",
     "program": "Legal services",
@@ -62462,14 +56414,6 @@
     "program": "Bi-weekly wages",
     "key": "Bi-weekly wages",
     "value": "42212"
-  },
-  {
-    "agency": "Municipal Court",
-    "fund": "051144",
-    "lob": "Domestic Violence",
-    "program": "DV program fees",
-    "key": "DV program fees",
-    "value": "335000"
   },
   {
     "agency": "Municipal Court",
@@ -62662,22 +56606,6 @@
     "program": "PBX - line charges",
     "key": "PBX - line charges",
     "value": "114"
-  },
-  {
-    "agency": "Municipal Court",
-    "fund": "052308",
-    "lob": "Weekend intervention",
-    "program": "Wichita Intervention Program",
-    "key": "Wichita Intervention Program",
-    "value": "340000"
-  },
-  {
-    "agency": "Municipal Court",
-    "fund": "052308",
-    "lob": "Weekend intervention",
-    "program": "Docket/Resched fees",
-    "key": "Docket/Resched fees",
-    "value": "3000"
   },
   {
     "agency": "Municipal Court",
@@ -63062,14 +56990,6 @@
     "program": "Miscellaneous and sundry",
     "key": "Miscellaneous and sundry",
     "value": "80274"
-  },
-  {
-    "agency": "Information Tech/Info Services",
-    "fund": "060001",
-    "lob": "IT/IS Administration",
-    "program": "Data Center charges",
-    "key": "Data Center charges",
-    "value": "9273581"
   },
   {
     "agency": "Information Tech/Info Services",
@@ -64299,89 +58219,9 @@
     "agency": "Information Tech/Info Services",
     "fund": "060008",
     "lob": "IT/IS Telecommunications",
-    "program": "Automatic Call Distribution",
-    "key": "Automatic Call Distribution",
-    "value": "2574"
-  },
-  {
-    "agency": "Information Tech/Info Services",
-    "fund": "060008",
-    "lob": "IT/IS Telecommunications",
-    "program": "Telecom - long distance",
-    "key": "Telecom - long distance",
-    "value": "19937"
-  },
-  {
-    "agency": "Information Tech/Info Services",
-    "fund": "060008",
-    "lob": "IT/IS Telecommunications",
-    "program": "Telecom - instrument charges",
-    "key": "Telecom - instrument charges",
-    "value": "293250"
-  },
-  {
-    "agency": "Information Tech/Info Services",
-    "fund": "060008",
-    "lob": "IT/IS Telecommunications",
-    "program": "Telecom - line charges",
-    "key": "Telecom - line charges",
-    "value": "203676"
-  },
-  {
-    "agency": "Information Tech/Info Services",
-    "fund": "060008",
-    "lob": "IT/IS Telecommunications",
-    "program": "Plexar - line charges",
-    "key": "Plexar - line charges",
-    "value": "124752"
-  },
-  {
-    "agency": "Information Tech/Info Services",
-    "fund": "060008",
-    "lob": "IT/IS Telecommunications",
-    "program": "Voicemail",
-    "key": "Voicemail",
-    "value": "47328"
-  },
-  {
-    "agency": "Information Tech/Info Services",
-    "fund": "060008",
-    "lob": "IT/IS Telecommunications",
-    "program": "Pagers",
-    "key": "Pagers",
-    "value": "5760"
-  },
-  {
-    "agency": "Information Tech/Info Services",
-    "fund": "060008",
-    "lob": "IT/IS Telecommunications",
-    "program": "Aircards",
-    "key": "Aircards",
-    "value": "178920"
-  },
-  {
-    "agency": "Information Tech/Info Services",
-    "fund": "060008",
-    "lob": "IT/IS Telecommunications",
     "program": "Group life insurance",
     "key": "Group life insurance",
     "value": "292"
-  },
-  {
-    "agency": "Information Tech/Info Services",
-    "fund": "060009",
-    "lob": "IT/IS Printing",
-    "program": "Printed materials",
-    "key": "Printed materials",
-    "value": "313000"
-  },
-  {
-    "agency": "Information Tech/Info Services",
-    "fund": "060009",
-    "lob": "IT/IS Printing",
-    "program": "Duplicating",
-    "key": "Duplicating",
-    "value": "460000"
   },
   {
     "agency": "Fire Department",
@@ -64470,22 +58310,6 @@
     "program": "FICA",
     "key": "FICA",
     "value": "9367"
-  },
-  {
-    "agency": "Fire Department",
-    "fund": "070004",
-    "lob": "Fire administration",
-    "program": "Rent - Other Bldg and Parking rent/lease",
-    "key": "Rent - Other Bldg and Parking rent/lease",
-    "value": "10"
-  },
-  {
-    "agency": "Fire Department",
-    "fund": "070004",
-    "lob": "Fire administration",
-    "program": "Reimbursements",
-    "key": "Reimbursements",
-    "value": "141326"
   },
   {
     "agency": "Fire Department",
@@ -65283,14 +59107,6 @@
     "agency": "Fire Department",
     "fund": "070138",
     "lob": "Support Services",
-    "program": "Hazardous occupancy permit",
-    "key": "Hazardous occupancy permit",
-    "value": "38000"
-  },
-  {
-    "agency": "Fire Department",
-    "fund": "070138",
-    "lob": "Support Services",
     "program": "Garden/grounds/lawn equip < $5,000 each ",
     "key": "Garden/grounds/lawn equip < $5,000 each ",
     "value": "2000"
@@ -65654,14 +59470,6 @@
     "program": "Vehicle liability",
     "key": "Vehicle liability",
     "value": "4300"
-  },
-  {
-    "agency": "Fire Department",
-    "fund": "070152",
-    "lob": "Fire prevention",
-    "program": "Reimbursed expend-interfund & interdept",
-    "key": "Reimbursed expend-interfund & interdept",
-    "value": "83048"
   },
   {
     "agency": "Fire Department",
@@ -66478,14 +60286,6 @@
     "program": "Motor pool - scheduled charges",
     "key": "Motor pool - scheduled charges",
     "value": "31200"
-  },
-  {
-    "agency": "Police Department",
-    "fund": "081209",
-    "lob": "SRO East",
-    "program": "Reimbursements",
-    "key": "Reimbursements",
-    "value": "445571"
   },
   {
     "agency": "Police Department",
