@@ -73,6 +73,8 @@
 
     table.treemap th {
       border-bottom:2pt solid rgb(221, 221, 221);
+      cursor: pointer;
+      cursor: hand;
     }
 
     table.treemap tr td {
@@ -83,11 +85,18 @@
       padding: 4px;
     }
 
+    table.treemap th span {
+      padding-left: 3px;
+    }
+
+
   .row#chart
   table.treemap
     thead
       th Item
+        span.glyphicon
       th Expense
+        span.glyphicon
     tbody
 
 script(src="http://code.jquery.com/jquery-1.7.2.min.js",charset='utf-8')
@@ -119,7 +128,7 @@ script.
         rname = opts.rootname,
         margin = opts.margin,
         theight = 36 + 16,
-        tsortdirection = -1,
+        tsortdirection = 1,
         tsortcolumn = "Expense",
         cols = $('table.treemap th');;
   
@@ -218,8 +227,17 @@ script.
     function display(d) {
       loadTableData(d);
 
+      cols.off();
       cols.on("click", function(){
-        tsortcolumn = $(this).text();
+        console.log("column clicked")
+        var colText = $(this).text();
+        if (tsortcolumn === colText){
+          tsortdirection *= -1;
+        } else {
+          tsortdirection = 1;
+        }
+
+        tsortcolumn = colText;
         loadTableData(d)
       })
 
@@ -275,6 +293,10 @@ script.
 
       function loadTableData(d){
         $('table.treemap tbody').html('')
+
+        cols.find('span').removeClass("glyphicon-triangle-bottom glyphicon-triangle-top");
+        $('table.treemap th:contains(' + tsortcolumn + ') span').addClass(tsortdirection === -1 ? "glyphicon-triangle-bottom" : "glyphicon-triangle-top");
+        
         sortTableData(d).forEach(function(value) {
           $('table.treemap tbody').append("<tr><td>" + value.key + "</td><td>$" + formatNumber(value.value) + "</td></tr>")
         });
