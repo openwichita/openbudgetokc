@@ -73,6 +73,8 @@
 
     table.treemap th {
       border-bottom:2pt solid rgb(221, 221, 221);
+      cursor: pointer;
+      cursor: hand;
     }
 
     table.treemap tr td {
@@ -83,11 +85,18 @@
       padding: 4px;
     }
 
+    table.treemap th span {
+      padding-left: 3px;
+    }
+
+
   .row#chart
   table.treemap
     thead
       th Item
+        span.glyphicon
       th Expense
+        span.glyphicon
     tbody
 
 script(src="http://code.jquery.com/jquery-1.7.2.min.js",charset='utf-8')
@@ -118,7 +127,10 @@ script.
         formatNumber = d3.format(opts.format),
         rname = opts.rootname,
         margin = opts.margin,
-        theight = 36 + 16;
+        theight = 36 + 16,
+        tsortdirection = 1,
+        tsortcolumn = "Expense",
+        cols = $('table.treemap th');;
   
     $('#chart').width(opts.width).height(opts.height);
     var width = opts.width - margin.left - margin.right,
@@ -211,12 +223,23 @@ script.
         });
       }
     }
-  
+
     function display(d) {
-      $('table.treemap tbody').html('')
-      d.values.sort(function(a, b) { return a.value < b.value }).forEach(function(value) {
-        $('table.treemap tbody').append("<tr><td>" + value.key + "</td><td>$" + formatNumber(value.value) + "</td></tr>")
-      });
+      loadTableData(d);
+
+      cols.off();
+      cols.on("click", function(){
+        console.log("column clicked")
+        var colText = $(this).text();
+        if (tsortcolumn === colText){
+          tsortdirection *= -1;
+        } else {
+          tsortdirection = 1;
+        }
+
+        tsortcolumn = colText;
+        loadTableData(d)
+      })
 
       grandparent
           .datum(d.parent)
@@ -267,7 +290,29 @@ script.
   
       g.selectAll("rect")
           .style("fill", function(d) { return color(d.key); });
+
+      function loadTableData(d){
+        $('table.treemap tbody').html('')
+
+        cols.find('span').removeClass("glyphicon-triangle-bottom glyphicon-triangle-top");
+        $('table.treemap th:contains(' + tsortcolumn + ') span').addClass(tsortdirection === -1 ? "glyphicon-triangle-bottom" : "glyphicon-triangle-top");
+        
+        sortTableData(d).forEach(function(value) {
+          $('table.treemap tbody').append("<tr><td>" + value.key + "</td><td>$" + formatNumber(value.value) + "</td></tr>")
+        });
+      }
   
+      //Sort data for the table of values below the d3 visualization
+      function sortTableData(d) {
+        var values;
+        if (tsortcolumn == "Item"){
+          values = d.values.sort(function(a, b) {return tsortdirection * (a.key.localeCompare(b.key))});
+        } else {
+          values = d.values.sort(function(a, b) {return tsortdirection * (a.value - b.value)});
+        }
+        return values;
+      }
+
       function transition(d) {
         if (transitioning || !d) return;
         transitioning = true;
