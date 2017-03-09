@@ -50,9 +50,8 @@ This site is built on Harp using Node.js That means you can run it locally with 
 
 What you'll need:
 
--  [Node](http://nodejs.org/download/)
--  [npm](https://www.npmjs.org/)
--  [Harp](http://harpjs.com/)
+-  [Node](https://nodejs.org/en/download)
+-  [Harp](http://harpjs.com)
 
 
 ### Install & Run
@@ -94,7 +93,7 @@ This project is coded with:
 - If your page uses custom page-specific css, add it to a new .scss partial and import it into the main stylesheet. (Make sure to namespace it the same way the others are.)
 
 
-### Adding additional datasets to the Flow diagram page
+### Additional instructions for "flow" diagram pages
 
 To request revenue and expense data for a new fiscal year, submit an Open Records request and type the following in the description field. Update FYXX with the last two digits of the year (ex: FY16).
 
@@ -108,20 +107,21 @@ Right now the 2015-17 Proposed page is an unpublished placeholder, pending the d
 1. add the CSV to `_src/data/proposed_1517_flow/` and **remove the placeholder file FY13-14__FY14-15.csv**
 1. rename the file to include the two fiscal years it includes, separated by two underscores ("FY15-16__FY16-17.csv")
 1. open the csv and make sure all column headings are standardized to the following names:
+1. Flow pages are built off a template; copy one of the `*-budget-flow.jade` pages and update the content blocks as necessary.
+1. Data files must be placed in the `data/flow` directory. Follow the naming convention seen there or your files won't load properly. You also will need to point your page at the appropriate files as seen in the `get_datafiles` content block.
+1. the following columns are required in your datafile and their names should be normalized as seen here. Other columns should be removed to minimize the data download.
     - budget_year
     - department
-    - division
-    - org_code
-    - org_description
     - fund_code
-    - fund_description
     - account_type (this should be the Expense/Revenue column, if there are duplicate names)
     - account_category
-    - account_code
-    - account_description
     - amount
-    - (any other columns should be deleted)
-1. test it in Harp in the dev branch, and it should compile properly for deployment
+
+### Additional instructions for treemap diagram pages
+
+1. Treemap pages are built off a template; copy one of the `*-budget-tree.jade` pages and update the content blocks as necessary.
+1. Instructions for generating the necessary data files can be found [here](_treemap/README.md). Add them to the `data/tree/` directory following the naming convention seen in the existing files.
+1. Update the `datafiles` content block with the appropriate metadata and file path for the data files you generated.
 
 ## Contributing
 
