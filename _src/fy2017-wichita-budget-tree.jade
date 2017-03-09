@@ -298,13 +298,30 @@ script.
         $('table.treemap th:contains(' + tsortcolumn + ') span').addClass(tsortdirection === -1 ? "glyphicon-triangle-bottom" : "glyphicon-triangle-top");
         
         sortTableData(d).forEach(function(value) {
-          $('table.treemap tbody').append("<tr><td>" + value.key + "</td><td>$" + formatNumber(value.value) + "</td></tr>")
+          var anchor = value.values ? 
+            $("<a href></a>")
+              .text(value.key)
+              .data(value)
+              .click(function(e){
+                transition($(this).data());
+                e.preventDefault();
+              }) :
+            $("<span>" + value.key + "</span>");
+            
+          $('table.treemap tbody')
+            .append($("<tr>")
+              .append($("<td>")
+                .append(anchor))
+              .append("<td>$" + formatNumber(value.value) + "</td>"))
         });
       }
   
       //Sort data for the table of values below the d3 visualization
       function sortTableData(d) {
         var values;
+        if (!d.values)
+          return [];
+
         if (tsortcolumn == "Item"){
           values = d.values.sort(function(a, b) {return tsortdirection * (a.key.localeCompare(b.key))});
         } else {
