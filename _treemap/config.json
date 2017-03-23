@@ -15,7 +15,7 @@
         "oca_title",
         "obj_lvl_2_title"
       ],
-      "filename": "Revenue.2017.json"
+      "filename": "Adopted.Revenue.2017.json"
     },
     {
       "values": ["Expense", "2017"],
@@ -25,7 +25,7 @@
         "oca_title",
         "obj_lvl_2_title"
       ],
-      "filename": "Expense.2017.json"
+      "filename": "Adopted.Expense.2017.json"
     }
   ]
 }

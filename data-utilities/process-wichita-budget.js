@@ -13,11 +13,13 @@ fs.createReadStream(process.argv[2], { encoding: 'utf8' })
       return row.concat(['account_type', 'fiscal_year'])
     }
 
-    let firstNumber = parseInt(row[OL3_ID_IDX][0])
-    let accountType = firstNumber <= 5 ? 'Expense' : 'Revenue'
-
+    let accountType = accountTypeFromRow(row)
     return row.concat([accountType, '2017'])
   }))
   .pipe(csv.stringify())
   .pipe(process.stdout)
 
+function accountTypeFromRow(row) {
+  let firstNumber = parseInt(row[OL3_ID_IDX][0])
+  return firstNumber <= 5 && firstNumber !== 0 ? 'Expense' : 'Revenue'
+}
