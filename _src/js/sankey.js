@@ -264,7 +264,7 @@ d3.sankey = function() {
 
       // space funds out more
       funds[0].y += vpad / 3;
-      funds[1].y += (vpad / 3) * 2
+      if (funds[1]) funds[1].y += (vpad / 3) * 2
     }
   }
 

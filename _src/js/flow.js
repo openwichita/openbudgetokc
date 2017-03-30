@@ -118,7 +118,7 @@ function data_wrangle(dataset, fy){
             return rev_order.indexOf(a) - rev_order.indexOf(b);
         })
         .key(function(d){
-            if (d.fund_code == "1010") {
+            if (d.fund_type == "100") {
                 return "General Fund";
             } else {
                 return "Non-discretionary funds";
@@ -192,7 +192,7 @@ function data_wrangle(dataset, fy){
             return exp_order.indexOf(a) - exp_order.indexOf(b);
         })
         .key(function(d){
-            if (d.fund_code == "1010") {
+            if (d.fund_code == "100") {
                 return "General Fund";
             } else {
                 return "Non-discretionary funds";
