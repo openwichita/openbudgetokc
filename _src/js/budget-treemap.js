@@ -42,7 +42,7 @@ ob.display = ob.display || {};
 
     /* used to convert numerical data into text data */
     var _format = {
-      number:  d3.format("$,d") ,
+      number:  d3.format("$,.2f"),
       percent: d3.format(".2%")
     };
 
