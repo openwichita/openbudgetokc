@@ -33,6 +33,7 @@ options[:lob] = 'oca_title'
 options[:program] = 'obj_lvl_1_title'
 options[:key] = 'obj_lvl_3_title'
 options[:value] = 'appropriation_amt'
+options[:accounttype] = 'account_type'
 
 OptionParser.new do |opts|
   opts.banner = "Usage: data_to_json.rb [options]"
@@ -63,6 +64,7 @@ idx[:program] = headers.find_index(options[:program])
 idx[:key] = headers.find_index(options[:key])
 idx[:value] = headers.find_index(options[:value])
 idx[:fundtype] = headers.find_index(options[:fundtype])
+idx[:accounttype] = headers.find_index(options[:accounttype])
 
 idx.each do |k, v|
   if v == nil || !(v.to_i >= 0 && v.to_i < headers.length)
@@ -77,16 +79,17 @@ CSV.open(options[:fileout], "w") do |csvout|
     # In the Wichita dataset, the `obj_lvl_3` column (which correlates to
     # "account" here) determines whether the line is revenue or an expenditure. If
     # it begins with 1-5, it's an expense, and 6-9 notates revenue.
-    #
-    # Only collecting expenses here
+    
         budgetYear = "2017"
         fund = row[idx[:fund]].strip
-        accountType = ([1,2,3,4,5].include? fund[0].to_i) ? "Revenue" : "Expense"
-        program = row[idx[:program]].strip
+        accountType = row[idx[:accounttype]].strip
         value = row[idx[:value]].gsub('$', '').gsub(',', '').gsub('.00', '')
         fundType = row[idx[:fundtype]].strip
 
-        csvout << [budgetYear, accountType, nil, fund, program, value, fundType]  
+        program = accountType == "Revenue" ? row[idx[:program]].strip : nil
+        department = accountType == "Revenue" ? nil : row[idx[:agency]].strip
+
+        csvout << [budgetYear, accountType, department, fund, program, value, fundType]  
     end
 end
 
