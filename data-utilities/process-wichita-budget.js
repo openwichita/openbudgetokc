@@ -4,11 +4,17 @@ const csv = require('csv')
 const fs = require('fs')
 
 const OL3_ID_IDX = 10
+const OL2_ID_IDX = 8
 const FIRST_COL_HEADER = 'fund'
 
 fs.createReadStream(process.argv[2], { encoding: 'utf8' })
   .pipe(csv.parse())
   .pipe(csv.transform(row => {
+    if ( // Is this an interfund transfer? Skip it.
+      row[OL2_ID_IDX].toLowerCase() === '510' ||
+      row[OL3_ID_IDX].toLowerCase() === '9800'
+    ) { return null; }
+
     if (row[0] === FIRST_COL_HEADER) {
       return row.concat(['account_type', 'fiscal_year'])
     }

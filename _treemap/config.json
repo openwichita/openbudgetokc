@@ -12,8 +12,8 @@
       "hierarchy": [
         "fund_title",
         "dept_title",
-        "obj_lvl_1_title",
         "oca_title",
+        "obj_lvl_1_title",
         "obj_lvl_2_title"
       ],
       "filename": "Adopted.Revenue.2017.json"
@@ -23,8 +23,8 @@
       "hierarchy":[
         "fund_title",
         "dept_title",
-        "obj_lvl_1_title",
         "oca_title",
+        "obj_lvl_1_title",
         "obj_lvl_2_title"
       ],
       "filename": "Adopted.Expense.2017.json"
