@@ -124,6 +124,12 @@ script.
    * don't set the dropdown values before reading them from the hash */
   _parse_hash(window.location.hash.replace("#",""));
 
+  $(window).hashChange(function() {
+    ga('send', 'pageview', {
+      'page': location.pathname + location.search  + location.hash
+    });
+  });
+
   /* get width of container */
   var parent = d3.select(".container");
   var width = parent.node().offsetWidth - parseInt(parent.style("padding-left")) - parseInt(parent.style("padding-right"));
