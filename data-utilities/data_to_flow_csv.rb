@@ -1,17 +1,17 @@
 #!/usr/bin/env ruby
 #
-# This script converts city data in csv format to json consumable by the webapp.
-# Use the script arguments to match the csv headers to the correct json keys.
+# This script converts city data in csv format to a csv format consumable by the flow diagram.
+# Use the script arguments to match the csv headers to the correct csv column keys.
 #
 # Sample call that uses some defaults:
-# ./data-utilities/data_to_json.rb \
-#   -i _src/data/fy2017/wichita_2017_adopted_budget.csv \
-#   -o _src/data/fy2017/wichita_2017_adopted_budget.json
+# ./data-utilities/data_to_flow_csv.rb 
+#   -i data/2017-wichita-adopted-budget-processed.csv 
+#   -o _src/data/flow/2017__adopted.csv
 #
 # Sample call to map json keys to specific csv header names:
-# ./data-utilities/data_to_json.rb \
-#   -i _src/data/fy2017/wichita_2017_adopted_budget.csv \
-#   -o _src/data/fy2017/wichita_2017_adopted_budget.json \
+# ./data-utilities/data_to_flow_csv.rb 
+#   -i data/2017-wichita-adopted-budget-processed.csv 
+#   -o _src/data/flow/2017__adopted.csv
 #   --agency=dept_title \
 #   --fund=org_cost_acct \
 #   --lob=oca_title \
@@ -41,10 +41,11 @@ OptionParser.new do |opts|
   opts.on('-o', '--outputfile filename', '') { |v| options[:fileout] = v }
   opts.on('-a', '--agency columnName', 'csv column representing the "agency"') { |v| options[:agency] = v }
   opts.on('-f', '--fund columnName', 'csv column representing the "fund"') { |v| options[:fund] = v }
-  opts.on('-l', '--lob columnName', 'csv column representing the "lob"') { |v| options[:lob] = v }
   opts.on('-p', '--program columnName', 'csv column representing the "program"') { |v| options[:program] = v }
   opts.on('-k', '--key columnName', 'csv column representing the "key"') { |v| options[:key] = v }
   opts.on('-v', '--value columnName', 'csv column representing the "value"') { |v| options[:value] = v }
+  opts.on('-t', '--fundtype columnName', 'csv column representing the "fund type"') { |v| options[:fundtype] = v }
+  opts.on('-c', '--accounttype columnName', 'csv column representing the "account type"') { |v| options[:accounttype] = v }
 end.parse!
 
 if options[:filein] == nil || !File.file?(options[:filein])
@@ -59,7 +60,6 @@ idx = {}
 idx[:obj_lvl_3_id] = 6
 idx[:agency] = headers.find_index(options[:agency])
 idx[:fund] = headers.find_index(options[:fund])
-idx[:lob] = headers.find_index(options[:lob])
 idx[:program] = headers.find_index(options[:program])
 idx[:key] = headers.find_index(options[:key])
 idx[:value] = headers.find_index(options[:value])
@@ -92,10 +92,3 @@ CSV.open(options[:fileout], "w") do |csvout|
         csvout << [budgetYear, accountType, department, fund, program, value, fundType]  
     end
 end
-
-# if options[:fileout]
-#   file = File.new(options[:fileout] , 'w')
-#   file.write data
-# else
-#   puts data
-# end
