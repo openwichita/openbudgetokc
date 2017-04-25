@@ -88,24 +88,14 @@ function data_wrangle(dataset, fy){
     })
     rev_order = [
       // keep variations of the same label on a single line
-      "Property Tax", 
-      "Business License Tax", 
-      "Sales Tax",
-      "Utility Consumption Tax", 
-      "Real Estate Transfer Tax",
-      "Fines & Penalties", 
-      "Parking Tax", 
-      "Transient Occupancy Tax",
-      "Service Charges", 
-      "Transfers from Fund Balance", 
-      "Miscellaneous Revenue", "Miscellaneous",
-      "Interest Income", 
-      "Licenses & Permits",
-      "Interfund Transfers", 
-      "Grants & Subsidies", 
-      "Local (Parcel) Taxes", "Local Tax", 
-      "Internal Service Funds",
-      "Gas Tax", "Gasoline Tax",
+      "Taxes and levies",
+      "Licenses",
+      "Fees",
+      "Intergovernmental",
+      "Rental income",
+      "Charges for services and sales",
+      "Other revenue",
+      "Non-operating revenue",
     ];
     rev = newdata.filter(function(v,i,a){
         return v.account_type == "Revenue";
@@ -118,7 +108,7 @@ function data_wrangle(dataset, fy){
             return rev_order.indexOf(a) - rev_order.indexOf(b);
         })
         .key(function(d){
-            if (d.fund_type == "100") {
+            if (d.fund_type == "100" || d.fund_type == "236") {
                 return "General Fund";
             } else {
                 return "Non-discretionary funds";
@@ -156,30 +146,15 @@ function data_wrangle(dataset, fy){
     });
     exp_order = [
         // keep variations of the same label on a single line
-        "Police Department", "Police",
-        "Race & Equity",
-        "Fire Department", "Fire",
+        "Park",
+        "Police Department",
+        "Fire Department",
         "City Council",
-        "Administrative Services",
-        "Oakland Parks & Recreation", "Parks & Recreation",
-        "Human Services",
-        "City Auditor",
-        "Community Services",
-        "Information Technology",
-        "Public Ethics Commission",
-        "Finance", "Finance Department",
-        "City Clerk",
-        "Capital Improvement Projects",
-        "Mayor",
-        "Economic & Workforce Development",
-        "City Administrator",
-        "Human Resources Management", "Human Resources",
-        "Planning & Building",
-        "City Attorney",
-        "Housing & Community Development",
-        "Library", "Oakland Public Library",
-        "Public Works", "Oakland Public Works",
-        "Debt Service & Misc."
+        "Public Works & Utilities",
+        "Information Tech/Info Services",
+        "Airport",
+        "Non Departmental",
+        "Department of Finance"
     ];
     expdivs = d3.nest()
         .key(function(d){
@@ -192,7 +167,7 @@ function data_wrangle(dataset, fy){
             return exp_order.indexOf(a) - exp_order.indexOf(b);
         })
         .key(function(d){
-            if (d.fund_type == "100") {
+            if (d.fund_type == "100" || d.fund_type == "236") {
                 return "General Fund";
             } else {
                 return "Non-discretionary funds";
