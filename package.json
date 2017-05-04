@@ -4,7 +4,7 @@
   "description": "open wichita open budget project",
   "scripts": {
     "start": "cd _src && harp server",
-    "build": "cd _src && harp compile --pretty ./ ../www",
+    "build": "cd _src && harp compile ./ ../www",
     "build-tree-data": "python _treemap/treemap_process_data.py _treemap/config.json $INPUT && mv ./Adopted.*.json _src/data/tree/",
     "test": "karma start"
   },
