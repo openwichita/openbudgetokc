@@ -23,7 +23,7 @@ svg.append("text")
 
 // define color scales
 var fundColors = d3.scale.ordinal()
-    .domain(["General Fund", "Non-discretionary funds"])
+    .domain(["General Fund", "Other Funds"])
     .range(["#276419", "#4db029"]);
     // .range(["#276419", "#b8e186"]);
 var erColors = d3.scale.ordinal()
@@ -51,7 +51,7 @@ svg.append('linearGradient')
     .selectAll("stop")
     .data([
         {offset: "10%", color: erColors("revenue")},
-        {offset: "90%", color: fundColors("Non-discretionary funds")}
+        {offset: "90%", color: fundColors("Other Funds")}
     ])
     .enter().append("stop")
     .attr("offset", function(d) { return d.offset; })
@@ -62,7 +62,7 @@ svg.append('linearGradient')
     .attr("x2", '100%').attr("y2", 0)
     .selectAll("stop")
     .data([
-        {offset: "10%", color: fundColors("Non-discretionary funds")},
+        {offset: "10%", color: fundColors("Other Funds")},
         {offset: "90%", color: erColors("expense")}
     ])
     .enter().append("stop")
@@ -111,7 +111,7 @@ function data_wrangle(dataset, fy){
             if (d.fund_type == "100" || d.fund_type == "236") {
                 return "General Fund";
             } else {
-                return "Non-discretionary funds";
+                return "Other Funds";
             }
         })
         .rollup(function(v){
@@ -122,7 +122,7 @@ function data_wrangle(dataset, fy){
             return values;
         })
         .entries(rev);
-    nodes = [{"name": "General Fund", "type": "fund", "order": 0}, {"name": "Non-discretionary funds", "type": "fund", "order": 1}];
+    nodes = [{"name": "General Fund", "type": "fund", "order": 0}, {"name": "Other Funds", "type": "fund", "order": 1}];
     nodeoffset = nodes.length;
     links = [];
     for (var i = 0; i < revcats.length; i++){
@@ -134,7 +134,7 @@ function data_wrangle(dataset, fy){
             };
             if (revcats[i].values[x].key == "General Fund"){
                 link.target = 0;
-            } else if (revcats[i].values[x].key == "Non-discretionary funds") {
+            } else if (revcats[i].values[x].key == "Other Funds") {
                 link.target = 1;
             }
             links.push(link);
@@ -170,7 +170,7 @@ function data_wrangle(dataset, fy){
             if (d.fund_type == "100" || d.fund_type == "236") {
                 return "General Fund";
             } else {
-                return "Non-discretionary funds";
+                return "Other Funds";
             }
         })
         .rollup(function(v){
@@ -190,7 +190,7 @@ function data_wrangle(dataset, fy){
             };
             if (expdivs[i].values[x].key == "General Fund"){
                 link.source = 0;
-            } else if (expdivs[i].values[x].key == "Non-discretionary funds") {
+            } else if (expdivs[i].values[x].key == "Other Funds") {
                 link.source = 1;
             }
             links.push(link);
@@ -233,13 +233,13 @@ function do_with_budget(data) {
           switch (d.target.name){
               case "General Fund":
                   return "url('#gradientRtoGF')";
-              case "Non-discretionary funds":
+              case "Other Funds":
                   return "url('#gradientRtoNF')";
           }
           switch (d.source.name) {
               case "General Fund":
                   return "url('#gradientGFtoE')";
-              case "Non-discretionary funds":
+              case "Other Funds":
                   return "url('#gradientNFtoE')";
           }
 
