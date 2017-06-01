@@ -23,7 +23,7 @@ svg.append("text")
 
 // define color scales
 var fundColors = d3.scale.ordinal()
-    .domain(["General Fund", "Non-discretionary funds"])
+    .domain(["General Fund", "Other Funds"])
     .range(["#276419", "#4db029"]);
     // .range(["#276419", "#b8e186"]);
 var erColors = d3.scale.ordinal()
@@ -51,7 +51,7 @@ svg.append('linearGradient')
     .selectAll("stop")
     .data([
         {offset: "10%", color: erColors("revenue")},
-        {offset: "90%", color: fundColors("Non-discretionary funds")}
+        {offset: "90%", color: fundColors("Other Funds")}
     ])
     .enter().append("stop")
     .attr("offset", function(d) { return d.offset; })
@@ -62,7 +62,7 @@ svg.append('linearGradient')
     .attr("x2", '100%').attr("y2", 0)
     .selectAll("stop")
     .data([
-        {offset: "10%", color: fundColors("Non-discretionary funds")},
+        {offset: "10%", color: fundColors("Other Funds")},
         {offset: "90%", color: erColors("expense")}
     ])
     .enter().append("stop")
@@ -88,24 +88,14 @@ function data_wrangle(dataset, fy){
     })
     rev_order = [
       // keep variations of the same label on a single line
-      "Property Tax", 
-      "Business License Tax", 
-      "Sales Tax",
-      "Utility Consumption Tax", 
-      "Real Estate Transfer Tax",
-      "Fines & Penalties", 
-      "Parking Tax", 
-      "Transient Occupancy Tax",
-      "Service Charges", 
-      "Transfers from Fund Balance", 
-      "Miscellaneous Revenue", "Miscellaneous",
-      "Interest Income", 
-      "Licenses & Permits",
-      "Interfund Transfers", 
-      "Grants & Subsidies", 
-      "Local (Parcel) Taxes", "Local Tax", 
-      "Internal Service Funds",
-      "Gas Tax", "Gasoline Tax",
+      "Taxes and levies",
+      "Licenses",
+      "Fees",
+      "Intergovernmental",
+      "Rental income",
+      "Charges for services and sales",
+      "Other revenue",
+      "Non-operating revenue",
     ];
     rev = newdata.filter(function(v,i,a){
         return v.account_type == "Revenue";
@@ -118,10 +108,10 @@ function data_wrangle(dataset, fy){
             return rev_order.indexOf(a) - rev_order.indexOf(b);
         })
         .key(function(d){
-            if (d.fund_code == "1010") {
+            if (d.fund_type == "100" || d.fund_type == "236") {
                 return "General Fund";
             } else {
-                return "Non-discretionary funds";
+                return "Other Funds";
             }
         })
         .rollup(function(v){
@@ -132,7 +122,7 @@ function data_wrangle(dataset, fy){
             return values;
         })
         .entries(rev);
-    nodes = [{"name": "General Fund", "type": "fund", "order": 0}, {"name": "Non-discretionary funds", "type": "fund", "order": 1}];
+    nodes = [{"name": "General Fund", "type": "fund", "order": 0}, {"name": "Other Funds", "type": "fund", "order": 1}];
     nodeoffset = nodes.length;
     links = [];
     for (var i = 0; i < revcats.length; i++){
@@ -144,7 +134,7 @@ function data_wrangle(dataset, fy){
             };
             if (revcats[i].values[x].key == "General Fund"){
                 link.target = 0;
-            } else if (revcats[i].values[x].key == "Non-discretionary funds") {
+            } else if (revcats[i].values[x].key == "Other Funds") {
                 link.target = 1;
             }
             links.push(link);
@@ -156,30 +146,15 @@ function data_wrangle(dataset, fy){
     });
     exp_order = [
         // keep variations of the same label on a single line
-        "Police Department", "Police",
-        "Race & Equity",
-        "Fire Department", "Fire",
+        "Park",
+        "Police Department",
+        "Fire Department",
         "City Council",
-        "Administrative Services",
-        "Oakland Parks & Recreation", "Parks & Recreation",
-        "Human Services",
-        "City Auditor",
-        "Community Services",
-        "Information Technology",
-        "Public Ethics Commission",
-        "Finance", "Finance Department",
-        "City Clerk",
-        "Capital Improvement Projects",
-        "Mayor",
-        "Economic & Workforce Development",
-        "City Administrator",
-        "Human Resources Management", "Human Resources",
-        "Planning & Building",
-        "City Attorney",
-        "Housing & Community Development",
-        "Library", "Oakland Public Library",
-        "Public Works", "Oakland Public Works",
-        "Debt Service & Misc."
+        "Public Works & Utilities",
+        "Information Tech/Info Services",
+        "Airport",
+        "Non Departmental",
+        "Department of Finance"
     ];
     expdivs = d3.nest()
         .key(function(d){
@@ -192,10 +167,10 @@ function data_wrangle(dataset, fy){
             return exp_order.indexOf(a) - exp_order.indexOf(b);
         })
         .key(function(d){
-            if (d.fund_code == "1010") {
+            if (d.fund_type == "100" || d.fund_type == "236") {
                 return "General Fund";
             } else {
-                return "Non-discretionary funds";
+                return "Other Funds";
             }
         })
         .rollup(function(v){
@@ -215,7 +190,7 @@ function data_wrangle(dataset, fy){
             };
             if (expdivs[i].values[x].key == "General Fund"){
                 link.source = 0;
-            } else if (expdivs[i].values[x].key == "Non-discretionary funds") {
+            } else if (expdivs[i].values[x].key == "Other Funds") {
                 link.source = 1;
             }
             links.push(link);
@@ -258,13 +233,13 @@ function do_with_budget(data) {
           switch (d.target.name){
               case "General Fund":
                   return "url('#gradientRtoGF')";
-              case "Non-discretionary funds":
+              case "Other Funds":
                   return "url('#gradientRtoNF')";
           }
           switch (d.source.name) {
               case "General Fund":
                   return "url('#gradientGFtoE')";
-              case "Non-discretionary funds":
+              case "Other Funds":
                   return "url('#gradientNFtoE')";
           }
 
