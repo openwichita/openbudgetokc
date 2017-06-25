@@ -13,6 +13,9 @@ html
 
         ga('create', 'UA-62414924-2', 'auto');
         ga('send', 'pageview');
+    else
+      script.
+        ga = function() {};
 
     script(src="//ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js").
     script(src='http://code.jquery.com/jquery-migrate-1.2.1.js')
