@@ -27,10 +27,14 @@
     "harp": "https://github.com/sintaxi/harp.git#v0.21.0-pre"
   },
   "devDependencies": {
-    "jasmine-core": "^2.5.1",
-    "karma": "^1.3.0",
-    "karma-chrome-launcher": "^2.0.0",
-    "karma-firefox-launcher": "^1.0.0",
-    "karma-jasmine": "^1.0.2"
+    "amdefine": "^1.0.1",
+    "destroy": "^1.0.4",
+    "jasmine-core": "^2.6.4",
+    "karma": "^1.7.0",
+    "karma-chrome-launcher": "^2.2.0",
+    "karma-firefox-launcher": "^1.0.1",
+    "karma-jasmine": "^1.1.0",
+    "node-sass": "^4.5.3",
+    "sigmund": "^1.0.1"
   }
 }
