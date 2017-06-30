@@ -37,11 +37,80 @@
     "title": "Budget Visualizations - Open Budget: Wichita"
   },
 
+  "budget-process": {
+    "title": "Budget Process - Open Budget: Wichita",
+    "timeline": [{
+        "title": "Social Media Town Hall Meeting",
+        "icon": "glyphicon-ok",
+        "date": "June 15, 2017 | 2:00 - 3:00pm",
+        "description": "Planned budget topics for Thursday's town hall include street maintenance, traffic safety and youth reading programs.",
+        "link": "http://www.wichita.gov/News/Pages/2017-06-13a.aspx",
+        "link-text": "Get additional information",
+        "location": "Training Room I on the 9th floor of City Hall, 455 N. Main"
+      }, {
+        "title": "Social Media Town Hall Meeting",
+        "icon": "glyphicon-ok",
+        "date": "June 20, 2017 | 2:00 - 3:00pm",
+        "description": "Planned budget topics for Thursday's town hall include street maintenance, traffic safety and youth reading programs. Follow along on the City of Wichita Facebook page and on Twitter at #ictbudget17.",
+        "link": "http://www.wichita.gov/News/Pages/2017-06-13a.aspx",
+        "link-text": "Get additional information",
+        "location": "Training Room I on the 9th floor of City Hall, 455 N. Main"
+      }, {
+        "title": "City Council Workshop",
+        "icon": "glyphicon-ok",
+        "date": "June 27, 2017",
+        "description": "City Council Workshop on the 2018-2019 Proposed Budget and the 2017-2026 Proposed Capital Improvement Program.",
+        "link": "",
+        "link-text": "",
+        "location": "City Hall 455 N Main, 1st Floor Wichita, KS 67202"
+      }, {
+        "title": "Board Meeting",
+        "icon": "glyphicon-ok",
+        "date": "July 5, 2017",
+        "description": "District Advisory Board Meeting",
+        "link": "",
+        "link-text": "",
+        "location": "City Hall 455 N Main, 1st Floor Wichita, KS 67202"
+      }, {
+        "title": "Board Meetings",
+        "icon": "glyphicon-ok",
+        "date": "July 10, 2017",
+        "description": "District Advisory Board Meetings",
+        "link": "",
+        "link-text": "",
+        "location": "City Hall 455 N Main, 1st Floor Wichita, KS 67202"
+      }, {
+        "title": "City Council Meeting",
+        "icon": "glyphicon-ok",
+        "date": "July 18, 2017",
+        "description": "City Manager Robert Layton presents the 2017-2018 Proposed Budget at the City Council Meeting in the City Council Chambers on the first floor.",
+        "link": "",
+        "link-text": "",
+        "location": "City Hall 455 N Main, 1st Floor Wichita, KS 67202"
+      }, {
+        "title": "City Council Meeting",
+        "icon": "glyphicon-ok",
+        "date": "August 1, 2017 | 9:00am",
+        "description": "Formal hearing on the 2017-2018 Proposed Budget at the City Council Meeting in the City Council Chambers on first floor.",
+        "link": "",
+        "link-text": "",
+        "location": "City Hall 455 N Main, 1st Floor Wichita, KS 67202"
+      }, {
+        "title": "City Council Meeting",
+        "icon": "glyphicon-ok",
+        "date": "August 8, 2017 | 9:00am",
+        "description": "Adoption of 2018-2019 Budget at the City Council Meeting in the City Council Chambers on the first floor.",
+        "link": "",
+        "link-text": "",
+        "location": "City Hall 455 N Main, 1st Floor Wichita, KS 67202"
+      }]
+  },
+
   "2016-17-adjusted-budget-flow": {
     "title": "Cash Flow: 2016-17 Adjusted Budget - Open Budget: Wichita"
   },
 
   "2016-17-adjusted-budget-tree": {
     "title": "Detailed Breakdown: 2016-17 Adjusted Budget - Open Budget: Wichita"
-  }  
+  }
 }

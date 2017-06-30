@@ -1,0 +1,235 @@
+.timeline-container {
+  max-width: 1000px;
+  margin: 0 auto;
+}
+
+#timeline {
+  width: 100%;
+  margin: 30px auto;
+  position: relative;
+  padding: 0 20px;
+  transition: all 0.4s ease;
+}
+
+.timeline-item {
+  margin-bottom: 50px;
+  position: relative;
+
+  &:after, &:before {
+    content: "";
+    display: block;
+    width: 100%;
+    clear: both;
+  }
+
+  &:before {
+    width: 3px;
+    height: calc(100% + 50px);
+    background: $green-muted;
+    left: 50%;
+    top: 0;
+    position: absolute;
+  }
+
+  &:after {
+    display: table;
+    width: 100%;
+  }
+
+  .timeline-icon {
+    background: $green-muted;
+    width: 50px;
+    height: 50px;
+    position: absolute;
+    top: 0;
+    left: 50%;
+    overflow: hidden;
+    margin-left: -23px;
+    border-radius: 50%;
+
+    .glyphicon {
+      position: relative;
+      top: 13px;
+      left: 14px;
+      font-size: 24px;
+      color: #fff;
+    }
+
+  }
+
+  .timeline-content {
+    width: 45%;
+    background: $gray-pale;
+    padding: 20px;
+    box-shadow: 0 3px 0 rgba(0, 0, 0, 0.1);
+    border-radius: 5px;
+    transition: all 0.3s ease;
+
+    &:before {
+      content: '';
+      position: absolute;
+      left: 45%;
+      top: 20px;
+      width: 0;
+      height: 0;
+      border-top: 7px solid transparent;
+      border-bottom: 7px solid transparent;
+      border-left: 7px solid $green-muted;
+    }
+
+    h2 {
+      padding: 15px;
+      background: $green-muted;
+      color: $gray-pale;
+      margin: -20px -20px 0 -20px;
+      font-weight: 300;
+      -webkit-border-radius: 3px 3px 0 0;
+      -moz-border-radius: 3px 3px 0 0;
+      -ms-border-radius: 3px 3px 0 0;
+      border-radius: 3px 3px 0 0;
+      font-size: 22px;
+    }
+
+    p {
+      padding-top: 10px;
+      padding-bottom: 10px;
+    }
+
+    &.right {
+      float: right;
+
+      &:before {
+        content: '';
+        right: 45%;
+        left: inherit;
+        border-left: 0;
+        border-right: 7px solid $green-muted;
+      }
+    }
+
+    /* Animation CSS */
+    /* content block animation */
+    &.is-hidden {
+      visibility: hidden;
+    }
+    &.animate-it {
+      visibility: visible;
+      animation: bounce-2 0.6s;
+    }
+  }
+
+  &.event-passed {
+    &:before,
+    .timeline-icon {
+      background: $gray-dark;
+    }
+    .timeline-content {
+      &:before {
+        border-left-color: $gray-dark;
+      }
+      &.right:before {
+        border-right-color: $gray-dark;
+      }
+      h2 {
+        background: $gray-dark;
+      }
+    }
+  }
+
+}
+
+@media screen and (max-width: 768px) {
+  #timeline {
+    margin: 30px;
+    padding: 0px;
+    width: 90%;
+    
+    &:before {
+      left: 0;
+    }
+
+    .timeline-item {
+      &:before {
+        left: 0;
+      }
+      .timeline-content {
+        width: 90%;
+        float: right;
+        &:before,
+        &.right:before {
+          left: 10%;
+          margin-left: -6px;
+          border-left: 0;
+          border-right: 7px solid $green-muted;
+        }
+      }
+      .timeline-icon {
+        left: 0;
+      }
+
+      &.event-passed {
+        .timeline-content {
+          &:before,
+          &.right:before {
+            border-right-color: $gray-dark;
+          }
+        }
+      }
+    }
+  }
+}
+
+@media only screen and (min-width: 769px) {
+  /* Inverse bounce effect on even content blocks */
+  .timeline-content.right.animate-it {
+    animation: bounce-2-inverse 0.6s;
+  }
+}
+@media only screen and (max-width: 768px) {
+  /* Inverse bounce effect on all content blocks */
+  .timeline-content.animate-it, .timeline-content.right.animate-it {
+    animation: bounce-2-inverse 0.6s;
+  }
+}
+
+/* ALL animation types called */
+@keyframes bounce-1 {
+  0% {
+    opacity: 0;
+    transform: scale(0.5);
+  }
+  60% {
+    opacity: 1;
+    transform: scale(1.2);
+  }
+  100% {
+    transform: scale(1);
+  }
+}
+@keyframes bounce-2 {
+  0% {
+    opacity: 0;
+    transform: translateX(-100px);
+  }
+  60% {
+    opacity: 1;
+    transform: translateX(20px);
+  }
+  100% {
+    transform: translateX(0);
+  }
+}
+
+@keyframes bounce-2-inverse {
+  0% {
+    opacity: 0;
+    transform: translateX(100px);
+  }
+  60% {
+    opacity: 1;
+    transform: translateX(-20px);
+  }
+  100% {
+    transform: translateX(0);
+  }
+}
