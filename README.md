@@ -4,7 +4,7 @@
 
 ## Chat
 
-Join the Open Wichita Slack room here: http://openwichita-slack.herokuapp.com/. Once there, check out the #openbudget channel for discussion about this project.
+Join the Open Wichita Slack room here: https://openwichita-slack.herokuapp.com/. Once there, check out the #openbudget channel for discussion about this project.
 
 ## Getting Started
 
@@ -79,7 +79,7 @@ in the ``` package.json ``` at the root of this project.
 
 This project is coded with:
 
-- [jade](http://jade-lang.com/)
+- [jade](https://pugjs.org) (now called pug)
 - [Sass](http://sass-lang.com/)
 - [Bootstrap](http://getbootstrap.com/)
 
