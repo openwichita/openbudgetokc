@@ -43,7 +43,7 @@ $(function() {
 
     var context = {
 	dataset: "mayor_s_proposed_policy_budget_fy2013-15",
-	siteUrl: "http://openspending.org",
+	siteUrl: "https://openspending.org",
         drilldown: function(node) { // Gets called on node click
 	    // If the node has children we can drill more
 	    if (node.data.node.children.length) {
