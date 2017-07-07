@@ -1,6 +1,28 @@
-.container
+.container.timeline-container
   h1 Timeline of Wichita's Budget Process
-  
+  p Get more information from the 
+    a(href='http://www.wichita.gov/Finance/Pages/BudgetProcess.aspx') wichita.gov Budget Process
+    |  page.
+
   <!-- Edit the following Google Doc Spreadsheet to update the timeline data -->
-  <!-- https://docs.google.com/spreadsheets/d/11Y9oBnTmHNIP9rc0CVNRSI-9PaaiIsfwQWBEO_FfF-I/edit#gid=0&vpid=A2 -->
-  <iframe src='//cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=11Y9oBnTmHNIP9rc0CVNRSI-9PaaiIsfwQWBEO_FfF-I&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' frameborder='0'></iframe>
+  <!-- original: https://docs.google.com/spreadsheets/d/11Y9oBnTmHNIP9rc0CVNRSI-9PaaiIsfwQWBEO_FfF-I/edit#gid=0&vpid=A2 -->
+  <!-- updated: https://docs.google.com/spreadsheets/d/122CSfD3JM73itJpiKKYP8kGfGIOTJSqLh6qO7-0zFdo/pubhtml -->
+  <!-- <iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=122CSfD3JM73itJpiKKYP8kGfGIOTJSqLh6qO7-0zFdo&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe> -->
+
+  <!-- timeline modified from https://codepen.io/Gatsby/pen/xgPdqE -->
+  #timeline
+    each item, indx in timeline
+      - var date = Date.parse(item.date.split('|')[0]) < Date.now()
+      - var icon = date ? 'glyphicon-lock' : item.icon || ''
+      div(class="timeline-item #{date ? 'event-passed': ''}")
+        .timeline-icon
+          i(class="glyphicon #{icon}")
+        div(class="timeline-content #{indx % 2 ? 'right' : ''}")
+          h2 #{item.title}
+          if item.link
+            p #{item.description}
+              a(href='#{item.link}') #{item['link-text']}.
+          else
+            p= item.description
+          p Location: #{item.location}
+          strong.time-stamp #{item.date}

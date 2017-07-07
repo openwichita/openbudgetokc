@@ -29,12 +29,14 @@
   "devDependencies": {
     "amdefine": "^1.0.1",
     "destroy": "^1.0.4",
+    "encodeurl": "^1.0.1",
     "jasmine-core": "^2.6.4",
     "karma": "^1.7.0",
     "karma-chrome-launcher": "^2.2.0",
     "karma-firefox-launcher": "^1.0.1",
     "karma-jasmine": "^1.1.0",
     "node-sass": "^4.5.3",
+    "setprototypeof": "^1.0.3",
     "sigmund": "^1.0.1"
   }
 }
