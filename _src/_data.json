@@ -88,6 +88,14 @@
         "link-text": "",
         "location": "City Hall 455 N Main, 1st Floor Wichita, KS 67202"
       }, {
+        "title": "Special Evening Meeting",
+        "icon": "glyphicon-ok",
+        "date": "July 20, 2017 | 6:00 PM",
+        "description": "City Manager Robert Layton will present the 2017-2018 Proposed Budget at a special 6 p.m. evening meeting of the City Council in the City Council Chambers on the first floor.",
+        "link": "http://www.wichita.gov/News/Pages/2017-07-13a.aspx",
+        "link-text": "Get additional information",
+        "location": "City Hall 455 N Main, 1st Floor Wichita, KS 67202"
+      }, {
         "title": "City Council Meeting",
         "icon": "glyphicon-ok",
         "date": "August 1, 2017 | 9:00am",
