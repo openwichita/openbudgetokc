@@ -36,18 +36,17 @@ html
               a.navbar-brand(href='/') Open Budget: Wichita
             .navbar-collapse.collapse
               ul.nav.navbar-nav.navbar-right
-
                 li.dropdown
                   a.dropdown-toggle(href='#', data-toggle='dropdown')
-                    | About
+                    | Visualizations
                     b.caret
                   ul.dropdown-menu
                     li
-                      a(href='what-we-do.html') What and How
+                      a(href='/2017-adopted-budget-tree.html') Budget Tree (2017 Adopted)
                     li
-                      a(href='who-we-are.html') Who We Are
-                li
-                  a(href='/budget-visuals.html') Visualizations
+                      a(href='/2017-adopted-budget-flow.html') Budget Flow (2017 Adopted)
+                    li
+                      a(href='/budget-process.html') Budget Process Timeline
 
       != yield
       #wrapper-footer
@@ -62,25 +61,27 @@ html
               li
                 big
                 |Open Budget: Wichita
-                br
                 |is an open-source project by 
                 a(href="http://openwichita.com/") OpenWichita 
                 | to help citizens
                 br
                 |better understand Wichita's spending and budget process.
+                a(href="https://openwichita.com/slack")  Get Involved.
+
+
+          .col-sm-3.col-md-push-3
+            ul.list-unstyled.list-inline
+              li
+                a(href="https://github.com/openwichita" target="_blank")
+                  img(src="/images/global/github-icon.png")
               li
                 a(href="https://twitter.com/openwichita" target="_blank")
                   img(src="/images/global/twitter-icon.png")
               li
-                a(href="https://github.com/openwichita" target="_blank")
-                  img(src="/images/global/github-icon.png")
-
-
-          .col-sm-3.col-md-push-3
-            ul.list-unstyled
+                a(href="https://facebook.com/openwichita" target="_blank")
+                  img(src="/images/global/facebook-icon.png")
               li
-                a(href="who-we-are.html") About the Project
-              li
-                a(href="https://www.meetup.com/openwichita") Get Involved
+                a(href="mailto:hello@openwichita.com" target="_blank")
+                  img(src="/images/global/mail-icon.png")
 
     link(href='https://fonts.googleapis.com/css?family=Arvo:400,700', rel='stylesheet', type='text/css')
