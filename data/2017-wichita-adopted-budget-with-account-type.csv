@@ -1,23 +1,23 @@
 fund,fund_title,cur_doc_no,cur_doc_no_sfx,dept,dept_title,obj_lvl_1,obj_lvl_1_title,obj_lvl_2,obj_lvl_2_title,obj_lvl_3,obj_lvl_3_title,org_cost_acct,oca_title,appropriation_amt,ESRI_OID,account_type
-100,General Fund,BU740004,80,14,Public Works  & Utilities,2,Contractual services,270,Equipment charges,2700,Motor pool - scheduled charges,142044,Food,91.2,1,Expense
+100,General Fund,BU740004,80,14,Public Works & Utilities,2,Contractual services,270,Equipment charges,2700,Motor pool - scheduled charges,142044,Food,91.2,1,Expense
 100,General Fund,BU740016,29,17,Park,2,Contractual services,250,Professional services,2599,Other professional services,173501,Summer of Discovery,110,2,Expense
 100,General Fund,BU740016,30,17,Park,2,Contractual services,290,Other contractuals,2917,Printing and copying,173501,Summer of Discovery,25,3,Expense
-100,General Fund,BU740004,81,14,Public Works  & Utilities,2,Contractual services,280,Buildings and grounds charges,2806,Security/Fire services,142044,Food,25,4,Expense
-100,General Fund,BU740004,82,14,Public Works  & Utilities,2,Contractual services,290,Other contractuals,2904,Codes and manuals,142044,Food,1,5,Expense
-100,General Fund,BU740004,83,14,Public Works  & Utilities,2,Contractual services,290,Other contractuals,2906,Membership dues,142044,Food,1,6,Expense
-100,General Fund,BU740004,84,14,Public Works  & Utilities,2,Contractual services,290,Other contractuals,2917,Printing and copying,142044,Food,18,7,Expense
-100,General Fund,BU740004,85,14,Public Works  & Utilities,3,Materials and supplies,310,Office supplies,3103,Office supplies,142044,Food,7.5,8,Expense
-100,General Fund,BU740004,86,14,Public Works  & Utilities,3,Materials and supplies,340,Equipment parts,3405,Fuel,142044,Food,18.57,9,Expense
-100,General Fund,BU740004,87,14,Public Works  & Utilities,3,Materials and supplies,340,Equipment parts,3499,Other equipment parts,142044,Food,1,10,Expense
-100,General Fund,BU740004,88,14,Public Works  & Utilities,3,Materials and supplies,380,Non-capitalizable equipment < $5000 each,3803,"Lab equipment < $5,000 each",142044,Food,3,11,Expense
-100,General Fund,BU740004,89,14,Public Works  & Utilities,3,Materials and supplies,380,Non-capitalizable equipment < $5000 each,3899,"Other non-capitalized equip <$5,000 each",142044,Food,15,12,Expense
-100,General Fund,BU740004,90,14,Public Works  & Utilities,3,Materials and supplies,390,Other commodities,3904,Petty cash expenditures,142044,Food,1,13,Expense
-100,General Fund,BU740004,91,14,Public Works  & Utilities,1,Personnel services,110,Regular salaries,1100,Bi-weekly wages,142122,Environmental Assmnt and Remedtn ,3257.95,14,Expense
-100,General Fund,BU740004,92,14,Public Works  & Utilities,1,Personnel services,110,Regular salaries,1101,Longevity,142122,Environmental Assmnt and Remedtn ,28.2,15,Expense
-100,General Fund,BU740004,93,14,Public Works  & Utilities,1,Personnel services,110,Regular salaries,1190,Accrual,142122,Environmental Assmnt and Remedtn ,18.89,16,Expense
-100,General Fund,BU740004,94,14,Public Works  & Utilities,1,Personnel services,120,Special salaries,1208,Cellular phone allowance,142122,Environmental Assmnt and Remedtn ,12,17,Expense
-100,General Fund,BU740004,95,14,Public Works  & Utilities,1,Personnel services,140,Employee benefits,1400,FICA,142122,Environmental Assmnt and Remedtn ,251.39,18,Expense
-100,General Fund,BU740004,96,14,Public Works  & Utilities,1,Personnel services,140,Employee benefits,1401,Employee pension,142122,Environmental Assmnt and Remedtn ,404.2,19,Expense
+100,General Fund,BU740004,81,14,Public Works & Utilities,2,Contractual services,280,Buildings and grounds charges,2806,Security/Fire services,142044,Food,25,4,Expense
+100,General Fund,BU740004,82,14,Public Works & Utilities,2,Contractual services,290,Other contractuals,2904,Codes and manuals,142044,Food,1,5,Expense
+100,General Fund,BU740004,83,14,Public Works & Utilities,2,Contractual services,290,Other contractuals,2906,Membership dues,142044,Food,1,6,Expense
+100,General Fund,BU740004,84,14,Public Works & Utilities,2,Contractual services,290,Other contractuals,2917,Printing and copying,142044,Food,18,7,Expense
+100,General Fund,BU740004,85,14,Public Works & Utilities,3,Materials and supplies,310,Office supplies,3103,Office supplies,142044,Food,7.5,8,Expense
+100,General Fund,BU740004,86,14,Public Works & Utilities,3,Materials and supplies,340,Equipment parts,3405,Fuel,142044,Food,18.57,9,Expense
+100,General Fund,BU740004,87,14,Public Works & Utilities,3,Materials and supplies,340,Equipment parts,3499,Other equipment parts,142044,Food,1,10,Expense
+100,General Fund,BU740004,88,14,Public Works & Utilities,3,Materials and supplies,380,Non-capitalizable equipment < $5000 each,3803,"Lab equipment < $5,000 each",142044,Food,3,11,Expense
+100,General Fund,BU740004,89,14,Public Works & Utilities,3,Materials and supplies,380,Non-capitalizable equipment < $5000 each,3899,"Other non-capitalized equip <$5,000 each",142044,Food,15,12,Expense
+100,General Fund,BU740004,90,14,Public Works & Utilities,3,Materials and supplies,390,Other commodities,3904,Petty cash expenditures,142044,Food,1,13,Expense
+100,General Fund,BU740004,91,14,Public Works & Utilities,1,Personnel services,110,Regular salaries,1100,Bi-weekly wages,142122,Environmental Assmnt and Remedtn ,3257.95,14,Expense
+100,General Fund,BU740004,92,14,Public Works & Utilities,1,Personnel services,110,Regular salaries,1101,Longevity,142122,Environmental Assmnt and Remedtn ,28.2,15,Expense
+100,General Fund,BU740004,93,14,Public Works & Utilities,1,Personnel services,110,Regular salaries,1190,Accrual,142122,Environmental Assmnt and Remedtn ,18.89,16,Expense
+100,General Fund,BU740004,94,14,Public Works & Utilities,1,Personnel services,120,Special salaries,1208,Cellular phone allowance,142122,Environmental Assmnt and Remedtn ,12,17,Expense
+100,General Fund,BU740004,95,14,Public Works & Utilities,1,Personnel services,140,Employee benefits,1400,FICA,142122,Environmental Assmnt and Remedtn ,251.39,18,Expense
+100,General Fund,BU740004,96,14,Public Works & Utilities,1,Personnel services,140,Employee benefits,1401,Employee pension,142122,Environmental Assmnt and Remedtn ,404.2,19,Expense
 100,General Fund,BU740004,97,17,Park,2,Contractual services,220,Communications,2207,Postage - regular,173304,Watson Park,3.5,20,Expense
 100,General Fund,BU740004,98,17,Park,2,Contractual services,220,Communications,2215,Plexar,173304,Watson Park,11.16,21,Expense
 100,General Fund,BU740004,99,17,Park,2,Contractual services,230,Transportation and training,2302,Out of town registration fees,173304,Watson Park,2.5,22,Expense
@@ -43,8 +43,8 @@ fund,fund_title,cur_doc_no,cur_doc_no_sfx,dept,dept_title,obj_lvl_1,obj_lvl_1_ti
 100,General Fund,BU740005,12,17,Park,2,Contractual services,290,Other contractuals,2916,Property taxes ,173304,Watson Park,0.5,42,Expense
 100,General Fund,BU740005,13,17,Park,2,Contractual services,290,Other contractuals,2917,Printing and copying,173304,Watson Park,6.5,43,Expense
 100,General Fund,BU740005,14,17,Park,3,Materials and supplies,310,Office supplies,3103,Office supplies,173304,Watson Park,5,44,Expense
-100,General Fund,BU740005,15,14,Public Works  & Utilities,1,Personnel services,140,Employee benefits,1406,Group life insurance,149047,Tobacco Sales Regulation,2.32,45,Expense
-100,General Fund,BU740005,16,14,Public Works  & Utilities,2,Contractual services,220,Communications,2200,PBX - line charges,149047,Tobacco Sales Regulation,1.14,46,Expense
+100,General Fund,BU740005,15,14,Public Works & Utilities,1,Personnel services,140,Employee benefits,1406,Group life insurance,149047,Tobacco Sales Regulation,2.32,45,Expense
+100,General Fund,BU740005,16,14,Public Works & Utilities,2,Contractual services,220,Communications,2200,PBX - line charges,149047,Tobacco Sales Regulation,1.14,46,Expense
 100,General Fund,BU740005,17,17,Park,2,Contractual services,210,Utilities,2102,Gas-Black Hills,172101,Park Maintenance Administration,44.79,47,Expense
 100,General Fund,BU740005,18,17,Park,2,Contractual services,270,Equipment charges,2700,Motor pool - scheduled charges,173101,Recreation - Administration,45.6,48,Expense
 100,General Fund,BU740005,19,17,Park,3,Materials and supplies,320,Clothing and towels,3200,Clothing and towels,173304,Watson Park,7,49,Expense
@@ -107,7 +107,7 @@ fund,fund_title,cur_doc_no,cur_doc_no_sfx,dept,dept_title,obj_lvl_1,obj_lvl_1_ti
 520,Transit Fund,BU740027,57,16,Transit,1,Personnel services,140,Employee benefits,1404,Unemployment compensation,160044,Special Services,4.54,106,Expense
 265,City/County Joint Operations Fund,BU740027,58,13,Public Works & Utilities,2,Contractual services,210,Utilities,2100,Electricity,133224,CITY-CTY FLOOD CONTRL,18.85,107,Expense
 265,City/County Joint Operations Fund,BU740027,59,13,Public Works & Utilities,2,Contractual services,210,Utilities,2106,Landfill,133224,CITY-CTY FLOOD CONTRL,15,108,Expense
-100,General Fund,BU740027,60,14,Public Works  & Utilities,2,Contractual services,220,Communications,2200,PBX - line charges,142044,Food,2.28,109,Expense
+100,General Fund,BU740027,60,14,Public Works & Utilities,2,Contractual services,220,Communications,2200,PBX - line charges,142044,Food,2.28,109,Expense
 520,Transit Fund,BU740027,61,16,Transit,1,Personnel services,140,Employee benefits,1405,Group health insurance,160044,Special Services,502.09,110,Expense
 100,General Fund,BU740027,62,17,Park,2,Contractual services,250,Professional services,2599,Other professional services,173502,Activity Camp,90.5,111,Expense
 100,General Fund,BU740027,63,17,Park,2,Contractual services,280,Buildings and grounds charges,2801,Lease/Rent-Buildings or grounds,173502,Activity Camp,75.9,112,Expense
@@ -207,11 +207,11 @@ fund,fund_title,cur_doc_no,cur_doc_no_sfx,dept,dept_title,obj_lvl_1,obj_lvl_1_ti
 236,General Fund - Economic Development Subf,BU740059,79,2,City Manager,5,Other expenditures,510,Interfund transfers,5101,Reimbursements-interfund & interdepart,28001,Economic Development,2232.42,206,Expense
 620,Self Insurance Fund,BU740059,80,3,Department of Finance,2,Contractual services,250,Professional services,2502,Medical and laboratory services,36103,Self Insurance Group Health,407.5,207,Expense
 100,General Fund,BU740059,81,3,Department of Finance,3,Materials and supplies,380,Non-capitalizable equipment < $5000 each,3804,"Data processing equipment  < $5,000 each",37101,General Accounting,10.25,208,Expense
-100,General Fund,BU740016,84,14,Public Works  & Utilities,2,Contractual services,230,Transportation and training,2302,Out of town registration fees,142122,Environmental Assmnt and Remedtn ,3,209,Expense
-100,General Fund,BU740016,85,14,Public Works  & Utilities,2,Contractual services,230,Transportation and training,2303,In town registration fees,142122,Environmental Assmnt and Remedtn ,1,210,Expense
-100,General Fund,BU740016,86,14,Public Works  & Utilities,2,Contractual services,230,Transportation and training,2308,Transportation - out of town,142122,Environmental Assmnt and Remedtn ,1.5,211,Expense
-100,General Fund,BU740016,87,14,Public Works  & Utilities,2,Contractual services,240,Insurance,2400,Building and contents insurance,142122,Environmental Assmnt and Remedtn ,194.58,212,Expense
-100,General Fund,BU740016,88,14,Public Works  & Utilities,2,Contractual services,240,Insurance,2401,Vehicle liability,142122,Environmental Assmnt and Remedtn ,4.8,213,Expense
+100,General Fund,BU740016,84,14,Public Works & Utilities,2,Contractual services,230,Transportation and training,2302,Out of town registration fees,142122,Environmental Assmnt and Remedtn ,3,209,Expense
+100,General Fund,BU740016,85,14,Public Works & Utilities,2,Contractual services,230,Transportation and training,2303,In town registration fees,142122,Environmental Assmnt and Remedtn ,1,210,Expense
+100,General Fund,BU740016,86,14,Public Works & Utilities,2,Contractual services,230,Transportation and training,2308,Transportation - out of town,142122,Environmental Assmnt and Remedtn ,1.5,211,Expense
+100,General Fund,BU740016,87,14,Public Works & Utilities,2,Contractual services,240,Insurance,2400,Building and contents insurance,142122,Environmental Assmnt and Remedtn ,194.58,212,Expense
+100,General Fund,BU740016,88,14,Public Works & Utilities,2,Contractual services,240,Insurance,2401,Vehicle liability,142122,Environmental Assmnt and Remedtn ,4.8,213,Expense
 265,City/County Joint Operations Fund,BU740028,10,13,Public Works & Utilities,1,Personnel services,110,Regular salaries,1199,Other,133224,CITY-CTY FLOOD CONTRL,454.43,214,Expense
 265,City/County Joint Operations Fund,BU740028,11,13,Public Works & Utilities,1,Personnel services,120,Special salaries,1204,Clothing allowance,133224,CITY-CTY FLOOD CONTRL,27,215,Expense
 265,City/County Joint Operations Fund,BU740028,12,13,Public Works & Utilities,1,Personnel services,120,Special salaries,1208,Cellular phone allowance,133224,CITY-CTY FLOOD CONTRL,12,216,Expense
@@ -326,7 +326,7 @@ fund,fund_title,cur_doc_no,cur_doc_no_sfx,dept,dept_title,obj_lvl_1,obj_lvl_1_ti
 100,General Fund,BU740081,87,5,Municipal Court,76,Fines and penalties,760,Municipal court,7603,Speeding diversion fines,50013,Court Clerk and Staff,1300,325,Revenue
 100,General Fund,BU740006,21,13,Public Works & Utilities,1,Personnel services,110,Regular salaries,1100,Bi-weekly wages,130508,Architectural Services,2902.45,326,Expense
 100,General Fund,BU740006,22,13,Public Works & Utilities,1,Personnel services,110,Regular salaries,1101,Longevity,130508,Architectural Services,17.16,327,Expense
-100,General Fund,BU740016,89,14,Public Works  & Utilities,2,Contractual services,250,Professional services,2500,Certification fees,142122,Environmental Assmnt and Remedtn ,1.1,328,Expense
+100,General Fund,BU740016,89,14,Public Works & Utilities,2,Contractual services,250,Professional services,2500,Certification fees,142122,Environmental Assmnt and Remedtn ,1.1,328,Expense
 100,General Fund,BU740028,38,7,Fire Department,1,Personnel services,140,Employee benefits,1401,Employee pension,70004,Fire administration,35.4,329,Expense
 100,General Fund,BU740038,88,11,CMO - Cultural Arts Division,1,Personnel services,140,Employee benefits,1400,FICA,112001,Century II - Ticketing System,164.8,330,Expense
 540,WATER UTILITY FUND,BU740049,68,18,Public Works & Utilities,5,Other expenditures,540,Inventory,5401,Inventory (clearing account),183632,PROD & PUMPING ADMINISTRATION,500,331,Expense
@@ -345,20 +345,20 @@ fund,fund_title,cur_doc_no,cur_doc_no_sfx,dept,dept_title,obj_lvl_1,obj_lvl_1_ti
 100,General Fund,BU740081,98,5,Municipal Court,76,Fines and penalties,760,Municipal court,7679,THC Diversion Fine,50013,Court Clerk and Staff,620,344,Revenue
 100,General Fund,BU740081,99,5,Municipal Court,76,Fines and penalties,760,Municipal court,7681,FAM Diversion Fine,50013,Court Clerk and Staff,40,345,Revenue
 100,General Fund,BU740081,100,5,Municipal Court,76,Fines and penalties,760,Municipal court,7683,Evaluation Fee,50013,Court Clerk and Staff,1600,346,Revenue
-100,General Fund,BU740016,90,14,Public Works  & Utilities,2,Contractual services,250,Professional services,2514,Laboratory services,142122,Environmental Assmnt and Remedtn ,7.5,347,Expense
-100,General Fund,BU740016,91,14,Public Works  & Utilities,2,Contractual services,260,Data processing,2600,Data center charges,142122,Environmental Assmnt and Remedtn ,46.2,348,Expense
-100,General Fund,BU740016,92,14,Public Works  & Utilities,2,Contractual services,270,Equipment charges,2700,Motor pool - scheduled charges,142122,Environmental Assmnt and Remedtn ,21.6,349,Expense
-100,General Fund,BU740016,93,14,Public Works  & Utilities,2,Contractual services,270,Equipment charges,2701,Motor pool-unscheduled charges,142122,Environmental Assmnt and Remedtn ,1,350,Expense
-100,General Fund,BU740016,94,14,Public Works  & Utilities,2,Contractual services,290,Other contractuals,2906,Membership dues,142122,Environmental Assmnt and Remedtn ,1.5,351,Expense
-100,General Fund,BU740016,95,14,Public Works  & Utilities,2,Contractual services,290,Other contractuals,2917,Printing and copying,142122,Environmental Assmnt and Remedtn ,14,352,Expense
-100,General Fund,BU740016,96,14,Public Works  & Utilities,3,Materials and supplies,310,Office supplies,3101,Computer/printer supplies,142122,Environmental Assmnt and Remedtn ,1.5,353,Expense
-100,General Fund,BU740016,97,14,Public Works  & Utilities,3,Materials and supplies,310,Office supplies,3103,Office supplies,142122,Environmental Assmnt and Remedtn ,5,354,Expense
-100,General Fund,BU740016,98,14,Public Works  & Utilities,3,Materials and supplies,340,Equipment parts,3405,Fuel,142122,Environmental Assmnt and Remedtn ,5.17,355,Expense
-100,General Fund,BU740016,99,14,Public Works  & Utilities,3,Materials and supplies,350,Materials,3599,Other materials,142122,Environmental Assmnt and Remedtn ,0.5,356,Expense
-100,General Fund,BU740016,100,14,Public Works  & Utilities,3,Materials and supplies,390,Other commodities,3904,Petty cash expenditures,142122,Environmental Assmnt and Remedtn ,0.5,357,Expense
-100,General Fund,BU740017,1,14,Public Works  & Utilities,3,Materials and supplies,390,Other commodities,3999,Other commodities,142122,Environmental Assmnt and Remedtn ,10,358,Expense
-100,General Fund,BU740017,2,14,Public Works  & Utilities,1,Personnel services,110,Regular salaries,1100,Bi-weekly wages,143083,Child Care Licensing,1279.05,359,Expense
-100,General Fund,BU740017,3,14,Public Works  & Utilities,1,Personnel services,110,Regular salaries,1101,Longevity,143083,Child Care Licensing,18.96,360,Expense
+100,General Fund,BU740016,90,14,Public Works & Utilities,2,Contractual services,250,Professional services,2514,Laboratory services,142122,Environmental Assmnt and Remedtn ,7.5,347,Expense
+100,General Fund,BU740016,91,14,Public Works & Utilities,2,Contractual services,260,Data processing,2600,Data center charges,142122,Environmental Assmnt and Remedtn ,46.2,348,Expense
+100,General Fund,BU740016,92,14,Public Works & Utilities,2,Contractual services,270,Equipment charges,2700,Motor pool - scheduled charges,142122,Environmental Assmnt and Remedtn ,21.6,349,Expense
+100,General Fund,BU740016,93,14,Public Works & Utilities,2,Contractual services,270,Equipment charges,2701,Motor pool-unscheduled charges,142122,Environmental Assmnt and Remedtn ,1,350,Expense
+100,General Fund,BU740016,94,14,Public Works & Utilities,2,Contractual services,290,Other contractuals,2906,Membership dues,142122,Environmental Assmnt and Remedtn ,1.5,351,Expense
+100,General Fund,BU740016,95,14,Public Works & Utilities,2,Contractual services,290,Other contractuals,2917,Printing and copying,142122,Environmental Assmnt and Remedtn ,14,352,Expense
+100,General Fund,BU740016,96,14,Public Works & Utilities,3,Materials and supplies,310,Office supplies,3101,Computer/printer supplies,142122,Environmental Assmnt and Remedtn ,1.5,353,Expense
+100,General Fund,BU740016,97,14,Public Works & Utilities,3,Materials and supplies,310,Office supplies,3103,Office supplies,142122,Environmental Assmnt and Remedtn ,5,354,Expense
+100,General Fund,BU740016,98,14,Public Works & Utilities,3,Materials and supplies,340,Equipment parts,3405,Fuel,142122,Environmental Assmnt and Remedtn ,5.17,355,Expense
+100,General Fund,BU740016,99,14,Public Works & Utilities,3,Materials and supplies,350,Materials,3599,Other materials,142122,Environmental Assmnt and Remedtn ,0.5,356,Expense
+100,General Fund,BU740016,100,14,Public Works & Utilities,3,Materials and supplies,390,Other commodities,3904,Petty cash expenditures,142122,Environmental Assmnt and Remedtn ,0.5,357,Expense
+100,General Fund,BU740017,1,14,Public Works & Utilities,3,Materials and supplies,390,Other commodities,3999,Other commodities,142122,Environmental Assmnt and Remedtn ,10,358,Expense
+100,General Fund,BU740017,2,14,Public Works & Utilities,1,Personnel services,110,Regular salaries,1100,Bi-weekly wages,143083,Child Care Licensing,1279.05,359,Expense
+100,General Fund,BU740017,3,14,Public Works & Utilities,1,Personnel services,110,Regular salaries,1101,Longevity,143083,Child Care Licensing,18.96,360,Expense
 520,Transit Fund,BU740017,4,16,Transit,1,Personnel services,140,Employee benefits,1406,Group life insurance,160044,Special Services,9.03,361,Expense
 520,Transit Fund,BU740017,5,16,Transit,2,Contractual services,220,Communications,2200,PBX - line charges,160044,Special Services,6.84,362,Expense
 520,Transit Fund,BU740017,6,16,Transit,2,Contractual services,220,Communications,2201,PBX - instrument charges,160044,Special Services,9.6,363,Expense
@@ -1045,23 +1045,23 @@ fund,fund_title,cur_doc_no,cur_doc_no_sfx,dept,dept_title,obj_lvl_1,obj_lvl_1_ti
 100,General Fund,BU740035,11,5,Municipal Court,2,Contractual services,220,Communications,2200,PBX - line charges,50013,Court Clerk and Staff,161.46,2044,Expense
 520,Transit Fund,BU740046,13,16,Transit,3,Materials and supplies,390,Other commodities,3903,Food supplies,160028,Vehicle Maintenance,4,2045,Expense
 100,General Fund,BU740056,86,8,Police Department,1,Personnel services,140,Employee benefits,1405,Group health insurance,83501,Professional Standards,1299.75,2046,Expense
-100,General Fund,BU740066,35,14,Public Works  & Utilities,2,Contractual services,270,Equipment charges,2700,Motor pool - scheduled charges,149047,Tobacco Sales Regulation,21.6,2047,Expense
-100,General Fund,BU740074,15,14,Public Works  & Utilities,3,Materials and supplies,380,Non-capitalizable equipment < $5000 each,3804,"Data processing equipment  < $5,000 each",142021,Air Quality ,1,2048,Expense
-100,General Fund,BU740074,16,14,Public Works  & Utilities,3,Materials and supplies,390,Other commodities,3999,Other commodities,142021,Air Quality ,50,2049,Expense
-100,General Fund,BU740074,17,14,Public Works  & Utilities,1,Personnel services,110,Regular salaries,1199,Other,142022,Hazardous Materials Response,200,2050,Expense
-100,General Fund,BU740074,18,14,Public Works  & Utilities,2,Contractual services,250,Professional services,2502,Medical and laboratory services,142022,Hazardous Materials Response,20,2051,Expense
-100,General Fund,BU740074,19,14,Public Works  & Utilities,2,Contractual services,270,Equipment charges,2703,Maintenance - equipment,142022,Hazardous Materials Response,5,2052,Expense
-100,General Fund,BU740074,20,14,Public Works  & Utilities,1,Personnel services,110,Regular salaries,1100,Bi-weekly wages,142044,Food,594.61,2053,Expense
-100,General Fund,BU740074,21,14,Public Works  & Utilities,1,Personnel services,110,Regular salaries,1101,Longevity,142044,Food,11.4,2054,Expense
-100,General Fund,BU740074,22,14,Public Works  & Utilities,1,Personnel services,110,Regular salaries,1190,Accrual,142044,Food,3.54,2055,Expense
-100,General Fund,BU740074,23,14,Public Works  & Utilities,1,Personnel services,120,Special salaries,1208,Cellular phone allowance,142044,Food,6,2056,Expense
-100,General Fund,BU740074,24,14,Public Works  & Utilities,1,Personnel services,130,Overtime,1300,Premium-Overtime,142044,Food,95,2057,Expense
-100,General Fund,BU740074,25,14,Public Works  & Utilities,1,Personnel services,140,Employee benefits,1400,FICA,142044,Food,46.36,2058,Expense
-100,General Fund,BU740074,26,14,Public Works  & Utilities,1,Personnel services,140,Employee benefits,1401,Employee pension,142044,Food,74.54,2059,Expense
-100,General Fund,BU740074,27,14,Public Works  & Utilities,1,Personnel services,140,Employee benefits,1403,Workers compensation,142044,Food,14.42,2060,Expense
-100,General Fund,BU740074,28,14,Public Works  & Utilities,1,Personnel services,140,Employee benefits,1404,Unemployment compensation,142044,Food,1.21,2061,Expense
-100,General Fund,BU740074,29,14,Public Works  & Utilities,1,Personnel services,140,Employee benefits,1405,Group health insurance,142044,Food,162.47,2062,Expense
-100,General Fund,BU740074,30,14,Public Works  & Utilities,1,Personnel services,140,Employee benefits,1406,Group life insurance,142044,Food,2.38,2063,Expense
+100,General Fund,BU740066,35,14,Public Works & Utilities,2,Contractual services,270,Equipment charges,2700,Motor pool - scheduled charges,149047,Tobacco Sales Regulation,21.6,2047,Expense
+100,General Fund,BU740074,15,14,Public Works & Utilities,3,Materials and supplies,380,Non-capitalizable equipment < $5000 each,3804,"Data processing equipment  < $5,000 each",142021,Air Quality ,1,2048,Expense
+100,General Fund,BU740074,16,14,Public Works & Utilities,3,Materials and supplies,390,Other commodities,3999,Other commodities,142021,Air Quality ,50,2049,Expense
+100,General Fund,BU740074,17,14,Public Works & Utilities,1,Personnel services,110,Regular salaries,1199,Other,142022,Hazardous Materials Response,200,2050,Expense
+100,General Fund,BU740074,18,14,Public Works & Utilities,2,Contractual services,250,Professional services,2502,Medical and laboratory services,142022,Hazardous Materials Response,20,2051,Expense
+100,General Fund,BU740074,19,14,Public Works & Utilities,2,Contractual services,270,Equipment charges,2703,Maintenance - equipment,142022,Hazardous Materials Response,5,2052,Expense
+100,General Fund,BU740074,20,14,Public Works & Utilities,1,Personnel services,110,Regular salaries,1100,Bi-weekly wages,142044,Food,594.61,2053,Expense
+100,General Fund,BU740074,21,14,Public Works & Utilities,1,Personnel services,110,Regular salaries,1101,Longevity,142044,Food,11.4,2054,Expense
+100,General Fund,BU740074,22,14,Public Works & Utilities,1,Personnel services,110,Regular salaries,1190,Accrual,142044,Food,3.54,2055,Expense
+100,General Fund,BU740074,23,14,Public Works & Utilities,1,Personnel services,120,Special salaries,1208,Cellular phone allowance,142044,Food,6,2056,Expense
+100,General Fund,BU740074,24,14,Public Works & Utilities,1,Personnel services,130,Overtime,1300,Premium-Overtime,142044,Food,95,2057,Expense
+100,General Fund,BU740074,25,14,Public Works & Utilities,1,Personnel services,140,Employee benefits,1400,FICA,142044,Food,46.36,2058,Expense
+100,General Fund,BU740074,26,14,Public Works & Utilities,1,Personnel services,140,Employee benefits,1401,Employee pension,142044,Food,74.54,2059,Expense
+100,General Fund,BU740074,27,14,Public Works & Utilities,1,Personnel services,140,Employee benefits,1403,Workers compensation,142044,Food,14.42,2060,Expense
+100,General Fund,BU740074,28,14,Public Works & Utilities,1,Personnel services,140,Employee benefits,1404,Unemployment compensation,142044,Food,1.21,2061,Expense
+100,General Fund,BU740074,29,14,Public Works & Utilities,1,Personnel services,140,Employee benefits,1405,Group health insurance,142044,Food,162.47,2062,Expense
+100,General Fund,BU740074,30,14,Public Works & Utilities,1,Personnel services,140,Employee benefits,1406,Group life insurance,142044,Food,2.38,2063,Expense
 520,Transit Fund,BU740074,31,16,Transit,2,Contractual services,220,Communications,2204,Local services,160010,Vehicle Operations,115.86,2064,Expense
 520,Transit Fund,BU740074,32,16,Transit,2,Contractual services,220,Communications,2214,Air cards - mobile,160010,Vehicle Operations,12.6,2065,Expense
 520,Transit Fund,BU740074,33,16,Transit,2,Contractual services,220,Communications,2215,Plexar,160010,Vehicle Operations,3.72,2066,Expense
@@ -1172,11 +1172,11 @@ fund,fund_title,cur_doc_no,cur_doc_no_sfx,dept,dept_title,obj_lvl_1,obj_lvl_1_ti
 100,General Fund,BU740035,32,5,Municipal Court,2,Contractual services,290,Other contractuals,2904,Codes and manuals,50013,Court Clerk and Staff,29.2,2171,Expense
 100,General Fund,BU740035,33,5,Municipal Court,2,Contractual services,290,Other contractuals,2905,Periodicals/Subscriptions,50013,Court Clerk and Staff,2.28,2172,Expense
 100,General Fund,BU740035,34,5,Municipal Court,2,Contractual services,290,Other contractuals,2906,Membership dues,50013,Court Clerk and Staff,30,2173,Expense
-255,TIF Districts Fund,BU740035,35,14,Public Works  & Utilities,2,Contractual services,290,Other contractuals,2919,Dirt and pavement cuts,148557,Gilbert & Mosley-General Program Costs,15,2174,Expense
-255,TIF Districts Fund,BU740035,36,14,Public Works  & Utilities,2,Contractual services,290,Other contractuals,2999,Other contractuals,148557,Gilbert & Mosley-General Program Costs,160,2175,Expense
-255,TIF Districts Fund,BU740035,37,14,Public Works  & Utilities,3,Materials and supplies,310,Office supplies,3103,Office supplies,148557,Gilbert & Mosley-General Program Costs,25,2176,Expense
-255,TIF Districts Fund,BU740035,38,14,Public Works  & Utilities,3,Materials and supplies,310,Office supplies,3199,Other office supplies,148557,Gilbert & Mosley-General Program Costs,0.25,2177,Expense
-255,TIF Districts Fund,BU740035,39,14,Public Works  & Utilities,3,Materials and supplies,320,Clothing and towels,3200,Clothing and towels,148557,Gilbert & Mosley-General Program Costs,1,2178,Expense
+255,TIF Districts Fund,BU740035,35,14,Public Works & Utilities,2,Contractual services,290,Other contractuals,2919,Dirt and pavement cuts,148557,Gilbert & Mosley-General Program Costs,15,2174,Expense
+255,TIF Districts Fund,BU740035,36,14,Public Works & Utilities,2,Contractual services,290,Other contractuals,2999,Other contractuals,148557,Gilbert & Mosley-General Program Costs,160,2175,Expense
+255,TIF Districts Fund,BU740035,37,14,Public Works & Utilities,3,Materials and supplies,310,Office supplies,3103,Office supplies,148557,Gilbert & Mosley-General Program Costs,25,2176,Expense
+255,TIF Districts Fund,BU740035,38,14,Public Works & Utilities,3,Materials and supplies,310,Office supplies,3199,Other office supplies,148557,Gilbert & Mosley-General Program Costs,0.25,2177,Expense
+255,TIF Districts Fund,BU740035,39,14,Public Works & Utilities,3,Materials and supplies,320,Clothing and towels,3200,Clothing and towels,148557,Gilbert & Mosley-General Program Costs,1,2178,Expense
 620,Self Insurance Fund,BU740036,22,3,Department of Finance,1,Personnel services,140,Employee benefits,1404,Unemployment compensation,36319,Self Insurance Safety Office,3.06,2179,Expense
 620,Self Insurance Fund,BU740036,51,3,Department of Finance,3,Materials and supplies,340,Equipment parts,3406,Safety/security equipment,36319,Self Insurance Safety Office,10,2180,Expense
 100,General Fund,BU740056,87,8,Police Department,1,Personnel services,140,Employee benefits,1406,Group life insurance,83501,Professional Standards,22.83,2181,Expense
@@ -1444,27 +1444,27 @@ fund,fund_title,cur_doc_no,cur_doc_no_sfx,dept,dept_title,obj_lvl_1,obj_lvl_1_ti
 245,State Office Building Fund,BU740014,47,13,Public Works & Utilities,2,Contractual services,290,Other contractuals,2999,Other contractuals,135302,State Parking Facilities - was 205302,600,2443,Expense
 245,State Office Building Fund,BU740014,48,13,Public Works & Utilities,3,Materials and supplies,370,Building parts,3799,Other building parts and materials,135302,State Parking Facilities - was 205302,48,2444,Expense
 245,State Office Building Fund,BU740014,49,13,Public Works & Utilities,3,Materials and supplies,390,Other commodities,3999,Other commodities,135302,State Parking Facilities - was 205302,30,2445,Expense
-100,General Fund,BU740025,18,14,Public Works  & Utilities,1,Personnel services,140,Employee benefits,1400,FICA,149013,ENV HLTH / SWIMMING POOLS / CITY,14.34,2446,Expense
-100,General Fund,BU740025,19,14,Public Works  & Utilities,1,Personnel services,140,Employee benefits,1403,Workers compensation,149013,ENV HLTH / SWIMMING POOLS / CITY,4.69,2447,Expense
-100,General Fund,BU740025,20,14,Public Works  & Utilities,1,Personnel services,140,Employee benefits,1404,Unemployment compensation,149013,ENV HLTH / SWIMMING POOLS / CITY,0.37,2448,Expense
-100,General Fund,BU740025,21,14,Public Works  & Utilities,2,Contractual services,220,Communications,2200,PBX - line charges,149013,ENV HLTH / SWIMMING POOLS / CITY,1.14,2449,Expense
-100,General Fund,BU740025,22,14,Public Works  & Utilities,2,Contractual services,220,Communications,2201,PBX - instrument charges,149013,ENV HLTH / SWIMMING POOLS / CITY,1.5,2450,Expense
-100,General Fund,BU740025,23,14,Public Works  & Utilities,2,Contractual services,220,Communications,2203,Long distance service,149013,ENV HLTH / SWIMMING POOLS / CITY,0.5,2451,Expense
-100,General Fund,BU740025,24,14,Public Works  & Utilities,2,Contractual services,220,Communications,2207,Postage - regular,149013,ENV HLTH / SWIMMING POOLS / CITY,2.25,2452,Expense
-100,General Fund,BU740025,25,14,Public Works  & Utilities,2,Contractual services,260,Data processing,2600,Data center charges,149013,ENV HLTH / SWIMMING POOLS / CITY,11.55,2453,Expense
-100,General Fund,BU740025,26,14,Public Works  & Utilities,2,Contractual services,290,Other contractuals,2917,Printing and copying,149013,ENV HLTH / SWIMMING POOLS / CITY,7.5,2454,Expense
-100,General Fund,BU740025,27,14,Public Works  & Utilities,3,Materials and supplies,310,Office supplies,3103,Office supplies,149013,ENV HLTH / SWIMMING POOLS / CITY,1.5,2455,Expense
-100,General Fund,BU740025,28,14,Public Works  & Utilities,3,Materials and supplies,320,Clothing and towels,3200,Clothing and towels,149013,ENV HLTH / SWIMMING POOLS / CITY,1,2456,Expense
-100,General Fund,BU740025,29,14,Public Works  & Utilities,3,Materials and supplies,330,Chemicals,3399,Other chemicals,149013,ENV HLTH / SWIMMING POOLS / CITY,0.5,2457,Expense
-100,General Fund,BU740025,30,14,Public Works  & Utilities,1,Personnel services,110,Regular salaries,1100,Bi-weekly wages,149047,Tobacco Sales Regulation,579.93,2458,Expense
-100,General Fund,BU740025,31,14,Public Works  & Utilities,1,Personnel services,110,Regular salaries,1101,Longevity,149047,Tobacco Sales Regulation,12,2459,Expense
-100,General Fund,BU740025,32,14,Public Works  & Utilities,1,Personnel services,110,Regular salaries,1190,Accrual,149047,Tobacco Sales Regulation,3.38,2460,Expense
-100,General Fund,BU740025,33,14,Public Works  & Utilities,1,Personnel services,120,Special salaries,1208,Cellular phone allowance,149047,Tobacco Sales Regulation,6,2461,Expense
-100,General Fund,BU740025,34,14,Public Works  & Utilities,1,Personnel services,140,Employee benefits,1400,FICA,149047,Tobacco Sales Regulation,45.28,2462,Expense
-100,General Fund,BU740025,35,14,Public Works  & Utilities,1,Personnel services,140,Employee benefits,1401,Employee pension,149047,Tobacco Sales Regulation,72.81,2463,Expense
-100,General Fund,BU740025,36,14,Public Works  & Utilities,1,Personnel services,140,Employee benefits,1403,Workers compensation,149047,Tobacco Sales Regulation,14.09,2464,Expense
-100,General Fund,BU740025,37,14,Public Works  & Utilities,1,Personnel services,140,Employee benefits,1404,Unemployment compensation,149047,Tobacco Sales Regulation,1.18,2465,Expense
-100,General Fund,BU740025,38,14,Public Works  & Utilities,1,Personnel services,140,Employee benefits,1405,Group health insurance,149047,Tobacco Sales Regulation,54.29,2466,Expense
+100,General Fund,BU740025,18,14,Public Works & Utilities,1,Personnel services,140,Employee benefits,1400,FICA,149013,ENV HLTH / SWIMMING POOLS / CITY,14.34,2446,Expense
+100,General Fund,BU740025,19,14,Public Works & Utilities,1,Personnel services,140,Employee benefits,1403,Workers compensation,149013,ENV HLTH / SWIMMING POOLS / CITY,4.69,2447,Expense
+100,General Fund,BU740025,20,14,Public Works & Utilities,1,Personnel services,140,Employee benefits,1404,Unemployment compensation,149013,ENV HLTH / SWIMMING POOLS / CITY,0.37,2448,Expense
+100,General Fund,BU740025,21,14,Public Works & Utilities,2,Contractual services,220,Communications,2200,PBX - line charges,149013,ENV HLTH / SWIMMING POOLS / CITY,1.14,2449,Expense
+100,General Fund,BU740025,22,14,Public Works & Utilities,2,Contractual services,220,Communications,2201,PBX - instrument charges,149013,ENV HLTH / SWIMMING POOLS / CITY,1.5,2450,Expense
+100,General Fund,BU740025,23,14,Public Works & Utilities,2,Contractual services,220,Communications,2203,Long distance service,149013,ENV HLTH / SWIMMING POOLS / CITY,0.5,2451,Expense
+100,General Fund,BU740025,24,14,Public Works & Utilities,2,Contractual services,220,Communications,2207,Postage - regular,149013,ENV HLTH / SWIMMING POOLS / CITY,2.25,2452,Expense
+100,General Fund,BU740025,25,14,Public Works & Utilities,2,Contractual services,260,Data processing,2600,Data center charges,149013,ENV HLTH / SWIMMING POOLS / CITY,11.55,2453,Expense
+100,General Fund,BU740025,26,14,Public Works & Utilities,2,Contractual services,290,Other contractuals,2917,Printing and copying,149013,ENV HLTH / SWIMMING POOLS / CITY,7.5,2454,Expense
+100,General Fund,BU740025,27,14,Public Works & Utilities,3,Materials and supplies,310,Office supplies,3103,Office supplies,149013,ENV HLTH / SWIMMING POOLS / CITY,1.5,2455,Expense
+100,General Fund,BU740025,28,14,Public Works & Utilities,3,Materials and supplies,320,Clothing and towels,3200,Clothing and towels,149013,ENV HLTH / SWIMMING POOLS / CITY,1,2456,Expense
+100,General Fund,BU740025,29,14,Public Works & Utilities,3,Materials and supplies,330,Chemicals,3399,Other chemicals,149013,ENV HLTH / SWIMMING POOLS / CITY,0.5,2457,Expense
+100,General Fund,BU740025,30,14,Public Works & Utilities,1,Personnel services,110,Regular salaries,1100,Bi-weekly wages,149047,Tobacco Sales Regulation,579.93,2458,Expense
+100,General Fund,BU740025,31,14,Public Works & Utilities,1,Personnel services,110,Regular salaries,1101,Longevity,149047,Tobacco Sales Regulation,12,2459,Expense
+100,General Fund,BU740025,32,14,Public Works & Utilities,1,Personnel services,110,Regular salaries,1190,Accrual,149047,Tobacco Sales Regulation,3.38,2460,Expense
+100,General Fund,BU740025,33,14,Public Works & Utilities,1,Personnel services,120,Special salaries,1208,Cellular phone allowance,149047,Tobacco Sales Regulation,6,2461,Expense
+100,General Fund,BU740025,34,14,Public Works & Utilities,1,Personnel services,140,Employee benefits,1400,FICA,149047,Tobacco Sales Regulation,45.28,2462,Expense
+100,General Fund,BU740025,35,14,Public Works & Utilities,1,Personnel services,140,Employee benefits,1401,Employee pension,149047,Tobacco Sales Regulation,72.81,2463,Expense
+100,General Fund,BU740025,36,14,Public Works & Utilities,1,Personnel services,140,Employee benefits,1403,Workers compensation,149047,Tobacco Sales Regulation,14.09,2464,Expense
+100,General Fund,BU740025,37,14,Public Works & Utilities,1,Personnel services,140,Employee benefits,1404,Unemployment compensation,149047,Tobacco Sales Regulation,1.18,2465,Expense
+100,General Fund,BU740025,38,14,Public Works & Utilities,1,Personnel services,140,Employee benefits,1405,Group health insurance,149047,Tobacco Sales Regulation,54.29,2466,Expense
 100,General Fund,BU740025,39,11,CMO - Cultural Arts Division,1,Personnel services,140,Employee benefits,1400,FICA,111001,Cowtown Operations,325.46,2467,Expense
 100,General Fund,BU740025,40,11,CMO - Cultural Arts Division,1,Personnel services,140,Employee benefits,1401,Employee pension,111001,Cowtown Operations,377.75,2468,Expense
 100,General Fund,BU740025,41,11,CMO - Cultural Arts Division,1,Personnel services,140,Employee benefits,1403,Workers compensation,111001,Cowtown Operations,108.68,2469,Expense
@@ -1639,7 +1639,7 @@ fund,fund_title,cur_doc_no,cur_doc_no_sfx,dept,dept_title,obj_lvl_1,obj_lvl_1_ti
 540,WATER UTILITY FUND,BU740071,1,18,Public Works & Utilities,2,Contractual services,270,Equipment charges,2707,Cylinder rental-compressed gas,183533,TREATMENT PLANT MAINTENANCE,15,2638,Expense
 100,General Fund,BU740080,17,8,Police Department,5,Other expenditures,510,Interfund transfers,5100,Contributions to other funds,82206,Crimes Against Persons,434.98,2639,Expense
 231,Landfill Post-closure Fund,BU740080,18,13,Public Works & Utilities,5,Other expenditures,510,Interfund transfers,5100,Contributions to other funds,131384,Landfill Post-Closure Fund,1500,2640,Expense
-255,TIF Districts Fund,BU740080,19,14,Public Works  & Utilities,5,Other expenditures,510,Interfund transfers,5100,Contributions to other funds,148557,Gilbert & Mosley-General Program Costs,3590,2641,Expense
+255,TIF Districts Fund,BU740080,19,14,Public Works & Utilities,5,Other expenditures,510,Interfund transfers,5100,Contributions to other funds,148557,Gilbert & Mosley-General Program Costs,3590,2641,Expense
 265,City/County Joint Operations Fund,BU740080,20,15,Metropolitan Planning,5,Other expenditures,510,Interfund transfers,5100,Contributions to other funds,150004,Metropolitan Planning,140,2642,Expense
 515,Golf Course System Fund,BU740080,21,21,Golf Course System,5,Other expenditures,510,Interfund transfers,5100,Contributions to other funds,210100,Auburn Hills-Golf Course,2865.51,2643,Expense
 515,Golf Course System Fund,BU740080,22,21,Golf Course System,5,Other expenditures,510,Interfund transfers,5100,Contributions to other funds,210600,Golf Administration,1500,2644,Expense
@@ -2422,36 +2422,36 @@ fund,fund_title,cur_doc_no,cur_doc_no_sfx,dept,dept_title,obj_lvl_1,obj_lvl_1_ti
 245,State Office Building Fund,BU740066,27,13,Public Works & Utilities,2,Contractual services,270,Equipment charges,2799,Other equipment charges,135203,State Office Building - was 205203,240,1421,Expense
 245,State Office Building Fund,BU740066,28,13,Public Works & Utilities,2,Contractual services,280,Buildings and grounds charges,2899,Other building/grounds charges,135203,State Office Building - was 205203,360,1422,Expense
 245,State Office Building Fund,BU740066,29,13,Public Works & Utilities,2,Contractual services,290,Other contractuals,2900,City administrative charges,135203,State Office Building - was 205203,23.79,1423,Expense
-100,General Fund,BU740066,30,14,Public Works  & Utilities,2,Contractual services,220,Communications,2203,Long distance service,149047,Tobacco Sales Regulation,0.25,1424,Expense
-100,General Fund,BU740066,31,14,Public Works  & Utilities,2,Contractual services,220,Communications,2207,Postage - regular,149047,Tobacco Sales Regulation,1,1425,Expense
+100,General Fund,BU740066,30,14,Public Works & Utilities,2,Contractual services,220,Communications,2203,Long distance service,149047,Tobacco Sales Regulation,0.25,1424,Expense
+100,General Fund,BU740066,31,14,Public Works & Utilities,2,Contractual services,220,Communications,2207,Postage - regular,149047,Tobacco Sales Regulation,1,1425,Expense
 540,WATER UTILITY FUND,BU740073,84,18,Public Works & Utilities,3,Materials and supplies,320,Clothing and towels,3200,Clothing and towels,183327,WATER DISTRIBUTION ADMINISTRATION,350,1426,Expense
 540,WATER UTILITY FUND,BU740073,85,18,Public Works & Utilities,3,Materials and supplies,340,Equipment parts,3400,Equipment parts and supplies,183327,WATER DISTRIBUTION ADMINISTRATION,150,1427,Expense
 540,WATER UTILITY FUND,BU740073,86,18,Public Works & Utilities,3,Materials and supplies,340,Equipment parts,3402,Automotive,183327,WATER DISTRIBUTION ADMINISTRATION,35,1428,Expense
-100,General Fund,BU740073,87,14,Public Works  & Utilities,2,Contractual services,250,Professional services,2514,Laboratory services,142016,Water Quality ,10,1429,Expense
-100,General Fund,BU740073,88,14,Public Works  & Utilities,2,Contractual services,260,Data processing,2600,Data center charges,142016,Water Quality ,25.42,1430,Expense
-100,General Fund,BU740073,89,14,Public Works  & Utilities,2,Contractual services,260,Data processing,2601,Maintenance - data equipment,142016,Water Quality ,1,1431,Expense
-100,General Fund,BU740073,90,14,Public Works  & Utilities,2,Contractual services,270,Equipment charges,2700,Motor pool - scheduled charges,142016,Water Quality ,63.6,1432,Expense
-100,General Fund,BU740073,91,14,Public Works  & Utilities,2,Contractual services,270,Equipment charges,2701,Motor pool-unscheduled charges,142016,Water Quality ,1,1433,Expense
-100,General Fund,BU740073,92,14,Public Works  & Utilities,2,Contractual services,290,Other contractuals,2906,Membership dues,142016,Water Quality ,0.5,1434,Expense
-100,General Fund,BU740073,93,14,Public Works  & Utilities,2,Contractual services,290,Other contractuals,2917,Printing and copying,142016,Water Quality ,6,1435,Expense
-100,General Fund,BU740073,94,14,Public Works  & Utilities,3,Materials and supplies,310,Office supplies,3103,Office supplies,142016,Water Quality ,2,1436,Expense
-100,General Fund,BU740073,95,14,Public Works  & Utilities,3,Materials and supplies,330,Chemicals,3399,Other chemicals,142016,Water Quality ,6,1437,Expense
-100,General Fund,BU740073,96,14,Public Works  & Utilities,3,Materials and supplies,340,Equipment parts,3400,Equipment parts and supplies,142016,Water Quality ,1,1438,Expense
-100,General Fund,BU740073,97,14,Public Works  & Utilities,3,Materials and supplies,340,Equipment parts,3405,Fuel,142016,Water Quality ,27.85,1439,Expense
-100,General Fund,BU740073,98,14,Public Works  & Utilities,3,Materials and supplies,380,Non-capitalizable equipment < $5000 each,3804,"Data processing equipment  < $5,000 each",142016,Water Quality ,7.5,1440,Expense
-100,General Fund,BU740073,99,14,Public Works  & Utilities,3,Materials and supplies,390,Other commodities,3999,Other commodities,142016,Water Quality ,12.5,1441,Expense
-100,General Fund,BU740073,100,14,Public Works  & Utilities,1,Personnel services,110,Regular salaries,1190,Accrual,142021,Air Quality ,5.18,1442,Expense
-100,General Fund,BU740074,1,14,Public Works  & Utilities,1,Personnel services,110,Regular salaries,1199,Other,142021,Air Quality ,503.48,1443,Expense
-100,General Fund,BU740074,2,14,Public Works  & Utilities,1,Personnel services,140,Employee benefits,1499,Employee benefits in aggregate,142021,Air Quality ,125.87,1444,Expense
-100,General Fund,BU740074,3,14,Public Works  & Utilities,2,Contractual services,220,Communications,2207,Postage - regular,142021,Air Quality ,0.25,1445,Expense
-100,General Fund,BU740074,4,14,Public Works  & Utilities,2,Contractual services,230,Transportation and training,2310,Turnpike fees and charges,142021,Air Quality ,0.5,1446,Expense
-100,General Fund,BU740074,5,14,Public Works  & Utilities,2,Contractual services,240,Insurance,2401,Vehicle liability,142021,Air Quality ,23.9,1447,Expense
-100,General Fund,BU740074,6,14,Public Works  & Utilities,2,Contractual services,250,Professional services,2507,Audits,142021,Air Quality ,2,1448,Expense
-100,General Fund,BU740074,7,14,Public Works  & Utilities,2,Contractual services,260,Data processing,2600,Data center charges,142021,Air Quality ,60.07,1449,Expense
-100,General Fund,BU740074,8,14,Public Works  & Utilities,2,Contractual services,270,Equipment charges,2700,Motor pool - scheduled charges,142021,Air Quality ,144,1450,Expense
-100,General Fund,BU740074,9,14,Public Works  & Utilities,2,Contractual services,270,Equipment charges,2799,Other equipment charges,142021,Air Quality ,2.5,1451,Expense
-100,General Fund,BU740074,10,14,Public Works  & Utilities,2,Contractual services,290,Other contractuals,2902,Advertising,142021,Air Quality ,150,1452,Expense
-100,General Fund,BU740074,11,14,Public Works  & Utilities,2,Contractual services,290,Other contractuals,2917,Printing and copying,142021,Air Quality ,10,1453,Expense
+100,General Fund,BU740073,87,14,Public Works & Utilities,2,Contractual services,250,Professional services,2514,Laboratory services,142016,Water Quality ,10,1429,Expense
+100,General Fund,BU740073,88,14,Public Works & Utilities,2,Contractual services,260,Data processing,2600,Data center charges,142016,Water Quality ,25.42,1430,Expense
+100,General Fund,BU740073,89,14,Public Works & Utilities,2,Contractual services,260,Data processing,2601,Maintenance - data equipment,142016,Water Quality ,1,1431,Expense
+100,General Fund,BU740073,90,14,Public Works & Utilities,2,Contractual services,270,Equipment charges,2700,Motor pool - scheduled charges,142016,Water Quality ,63.6,1432,Expense
+100,General Fund,BU740073,91,14,Public Works & Utilities,2,Contractual services,270,Equipment charges,2701,Motor pool-unscheduled charges,142016,Water Quality ,1,1433,Expense
+100,General Fund,BU740073,92,14,Public Works & Utilities,2,Contractual services,290,Other contractuals,2906,Membership dues,142016,Water Quality ,0.5,1434,Expense
+100,General Fund,BU740073,93,14,Public Works & Utilities,2,Contractual services,290,Other contractuals,2917,Printing and copying,142016,Water Quality ,6,1435,Expense
+100,General Fund,BU740073,94,14,Public Works & Utilities,3,Materials and supplies,310,Office supplies,3103,Office supplies,142016,Water Quality ,2,1436,Expense
+100,General Fund,BU740073,95,14,Public Works & Utilities,3,Materials and supplies,330,Chemicals,3399,Other chemicals,142016,Water Quality ,6,1437,Expense
+100,General Fund,BU740073,96,14,Public Works & Utilities,3,Materials and supplies,340,Equipment parts,3400,Equipment parts and supplies,142016,Water Quality ,1,1438,Expense
+100,General Fund,BU740073,97,14,Public Works & Utilities,3,Materials and supplies,340,Equipment parts,3405,Fuel,142016,Water Quality ,27.85,1439,Expense
+100,General Fund,BU740073,98,14,Public Works & Utilities,3,Materials and supplies,380,Non-capitalizable equipment < $5000 each,3804,"Data processing equipment  < $5,000 each",142016,Water Quality ,7.5,1440,Expense
+100,General Fund,BU740073,99,14,Public Works & Utilities,3,Materials and supplies,390,Other commodities,3999,Other commodities,142016,Water Quality ,12.5,1441,Expense
+100,General Fund,BU740073,100,14,Public Works & Utilities,1,Personnel services,110,Regular salaries,1190,Accrual,142021,Air Quality ,5.18,1442,Expense
+100,General Fund,BU740074,1,14,Public Works & Utilities,1,Personnel services,110,Regular salaries,1199,Other,142021,Air Quality ,503.48,1443,Expense
+100,General Fund,BU740074,2,14,Public Works & Utilities,1,Personnel services,140,Employee benefits,1499,Employee benefits in aggregate,142021,Air Quality ,125.87,1444,Expense
+100,General Fund,BU740074,3,14,Public Works & Utilities,2,Contractual services,220,Communications,2207,Postage - regular,142021,Air Quality ,0.25,1445,Expense
+100,General Fund,BU740074,4,14,Public Works & Utilities,2,Contractual services,230,Transportation and training,2310,Turnpike fees and charges,142021,Air Quality ,0.5,1446,Expense
+100,General Fund,BU740074,5,14,Public Works & Utilities,2,Contractual services,240,Insurance,2401,Vehicle liability,142021,Air Quality ,23.9,1447,Expense
+100,General Fund,BU740074,6,14,Public Works & Utilities,2,Contractual services,250,Professional services,2507,Audits,142021,Air Quality ,2,1448,Expense
+100,General Fund,BU740074,7,14,Public Works & Utilities,2,Contractual services,260,Data processing,2600,Data center charges,142021,Air Quality ,60.07,1449,Expense
+100,General Fund,BU740074,8,14,Public Works & Utilities,2,Contractual services,270,Equipment charges,2700,Motor pool - scheduled charges,142021,Air Quality ,144,1450,Expense
+100,General Fund,BU740074,9,14,Public Works & Utilities,2,Contractual services,270,Equipment charges,2799,Other equipment charges,142021,Air Quality ,2.5,1451,Expense
+100,General Fund,BU740074,10,14,Public Works & Utilities,2,Contractual services,290,Other contractuals,2902,Advertising,142021,Air Quality ,150,1452,Expense
+100,General Fund,BU740074,11,14,Public Works & Utilities,2,Contractual services,290,Other contractuals,2917,Printing and copying,142021,Air Quality ,10,1453,Expense
 100,General Fund,BU740011,70,13,Public Works & Utilities,2,Contractual services,280,Buildings and grounds charges,2803,Maintenance - buildings,130575,Expo Hall,150,1454,Expense
 100,General Fund,BU740023,29,2,City Manager,1,Personnel services,110,Regular salaries,1101,Longevity,28106,City Clerk,10.2,1455,Expense
 238,Downtown Parking Fund,BU740034,80,2,City Manager,2,Contractual services,270,Equipment charges,2701,Motor pool-unscheduled charges,23800,Parking Fund Administration,5,1456,Expense
@@ -2565,13 +2565,13 @@ fund,fund_title,cur_doc_no,cur_doc_no_sfx,dept,dept_title,obj_lvl_1,obj_lvl_1_ti
 515,Golf Course System Fund,BU740057,43,21,Golf Course System,2,Contractual services,220,Communications,2201,PBX - instrument charges,210600,Golf Administration,9.9,1564,Expense
 515,Golf Course System Fund,BU740057,44,21,Golf Course System,2,Contractual services,220,Communications,2203,Long distance service,210600,Golf Administration,0.6,1565,Expense
 515,Golf Course System Fund,BU740057,45,21,Golf Course System,2,Contractual services,220,Communications,2207,Postage - regular,210600,Golf Administration,3,1566,Expense
-100,General Fund,BU740066,36,14,Public Works  & Utilities,2,Contractual services,290,Other contractuals,2917,Printing and copying,149047,Tobacco Sales Regulation,1.75,1567,Expense
-100,General Fund,BU740066,37,14,Public Works  & Utilities,3,Materials and supplies,310,Office supplies,3103,Office supplies,149047,Tobacco Sales Regulation,1,1568,Expense
-100,General Fund,BU740066,38,14,Public Works  & Utilities,3,Materials and supplies,340,Equipment parts,3405,Fuel,149047,Tobacco Sales Regulation,3.01,1569,Expense
-100,General Fund,BU740066,39,14,Public Works  & Utilities,3,Materials and supplies,380,Non-capitalizable equipment < $5000 each,3899,"Other non-capitalized equip <$5,000 each",149047,Tobacco Sales Regulation,5,1570,Expense
-100,General Fund,BU740066,40,14,Public Works  & Utilities,3,Materials and supplies,390,Other commodities,3904,Petty cash expenditures,149047,Tobacco Sales Regulation,2.5,1571,Expense
-100,General Fund,BU740066,41,14,Public Works  & Utilities,2,Contractual services,260,Data processing,2600,Data center charges,149063,Environmental Nuisance Program,12.71,1572,Expense
-100,General Fund,BU740066,42,14,Public Works  & Utilities,2,Contractual services,290,Other contractuals,2917,Printing and copying,149063,Environmental Nuisance Program,2.9,1573,Expense
+100,General Fund,BU740066,36,14,Public Works & Utilities,2,Contractual services,290,Other contractuals,2917,Printing and copying,149047,Tobacco Sales Regulation,1.75,1567,Expense
+100,General Fund,BU740066,37,14,Public Works & Utilities,3,Materials and supplies,310,Office supplies,3103,Office supplies,149047,Tobacco Sales Regulation,1,1568,Expense
+100,General Fund,BU740066,38,14,Public Works & Utilities,3,Materials and supplies,340,Equipment parts,3405,Fuel,149047,Tobacco Sales Regulation,3.01,1569,Expense
+100,General Fund,BU740066,39,14,Public Works & Utilities,3,Materials and supplies,380,Non-capitalizable equipment < $5000 each,3899,"Other non-capitalized equip <$5,000 each",149047,Tobacco Sales Regulation,5,1570,Expense
+100,General Fund,BU740066,40,14,Public Works & Utilities,3,Materials and supplies,390,Other commodities,3904,Petty cash expenditures,149047,Tobacco Sales Regulation,2.5,1571,Expense
+100,General Fund,BU740066,41,14,Public Works & Utilities,2,Contractual services,260,Data processing,2600,Data center charges,149063,Environmental Nuisance Program,12.71,1572,Expense
+100,General Fund,BU740066,42,14,Public Works & Utilities,2,Contractual services,290,Other contractuals,2917,Printing and copying,149063,Environmental Nuisance Program,2.9,1573,Expense
 265,City/County Joint Operations Fund,BU740066,43,15,Metropolitan Planning,1,Personnel services,110,Regular salaries,1100,Bi-weekly wages,150004,Metropolitan Planning,10192.51,1574,Expense
 265,City/County Joint Operations Fund,BU740066,44,15,Metropolitan Planning,1,Personnel services,110,Regular salaries,1101,Longevity,150004,Metropolitan Planning,168.6,1575,Expense
 265,City/County Joint Operations Fund,BU740066,45,15,Metropolitan Planning,1,Personnel services,110,Regular salaries,1190,Accrual,150004,Metropolitan Planning,31,1576,Expense
@@ -2616,7 +2616,7 @@ fund,fund_title,cur_doc_no,cur_doc_no_sfx,dept,dept_title,obj_lvl_1,obj_lvl_1_ti
 100,General Fund,BU740046,41,17,Park,3,Materials and supplies,370,Building parts,3700,Building parts and materials,172209,Park Projects/Construction,0.5,1615,Expense
 100,General Fund,BU740013,91,17,Park,2,Contractual services,290,Other contractuals,2917,Printing and copying,173206,Linwood Center,5,1616,Expense
 100,General Fund,BU740023,90,11,CMO - Cultural Arts Division,3,Materials and supplies,310,Office supplies,3199,Other office supplies,112000,Century II,2,1617,Expense
-255,TIF Districts Fund,BU740035,40,14,Public Works  & Utilities,3,Materials and supplies,330,Chemicals,3300,Research chemicals,148557,Gilbert & Mosley-General Program Costs,216.5,1618,Expense
+255,TIF Districts Fund,BU740035,40,14,Public Works & Utilities,3,Materials and supplies,330,Chemicals,3300,Research chemicals,148557,Gilbert & Mosley-General Program Costs,216.5,1618,Expense
 100,General Fund,BU740046,42,17,Park,3,Materials and supplies,380,Non-capitalizable equipment < $5000 each,3800,"Non-capital shop equipment < $5,000 each",172209,Park Projects/Construction,13.22,1619,Expense
 100,General Fund,BU740046,43,17,Park,3,Materials and supplies,380,Non-capitalizable equipment < $5000 each,3808,"Photographic equipment < $5,000 each",172209,Park Projects/Construction,0.5,1620,Expense
 100,General Fund,BU740046,44,17,Park,3,Materials and supplies,380,Non-capitalizable equipment < $5000 each,3815,"Safety equipment < $5,000 each",172209,Park Projects/Construction,5,1621,Expense
@@ -2670,32 +2670,32 @@ fund,fund_title,cur_doc_no,cur_doc_no_sfx,dept,dept_title,obj_lvl_1,obj_lvl_1_ti
 530,SEWER UTILITY FUND,BU740024,16,18,Public Works & Utilities,2,Contractual services,260,Data processing,2601,Maintenance - data equipment,184804,SEWER MAINTENANCE DIVISION,28.5,1669,Expense
 530,SEWER UTILITY FUND,BU740024,17,18,Public Works & Utilities,2,Contractual services,270,Equipment charges,2700,Motor pool - scheduled charges,184804,SEWER MAINTENANCE DIVISION,3466.44,1670,Expense
 530,SEWER UTILITY FUND,BU740024,18,18,Public Works & Utilities,2,Contractual services,270,Equipment charges,2701,Motor pool-unscheduled charges,184804,SEWER MAINTENANCE DIVISION,6.5,1671,Expense
-255,TIF Districts Fund,BU740035,41,14,Public Works  & Utilities,3,Materials and supplies,340,Equipment parts,3400,Equipment parts and supplies,148557,Gilbert & Mosley-General Program Costs,114,1672,Expense
-255,TIF Districts Fund,BU740035,42,14,Public Works  & Utilities,3,Materials and supplies,340,Equipment parts,3406,Safety/security equipment,148557,Gilbert & Mosley-General Program Costs,1.5,1673,Expense
-255,TIF Districts Fund,BU740035,43,14,Public Works  & Utilities,3,Materials and supplies,340,Equipment parts,3499,Other equipment parts,148557,Gilbert & Mosley-General Program Costs,4,1674,Expense
-255,TIF Districts Fund,BU740035,44,14,Public Works  & Utilities,3,Materials and supplies,350,Materials,3599,Other materials,148557,Gilbert & Mosley-General Program Costs,100,1675,Expense
-255,TIF Districts Fund,BU740035,45,14,Public Works  & Utilities,3,Materials and supplies,380,Non-capitalizable equipment < $5000 each,3802,Audio and visual equipment < $5000 each,148557,Gilbert & Mosley-General Program Costs,1000,1676,Expense
-255,TIF Districts Fund,BU740035,46,14,Public Works  & Utilities,3,Materials and supplies,380,Non-capitalizable equipment < $5000 each,3804,"Data processing equipment  < $5,000 each",148557,Gilbert & Mosley-General Program Costs,1.5,1677,Expense
-255,TIF Districts Fund,BU740035,47,14,Public Works  & Utilities,3,Materials and supplies,380,Non-capitalizable equipment < $5000 each,3805,Furniture & equipment <$5000 each,148557,Gilbert & Mosley-General Program Costs,10,1678,Expense
-255,TIF Districts Fund,BU740035,48,14,Public Works  & Utilities,3,Materials and supplies,380,Non-capitalizable equipment < $5000 each,3808,"Photographic equipment < $5,000 each",148557,Gilbert & Mosley-General Program Costs,1.5,1679,Expense
-255,TIF Districts Fund,BU740035,49,14,Public Works  & Utilities,3,Materials and supplies,390,Other commodities,3901,Custodial supplies,148557,Gilbert & Mosley-General Program Costs,1.5,1680,Expense
-255,TIF Districts Fund,BU740035,50,14,Public Works  & Utilities,3,Materials and supplies,390,Other commodities,3999,Other commodities,148557,Gilbert & Mosley-General Program Costs,5,1681,Expense
-255,TIF Districts Fund,BU740035,51,14,Public Works  & Utilities,5,Other expenditures,510,Interfund transfers,5101,Reimbursements-interfund & interdepart,148557,Gilbert & Mosley-General Program Costs,2072.37,1682,Expense
-255,TIF Districts Fund,BU740035,52,14,Public Works  & Utilities,5,Other expenditures,530,Other non-operating expenditures,5333,Miscellaneous and sundry,148557,Gilbert & Mosley-General Program Costs,108500,1683,Expense
-255,TIF Districts Fund,BU740035,53,14,Public Works  & Utilities,2,Contractual services,210,Utilities,2100,Electricity,148558,Gilbert & Mosley-WATER Center & Ed Progr,203.68,1684,Expense
-255,TIF Districts Fund,BU740035,54,14,Public Works  & Utilities,2,Contractual services,210,Utilities,2101,Gas-ONEOK Kansas Gas Service,148558,Gilbert & Mosley-WATER Center & Ed Progr,36.29,1685,Expense
-255,TIF Districts Fund,BU740035,55,14,Public Works  & Utilities,2,Contractual services,210,Utilities,2104,Water,148558,Gilbert & Mosley-WATER Center & Ed Progr,14.79,1686,Expense
-255,TIF Districts Fund,BU740035,56,14,Public Works  & Utilities,2,Contractual services,220,Communications,2203,Long distance service,148558,Gilbert & Mosley-WATER Center & Ed Progr,0.5,1687,Expense
-255,TIF Districts Fund,BU740035,57,14,Public Works  & Utilities,2,Contractual services,220,Communications,2207,Postage - regular,148558,Gilbert & Mosley-WATER Center & Ed Progr,1.5,1688,Expense
-255,TIF Districts Fund,BU740035,58,14,Public Works  & Utilities,2,Contractual services,220,Communications,2217,Internet Service,148558,Gilbert & Mosley-WATER Center & Ed Progr,7.19,1689,Expense
-255,TIF Districts Fund,BU740035,59,14,Public Works  & Utilities,2,Contractual services,250,Professional services,2503,Studies/Consultants,148558,Gilbert & Mosley-WATER Center & Ed Progr,75,1690,Expense
-255,TIF Districts Fund,BU740035,60,14,Public Works  & Utilities,2,Contractual services,250,Professional services,2505,Contractors,148558,Gilbert & Mosley-WATER Center & Ed Progr,145,1691,Expense
-255,TIF Districts Fund,BU740035,61,14,Public Works  & Utilities,2,Contractual services,250,Professional services,2519,Background checks,148558,Gilbert & Mosley-WATER Center & Ed Progr,4,1692,Expense
-255,TIF Districts Fund,BU740035,62,14,Public Works  & Utilities,2,Contractual services,250,Professional services,2599,Other professional services,148558,Gilbert & Mosley-WATER Center & Ed Progr,4.1,1693,Expense
+255,TIF Districts Fund,BU740035,41,14,Public Works & Utilities,3,Materials and supplies,340,Equipment parts,3400,Equipment parts and supplies,148557,Gilbert & Mosley-General Program Costs,114,1672,Expense
+255,TIF Districts Fund,BU740035,42,14,Public Works & Utilities,3,Materials and supplies,340,Equipment parts,3406,Safety/security equipment,148557,Gilbert & Mosley-General Program Costs,1.5,1673,Expense
+255,TIF Districts Fund,BU740035,43,14,Public Works & Utilities,3,Materials and supplies,340,Equipment parts,3499,Other equipment parts,148557,Gilbert & Mosley-General Program Costs,4,1674,Expense
+255,TIF Districts Fund,BU740035,44,14,Public Works & Utilities,3,Materials and supplies,350,Materials,3599,Other materials,148557,Gilbert & Mosley-General Program Costs,100,1675,Expense
+255,TIF Districts Fund,BU740035,45,14,Public Works & Utilities,3,Materials and supplies,380,Non-capitalizable equipment < $5000 each,3802,Audio and visual equipment < $5000 each,148557,Gilbert & Mosley-General Program Costs,1000,1676,Expense
+255,TIF Districts Fund,BU740035,46,14,Public Works & Utilities,3,Materials and supplies,380,Non-capitalizable equipment < $5000 each,3804,"Data processing equipment  < $5,000 each",148557,Gilbert & Mosley-General Program Costs,1.5,1677,Expense
+255,TIF Districts Fund,BU740035,47,14,Public Works & Utilities,3,Materials and supplies,380,Non-capitalizable equipment < $5000 each,3805,Furniture & equipment <$5000 each,148557,Gilbert & Mosley-General Program Costs,10,1678,Expense
+255,TIF Districts Fund,BU740035,48,14,Public Works & Utilities,3,Materials and supplies,380,Non-capitalizable equipment < $5000 each,3808,"Photographic equipment < $5,000 each",148557,Gilbert & Mosley-General Program Costs,1.5,1679,Expense
+255,TIF Districts Fund,BU740035,49,14,Public Works & Utilities,3,Materials and supplies,390,Other commodities,3901,Custodial supplies,148557,Gilbert & Mosley-General Program Costs,1.5,1680,Expense
+255,TIF Districts Fund,BU740035,50,14,Public Works & Utilities,3,Materials and supplies,390,Other commodities,3999,Other commodities,148557,Gilbert & Mosley-General Program Costs,5,1681,Expense
+255,TIF Districts Fund,BU740035,51,14,Public Works & Utilities,5,Other expenditures,510,Interfund transfers,5101,Reimbursements-interfund & interdepart,148557,Gilbert & Mosley-General Program Costs,2072.37,1682,Expense
+255,TIF Districts Fund,BU740035,52,14,Public Works & Utilities,5,Other expenditures,530,Other non-operating expenditures,5333,Miscellaneous and sundry,148557,Gilbert & Mosley-General Program Costs,108500,1683,Expense
+255,TIF Districts Fund,BU740035,53,14,Public Works & Utilities,2,Contractual services,210,Utilities,2100,Electricity,148558,Gilbert & Mosley-WATER Center & Ed Progr,203.68,1684,Expense
+255,TIF Districts Fund,BU740035,54,14,Public Works & Utilities,2,Contractual services,210,Utilities,2101,Gas-ONEOK Kansas Gas Service,148558,Gilbert & Mosley-WATER Center & Ed Progr,36.29,1685,Expense
+255,TIF Districts Fund,BU740035,55,14,Public Works & Utilities,2,Contractual services,210,Utilities,2104,Water,148558,Gilbert & Mosley-WATER Center & Ed Progr,14.79,1686,Expense
+255,TIF Districts Fund,BU740035,56,14,Public Works & Utilities,2,Contractual services,220,Communications,2203,Long distance service,148558,Gilbert & Mosley-WATER Center & Ed Progr,0.5,1687,Expense
+255,TIF Districts Fund,BU740035,57,14,Public Works & Utilities,2,Contractual services,220,Communications,2207,Postage - regular,148558,Gilbert & Mosley-WATER Center & Ed Progr,1.5,1688,Expense
+255,TIF Districts Fund,BU740035,58,14,Public Works & Utilities,2,Contractual services,220,Communications,2217,Internet Service,148558,Gilbert & Mosley-WATER Center & Ed Progr,7.19,1689,Expense
+255,TIF Districts Fund,BU740035,59,14,Public Works & Utilities,2,Contractual services,250,Professional services,2503,Studies/Consultants,148558,Gilbert & Mosley-WATER Center & Ed Progr,75,1690,Expense
+255,TIF Districts Fund,BU740035,60,14,Public Works & Utilities,2,Contractual services,250,Professional services,2505,Contractors,148558,Gilbert & Mosley-WATER Center & Ed Progr,145,1691,Expense
+255,TIF Districts Fund,BU740035,61,14,Public Works & Utilities,2,Contractual services,250,Professional services,2519,Background checks,148558,Gilbert & Mosley-WATER Center & Ed Progr,4,1692,Expense
+255,TIF Districts Fund,BU740035,62,14,Public Works & Utilities,2,Contractual services,250,Professional services,2599,Other professional services,148558,Gilbert & Mosley-WATER Center & Ed Progr,4.1,1693,Expense
 100,General Fund,BU740035,63,13,Public Works & Utilities,3,Materials and supplies,340,Equipment parts,3403,Electrical,130650,Botanica Maint.,6.5,1694,Expense
 100,General Fund,BU740035,64,13,Public Works & Utilities,2,Contractual services,220,Communications,2201,PBX - instrument charges,130906,Co - Operative Labor Program,2.7,1695,Expense
 100,General Fund,BU740035,65,13,Public Works & Utilities,3,Materials and supplies,350,Materials,3500,Materials,132233,Street Cleaning,100,1696,Expense
-255,TIF Districts Fund,BU740035,66,14,Public Works  & Utilities,2,Contractual services,260,Data processing,2600,Data center charges,148558,Gilbert & Mosley-WATER Center & Ed Progr,28.69,1697,Expense
+255,TIF Districts Fund,BU740035,66,14,Public Works & Utilities,2,Contractual services,260,Data processing,2600,Data center charges,148558,Gilbert & Mosley-WATER Center & Ed Progr,28.69,1697,Expense
 100,General Fund,BU740035,67,17,Park,2,Contractual services,280,Buildings and grounds charges,2801,Lease/Rent-Buildings or grounds,173101,Recreation - Administration,5,1698,Expense
 100,General Fund,BU740035,68,17,Park,2,Contractual services,280,Buildings and grounds charges,2806,Security/Fire services,173101,Recreation - Administration,5,1699,Expense
 530,SEWER UTILITY FUND,BU740012,60,18,Public Works & Utilities,2,Contractual services,250,Professional services,2500,Certification fees,184754,SEWAGE TREATMENT ADMINISTRATION,160,1700,Expense
@@ -2945,20 +2945,20 @@ fund,fund_title,cur_doc_no,cur_doc_no_sfx,dept,dept_title,obj_lvl_1,obj_lvl_1_ti
 100,General Fund,BU740010,83,13,Public Works & Utilities,1,Personnel services,140,Employee benefits,1403,Workers compensation,130567,Lawrence-Dumont Stadium,11.39,1944,Expense
 100,General Fund,BU740010,84,13,Public Works & Utilities,1,Personnel services,140,Employee benefits,1404,Unemployment compensation,130567,Lawrence-Dumont Stadium,0.96,1945,Expense
 100,General Fund,BU740013,92,17,Park,3,Materials and supplies,310,Office supplies,3103,Office supplies,173206,Linwood Center,3,1946,Expense
-255,TIF Districts Fund,BU740025,3,14,Public Works  & Utilities,3,Materials and supplies,340,Equipment parts,3405,Fuel,148656,North Industrial Corridor-General Progra,0.5,1947,Expense
-255,TIF Districts Fund,BU740025,4,14,Public Works  & Utilities,3,Materials and supplies,340,Equipment parts,3406,Safety/security equipment,148656,North Industrial Corridor-General Progra,3,1948,Expense
-255,TIF Districts Fund,BU740025,5,14,Public Works  & Utilities,3,Materials and supplies,340,Equipment parts,3499,Other equipment parts,148656,North Industrial Corridor-General Progra,1,1949,Expense
-255,TIF Districts Fund,BU740025,6,14,Public Works  & Utilities,3,Materials and supplies,350,Materials,3500,Materials,148656,North Industrial Corridor-General Progra,1,1950,Expense
-255,TIF Districts Fund,BU740025,7,14,Public Works  & Utilities,3,Materials and supplies,370,Building parts,3799,Other building parts and materials,148656,North Industrial Corridor-General Progra,0.5,1951,Expense
-255,TIF Districts Fund,BU740025,8,14,Public Works  & Utilities,3,Materials and supplies,380,Non-capitalizable equipment < $5000 each,3800,"Non-capital shop equipment < $5,000 each",148656,North Industrial Corridor-General Progra,1,1952,Expense
-255,TIF Districts Fund,BU740025,9,14,Public Works  & Utilities,3,Materials and supplies,380,Non-capitalizable equipment < $5000 each,3802,Audio and visual equipment < $5000 each,148656,North Industrial Corridor-General Progra,1000,1953,Expense
-255,TIF Districts Fund,BU740025,10,14,Public Works  & Utilities,3,Materials and supplies,380,Non-capitalizable equipment < $5000 each,3803,"Lab equipment < $5,000 each",148656,North Industrial Corridor-General Progra,2.5,1954,Expense
-255,TIF Districts Fund,BU740025,11,14,Public Works  & Utilities,3,Materials and supplies,380,Non-capitalizable equipment < $5000 each,3808,"Photographic equipment < $5,000 each",148656,North Industrial Corridor-General Progra,2.5,1955,Expense
-255,TIF Districts Fund,BU740025,12,14,Public Works  & Utilities,3,Materials and supplies,380,Non-capitalizable equipment < $5000 each,3899,"Other non-capitalized equip <$5,000 each",148656,North Industrial Corridor-General Progra,24,1956,Expense
-255,TIF Districts Fund,BU740025,13,14,Public Works  & Utilities,3,Materials and supplies,390,Other commodities,3995,Delegate agencies-misc commod,148656,North Industrial Corridor-General Progra,0.5,1957,Expense
-255,TIF Districts Fund,BU740025,14,14,Public Works  & Utilities,3,Materials and supplies,390,Other commodities,3999,Other commodities,148656,North Industrial Corridor-General Progra,2,1958,Expense
-255,TIF Districts Fund,BU740025,15,14,Public Works  & Utilities,5,Other expenditures,510,Interfund transfers,5101,Reimbursements-interfund & interdepart,148656,North Industrial Corridor-General Progra,2072.37,1959,Expense
-255,TIF Districts Fund,BU740025,16,14,Public Works  & Utilities,5,Other expenditures,530,Other non-operating expenditures,5333,Miscellaneous and sundry,148656,North Industrial Corridor-General Progra,47500,1960,Expense
+255,TIF Districts Fund,BU740025,3,14,Public Works & Utilities,3,Materials and supplies,340,Equipment parts,3405,Fuel,148656,North Industrial Corridor-General Progra,0.5,1947,Expense
+255,TIF Districts Fund,BU740025,4,14,Public Works & Utilities,3,Materials and supplies,340,Equipment parts,3406,Safety/security equipment,148656,North Industrial Corridor-General Progra,3,1948,Expense
+255,TIF Districts Fund,BU740025,5,14,Public Works & Utilities,3,Materials and supplies,340,Equipment parts,3499,Other equipment parts,148656,North Industrial Corridor-General Progra,1,1949,Expense
+255,TIF Districts Fund,BU740025,6,14,Public Works & Utilities,3,Materials and supplies,350,Materials,3500,Materials,148656,North Industrial Corridor-General Progra,1,1950,Expense
+255,TIF Districts Fund,BU740025,7,14,Public Works & Utilities,3,Materials and supplies,370,Building parts,3799,Other building parts and materials,148656,North Industrial Corridor-General Progra,0.5,1951,Expense
+255,TIF Districts Fund,BU740025,8,14,Public Works & Utilities,3,Materials and supplies,380,Non-capitalizable equipment < $5000 each,3800,"Non-capital shop equipment < $5,000 each",148656,North Industrial Corridor-General Progra,1,1952,Expense
+255,TIF Districts Fund,BU740025,9,14,Public Works & Utilities,3,Materials and supplies,380,Non-capitalizable equipment < $5000 each,3802,Audio and visual equipment < $5000 each,148656,North Industrial Corridor-General Progra,1000,1953,Expense
+255,TIF Districts Fund,BU740025,10,14,Public Works & Utilities,3,Materials and supplies,380,Non-capitalizable equipment < $5000 each,3803,"Lab equipment < $5,000 each",148656,North Industrial Corridor-General Progra,2.5,1954,Expense
+255,TIF Districts Fund,BU740025,11,14,Public Works & Utilities,3,Materials and supplies,380,Non-capitalizable equipment < $5000 each,3808,"Photographic equipment < $5,000 each",148656,North Industrial Corridor-General Progra,2.5,1955,Expense
+255,TIF Districts Fund,BU740025,12,14,Public Works & Utilities,3,Materials and supplies,380,Non-capitalizable equipment < $5000 each,3899,"Other non-capitalized equip <$5,000 each",148656,North Industrial Corridor-General Progra,24,1956,Expense
+255,TIF Districts Fund,BU740025,13,14,Public Works & Utilities,3,Materials and supplies,390,Other commodities,3995,Delegate agencies-misc commod,148656,North Industrial Corridor-General Progra,0.5,1957,Expense
+255,TIF Districts Fund,BU740025,14,14,Public Works & Utilities,3,Materials and supplies,390,Other commodities,3999,Other commodities,148656,North Industrial Corridor-General Progra,2,1958,Expense
+255,TIF Districts Fund,BU740025,15,14,Public Works & Utilities,5,Other expenditures,510,Interfund transfers,5101,Reimbursements-interfund & interdepart,148656,North Industrial Corridor-General Progra,2072.37,1959,Expense
+255,TIF Districts Fund,BU740025,16,14,Public Works & Utilities,5,Other expenditures,530,Other non-operating expenditures,5333,Miscellaneous and sundry,148656,North Industrial Corridor-General Progra,47500,1960,Expense
 620,Self Insurance Fund,BU740036,52,3,Department of Finance,3,Materials and supplies,350,Materials,3500,Materials,36319,Self Insurance Safety Office,51,1961,Expense
 620,Self Insurance Fund,BU740036,53,3,Department of Finance,3,Materials and supplies,350,Materials,3599,Other materials,36319,Self Insurance Safety Office,47.5,1962,Expense
 620,Self Insurance Fund,BU740036,54,3,Department of Finance,3,Materials and supplies,380,Non-capitalizable equipment < $5000 each,3804,"Data processing equipment  < $5,000 each",36319,Self Insurance Safety Office,8,1963,Expense
@@ -3447,7 +3447,7 @@ fund,fund_title,cur_doc_no,cur_doc_no_sfx,dept,dept_title,obj_lvl_1,obj_lvl_1_ti
 100,General Fund,BU740013,58,17,Park,2,Contractual services,210,Utilities,2107,Trash service,173205,Evergreen Center,15,3446,Expense
 540,WATER UTILITY FUND,BU740002,16,18,Public Works & Utilities,3,Materials and supplies,370,Building parts,3700,Building parts and materials,183301,BUILDING EQUIPMENT & MAINTENANCE,215,3447,Expense
 100,General Fund,BU740014,21,17,Park,1,Personnel services,110,Regular salaries,1100,Bi-weekly wages,173208,Orchard Center,688.12,3448,Expense
-100,General Fund,BU740025,17,14,Public Works  & Utilities,1,Personnel services,120,Special salaries,1200,Part time/seasonal,149013,ENV HLTH / SWIMMING POOLS / CITY,187.4,3449,Expense
+100,General Fund,BU740025,17,14,Public Works & Utilities,1,Personnel services,120,Special salaries,1200,Part time/seasonal,149013,ENV HLTH / SWIMMING POOLS / CITY,187.4,3449,Expense
 100,General Fund,BU740036,80,7,Fire Department,1,Personnel services,130,Overtime,1303,Holiday,70128,C Shift,4092.11,3450,Expense
 600,Information Technology Fund,BU740047,2,6,Information Tech/Info Services,2,Contractual services,260,Data processing,2601,Maintenance - data equipment,60002,IT/IS GIS,357.92,3451,Expense
 515,Golf Course System Fund,BU740057,46,21,Golf Course System,2,Contractual services,220,Communications,2211,Express mail,210600,Golf Administration,0.5,3452,Expense
@@ -3499,7 +3499,7 @@ fund,fund_title,cur_doc_no,cur_doc_no_sfx,dept,dept_title,obj_lvl_1,obj_lvl_1_ti
 515,Golf Course System Fund,BU740088,56,21,Golf Course System,96,Rental income,965,Equipment and materials,9655,Golf cart rentals,210401,Macdonald Park Clubhouse,2117.5,3498,Revenue
 515,Golf Course System Fund,BU740088,57,21,Golf Course System,96,Rental income,960,Facilities and lawn,9602,Rent/Lease-Office space,210500,Sim Park,1.36,3499,Revenue
 100,General Fund,BU740002,45,17,Park,2,Contractual services,250,Professional services,2502,Medical and laboratory services,172206,Forestry,13.5,3500,Expense
-100,General Fund,BU740014,50,14,Public Works  & Utilities,1,Personnel services,110,Regular salaries,1100,Bi-weekly wages,142002,Envirn. Health- Administration,2974.37,3501,Expense
+100,General Fund,BU740014,50,14,Public Works & Utilities,1,Personnel services,110,Regular salaries,1100,Bi-weekly wages,142002,Envirn. Health- Administration,2974.37,3501,Expense
 100,General Fund,BU740025,46,11,CMO - Cultural Arts Division,2,Contractual services,210,Utilities,2102,Gas-Black Hills,111001,Cowtown Operations,400,3502,Expense
 100,General Fund,BU740002,46,17,Park,2,Contractual services,250,Professional services,2505,Contractors,172206,Forestry,3000,3503,Expense
 100,General Fund,BU740002,47,17,Park,2,Contractual services,250,Professional services,2599,Other professional services,172206,Forestry,2500,3504,Expense
@@ -3529,32 +3529,32 @@ fund,fund_title,cur_doc_no,cur_doc_no_sfx,dept,dept_title,obj_lvl_1,obj_lvl_1_ti
 500,AIRPORT AUTHORITY FUND,BU740002,71,19,Airport,2,Contractual services,260,Data processing,2600,Data center charges,190058,SAFETY-MID-CONTINENT,279.69,3528,Expense
 500,AIRPORT AUTHORITY FUND,BU740002,72,19,Airport,2,Contractual services,270,Equipment charges,2705,Outside services,190058,SAFETY-MID-CONTINENT,57,3529,Expense
 500,AIRPORT AUTHORITY FUND,BU740002,73,19,Airport,2,Contractual services,270,Equipment charges,2706,Towel rental service,190058,SAFETY-MID-CONTINENT,7.5,3530,Expense
-100,General Fund,BU740014,51,14,Public Works  & Utilities,1,Personnel services,110,Regular salaries,1101,Longevity,142002,Envirn. Health- Administration,33.12,3531,Expense
-100,General Fund,BU740014,52,14,Public Works  & Utilities,1,Personnel services,110,Regular salaries,1190,Accrual,142002,Envirn. Health- Administration,15.34,3532,Expense
-100,General Fund,BU740014,53,14,Public Works  & Utilities,1,Personnel services,110,Regular salaries,1199,Other,142002,Envirn. Health- Administration,400.16,3533,Expense
-100,General Fund,BU740014,54,14,Public Works  & Utilities,1,Personnel services,120,Special salaries,1208,Cellular phone allowance,142002,Envirn. Health- Administration,6,3534,Expense
-100,General Fund,BU740014,55,14,Public Works  & Utilities,1,Personnel services,140,Employee benefits,1400,FICA,142002,Envirn. Health- Administration,230.07,3535,Expense
-100,General Fund,BU740014,56,14,Public Works  & Utilities,1,Personnel services,140,Employee benefits,1401,Employee pension,142002,Envirn. Health- Administration,369.92,3536,Expense
-100,General Fund,BU740014,57,14,Public Works  & Utilities,1,Personnel services,140,Employee benefits,1403,Workers compensation,142002,Envirn. Health- Administration,71.58,3537,Expense
-100,General Fund,BU740014,58,14,Public Works  & Utilities,1,Personnel services,140,Employee benefits,1404,Unemployment compensation,142002,Envirn. Health- Administration,6.01,3538,Expense
-100,General Fund,BU740014,59,14,Public Works  & Utilities,1,Personnel services,140,Employee benefits,1405,Group health insurance,142002,Envirn. Health- Administration,704.17,3539,Expense
-100,General Fund,BU740014,60,14,Public Works  & Utilities,1,Personnel services,140,Employee benefits,1406,Group life insurance,142002,Envirn. Health- Administration,11.9,3540,Expense
-100,General Fund,BU740014,61,14,Public Works  & Utilities,1,Personnel services,140,Employee benefits,1499,Employee benefits in aggregate,142002,Envirn. Health- Administration,100.04,3541,Expense
-100,General Fund,BU740014,62,14,Public Works  & Utilities,1,Personnel services,150,Other personnel services,1500,Planned savings,142002,Envirn. Health- Administration,837.31,3542,Expense
-100,General Fund,BU740014,63,14,Public Works  & Utilities,2,Contractual services,220,Communications,2200,PBX - line charges,142002,Envirn. Health- Administration,13.68,3543,Expense
-100,General Fund,BU740014,64,14,Public Works  & Utilities,2,Contractual services,220,Communications,2201,PBX - instrument charges,142002,Envirn. Health- Administration,19.35,3544,Expense
-100,General Fund,BU740014,65,14,Public Works  & Utilities,2,Contractual services,220,Communications,2202,Moves and changes,142002,Envirn. Health- Administration,2,3545,Expense
-100,General Fund,BU740014,66,14,Public Works  & Utilities,2,Contractual services,220,Communications,2203,Long distance service,142002,Envirn. Health- Administration,4,3546,Expense
-100,General Fund,BU740014,67,14,Public Works  & Utilities,2,Contractual services,220,Communications,2207,Postage - regular,142002,Envirn. Health- Administration,3.5,3547,Expense
-100,General Fund,BU740014,68,14,Public Works  & Utilities,2,Contractual services,220,Communications,2214,Air cards - mobile,142002,Envirn. Health- Administration,4.2,3548,Expense
-100,General Fund,BU740014,69,14,Public Works  & Utilities,2,Contractual services,220,Communications,2216,Voice mail,142002,Envirn. Health- Administration,3.36,3549,Expense
-100,General Fund,BU740014,70,14,Public Works  & Utilities,2,Contractual services,230,Transportation and training,2301,Meals and lodging allowance,142002,Envirn. Health- Administration,2,3550,Expense
-100,General Fund,BU740014,71,14,Public Works  & Utilities,2,Contractual services,230,Transportation and training,2302,Out of town registration fees,142002,Envirn. Health- Administration,2,3551,Expense
-100,General Fund,BU740014,72,14,Public Works  & Utilities,2,Contractual services,230,Transportation and training,2303,In town registration fees,142002,Envirn. Health- Administration,1.5,3552,Expense
-100,General Fund,BU740014,73,14,Public Works  & Utilities,2,Contractual services,230,Transportation and training,2310,Turnpike fees and charges,142002,Envirn. Health- Administration,1,3553,Expense
-100,General Fund,BU740014,74,14,Public Works  & Utilities,2,Contractual services,240,Insurance,2401,Vehicle liability,142002,Envirn. Health- Administration,9.6,3554,Expense
-100,General Fund,BU740014,75,14,Public Works  & Utilities,2,Contractual services,250,Professional services,2502,Medical and laboratory services,142002,Envirn. Health- Administration,0.74,3555,Expense
-100,General Fund,BU740014,76,14,Public Works  & Utilities,2,Contractual services,250,Professional services,2543,Bank charges,142002,Envirn. Health- Administration,50,3556,Expense
+100,General Fund,BU740014,51,14,Public Works & Utilities,1,Personnel services,110,Regular salaries,1101,Longevity,142002,Envirn. Health- Administration,33.12,3531,Expense
+100,General Fund,BU740014,52,14,Public Works & Utilities,1,Personnel services,110,Regular salaries,1190,Accrual,142002,Envirn. Health- Administration,15.34,3532,Expense
+100,General Fund,BU740014,53,14,Public Works & Utilities,1,Personnel services,110,Regular salaries,1199,Other,142002,Envirn. Health- Administration,400.16,3533,Expense
+100,General Fund,BU740014,54,14,Public Works & Utilities,1,Personnel services,120,Special salaries,1208,Cellular phone allowance,142002,Envirn. Health- Administration,6,3534,Expense
+100,General Fund,BU740014,55,14,Public Works & Utilities,1,Personnel services,140,Employee benefits,1400,FICA,142002,Envirn. Health- Administration,230.07,3535,Expense
+100,General Fund,BU740014,56,14,Public Works & Utilities,1,Personnel services,140,Employee benefits,1401,Employee pension,142002,Envirn. Health- Administration,369.92,3536,Expense
+100,General Fund,BU740014,57,14,Public Works & Utilities,1,Personnel services,140,Employee benefits,1403,Workers compensation,142002,Envirn. Health- Administration,71.58,3537,Expense
+100,General Fund,BU740014,58,14,Public Works & Utilities,1,Personnel services,140,Employee benefits,1404,Unemployment compensation,142002,Envirn. Health- Administration,6.01,3538,Expense
+100,General Fund,BU740014,59,14,Public Works & Utilities,1,Personnel services,140,Employee benefits,1405,Group health insurance,142002,Envirn. Health- Administration,704.17,3539,Expense
+100,General Fund,BU740014,60,14,Public Works & Utilities,1,Personnel services,140,Employee benefits,1406,Group life insurance,142002,Envirn. Health- Administration,11.9,3540,Expense
+100,General Fund,BU740014,61,14,Public Works & Utilities,1,Personnel services,140,Employee benefits,1499,Employee benefits in aggregate,142002,Envirn. Health- Administration,100.04,3541,Expense
+100,General Fund,BU740014,62,14,Public Works & Utilities,1,Personnel services,150,Other personnel services,1500,Planned savings,142002,Envirn. Health- Administration,837.31,3542,Expense
+100,General Fund,BU740014,63,14,Public Works & Utilities,2,Contractual services,220,Communications,2200,PBX - line charges,142002,Envirn. Health- Administration,13.68,3543,Expense
+100,General Fund,BU740014,64,14,Public Works & Utilities,2,Contractual services,220,Communications,2201,PBX - instrument charges,142002,Envirn. Health- Administration,19.35,3544,Expense
+100,General Fund,BU740014,65,14,Public Works & Utilities,2,Contractual services,220,Communications,2202,Moves and changes,142002,Envirn. Health- Administration,2,3545,Expense
+100,General Fund,BU740014,66,14,Public Works & Utilities,2,Contractual services,220,Communications,2203,Long distance service,142002,Envirn. Health- Administration,4,3546,Expense
+100,General Fund,BU740014,67,14,Public Works & Utilities,2,Contractual services,220,Communications,2207,Postage - regular,142002,Envirn. Health- Administration,3.5,3547,Expense
+100,General Fund,BU740014,68,14,Public Works & Utilities,2,Contractual services,220,Communications,2214,Air cards - mobile,142002,Envirn. Health- Administration,4.2,3548,Expense
+100,General Fund,BU740014,69,14,Public Works & Utilities,2,Contractual services,220,Communications,2216,Voice mail,142002,Envirn. Health- Administration,3.36,3549,Expense
+100,General Fund,BU740014,70,14,Public Works & Utilities,2,Contractual services,230,Transportation and training,2301,Meals and lodging allowance,142002,Envirn. Health- Administration,2,3550,Expense
+100,General Fund,BU740014,71,14,Public Works & Utilities,2,Contractual services,230,Transportation and training,2302,Out of town registration fees,142002,Envirn. Health- Administration,2,3551,Expense
+100,General Fund,BU740014,72,14,Public Works & Utilities,2,Contractual services,230,Transportation and training,2303,In town registration fees,142002,Envirn. Health- Administration,1.5,3552,Expense
+100,General Fund,BU740014,73,14,Public Works & Utilities,2,Contractual services,230,Transportation and training,2310,Turnpike fees and charges,142002,Envirn. Health- Administration,1,3553,Expense
+100,General Fund,BU740014,74,14,Public Works & Utilities,2,Contractual services,240,Insurance,2401,Vehicle liability,142002,Envirn. Health- Administration,9.6,3554,Expense
+100,General Fund,BU740014,75,14,Public Works & Utilities,2,Contractual services,250,Professional services,2502,Medical and laboratory services,142002,Envirn. Health- Administration,0.74,3555,Expense
+100,General Fund,BU740014,76,14,Public Works & Utilities,2,Contractual services,250,Professional services,2543,Bank charges,142002,Envirn. Health- Administration,50,3556,Expense
 515,Golf Course System Fund,BU740014,77,21,Golf Course System,2,Contractual services,240,Insurance,2400,Building and contents insurance,210301,Consolver Park Clubhouse,31.78,3557,Expense
 515,Golf Course System Fund,BU740014,78,21,Golf Course System,2,Contractual services,250,Professional services,2500,Certification fees,210301,Consolver Park Clubhouse,4.3,3558,Expense
 100,General Fund,BU740025,47,11,CMO - Cultural Arts Division,2,Contractual services,210,Utilities,2104,Water,111001,Cowtown Operations,250.7,3559,Expense
@@ -3604,28 +3604,28 @@ fund,fund_title,cur_doc_no,cur_doc_no_sfx,dept,dept_title,obj_lvl_1,obj_lvl_1_ti
 100,General Fund,BU740046,98,2,City Manager,2,Contractual services,220,Communications,2216,Voice mail,20008,City Manager Administration,4.2,3603,Expense
 100,General Fund,BU740046,99,2,City Manager,2,Contractual services,230,Transportation and training,2301,Meals and lodging allowance,28101,Administrative Services,7,3604,Expense
 100,General Fund,BU740024,79,11,CMO - Cultural Arts Division,1,Personnel services,120,Special salaries,1200,Part time/seasonal,111001,Cowtown Operations,1080,3605,Expense
-255,TIF Districts Fund,BU740024,80,14,Public Works  & Utilities,2,Contractual services,240,Insurance,2401,Vehicle liability,148656,North Industrial Corridor-General Progra,4.8,3606,Expense
-255,TIF Districts Fund,BU740024,81,14,Public Works  & Utilities,2,Contractual services,250,Professional services,2503,Studies/Consultants,148656,North Industrial Corridor-General Progra,20000,3607,Expense
-255,TIF Districts Fund,BU740024,82,14,Public Works  & Utilities,2,Contractual services,250,Professional services,2506,Legal services,148656,North Industrial Corridor-General Progra,2000,3608,Expense
-255,TIF Districts Fund,BU740024,83,14,Public Works  & Utilities,2,Contractual services,250,Professional services,2507,Audits,148656,North Industrial Corridor-General Progra,5,3609,Expense
-255,TIF Districts Fund,BU740024,84,14,Public Works  & Utilities,2,Contractual services,250,Professional services,2514,Laboratory services,148656,North Industrial Corridor-General Progra,10,3610,Expense
-255,TIF Districts Fund,BU740024,85,14,Public Works  & Utilities,2,Contractual services,250,Professional services,2599,Other professional services,148656,North Industrial Corridor-General Progra,1000,3611,Expense
-255,TIF Districts Fund,BU740024,86,14,Public Works  & Utilities,2,Contractual services,260,Data processing,2699,Other data processing charges,148656,North Industrial Corridor-General Progra,25,3612,Expense
-255,TIF Districts Fund,BU740024,87,14,Public Works  & Utilities,2,Contractual services,270,Equipment charges,2700,Motor pool - scheduled charges,148656,North Industrial Corridor-General Progra,57.6,3613,Expense
-255,TIF Districts Fund,BU740024,88,14,Public Works  & Utilities,2,Contractual services,270,Equipment charges,2703,Maintenance - equipment,148656,North Industrial Corridor-General Progra,5,3614,Expense
-255,TIF Districts Fund,BU740024,89,14,Public Works  & Utilities,2,Contractual services,270,Equipment charges,2710,Motor pool - replacement,148656,North Industrial Corridor-General Progra,37,3615,Expense
-255,TIF Districts Fund,BU740024,90,14,Public Works  & Utilities,2,Contractual services,280,Buildings and grounds charges,2899,Other building/grounds charges,148656,North Industrial Corridor-General Progra,300,3616,Expense
-255,TIF Districts Fund,BU740024,91,14,Public Works  & Utilities,2,Contractual services,290,Other contractuals,2900,City administrative charges,148656,North Industrial Corridor-General Progra,24.52,3617,Expense
-255,TIF Districts Fund,BU740024,92,14,Public Works  & Utilities,2,Contractual services,290,Other contractuals,2902,Advertising,148656,North Industrial Corridor-General Progra,5,3618,Expense
-255,TIF Districts Fund,BU740024,93,14,Public Works  & Utilities,2,Contractual services,290,Other contractuals,2903,Directories,148656,North Industrial Corridor-General Progra,10,3619,Expense
-255,TIF Districts Fund,BU740024,94,14,Public Works  & Utilities,2,Contractual services,290,Other contractuals,2906,Membership dues,148656,North Industrial Corridor-General Progra,3,3620,Expense
-255,TIF Districts Fund,BU740024,95,14,Public Works  & Utilities,2,Contractual services,290,Other contractuals,2917,Printing and copying,148656,North Industrial Corridor-General Progra,10,3621,Expense
-255,TIF Districts Fund,BU740024,96,14,Public Works  & Utilities,2,Contractual services,290,Other contractuals,2919,Dirt and pavement cuts,148656,North Industrial Corridor-General Progra,30,3622,Expense
-255,TIF Districts Fund,BU740024,97,14,Public Works  & Utilities,3,Materials and supplies,310,Office supplies,3101,Computer/printer supplies,148656,North Industrial Corridor-General Progra,10,3623,Expense
-255,TIF Districts Fund,BU740024,98,14,Public Works  & Utilities,3,Materials and supplies,310,Office supplies,3103,Office supplies,148656,North Industrial Corridor-General Progra,2.5,3624,Expense
-255,TIF Districts Fund,BU740024,99,14,Public Works  & Utilities,3,Materials and supplies,310,Office supplies,3199,Other office supplies,148656,North Industrial Corridor-General Progra,1,3625,Expense
-255,TIF Districts Fund,BU740024,100,14,Public Works  & Utilities,3,Materials and supplies,320,Clothing and towels,3200,Clothing and towels,148656,North Industrial Corridor-General Progra,2,3626,Expense
-255,TIF Districts Fund,BU740025,1,14,Public Works  & Utilities,3,Materials and supplies,340,Equipment parts,3400,Equipment parts and supplies,148656,North Industrial Corridor-General Progra,0.5,3627,Expense
+255,TIF Districts Fund,BU740024,80,14,Public Works & Utilities,2,Contractual services,240,Insurance,2401,Vehicle liability,148656,North Industrial Corridor-General Progra,4.8,3606,Expense
+255,TIF Districts Fund,BU740024,81,14,Public Works & Utilities,2,Contractual services,250,Professional services,2503,Studies/Consultants,148656,North Industrial Corridor-General Progra,20000,3607,Expense
+255,TIF Districts Fund,BU740024,82,14,Public Works & Utilities,2,Contractual services,250,Professional services,2506,Legal services,148656,North Industrial Corridor-General Progra,2000,3608,Expense
+255,TIF Districts Fund,BU740024,83,14,Public Works & Utilities,2,Contractual services,250,Professional services,2507,Audits,148656,North Industrial Corridor-General Progra,5,3609,Expense
+255,TIF Districts Fund,BU740024,84,14,Public Works & Utilities,2,Contractual services,250,Professional services,2514,Laboratory services,148656,North Industrial Corridor-General Progra,10,3610,Expense
+255,TIF Districts Fund,BU740024,85,14,Public Works & Utilities,2,Contractual services,250,Professional services,2599,Other professional services,148656,North Industrial Corridor-General Progra,1000,3611,Expense
+255,TIF Districts Fund,BU740024,86,14,Public Works & Utilities,2,Contractual services,260,Data processing,2699,Other data processing charges,148656,North Industrial Corridor-General Progra,25,3612,Expense
+255,TIF Districts Fund,BU740024,87,14,Public Works & Utilities,2,Contractual services,270,Equipment charges,2700,Motor pool - scheduled charges,148656,North Industrial Corridor-General Progra,57.6,3613,Expense
+255,TIF Districts Fund,BU740024,88,14,Public Works & Utilities,2,Contractual services,270,Equipment charges,2703,Maintenance - equipment,148656,North Industrial Corridor-General Progra,5,3614,Expense
+255,TIF Districts Fund,BU740024,89,14,Public Works & Utilities,2,Contractual services,270,Equipment charges,2710,Motor pool - replacement,148656,North Industrial Corridor-General Progra,37,3615,Expense
+255,TIF Districts Fund,BU740024,90,14,Public Works & Utilities,2,Contractual services,280,Buildings and grounds charges,2899,Other building/grounds charges,148656,North Industrial Corridor-General Progra,300,3616,Expense
+255,TIF Districts Fund,BU740024,91,14,Public Works & Utilities,2,Contractual services,290,Other contractuals,2900,City administrative charges,148656,North Industrial Corridor-General Progra,24.52,3617,Expense
+255,TIF Districts Fund,BU740024,92,14,Public Works & Utilities,2,Contractual services,290,Other contractuals,2902,Advertising,148656,North Industrial Corridor-General Progra,5,3618,Expense
+255,TIF Districts Fund,BU740024,93,14,Public Works & Utilities,2,Contractual services,290,Other contractuals,2903,Directories,148656,North Industrial Corridor-General Progra,10,3619,Expense
+255,TIF Districts Fund,BU740024,94,14,Public Works & Utilities,2,Contractual services,290,Other contractuals,2906,Membership dues,148656,North Industrial Corridor-General Progra,3,3620,Expense
+255,TIF Districts Fund,BU740024,95,14,Public Works & Utilities,2,Contractual services,290,Other contractuals,2917,Printing and copying,148656,North Industrial Corridor-General Progra,10,3621,Expense
+255,TIF Districts Fund,BU740024,96,14,Public Works & Utilities,2,Contractual services,290,Other contractuals,2919,Dirt and pavement cuts,148656,North Industrial Corridor-General Progra,30,3622,Expense
+255,TIF Districts Fund,BU740024,97,14,Public Works & Utilities,3,Materials and supplies,310,Office supplies,3101,Computer/printer supplies,148656,North Industrial Corridor-General Progra,10,3623,Expense
+255,TIF Districts Fund,BU740024,98,14,Public Works & Utilities,3,Materials and supplies,310,Office supplies,3103,Office supplies,148656,North Industrial Corridor-General Progra,2.5,3624,Expense
+255,TIF Districts Fund,BU740024,99,14,Public Works & Utilities,3,Materials and supplies,310,Office supplies,3199,Other office supplies,148656,North Industrial Corridor-General Progra,1,3625,Expense
+255,TIF Districts Fund,BU740024,100,14,Public Works & Utilities,3,Materials and supplies,320,Clothing and towels,3200,Clothing and towels,148656,North Industrial Corridor-General Progra,2,3626,Expense
+255,TIF Districts Fund,BU740025,1,14,Public Works & Utilities,3,Materials and supplies,340,Equipment parts,3400,Equipment parts and supplies,148656,North Industrial Corridor-General Progra,0.5,3627,Expense
 100,General Fund,BU740013,63,17,Park,2,Contractual services,220,Communications,2215,Plexar,173205,Evergreen Center,6.12,3628,Expense
 100,General Fund,BU740013,64,17,Park,2,Contractual services,230,Transportation and training,2301,Meals and lodging allowance,173205,Evergreen Center,3,3629,Expense
 100,General Fund,BU740013,65,17,Park,2,Contractual services,260,Data processing,2600,Data center charges,173205,Evergreen Center,11.55,3630,Expense
@@ -3654,7 +3654,7 @@ fund,fund_title,cur_doc_no,cur_doc_no_sfx,dept,dept_title,obj_lvl_1,obj_lvl_1_ti
 100,General Fund,BU740013,88,17,Park,2,Contractual services,220,Communications,2215,Plexar,173206,Linwood Center,11.16,3653,Expense
 100,General Fund,BU740013,89,17,Park,2,Contractual services,260,Data processing,2600,Data center charges,173206,Linwood Center,11.55,3654,Expense
 100,General Fund,BU740013,90,17,Park,2,Contractual services,280,Buildings and grounds charges,2899,Other building/grounds charges,173206,Linwood Center,3,3655,Expense
-255,TIF Districts Fund,BU740025,2,14,Public Works  & Utilities,3,Materials and supplies,340,Equipment parts,3402,Automotive,148656,North Industrial Corridor-General Progra,0.5,3656,Expense
+255,TIF Districts Fund,BU740025,2,14,Public Works & Utilities,3,Materials and supplies,340,Equipment parts,3402,Automotive,148656,North Industrial Corridor-General Progra,0.5,3656,Expense
 620,Self Insurance Fund,BU740036,24,3,Department of Finance,1,Personnel services,140,Employee benefits,1406,Group life insurance,36319,Self Insurance Safety Office,6.05,3657,Expense
 620,Self Insurance Fund,BU740036,25,3,Department of Finance,2,Contractual services,220,Communications,2200,PBX - line charges,36319,Self Insurance Safety Office,2.28,3658,Expense
 620,Self Insurance Fund,BU740036,26,3,Department of Finance,2,Contractual services,220,Communications,2201,PBX - instrument charges,36319,Self Insurance Safety Office,3,3659,Expense
@@ -4100,7 +4100,7 @@ fund,fund_title,cur_doc_no,cur_doc_no_sfx,dept,dept_title,obj_lvl_1,obj_lvl_1_ti
 100,General Fund,BU740048,51,10,Library,2,Contractual services,270,Equipment charges,2703,Maintenance - equipment,101014,Administrative Services,54.21,4099,Expense
 100,General Fund,BU740059,18,13,Public Works & Utilities,3,Materials and supplies,340,Equipment parts,3407,Road/highway/traffic equipment,130690,River Corridor,4,4100,Expense
 540,WATER UTILITY FUND,BU740068,39,18,Public Works & Utilities,2,Contractual services,290,Other contractuals,2980,Reimb Water/Sewer by Sewer/SWU,183103,CUSTOMER SERVICE ADMINISTRATION,166.03,4101,Expense
-255,TIF Districts Fund,BU740076,16,14,Public Works  & Utilities,2,Contractual services,250,Professional services,2505,Contractors,148557,Gilbert & Mosley-General Program Costs,300,4102,Expense
+255,TIF Districts Fund,BU740076,16,14,Public Works & Utilities,2,Contractual services,250,Professional services,2505,Contractors,148557,Gilbert & Mosley-General Program Costs,300,4102,Expense
 100,General Fund,BU740026,93,8,Police Department,2,Contractual services,220,Communications,2200,PBX - line charges,83105,Chief of Police,6.84,4103,Expense
 100,General Fund,BU740026,94,8,Police Department,2,Contractual services,220,Communications,2201,PBX - instrument charges,83105,Chief of Police,12.15,4104,Expense
 100,General Fund,BU740026,95,8,Police Department,2,Contractual services,220,Communications,2203,Long distance service,83105,Chief of Police,0.8,4105,Expense
@@ -5059,7 +5059,7 @@ fund,fund_title,cur_doc_no,cur_doc_no_sfx,dept,dept_title,obj_lvl_1,obj_lvl_1_ti
 100,General Fund,BU740059,87,13,Public Works & Utilities,3,Materials and supplies,340,Equipment parts,3499,Other equipment parts,130690,River Corridor,240,5058,Expense
 100,General Fund,BU740059,88,13,Public Works & Utilities,1,Personnel services,120,Special salaries,1200,Part time/seasonal,132001,Engineering - Gas Tax,432.1,5059,Expense
 265,City/County Joint Operations Fund,BU740059,89,13,Public Works & Utilities,2,Contractual services,210,Utilities,2107,Trash service,133224,CITY-CTY FLOOD CONTRL,2,5060,Expense
-100,General Fund,BU740059,90,14,Public Works  & Utilities,2,Contractual services,220,Communications,2201,PBX - instrument charges,149047,Tobacco Sales Regulation,1.5,5061,Expense
+100,General Fund,BU740059,90,14,Public Works & Utilities,2,Contractual services,220,Communications,2201,PBX - instrument charges,149047,Tobacco Sales Regulation,1.5,5061,Expense
 100,General Fund,BU740059,91,17,Park,1,Personnel services,140,Employee benefits,1400,FICA,172201,Park Maintenance Central Support,218.95,5062,Expense
 100,General Fund,BU740059,92,17,Park,2,Contractual services,230,Transportation and training,2302,Out of town registration fees,173103,Youth Athletic Administration,1.1,5063,Expense
 100,General Fund,BU740059,93,17,Park,2,Contractual services,220,Communications,2215,Plexar,173401,Aley Pool,3.72,5064,Expense
@@ -5184,7 +5184,7 @@ fund,fund_title,cur_doc_no,cur_doc_no_sfx,dept,dept_title,obj_lvl_1,obj_lvl_1_ti
 236,General Fund - Economic Development Subf,BU740085,88,2,City Manager,90,Charges for services and sales,905,Parking,9054,Surface lots - non metered,28006,Prop Mgmt - Operations,350,5183,Revenue
 236,General Fund - Economic Development Subf,BU740085,89,2,City Manager,90,Charges for services and sales,925,Sale of property,9248,Fee - Sale of Land Property,28006,Prop Mgmt - Operations,1500,5184,Revenue
 236,General Fund - Economic Development Subf,BU740085,90,2,City Manager,90,Charges for services and sales,925,Sale of property,9250,Sale of property-Land,28006,Prop Mgmt - Operations,1000,5185,Revenue
-255,TIF Districts Fund,BU740009,99,14,Public Works  & Utilities,2,Contractual services,250,Professional services,2503,Studies/Consultants,148563,Gilbert & Mosley-Harcros/TriState Centra,120,5186,Expense
+255,TIF Districts Fund,BU740009,99,14,Public Works & Utilities,2,Contractual services,250,Professional services,2503,Studies/Consultants,148563,Gilbert & Mosley-Harcros/TriState Centra,120,5186,Expense
 560,STORMWATER UTILITY FUND,BU740021,58,13,Public Works & Utilities,3,Materials and supplies,380,Non-capitalizable equipment < $5000 each,3812,"Communication equipment < $5,000 each",133116,STORM WATER UTILITY,10,5187,Expense
 236,General Fund - Economic Development Subf,BU740032,77,2,City Manager,2,Contractual services,250,Professional services,2503,Studies/Consultants,28001,Economic Development,1150,5188,Expense
 100,General Fund,BU740043,51,1,City Council,1,Personnel services,140,Employee benefits,1404,Unemployment compensation,10009,City Council Members,9.18,5189,Expense
@@ -5450,21 +5450,21 @@ fund,fund_title,cur_doc_no,cur_doc_no_sfx,dept,dept_title,obj_lvl_1,obj_lvl_1_ti
 230,Landfill Fund,BU740022,97,13,Public Works & Utilities,2,Contractual services,270,Equipment charges,2708,Uniform rental service,131376,Construction and Demolition Landfill,33,5449,Expense
 230,Landfill Fund,BU740022,98,13,Public Works & Utilities,2,Contractual services,290,Other contractuals,2900,City administrative charges,131376,Construction and Demolition Landfill,120.42,5450,Expense
 230,Landfill Fund,BU740022,99,13,Public Works & Utilities,2,Contractual services,290,Other contractuals,2906,Membership dues,131376,Construction and Demolition Landfill,10,5451,Expense
-100,General Fund,BU740033,94,14,Public Works  & Utilities,2,Contractual services,290,Other contractuals,2906,Membership dues,142002,Envirn. Health- Administration,1,5452,Expense
-100,General Fund,BU740033,95,14,Public Works  & Utilities,2,Contractual services,290,Other contractuals,2916,Property taxes ,142002,Envirn. Health- Administration,0.2,5453,Expense
-100,General Fund,BU740033,96,14,Public Works  & Utilities,2,Contractual services,290,Other contractuals,2917,Printing and copying,142002,Envirn. Health- Administration,25,5454,Expense
-100,General Fund,BU740033,97,14,Public Works  & Utilities,2,Contractual services,290,Other contractuals,2999,Other contractuals,142002,Envirn. Health- Administration,0.4,5455,Expense
-100,General Fund,BU740033,98,14,Public Works  & Utilities,3,Materials and supplies,310,Office supplies,3103,Office supplies,142002,Envirn. Health- Administration,40,5456,Expense
-100,General Fund,BU740033,99,14,Public Works  & Utilities,3,Materials and supplies,340,Equipment parts,3405,Fuel,142002,Envirn. Health- Administration,1.47,5457,Expense
-100,General Fund,BU740033,100,14,Public Works  & Utilities,3,Materials and supplies,340,Equipment parts,3406,Safety/security equipment,142002,Envirn. Health- Administration,1,5458,Expense
-100,General Fund,BU740034,1,14,Public Works  & Utilities,3,Materials and supplies,380,Non-capitalizable equipment < $5000 each,3804,"Data processing equipment  < $5,000 each",142002,Envirn. Health- Administration,10,5459,Expense
-100,General Fund,BU740034,2,14,Public Works  & Utilities,3,Materials and supplies,380,Non-capitalizable equipment < $5000 each,3812,"Communication equipment < $5,000 each",142002,Envirn. Health- Administration,2.5,5460,Expense
-100,General Fund,BU740034,3,14,Public Works  & Utilities,3,Materials and supplies,380,Non-capitalizable equipment < $5000 each,3815,"Safety equipment < $5,000 each",142002,Envirn. Health- Administration,1,5461,Expense
-100,General Fund,BU740034,4,14,Public Works  & Utilities,3,Materials and supplies,390,Other commodities,3903,Food supplies,142002,Envirn. Health- Administration,2.5,5462,Expense
-100,General Fund,BU740034,5,14,Public Works  & Utilities,3,Materials and supplies,390,Other commodities,3999,Other commodities,142002,Envirn. Health- Administration,2,5463,Expense
-100,General Fund,BU740034,6,14,Public Works  & Utilities,1,Personnel services,110,Regular salaries,1100,Bi-weekly wages,142016,Water Quality ,1054.99,5464,Expense
-100,General Fund,BU740034,7,14,Public Works  & Utilities,1,Personnel services,110,Regular salaries,1101,Longevity,142016,Water Quality ,14.76,5465,Expense
-100,General Fund,BU740034,8,14,Public Works  & Utilities,1,Personnel services,110,Regular salaries,1190,Accrual,142016,Water Quality ,6.14,5466,Expense
+100,General Fund,BU740033,94,14,Public Works & Utilities,2,Contractual services,290,Other contractuals,2906,Membership dues,142002,Envirn. Health- Administration,1,5452,Expense
+100,General Fund,BU740033,95,14,Public Works & Utilities,2,Contractual services,290,Other contractuals,2916,Property taxes ,142002,Envirn. Health- Administration,0.2,5453,Expense
+100,General Fund,BU740033,96,14,Public Works & Utilities,2,Contractual services,290,Other contractuals,2917,Printing and copying,142002,Envirn. Health- Administration,25,5454,Expense
+100,General Fund,BU740033,97,14,Public Works & Utilities,2,Contractual services,290,Other contractuals,2999,Other contractuals,142002,Envirn. Health- Administration,0.4,5455,Expense
+100,General Fund,BU740033,98,14,Public Works & Utilities,3,Materials and supplies,310,Office supplies,3103,Office supplies,142002,Envirn. Health- Administration,40,5456,Expense
+100,General Fund,BU740033,99,14,Public Works & Utilities,3,Materials and supplies,340,Equipment parts,3405,Fuel,142002,Envirn. Health- Administration,1.47,5457,Expense
+100,General Fund,BU740033,100,14,Public Works & Utilities,3,Materials and supplies,340,Equipment parts,3406,Safety/security equipment,142002,Envirn. Health- Administration,1,5458,Expense
+100,General Fund,BU740034,1,14,Public Works & Utilities,3,Materials and supplies,380,Non-capitalizable equipment < $5000 each,3804,"Data processing equipment  < $5,000 each",142002,Envirn. Health- Administration,10,5459,Expense
+100,General Fund,BU740034,2,14,Public Works & Utilities,3,Materials and supplies,380,Non-capitalizable equipment < $5000 each,3812,"Communication equipment < $5,000 each",142002,Envirn. Health- Administration,2.5,5460,Expense
+100,General Fund,BU740034,3,14,Public Works & Utilities,3,Materials and supplies,380,Non-capitalizable equipment < $5000 each,3815,"Safety equipment < $5,000 each",142002,Envirn. Health- Administration,1,5461,Expense
+100,General Fund,BU740034,4,14,Public Works & Utilities,3,Materials and supplies,390,Other commodities,3903,Food supplies,142002,Envirn. Health- Administration,2.5,5462,Expense
+100,General Fund,BU740034,5,14,Public Works & Utilities,3,Materials and supplies,390,Other commodities,3999,Other commodities,142002,Envirn. Health- Administration,2,5463,Expense
+100,General Fund,BU740034,6,14,Public Works & Utilities,1,Personnel services,110,Regular salaries,1100,Bi-weekly wages,142016,Water Quality ,1054.99,5464,Expense
+100,General Fund,BU740034,7,14,Public Works & Utilities,1,Personnel services,110,Regular salaries,1101,Longevity,142016,Water Quality ,14.76,5465,Expense
+100,General Fund,BU740034,8,14,Public Works & Utilities,1,Personnel services,110,Regular salaries,1190,Accrual,142016,Water Quality ,6.14,5466,Expense
 265,City/County Joint Operations Fund,BU740034,9,15,Metropolitan Planning,3,Materials and supplies,340,Equipment parts,3499,Other equipment parts,150004,Metropolitan Planning,4,5467,Expense
 265,City/County Joint Operations Fund,BU740034,10,15,Metropolitan Planning,3,Materials and supplies,380,Non-capitalizable equipment < $5000 each,3804,"Data processing equipment  < $5,000 each",150004,Metropolitan Planning,20,5468,Expense
 265,City/County Joint Operations Fund,BU740034,11,15,Metropolitan Planning,3,Materials and supplies,380,Non-capitalizable equipment < $5000 each,3805,Furniture & equipment <$5000 each,150004,Metropolitan Planning,9.5,5469,Expense
@@ -5562,14 +5562,14 @@ fund,fund_title,cur_doc_no,cur_doc_no_sfx,dept,dept_title,obj_lvl_1,obj_lvl_1_ti
 265,City/County Joint Operations Fund,BU740065,100,13,Public Works & Utilities,2,Contractual services,290,Other contractuals,2902,Advertising,133224,CITY-CTY FLOOD CONTRL,0.75,5561,Expense
 265,City/County Joint Operations Fund,BU740066,1,13,Public Works & Utilities,2,Contractual services,290,Other contractuals,2909,Recording costs,133224,CITY-CTY FLOOD CONTRL,3,5562,Expense
 265,City/County Joint Operations Fund,BU740066,2,13,Public Works & Utilities,2,Contractual services,290,Other contractuals,2917,Printing and copying,133224,CITY-CTY FLOOD CONTRL,9,5563,Expense
-100,General Fund,BU740066,32,14,Public Works  & Utilities,2,Contractual services,220,Communications,2216,Voice mail,149047,Tobacco Sales Regulation,0.84,5564,Expense
-100,General Fund,BU740066,33,14,Public Works  & Utilities,2,Contractual services,240,Insurance,2401,Vehicle liability,149047,Tobacco Sales Regulation,4.8,5565,Expense
-100,General Fund,BU740066,34,14,Public Works  & Utilities,2,Contractual services,260,Data processing,2600,Data center charges,149047,Tobacco Sales Regulation,16.53,5566,Expense
+100,General Fund,BU740066,32,14,Public Works & Utilities,2,Contractual services,220,Communications,2216,Voice mail,149047,Tobacco Sales Regulation,0.84,5564,Expense
+100,General Fund,BU740066,33,14,Public Works & Utilities,2,Contractual services,240,Insurance,2401,Vehicle liability,149047,Tobacco Sales Regulation,4.8,5565,Expense
+100,General Fund,BU740066,34,14,Public Works & Utilities,2,Contractual services,260,Data processing,2600,Data center charges,149047,Tobacco Sales Regulation,16.53,5566,Expense
 520,Transit Fund,BU740073,54,16,Transit,3,Materials and supplies,380,Non-capitalizable equipment < $5000 each,3805,Furniture & equipment <$5000 each,160002,MTA Administration,10,5567,Expense
-100,General Fund,BU740087,49,14,Public Works  & Utilities,90,Charges for services and sales,908,Public health - other,9085,Special food handlers classes,142044,Food,106.25,5568,Revenue
-100,General Fund,BU740074,12,14,Public Works  & Utilities,3,Materials and supplies,310,Office supplies,3103,Office supplies,142021,Air Quality ,0.5,5569,Expense
-100,General Fund,BU740074,13,14,Public Works  & Utilities,3,Materials and supplies,340,Equipment parts,3400,Equipment parts and supplies,142021,Air Quality ,1,5570,Expense
-100,General Fund,BU740074,14,14,Public Works  & Utilities,3,Materials and supplies,340,Equipment parts,3405,Fuel,142021,Air Quality ,78.41,5571,Expense
+100,General Fund,BU740087,49,14,Public Works & Utilities,90,Charges for services and sales,908,Public health - other,9085,Special food handlers classes,142044,Food,106.25,5568,Revenue
+100,General Fund,BU740074,12,14,Public Works & Utilities,3,Materials and supplies,310,Office supplies,3103,Office supplies,142021,Air Quality ,0.5,5569,Expense
+100,General Fund,BU740074,13,14,Public Works & Utilities,3,Materials and supplies,340,Equipment parts,3400,Equipment parts and supplies,142021,Air Quality ,1,5570,Expense
+100,General Fund,BU740074,14,14,Public Works & Utilities,3,Materials and supplies,340,Equipment parts,3405,Fuel,142021,Air Quality ,78.41,5571,Expense
 520,Transit Fund,BU740073,55,16,Transit,3,Materials and supplies,390,Other commodities,3903,Food supplies,160002,MTA Administration,20,5572,Expense
 520,Transit Fund,BU740073,56,16,Transit,3,Materials and supplies,390,Other commodities,3904,Petty cash expenditures,160002,MTA Administration,5,5573,Expense
 520,Transit Fund,BU740073,57,16,Transit,3,Materials and supplies,390,Other commodities,3999,Other commodities,160002,MTA Administration,5,5574,Expense
@@ -5598,15 +5598,15 @@ fund,fund_title,cur_doc_no,cur_doc_no_sfx,dept,dept_title,obj_lvl_1,obj_lvl_1_ti
 540,WATER UTILITY FUND,BU740073,80,18,Public Works & Utilities,2,Contractual services,290,Other contractuals,2999,Other contractuals,183327,WATER DISTRIBUTION ADMINISTRATION,75,5597,Expense
 540,WATER UTILITY FUND,BU740073,81,18,Public Works & Utilities,3,Materials and supplies,310,Office supplies,3101,Computer/printer supplies,183327,WATER DISTRIBUTION ADMINISTRATION,11,5598,Expense
 540,WATER UTILITY FUND,BU740073,82,18,Public Works & Utilities,3,Materials and supplies,310,Office supplies,3103,Office supplies,183327,WATER DISTRIBUTION ADMINISTRATION,150,5599,Expense
-100,General Fund,BU740087,50,14,Public Works  & Utilities,98,Other revenue,981,Other revenue,9812,Reimbursed expend-interfund & interdept,142122,Environmental Assmnt and Remedtn ,4144.74,5600,Revenue
-100,General Fund,BU740087,51,14,Public Works  & Utilities,90,Charges for services and sales,908,Public health - other,9087,Child care inspection,143083,Child Care Licensing,1620,5601,Revenue
-255,TIF Districts Fund,BU740087,52,14,Public Works  & Utilities,60,Taxes and levies,600,Property taxes,6000,Property taxes,148557,Gilbert & Mosley-General Program Costs,26200.4,5602,Revenue
-255,TIF Districts Fund,BU740087,53,14,Public Works  & Utilities,60,Taxes and levies,600,Property taxes,6001,Delinquent property taxes,148557,Gilbert & Mosley-General Program Costs,500,5603,Revenue
-255,TIF Districts Fund,BU740087,54,14,Public Works  & Utilities,98,Other revenue,981,Other revenue,9811,Reimbursements,148557,Gilbert & Mosley-General Program Costs,1100,5604,Revenue
-255,TIF Districts Fund,BU740087,55,14,Public Works  & Utilities,60,Taxes and levies,600,Property taxes,6000,Property taxes,148656,North Industrial Corridor-General Progra,11553,5605,Revenue
-255,TIF Districts Fund,BU740087,56,14,Public Works  & Utilities,60,Taxes and levies,600,Property taxes,6001,Delinquent property taxes,148656,North Industrial Corridor-General Progra,100,5606,Revenue
-100,General Fund,BU740087,57,14,Public Works  & Utilities,70,Licenses,714,Health - other,7145,Swimming pool license,149013,ENV HLTH / SWIMMING POOLS / CITY,485,5607,Revenue
-100,General Fund,BU740087,58,14,Public Works  & Utilities,70,Licenses,714,Health - other,7146,Tobacco sales,149047,Tobacco Sales Regulation,748,5608,Revenue
+100,General Fund,BU740087,50,14,Public Works & Utilities,98,Other revenue,981,Other revenue,9812,Reimbursed expend-interfund & interdept,142122,Environmental Assmnt and Remedtn ,4144.74,5600,Revenue
+100,General Fund,BU740087,51,14,Public Works & Utilities,90,Charges for services and sales,908,Public health - other,9087,Child care inspection,143083,Child Care Licensing,1620,5601,Revenue
+255,TIF Districts Fund,BU740087,52,14,Public Works & Utilities,60,Taxes and levies,600,Property taxes,6000,Property taxes,148557,Gilbert & Mosley-General Program Costs,26200.4,5602,Revenue
+255,TIF Districts Fund,BU740087,53,14,Public Works & Utilities,60,Taxes and levies,600,Property taxes,6001,Delinquent property taxes,148557,Gilbert & Mosley-General Program Costs,500,5603,Revenue
+255,TIF Districts Fund,BU740087,54,14,Public Works & Utilities,98,Other revenue,981,Other revenue,9811,Reimbursements,148557,Gilbert & Mosley-General Program Costs,1100,5604,Revenue
+255,TIF Districts Fund,BU740087,55,14,Public Works & Utilities,60,Taxes and levies,600,Property taxes,6000,Property taxes,148656,North Industrial Corridor-General Progra,11553,5605,Revenue
+255,TIF Districts Fund,BU740087,56,14,Public Works & Utilities,60,Taxes and levies,600,Property taxes,6001,Delinquent property taxes,148656,North Industrial Corridor-General Progra,100,5606,Revenue
+100,General Fund,BU740087,57,14,Public Works & Utilities,70,Licenses,714,Health - other,7145,Swimming pool license,149013,ENV HLTH / SWIMMING POOLS / CITY,485,5607,Revenue
+100,General Fund,BU740087,58,14,Public Works & Utilities,70,Licenses,714,Health - other,7146,Tobacco sales,149047,Tobacco Sales Regulation,748,5608,Revenue
 265,City/County Joint Operations Fund,BU740087,59,15,Metropolitan Planning,80,Intergovernmental,807,Sedgwick County,8071,Operating - joint support,150004,Metropolitan Planning,6286.35,5609,Revenue
 265,City/County Joint Operations Fund,BU740087,60,15,Metropolitan Planning,90,Charges for services and sales,900,General,9005,Printed materials,150004,Metropolitan Planning,0.5,5610,Revenue
 265,City/County Joint Operations Fund,BU740087,61,15,Metropolitan Planning,90,Charges for services and sales,900,General,9006,Sale of maps,150004,Metropolitan Planning,0.5,5611,Revenue
@@ -6019,34 +6019,34 @@ fund,fund_title,cur_doc_no,cur_doc_no_sfx,dept,dept_title,obj_lvl_1,obj_lvl_1_ti
 515,Golf Course System Fund,BU740053,6,21,Golf Course System,2,Contractual services,280,Buildings and grounds charges,2804,Pest control services,210101,Auburn Hills-Clubhouse Operations,6.03,6018,Expense
 515,Golf Course System Fund,BU740053,7,21,Golf Course System,2,Contractual services,280,Buildings and grounds charges,2806,Security/Fire services,210101,Auburn Hills-Clubhouse Operations,5.02,6019,Expense
 515,Golf Course System Fund,BU740053,8,21,Golf Course System,2,Contractual services,290,Other contractuals,2906,Membership dues,210101,Auburn Hills-Clubhouse Operations,10.3,6020,Expense
-255,TIF Districts Fund,BU740009,71,14,Public Works  & Utilities,3,Materials and supplies,370,Building parts,3700,Building parts and materials,148558,Gilbert & Mosley-WATER Center & Ed Progr,50,6021,Expense
-255,TIF Districts Fund,BU740009,72,14,Public Works  & Utilities,3,Materials and supplies,370,Building parts,3702,Building repairs and equipment,148558,Gilbert & Mosley-WATER Center & Ed Progr,40,6022,Expense
-255,TIF Districts Fund,BU740009,73,14,Public Works  & Utilities,3,Materials and supplies,370,Building parts,3799,Other building parts and materials,148558,Gilbert & Mosley-WATER Center & Ed Progr,0.75,6023,Expense
-255,TIF Districts Fund,BU740009,74,14,Public Works  & Utilities,3,Materials and supplies,390,Other commodities,3901,Custodial supplies,148558,Gilbert & Mosley-WATER Center & Ed Progr,1.5,6024,Expense
-255,TIF Districts Fund,BU740009,75,14,Public Works  & Utilities,3,Materials and supplies,390,Other commodities,3904,Petty cash expenditures,148558,Gilbert & Mosley-WATER Center & Ed Progr,1,6025,Expense
-255,TIF Districts Fund,BU740009,76,14,Public Works  & Utilities,3,Materials and supplies,390,Other commodities,3999,Other commodities,148558,Gilbert & Mosley-WATER Center & Ed Progr,10,6026,Expense
-255,TIF Districts Fund,BU740009,77,14,Public Works  & Utilities,2,Contractual services,210,Utilities,2100,Electricity,148562,Gilbert & Mosley-Site Wide Efforts Plume,1138.16,6027,Expense
-255,TIF Districts Fund,BU740009,78,14,Public Works  & Utilities,2,Contractual services,220,Communications,2215,Plexar,148562,Gilbert & Mosley-Site Wide Efforts Plume,7.44,6028,Expense
-255,TIF Districts Fund,BU740009,79,14,Public Works  & Utilities,2,Contractual services,250,Professional services,2503,Studies/Consultants,148562,Gilbert & Mosley-Site Wide Efforts Plume,1000,6029,Expense
-255,TIF Districts Fund,BU740009,80,14,Public Works  & Utilities,2,Contractual services,250,Professional services,2514,Laboratory services,148562,Gilbert & Mosley-Site Wide Efforts Plume,50,6030,Expense
-255,TIF Districts Fund,BU740009,81,14,Public Works  & Utilities,2,Contractual services,250,Professional services,2515,Environmental,148562,Gilbert & Mosley-Site Wide Efforts Plume,3.2,6031,Expense
-255,TIF Districts Fund,BU740009,82,14,Public Works  & Utilities,2,Contractual services,250,Professional services,2599,Other professional services,148562,Gilbert & Mosley-Site Wide Efforts Plume,400,6032,Expense
-255,TIF Districts Fund,BU740009,83,14,Public Works  & Utilities,2,Contractual services,270,Equipment charges,2703,Maintenance - equipment,148562,Gilbert & Mosley-Site Wide Efforts Plume,17.5,6033,Expense
-255,TIF Districts Fund,BU740009,84,14,Public Works  & Utilities,2,Contractual services,280,Buildings and grounds charges,2803,Maintenance - buildings,148562,Gilbert & Mosley-Site Wide Efforts Plume,105,6034,Expense
-255,TIF Districts Fund,BU740009,85,14,Public Works  & Utilities,2,Contractual services,290,Other contractuals,2919,Dirt and pavement cuts,148562,Gilbert & Mosley-Site Wide Efforts Plume,7.5,6035,Expense
-255,TIF Districts Fund,BU740009,86,14,Public Works  & Utilities,2,Contractual services,290,Other contractuals,2999,Other contractuals,148562,Gilbert & Mosley-Site Wide Efforts Plume,5,6036,Expense
-255,TIF Districts Fund,BU740009,87,14,Public Works  & Utilities,3,Materials and supplies,330,Chemicals,3300,Research chemicals,148562,Gilbert & Mosley-Site Wide Efforts Plume,125,6037,Expense
-255,TIF Districts Fund,BU740009,88,14,Public Works  & Utilities,3,Materials and supplies,340,Equipment parts,3400,Equipment parts and supplies,148562,Gilbert & Mosley-Site Wide Efforts Plume,40,6038,Expense
-255,TIF Districts Fund,BU740009,89,14,Public Works  & Utilities,3,Materials and supplies,340,Equipment parts,3403,Electrical,148562,Gilbert & Mosley-Site Wide Efforts Plume,2.25,6039,Expense
-255,TIF Districts Fund,BU740009,90,14,Public Works  & Utilities,3,Materials and supplies,340,Equipment parts,3406,Safety/security equipment,148562,Gilbert & Mosley-Site Wide Efforts Plume,0.5,6040,Expense
-255,TIF Districts Fund,BU740009,91,14,Public Works  & Utilities,3,Materials and supplies,340,Equipment parts,3499,Other equipment parts,148562,Gilbert & Mosley-Site Wide Efforts Plume,15,6041,Expense
-255,TIF Districts Fund,BU740009,92,14,Public Works  & Utilities,3,Materials and supplies,350,Materials,3500,Materials,148562,Gilbert & Mosley-Site Wide Efforts Plume,1,6042,Expense
-255,TIF Districts Fund,BU740009,93,14,Public Works  & Utilities,3,Materials and supplies,350,Materials,3599,Other materials,148562,Gilbert & Mosley-Site Wide Efforts Plume,2,6043,Expense
-255,TIF Districts Fund,BU740009,94,14,Public Works  & Utilities,3,Materials and supplies,370,Building parts,3700,Building parts and materials,148562,Gilbert & Mosley-Site Wide Efforts Plume,15,6044,Expense
-255,TIF Districts Fund,BU740009,95,14,Public Works  & Utilities,3,Materials and supplies,370,Building parts,3702,Building repairs and equipment,148562,Gilbert & Mosley-Site Wide Efforts Plume,100,6045,Expense
-255,TIF Districts Fund,BU740009,96,14,Public Works  & Utilities,3,Materials and supplies,380,Non-capitalizable equipment < $5000 each,3800,"Non-capital shop equipment < $5,000 each",148562,Gilbert & Mosley-Site Wide Efforts Plume,0.5,6046,Expense
-255,TIF Districts Fund,BU740009,97,14,Public Works  & Utilities,2,Contractual services,210,Utilities,2100,Electricity,148563,Gilbert & Mosley-Harcros/TriState Centra,162.07,6047,Expense
-255,TIF Districts Fund,BU740009,98,14,Public Works  & Utilities,2,Contractual services,210,Utilities,2104,Water,148563,Gilbert & Mosley-Harcros/TriState Centra,4.01,6048,Expense
+255,TIF Districts Fund,BU740009,71,14,Public Works & Utilities,3,Materials and supplies,370,Building parts,3700,Building parts and materials,148558,Gilbert & Mosley-WATER Center & Ed Progr,50,6021,Expense
+255,TIF Districts Fund,BU740009,72,14,Public Works & Utilities,3,Materials and supplies,370,Building parts,3702,Building repairs and equipment,148558,Gilbert & Mosley-WATER Center & Ed Progr,40,6022,Expense
+255,TIF Districts Fund,BU740009,73,14,Public Works & Utilities,3,Materials and supplies,370,Building parts,3799,Other building parts and materials,148558,Gilbert & Mosley-WATER Center & Ed Progr,0.75,6023,Expense
+255,TIF Districts Fund,BU740009,74,14,Public Works & Utilities,3,Materials and supplies,390,Other commodities,3901,Custodial supplies,148558,Gilbert & Mosley-WATER Center & Ed Progr,1.5,6024,Expense
+255,TIF Districts Fund,BU740009,75,14,Public Works & Utilities,3,Materials and supplies,390,Other commodities,3904,Petty cash expenditures,148558,Gilbert & Mosley-WATER Center & Ed Progr,1,6025,Expense
+255,TIF Districts Fund,BU740009,76,14,Public Works & Utilities,3,Materials and supplies,390,Other commodities,3999,Other commodities,148558,Gilbert & Mosley-WATER Center & Ed Progr,10,6026,Expense
+255,TIF Districts Fund,BU740009,77,14,Public Works & Utilities,2,Contractual services,210,Utilities,2100,Electricity,148562,Gilbert & Mosley-Site Wide Efforts Plume,1138.16,6027,Expense
+255,TIF Districts Fund,BU740009,78,14,Public Works & Utilities,2,Contractual services,220,Communications,2215,Plexar,148562,Gilbert & Mosley-Site Wide Efforts Plume,7.44,6028,Expense
+255,TIF Districts Fund,BU740009,79,14,Public Works & Utilities,2,Contractual services,250,Professional services,2503,Studies/Consultants,148562,Gilbert & Mosley-Site Wide Efforts Plume,1000,6029,Expense
+255,TIF Districts Fund,BU740009,80,14,Public Works & Utilities,2,Contractual services,250,Professional services,2514,Laboratory services,148562,Gilbert & Mosley-Site Wide Efforts Plume,50,6030,Expense
+255,TIF Districts Fund,BU740009,81,14,Public Works & Utilities,2,Contractual services,250,Professional services,2515,Environmental,148562,Gilbert & Mosley-Site Wide Efforts Plume,3.2,6031,Expense
+255,TIF Districts Fund,BU740009,82,14,Public Works & Utilities,2,Contractual services,250,Professional services,2599,Other professional services,148562,Gilbert & Mosley-Site Wide Efforts Plume,400,6032,Expense
+255,TIF Districts Fund,BU740009,83,14,Public Works & Utilities,2,Contractual services,270,Equipment charges,2703,Maintenance - equipment,148562,Gilbert & Mosley-Site Wide Efforts Plume,17.5,6033,Expense
+255,TIF Districts Fund,BU740009,84,14,Public Works & Utilities,2,Contractual services,280,Buildings and grounds charges,2803,Maintenance - buildings,148562,Gilbert & Mosley-Site Wide Efforts Plume,105,6034,Expense
+255,TIF Districts Fund,BU740009,85,14,Public Works & Utilities,2,Contractual services,290,Other contractuals,2919,Dirt and pavement cuts,148562,Gilbert & Mosley-Site Wide Efforts Plume,7.5,6035,Expense
+255,TIF Districts Fund,BU740009,86,14,Public Works & Utilities,2,Contractual services,290,Other contractuals,2999,Other contractuals,148562,Gilbert & Mosley-Site Wide Efforts Plume,5,6036,Expense
+255,TIF Districts Fund,BU740009,87,14,Public Works & Utilities,3,Materials and supplies,330,Chemicals,3300,Research chemicals,148562,Gilbert & Mosley-Site Wide Efforts Plume,125,6037,Expense
+255,TIF Districts Fund,BU740009,88,14,Public Works & Utilities,3,Materials and supplies,340,Equipment parts,3400,Equipment parts and supplies,148562,Gilbert & Mosley-Site Wide Efforts Plume,40,6038,Expense
+255,TIF Districts Fund,BU740009,89,14,Public Works & Utilities,3,Materials and supplies,340,Equipment parts,3403,Electrical,148562,Gilbert & Mosley-Site Wide Efforts Plume,2.25,6039,Expense
+255,TIF Districts Fund,BU740009,90,14,Public Works & Utilities,3,Materials and supplies,340,Equipment parts,3406,Safety/security equipment,148562,Gilbert & Mosley-Site Wide Efforts Plume,0.5,6040,Expense
+255,TIF Districts Fund,BU740009,91,14,Public Works & Utilities,3,Materials and supplies,340,Equipment parts,3499,Other equipment parts,148562,Gilbert & Mosley-Site Wide Efforts Plume,15,6041,Expense
+255,TIF Districts Fund,BU740009,92,14,Public Works & Utilities,3,Materials and supplies,350,Materials,3500,Materials,148562,Gilbert & Mosley-Site Wide Efforts Plume,1,6042,Expense
+255,TIF Districts Fund,BU740009,93,14,Public Works & Utilities,3,Materials and supplies,350,Materials,3599,Other materials,148562,Gilbert & Mosley-Site Wide Efforts Plume,2,6043,Expense
+255,TIF Districts Fund,BU740009,94,14,Public Works & Utilities,3,Materials and supplies,370,Building parts,3700,Building parts and materials,148562,Gilbert & Mosley-Site Wide Efforts Plume,15,6044,Expense
+255,TIF Districts Fund,BU740009,95,14,Public Works & Utilities,3,Materials and supplies,370,Building parts,3702,Building repairs and equipment,148562,Gilbert & Mosley-Site Wide Efforts Plume,100,6045,Expense
+255,TIF Districts Fund,BU740009,96,14,Public Works & Utilities,3,Materials and supplies,380,Non-capitalizable equipment < $5000 each,3800,"Non-capital shop equipment < $5,000 each",148562,Gilbert & Mosley-Site Wide Efforts Plume,0.5,6046,Expense
+255,TIF Districts Fund,BU740009,97,14,Public Works & Utilities,2,Contractual services,210,Utilities,2100,Electricity,148563,Gilbert & Mosley-Harcros/TriState Centra,162.07,6047,Expense
+255,TIF Districts Fund,BU740009,98,14,Public Works & Utilities,2,Contractual services,210,Utilities,2104,Water,148563,Gilbert & Mosley-Harcros/TriState Centra,4.01,6048,Expense
 100,General Fund,BU740063,20,13,Public Works & Utilities,2,Contractual services,230,Transportation and training,2303,In town registration fees,130500,City Hall,28.5,6049,Expense
 100,General Fund,BU740063,21,13,Public Works & Utilities,2,Contractual services,230,Transportation and training,2308,Transportation - out of town,130500,City Hall,9.75,6050,Expense
 100,General Fund,BU740063,22,13,Public Works & Utilities,2,Contractual services,230,Transportation and training,2310,Turnpike fees and charges,130500,City Hall,0.1,6051,Expense
@@ -6223,24 +6223,24 @@ fund,fund_title,cur_doc_no,cur_doc_no_sfx,dept,dept_title,obj_lvl_1,obj_lvl_1_ti
 560,STORMWATER UTILITY FUND,BU740009,50,13,Public Works & Utilities,2,Contractual services,270,Equipment charges,2701,Motor pool-unscheduled charges,133116,STORM WATER UTILITY,3,6222,Expense
 560,STORMWATER UTILITY FUND,BU740009,51,13,Public Works & Utilities,2,Contractual services,270,Equipment charges,2702,Lease/rent equipment,133116,STORM WATER UTILITY,15,6223,Expense
 560,STORMWATER UTILITY FUND,BU740009,52,13,Public Works & Utilities,2,Contractual services,270,Equipment charges,2703,Maintenance - equipment,133116,STORM WATER UTILITY,300,6224,Expense
-255,TIF Districts Fund,BU740009,53,14,Public Works  & Utilities,2,Contractual services,260,Data processing,2601,Maintenance - data equipment,148558,Gilbert & Mosley-WATER Center & Ed Progr,2,6225,Expense
-255,TIF Districts Fund,BU740009,54,14,Public Works  & Utilities,2,Contractual services,270,Equipment charges,2702,Lease/rent equipment,148558,Gilbert & Mosley-WATER Center & Ed Progr,5,6226,Expense
-255,TIF Districts Fund,BU740009,55,14,Public Works  & Utilities,2,Contractual services,270,Equipment charges,2703,Maintenance - equipment,148558,Gilbert & Mosley-WATER Center & Ed Progr,53,6227,Expense
-255,TIF Districts Fund,BU740009,56,14,Public Works  & Utilities,2,Contractual services,280,Buildings and grounds charges,2802,Maintenance - grounds,148558,Gilbert & Mosley-WATER Center & Ed Progr,150,6228,Expense
-255,TIF Districts Fund,BU740009,57,14,Public Works  & Utilities,2,Contractual services,280,Buildings and grounds charges,2803,Maintenance - buildings,148558,Gilbert & Mosley-WATER Center & Ed Progr,125,6229,Expense
-255,TIF Districts Fund,BU740009,58,14,Public Works  & Utilities,2,Contractual services,280,Buildings and grounds charges,2899,Other building/grounds charges,148558,Gilbert & Mosley-WATER Center & Ed Progr,15,6230,Expense
-255,TIF Districts Fund,BU740009,59,14,Public Works  & Utilities,2,Contractual services,290,Other contractuals,2902,Advertising,148558,Gilbert & Mosley-WATER Center & Ed Progr,1,6231,Expense
-255,TIF Districts Fund,BU740009,60,14,Public Works  & Utilities,2,Contractual services,290,Other contractuals,2917,Printing and copying,148558,Gilbert & Mosley-WATER Center & Ed Progr,3,6232,Expense
-255,TIF Districts Fund,BU740009,61,14,Public Works  & Utilities,2,Contractual services,290,Other contractuals,2999,Other contractuals,148558,Gilbert & Mosley-WATER Center & Ed Progr,17.5,6233,Expense
-255,TIF Districts Fund,BU740009,62,14,Public Works  & Utilities,3,Materials and supplies,310,Office supplies,3103,Office supplies,148558,Gilbert & Mosley-WATER Center & Ed Progr,5,6234,Expense
-255,TIF Districts Fund,BU740009,63,14,Public Works  & Utilities,3,Materials and supplies,320,Clothing and towels,3200,Clothing and towels,148558,Gilbert & Mosley-WATER Center & Ed Progr,1,6235,Expense
-255,TIF Districts Fund,BU740009,64,14,Public Works  & Utilities,3,Materials and supplies,320,Clothing and towels,3299,Other clothing,148558,Gilbert & Mosley-WATER Center & Ed Progr,2.5,6236,Expense
-255,TIF Districts Fund,BU740009,65,14,Public Works  & Utilities,3,Materials and supplies,340,Equipment parts,3400,Equipment parts and supplies,148558,Gilbert & Mosley-WATER Center & Ed Progr,4,6237,Expense
-255,TIF Districts Fund,BU740009,66,14,Public Works  & Utilities,3,Materials and supplies,340,Equipment parts,3403,Electrical,148558,Gilbert & Mosley-WATER Center & Ed Progr,20,6238,Expense
-255,TIF Districts Fund,BU740009,67,14,Public Works  & Utilities,3,Materials and supplies,340,Equipment parts,3406,Safety/security equipment,148558,Gilbert & Mosley-WATER Center & Ed Progr,2.5,6239,Expense
-255,TIF Districts Fund,BU740009,68,14,Public Works  & Utilities,3,Materials and supplies,340,Equipment parts,3499,Other equipment parts,148558,Gilbert & Mosley-WATER Center & Ed Progr,0.5,6240,Expense
-255,TIF Districts Fund,BU740009,69,14,Public Works  & Utilities,3,Materials and supplies,350,Materials,3500,Materials,148558,Gilbert & Mosley-WATER Center & Ed Progr,0.75,6241,Expense
-255,TIF Districts Fund,BU740009,70,14,Public Works  & Utilities,3,Materials and supplies,350,Materials,3599,Other materials,148558,Gilbert & Mosley-WATER Center & Ed Progr,10,6242,Expense
+255,TIF Districts Fund,BU740009,53,14,Public Works & Utilities,2,Contractual services,260,Data processing,2601,Maintenance - data equipment,148558,Gilbert & Mosley-WATER Center & Ed Progr,2,6225,Expense
+255,TIF Districts Fund,BU740009,54,14,Public Works & Utilities,2,Contractual services,270,Equipment charges,2702,Lease/rent equipment,148558,Gilbert & Mosley-WATER Center & Ed Progr,5,6226,Expense
+255,TIF Districts Fund,BU740009,55,14,Public Works & Utilities,2,Contractual services,270,Equipment charges,2703,Maintenance - equipment,148558,Gilbert & Mosley-WATER Center & Ed Progr,53,6227,Expense
+255,TIF Districts Fund,BU740009,56,14,Public Works & Utilities,2,Contractual services,280,Buildings and grounds charges,2802,Maintenance - grounds,148558,Gilbert & Mosley-WATER Center & Ed Progr,150,6228,Expense
+255,TIF Districts Fund,BU740009,57,14,Public Works & Utilities,2,Contractual services,280,Buildings and grounds charges,2803,Maintenance - buildings,148558,Gilbert & Mosley-WATER Center & Ed Progr,125,6229,Expense
+255,TIF Districts Fund,BU740009,58,14,Public Works & Utilities,2,Contractual services,280,Buildings and grounds charges,2899,Other building/grounds charges,148558,Gilbert & Mosley-WATER Center & Ed Progr,15,6230,Expense
+255,TIF Districts Fund,BU740009,59,14,Public Works & Utilities,2,Contractual services,290,Other contractuals,2902,Advertising,148558,Gilbert & Mosley-WATER Center & Ed Progr,1,6231,Expense
+255,TIF Districts Fund,BU740009,60,14,Public Works & Utilities,2,Contractual services,290,Other contractuals,2917,Printing and copying,148558,Gilbert & Mosley-WATER Center & Ed Progr,3,6232,Expense
+255,TIF Districts Fund,BU740009,61,14,Public Works & Utilities,2,Contractual services,290,Other contractuals,2999,Other contractuals,148558,Gilbert & Mosley-WATER Center & Ed Progr,17.5,6233,Expense
+255,TIF Districts Fund,BU740009,62,14,Public Works & Utilities,3,Materials and supplies,310,Office supplies,3103,Office supplies,148558,Gilbert & Mosley-WATER Center & Ed Progr,5,6234,Expense
+255,TIF Districts Fund,BU740009,63,14,Public Works & Utilities,3,Materials and supplies,320,Clothing and towels,3200,Clothing and towels,148558,Gilbert & Mosley-WATER Center & Ed Progr,1,6235,Expense
+255,TIF Districts Fund,BU740009,64,14,Public Works & Utilities,3,Materials and supplies,320,Clothing and towels,3299,Other clothing,148558,Gilbert & Mosley-WATER Center & Ed Progr,2.5,6236,Expense
+255,TIF Districts Fund,BU740009,65,14,Public Works & Utilities,3,Materials and supplies,340,Equipment parts,3400,Equipment parts and supplies,148558,Gilbert & Mosley-WATER Center & Ed Progr,4,6237,Expense
+255,TIF Districts Fund,BU740009,66,14,Public Works & Utilities,3,Materials and supplies,340,Equipment parts,3403,Electrical,148558,Gilbert & Mosley-WATER Center & Ed Progr,20,6238,Expense
+255,TIF Districts Fund,BU740009,67,14,Public Works & Utilities,3,Materials and supplies,340,Equipment parts,3406,Safety/security equipment,148558,Gilbert & Mosley-WATER Center & Ed Progr,2.5,6239,Expense
+255,TIF Districts Fund,BU740009,68,14,Public Works & Utilities,3,Materials and supplies,340,Equipment parts,3499,Other equipment parts,148558,Gilbert & Mosley-WATER Center & Ed Progr,0.5,6240,Expense
+255,TIF Districts Fund,BU740009,69,14,Public Works & Utilities,3,Materials and supplies,350,Materials,3500,Materials,148558,Gilbert & Mosley-WATER Center & Ed Progr,0.75,6241,Expense
+255,TIF Districts Fund,BU740009,70,14,Public Works & Utilities,3,Materials and supplies,350,Materials,3599,Other materials,148558,Gilbert & Mosley-WATER Center & Ed Progr,10,6242,Expense
 100,General Fund,BU740021,2,11,CMO - Cultural Arts Division,2,Contractual services,210,Utilities,2101,Gas-ONEOK Kansas Gas Service,111000,City Arts,34,6243,Expense
 100,General Fund,BU740021,3,11,CMO - Cultural Arts Division,2,Contractual services,210,Utilities,2102,Gas-Black Hills,111000,City Arts,69,6244,Expense
 100,General Fund,BU740021,4,11,CMO - Cultural Arts Division,2,Contractual services,210,Utilities,2104,Water,111000,City Arts,100.23,6245,Expense
@@ -6307,12 +6307,12 @@ fund,fund_title,cur_doc_no,cur_doc_no_sfx,dept,dept_title,obj_lvl_1,obj_lvl_1_ti
 260,Self-Supported Municipal Improvement Dis,BU740033,85,3,Department of Finance,2,Contractual services,250,Professional services,2599,Other professional services,32301,SSMID,6752.45,6306,Expense
 255,TIF Districts Fund,BU740033,86,3,Department of Finance,2,Contractual services,290,Other contractuals,2999,Other contractuals,32988,Union Station TIF,750,6307,Expense
 620,Self Insurance Fund,BU740033,87,3,Department of Finance,2,Contractual services,240,Insurance,2407,AD&D premium - voluntary,36004,Self Insurance Group Life,1400,6308,Expense
-100,General Fund,BU740033,88,14,Public Works  & Utilities,2,Contractual services,250,Professional services,2599,Other professional services,142002,Envirn. Health- Administration,2,6309,Expense
-100,General Fund,BU740033,89,14,Public Works  & Utilities,2,Contractual services,260,Data processing,2600,Data center charges,142002,Envirn. Health- Administration,71.5,6310,Expense
-100,General Fund,BU740033,90,14,Public Works  & Utilities,2,Contractual services,260,Data processing,2601,Maintenance - data equipment,142002,Envirn. Health- Administration,1.5,6311,Expense
-100,General Fund,BU740033,91,14,Public Works  & Utilities,2,Contractual services,270,Equipment charges,2700,Motor pool - scheduled charges,142002,Envirn. Health- Administration,26.4,6312,Expense
-100,General Fund,BU740033,92,14,Public Works  & Utilities,2,Contractual services,270,Equipment charges,2701,Motor pool-unscheduled charges,142002,Envirn. Health- Administration,1,6313,Expense
-100,General Fund,BU740033,93,14,Public Works  & Utilities,2,Contractual services,280,Buildings and grounds charges,2802,Maintenance - grounds,142002,Envirn. Health- Administration,40,6314,Expense
+100,General Fund,BU740033,88,14,Public Works & Utilities,2,Contractual services,250,Professional services,2599,Other professional services,142002,Envirn. Health- Administration,2,6309,Expense
+100,General Fund,BU740033,89,14,Public Works & Utilities,2,Contractual services,260,Data processing,2600,Data center charges,142002,Envirn. Health- Administration,71.5,6310,Expense
+100,General Fund,BU740033,90,14,Public Works & Utilities,2,Contractual services,260,Data processing,2601,Maintenance - data equipment,142002,Envirn. Health- Administration,1.5,6311,Expense
+100,General Fund,BU740033,91,14,Public Works & Utilities,2,Contractual services,270,Equipment charges,2700,Motor pool - scheduled charges,142002,Envirn. Health- Administration,26.4,6312,Expense
+100,General Fund,BU740033,92,14,Public Works & Utilities,2,Contractual services,270,Equipment charges,2701,Motor pool-unscheduled charges,142002,Envirn. Health- Administration,1,6313,Expense
+100,General Fund,BU740033,93,14,Public Works & Utilities,2,Contractual services,280,Buildings and grounds charges,2802,Maintenance - grounds,142002,Envirn. Health- Administration,40,6314,Expense
 100,General Fund,BU740044,69,17,Park,1,Personnel services,110,Regular salaries,1190,Accrual,173303,Riverside Tennis Center,12.03,6315,Expense
 100,General Fund,BU740044,70,17,Park,1,Personnel services,120,Special salaries,1200,Part time/seasonal,173303,Riverside Tennis Center,279.58,6316,Expense
 100,General Fund,BU740044,71,17,Park,1,Personnel services,120,Special salaries,1232,Commission Pay,173303,Riverside Tennis Center,575.55,6317,Expense
@@ -6387,16 +6387,16 @@ fund,fund_title,cur_doc_no,cur_doc_no_sfx,dept,dept_title,obj_lvl_1,obj_lvl_1_ti
 560,STORMWATER UTILITY FUND,BU740087,36,13,Public Works & Utilities,90,Charges for services and sales,917,Misc utility service charges,9178,Late payment charges,133009,STORM WATER UTILITY REVENUE,410,6386,Revenue
 265,City/County Joint Operations Fund,BU740087,37,13,Public Works & Utilities,80,Intergovernmental,807,Sedgwick County,8071,Operating - joint support,133224,CITY-CTY FLOOD CONTRL,11023.32,6387,Revenue
 245,State Office Building Fund,BU740087,38,13,Public Works & Utilities,98,Other revenue,981,Other revenue,9899,Contingent revenue,135203,State Office Building - was 205203,9500,6388,Revenue
-100,General Fund,BU740087,39,14,Public Works  & Utilities,96,Rental income,960,Facilities and lawn,9611,Rent - Other Land rent/lease ,142002,Envirn. Health- Administration,215.82,6389,Revenue
-100,General Fund,BU740087,40,14,Public Works  & Utilities,90,Charges for services and sales,908,Public health - other,9080,Sewage permits,142016,Water Quality ,50,6390,Revenue
-100,General Fund,BU740087,41,14,Public Works  & Utilities,90,Charges for services and sales,908,Public health - other,9082,New well inspections,142016,Water Quality ,950,6391,Revenue
-100,General Fund,BU740087,42,14,Public Works  & Utilities,90,Charges for services and sales,908,Public health - other,9083,Property inspections,142016,Water Quality ,820,6392,Revenue
-100,General Fund,BU740087,43,14,Public Works  & Utilities,94,Fees ,945,Health,9450,Well sampling/Bacteria,142016,Water Quality ,80,6393,Revenue
-100,General Fund,BU740087,44,14,Public Works  & Utilities,94,Fees ,945,Health,9452,Short notice request loan eval,142016,Water Quality ,40,6394,Revenue
-100,General Fund,BU740087,45,14,Public Works  & Utilities,94,Fees ,945,Health,9458,Water well sampling/nitrates,142016,Water Quality ,44,6395,Revenue
-100,General Fund,BU740087,46,14,Public Works  & Utilities,94,Fees ,945,Health,9459,New well permit,142016,Water Quality ,180,6396,Revenue
-100,General Fund,BU740087,47,14,Public Works  & Utilities,70,Licenses,713,Health - food,7130,City Grocery Licenses,142044,Food,597.55,6397,Revenue
-100,General Fund,BU740087,48,14,Public Works  & Utilities,70,Licenses,713,Health - food,7131,Ice cream vendors license,142044,Food,7.25,6398,Revenue
+100,General Fund,BU740087,39,14,Public Works & Utilities,96,Rental income,960,Facilities and lawn,9611,Rent - Other Land rent/lease ,142002,Envirn. Health- Administration,215.82,6389,Revenue
+100,General Fund,BU740087,40,14,Public Works & Utilities,90,Charges for services and sales,908,Public health - other,9080,Sewage permits,142016,Water Quality ,50,6390,Revenue
+100,General Fund,BU740087,41,14,Public Works & Utilities,90,Charges for services and sales,908,Public health - other,9082,New well inspections,142016,Water Quality ,950,6391,Revenue
+100,General Fund,BU740087,42,14,Public Works & Utilities,90,Charges for services and sales,908,Public health - other,9083,Property inspections,142016,Water Quality ,820,6392,Revenue
+100,General Fund,BU740087,43,14,Public Works & Utilities,94,Fees ,945,Health,9450,Well sampling/Bacteria,142016,Water Quality ,80,6393,Revenue
+100,General Fund,BU740087,44,14,Public Works & Utilities,94,Fees ,945,Health,9452,Short notice request loan eval,142016,Water Quality ,40,6394,Revenue
+100,General Fund,BU740087,45,14,Public Works & Utilities,94,Fees ,945,Health,9458,Water well sampling/nitrates,142016,Water Quality ,44,6395,Revenue
+100,General Fund,BU740087,46,14,Public Works & Utilities,94,Fees ,945,Health,9459,New well permit,142016,Water Quality ,180,6396,Revenue
+100,General Fund,BU740087,47,14,Public Works & Utilities,70,Licenses,713,Health - food,7130,City Grocery Licenses,142044,Food,597.55,6397,Revenue
+100,General Fund,BU740087,48,14,Public Works & Utilities,70,Licenses,713,Health - food,7131,Ice cream vendors license,142044,Food,7.25,6398,Revenue
 515,Golf Course System Fund,BU740055,69,21,Golf Course System,3,Materials and supplies,380,Non-capitalizable equipment < $5000 each,3809,"Plumbing equipment < $5,000 each",210400,Macdonald Golf Course ,50,6399,Expense
 515,Golf Course System Fund,BU740055,70,21,Golf Course System,3,Materials and supplies,380,Non-capitalizable equipment < $5000 each,3815,"Safety equipment < $5,000 each",210400,Macdonald Golf Course ,1,6400,Expense
 515,Golf Course System Fund,BU740055,71,21,Golf Course System,3,Materials and supplies,390,Other commodities,3901,Custodial supplies,210400,Macdonald Golf Course ,5,6401,Expense
@@ -6743,20 +6743,20 @@ fund,fund_title,cur_doc_no,cur_doc_no_sfx,dept,dept_title,obj_lvl_1,obj_lvl_1_ti
 605,Fleet Fund,BU740064,55,13,Public Works & Utilities,2,Contractual services,270,Equipment charges,2706,Towel rental service,130807,Fleet maintenance - I.S.,70,6742,Expense
 605,Fleet Fund,BU740064,56,13,Public Works & Utilities,2,Contractual services,270,Equipment charges,2707,Cylinder rental-compressed gas,130807,Fleet maintenance - I.S.,70,6743,Expense
 605,Fleet Fund,BU740064,57,13,Public Works & Utilities,2,Contractual services,270,Equipment charges,2708,Uniform rental service,130807,Fleet maintenance - I.S.,100,6744,Expense
-255,TIF Districts Fund,BU740009,100,14,Public Works  & Utilities,2,Contractual services,250,Professional services,2514,Laboratory services,148563,Gilbert & Mosley-Harcros/TriState Centra,32.5,6745,Expense
-255,TIF Districts Fund,BU740010,1,14,Public Works  & Utilities,2,Contractual services,250,Professional services,2599,Other professional services,148563,Gilbert & Mosley-Harcros/TriState Centra,50,6746,Expense
-255,TIF Districts Fund,BU740010,2,14,Public Works  & Utilities,2,Contractual services,280,Buildings and grounds charges,2802,Maintenance - grounds,148563,Gilbert & Mosley-Harcros/TriState Centra,15,6747,Expense
-255,TIF Districts Fund,BU740010,3,14,Public Works  & Utilities,3,Materials and supplies,340,Equipment parts,3400,Equipment parts and supplies,148563,Gilbert & Mosley-Harcros/TriState Centra,15,6748,Expense
-255,TIF Districts Fund,BU740010,4,14,Public Works  & Utilities,3,Materials and supplies,350,Materials,3599,Other materials,148563,Gilbert & Mosley-Harcros/TriState Centra,1,6749,Expense
-255,TIF Districts Fund,BU740010,5,14,Public Works  & Utilities,3,Materials and supplies,370,Building parts,3700,Building parts and materials,148563,Gilbert & Mosley-Harcros/TriState Centra,15,6750,Expense
-255,TIF Districts Fund,BU740010,6,14,Public Works  & Utilities,3,Materials and supplies,380,Non-capitalizable equipment < $5000 each,3899,"Other non-capitalized equip <$5,000 each",148563,Gilbert & Mosley-Harcros/TriState Centra,2.5,6751,Expense
-255,TIF Districts Fund,BU740010,7,14,Public Works  & Utilities,2,Contractual services,210,Utilities,2100,Electricity,148566,Gilbert & Mosley-SWE S Washington/Englis,66.85,6752,Expense
-255,TIF Districts Fund,BU740010,8,14,Public Works  & Utilities,2,Contractual services,210,Utilities,2101,Gas-ONEOK Kansas Gas Service,148566,Gilbert & Mosley-SWE S Washington/Englis,18.47,6753,Expense
-255,TIF Districts Fund,BU740010,9,14,Public Works  & Utilities,2,Contractual services,210,Utilities,2104,Water,148566,Gilbert & Mosley-SWE S Washington/Englis,8.28,6754,Expense
-255,TIF Districts Fund,BU740010,10,14,Public Works  & Utilities,2,Contractual services,250,Professional services,2503,Studies/Consultants,148566,Gilbert & Mosley-SWE S Washington/Englis,25,6755,Expense
-255,TIF Districts Fund,BU740010,11,14,Public Works  & Utilities,2,Contractual services,250,Professional services,2599,Other professional services,148566,Gilbert & Mosley-SWE S Washington/Englis,50,6756,Expense
-255,TIF Districts Fund,BU740010,12,14,Public Works  & Utilities,2,Contractual services,280,Buildings and grounds charges,2803,Maintenance - buildings,148566,Gilbert & Mosley-SWE S Washington/Englis,6,6757,Expense
-255,TIF Districts Fund,BU740010,13,14,Public Works  & Utilities,2,Contractual services,220,Communications,2207,Postage - regular,148656,North Industrial Corridor-General Progra,2.5,6758,Expense
+255,TIF Districts Fund,BU740009,100,14,Public Works & Utilities,2,Contractual services,250,Professional services,2514,Laboratory services,148563,Gilbert & Mosley-Harcros/TriState Centra,32.5,6745,Expense
+255,TIF Districts Fund,BU740010,1,14,Public Works & Utilities,2,Contractual services,250,Professional services,2599,Other professional services,148563,Gilbert & Mosley-Harcros/TriState Centra,50,6746,Expense
+255,TIF Districts Fund,BU740010,2,14,Public Works & Utilities,2,Contractual services,280,Buildings and grounds charges,2802,Maintenance - grounds,148563,Gilbert & Mosley-Harcros/TriState Centra,15,6747,Expense
+255,TIF Districts Fund,BU740010,3,14,Public Works & Utilities,3,Materials and supplies,340,Equipment parts,3400,Equipment parts and supplies,148563,Gilbert & Mosley-Harcros/TriState Centra,15,6748,Expense
+255,TIF Districts Fund,BU740010,4,14,Public Works & Utilities,3,Materials and supplies,350,Materials,3599,Other materials,148563,Gilbert & Mosley-Harcros/TriState Centra,1,6749,Expense
+255,TIF Districts Fund,BU740010,5,14,Public Works & Utilities,3,Materials and supplies,370,Building parts,3700,Building parts and materials,148563,Gilbert & Mosley-Harcros/TriState Centra,15,6750,Expense
+255,TIF Districts Fund,BU740010,6,14,Public Works & Utilities,3,Materials and supplies,380,Non-capitalizable equipment < $5000 each,3899,"Other non-capitalized equip <$5,000 each",148563,Gilbert & Mosley-Harcros/TriState Centra,2.5,6751,Expense
+255,TIF Districts Fund,BU740010,7,14,Public Works & Utilities,2,Contractual services,210,Utilities,2100,Electricity,148566,Gilbert & Mosley-SWE S Washington/Englis,66.85,6752,Expense
+255,TIF Districts Fund,BU740010,8,14,Public Works & Utilities,2,Contractual services,210,Utilities,2101,Gas-ONEOK Kansas Gas Service,148566,Gilbert & Mosley-SWE S Washington/Englis,18.47,6753,Expense
+255,TIF Districts Fund,BU740010,9,14,Public Works & Utilities,2,Contractual services,210,Utilities,2104,Water,148566,Gilbert & Mosley-SWE S Washington/Englis,8.28,6754,Expense
+255,TIF Districts Fund,BU740010,10,14,Public Works & Utilities,2,Contractual services,250,Professional services,2503,Studies/Consultants,148566,Gilbert & Mosley-SWE S Washington/Englis,25,6755,Expense
+255,TIF Districts Fund,BU740010,11,14,Public Works & Utilities,2,Contractual services,250,Professional services,2599,Other professional services,148566,Gilbert & Mosley-SWE S Washington/Englis,50,6756,Expense
+255,TIF Districts Fund,BU740010,12,14,Public Works & Utilities,2,Contractual services,280,Buildings and grounds charges,2803,Maintenance - buildings,148566,Gilbert & Mosley-SWE S Washington/Englis,6,6757,Expense
+255,TIF Districts Fund,BU740010,13,14,Public Works & Utilities,2,Contractual services,220,Communications,2207,Postage - regular,148656,North Industrial Corridor-General Progra,2.5,6758,Expense
 100,General Fund,BU740010,14,17,Park,2,Contractual services,210,Utilities,2104,Water,172101,Park Maintenance Administration,36.56,6759,Expense
 100,General Fund,BU740010,15,17,Park,2,Contractual services,220,Communications,2200,PBX - line charges,172101,Park Maintenance Administration,4.56,6760,Expense
 100,General Fund,BU740010,16,17,Park,2,Contractual services,220,Communications,2201,PBX - instrument charges,172101,Park Maintenance Administration,6.9,6761,Expense
@@ -6901,7 +6901,7 @@ fund,fund_title,cur_doc_no,cur_doc_no_sfx,dept,dept_title,obj_lvl_1,obj_lvl_1_ti
 100,General Fund,BU740004,7,13,Public Works & Utilities,1,Personnel services,110,Regular salaries,1190,Accrual,132001,Engineering - Gas Tax,83.59,6900,Expense
 100,General Fund,BU740004,8,13,Public Works & Utilities,1,Personnel services,110,Regular salaries,1199,Other,132001,Engineering - Gas Tax,20119.67,6901,Expense
 100,General Fund,BU740004,9,13,Public Works & Utilities,2,Contractual services,290,Other contractuals,2917,Printing and copying,132217,Traffic Control Maintenance,15,6902,Expense
-100,General Fund,BU740004,10,14,Public Works  & Utilities,1,Personnel services,120,Special salaries,1208,Cellular phone allowance,142016,Water Quality ,12,6903,Expense
+100,General Fund,BU740004,10,14,Public Works & Utilities,1,Personnel services,120,Special salaries,1208,Cellular phone allowance,142016,Water Quality ,12,6903,Expense
 520,Transit Fund,BU740004,11,16,Transit,2,Contractual services,220,Communications,2201,PBX - instrument charges,160010,Vehicle Operations,9.6,6904,Expense
 100,General Fund,BU740004,12,17,Park,3,Materials and supplies,310,Office supplies,3199,Other office supplies,172209,Park Projects/Construction,0.5,6905,Expense
 100,General Fund,BU740004,13,17,Park,1,Personnel services,140,Employee benefits,1405,Group health insurance,173303,Riverside Tennis Center,106.06,6906,Expense
@@ -7400,23 +7400,23 @@ fund,fund_title,cur_doc_no,cur_doc_no_sfx,dept,dept_title,obj_lvl_1,obj_lvl_1_ti
 100,General Fund,BU740075,96,13,Public Works & Utilities,3,Materials and supplies,340,Equipment parts,3406,Safety/security equipment,132233,Street Cleaning,6.5,7399,Expense
 100,General Fund,BU740075,97,13,Public Works & Utilities,3,Materials and supplies,340,Equipment parts,3407,Road/highway/traffic equipment,132233,Street Cleaning,3,7400,Expense
 100,General Fund,BU740075,98,13,Public Works & Utilities,3,Materials and supplies,340,Equipment parts,3499,Other equipment parts,132233,Street Cleaning,175,7401,Expense
-100,General Fund,BU740075,99,14,Public Works  & Utilities,1,Personnel services,110,Regular salaries,1199,Other,143083,Child Care Licensing,382.99,7402,Expense
-100,General Fund,BU740075,100,14,Public Works  & Utilities,1,Personnel services,120,Special salaries,1208,Cellular phone allowance,143083,Child Care Licensing,12,7403,Expense
-100,General Fund,BU740076,1,14,Public Works  & Utilities,1,Personnel services,140,Employee benefits,1400,FICA,143083,Child Care Licensing,99.3,7404,Expense
-100,General Fund,BU740076,2,14,Public Works  & Utilities,1,Personnel services,140,Employee benefits,1401,Employee pension,143083,Child Care Licensing,159.65,7405,Expense
-100,General Fund,BU740076,3,14,Public Works  & Utilities,1,Personnel services,140,Employee benefits,1403,Workers compensation,143083,Child Care Licensing,30.89,7406,Expense
-100,General Fund,BU740076,4,14,Public Works  & Utilities,1,Personnel services,140,Employee benefits,1404,Unemployment compensation,143083,Child Care Licensing,2.6,7407,Expense
-100,General Fund,BU740076,5,14,Public Works  & Utilities,1,Personnel services,140,Employee benefits,1405,Group health insurance,143083,Child Care Licensing,209.09,7408,Expense
-100,General Fund,BU740076,6,14,Public Works  & Utilities,1,Personnel services,140,Employee benefits,1406,Group life insurance,143083,Child Care Licensing,5.12,7409,Expense
-100,General Fund,BU740076,7,14,Public Works  & Utilities,2,Contractual services,220,Communications,2203,Long distance service,143083,Child Care Licensing,0.5,7410,Expense
-100,General Fund,BU740076,8,14,Public Works  & Utilities,2,Contractual services,240,Insurance,2401,Vehicle liability,143083,Child Care Licensing,23.9,7411,Expense
-100,General Fund,BU740076,9,14,Public Works  & Utilities,2,Contractual services,270,Equipment charges,2700,Motor pool - scheduled charges,143083,Child Care Licensing,136.8,7412,Expense
-100,General Fund,BU740076,10,14,Public Works  & Utilities,3,Materials and supplies,340,Equipment parts,3405,Fuel,143083,Child Care Licensing,18.44,7413,Expense
-255,TIF Districts Fund,BU740076,11,14,Public Works  & Utilities,2,Contractual services,220,Communications,2207,Postage - regular,148557,Gilbert & Mosley-General Program Costs,1.5,7414,Expense
-255,TIF Districts Fund,BU740076,12,14,Public Works  & Utilities,2,Contractual services,220,Communications,2211,Express mail,148557,Gilbert & Mosley-General Program Costs,1.5,7415,Expense
-255,TIF Districts Fund,BU740076,13,14,Public Works  & Utilities,2,Contractual services,220,Communications,2215,Plexar,148557,Gilbert & Mosley-General Program Costs,3.72,7416,Expense
-255,TIF Districts Fund,BU740076,14,14,Public Works  & Utilities,2,Contractual services,250,Professional services,2503,Studies/Consultants,148557,Gilbert & Mosley-General Program Costs,6000,7417,Expense
-255,TIF Districts Fund,BU740076,15,14,Public Works  & Utilities,2,Contractual services,250,Professional services,2504,Engineering,148557,Gilbert & Mosley-General Program Costs,100,7418,Expense
+100,General Fund,BU740075,99,14,Public Works & Utilities,1,Personnel services,110,Regular salaries,1199,Other,143083,Child Care Licensing,382.99,7402,Expense
+100,General Fund,BU740075,100,14,Public Works & Utilities,1,Personnel services,120,Special salaries,1208,Cellular phone allowance,143083,Child Care Licensing,12,7403,Expense
+100,General Fund,BU740076,1,14,Public Works & Utilities,1,Personnel services,140,Employee benefits,1400,FICA,143083,Child Care Licensing,99.3,7404,Expense
+100,General Fund,BU740076,2,14,Public Works & Utilities,1,Personnel services,140,Employee benefits,1401,Employee pension,143083,Child Care Licensing,159.65,7405,Expense
+100,General Fund,BU740076,3,14,Public Works & Utilities,1,Personnel services,140,Employee benefits,1403,Workers compensation,143083,Child Care Licensing,30.89,7406,Expense
+100,General Fund,BU740076,4,14,Public Works & Utilities,1,Personnel services,140,Employee benefits,1404,Unemployment compensation,143083,Child Care Licensing,2.6,7407,Expense
+100,General Fund,BU740076,5,14,Public Works & Utilities,1,Personnel services,140,Employee benefits,1405,Group health insurance,143083,Child Care Licensing,209.09,7408,Expense
+100,General Fund,BU740076,6,14,Public Works & Utilities,1,Personnel services,140,Employee benefits,1406,Group life insurance,143083,Child Care Licensing,5.12,7409,Expense
+100,General Fund,BU740076,7,14,Public Works & Utilities,2,Contractual services,220,Communications,2203,Long distance service,143083,Child Care Licensing,0.5,7410,Expense
+100,General Fund,BU740076,8,14,Public Works & Utilities,2,Contractual services,240,Insurance,2401,Vehicle liability,143083,Child Care Licensing,23.9,7411,Expense
+100,General Fund,BU740076,9,14,Public Works & Utilities,2,Contractual services,270,Equipment charges,2700,Motor pool - scheduled charges,143083,Child Care Licensing,136.8,7412,Expense
+100,General Fund,BU740076,10,14,Public Works & Utilities,3,Materials and supplies,340,Equipment parts,3405,Fuel,143083,Child Care Licensing,18.44,7413,Expense
+255,TIF Districts Fund,BU740076,11,14,Public Works & Utilities,2,Contractual services,220,Communications,2207,Postage - regular,148557,Gilbert & Mosley-General Program Costs,1.5,7414,Expense
+255,TIF Districts Fund,BU740076,12,14,Public Works & Utilities,2,Contractual services,220,Communications,2211,Express mail,148557,Gilbert & Mosley-General Program Costs,1.5,7415,Expense
+255,TIF Districts Fund,BU740076,13,14,Public Works & Utilities,2,Contractual services,220,Communications,2215,Plexar,148557,Gilbert & Mosley-General Program Costs,3.72,7416,Expense
+255,TIF Districts Fund,BU740076,14,14,Public Works & Utilities,2,Contractual services,250,Professional services,2503,Studies/Consultants,148557,Gilbert & Mosley-General Program Costs,6000,7417,Expense
+255,TIF Districts Fund,BU740076,15,14,Public Works & Utilities,2,Contractual services,250,Professional services,2504,Engineering,148557,Gilbert & Mosley-General Program Costs,100,7418,Expense
 100,General Fund,BU740004,23,17,Park,3,Materials and supplies,390,Other commodities,3901,Custodial supplies,173410,Minisa Pool,0.53,7419,Expense
 100,General Fund,BU740004,24,17,Park,3,Materials and supplies,390,Other commodities,3902,Medical supplies,173410,Minisa Pool,0.53,7420,Expense
 100,General Fund,BU740004,25,17,Park,3,Materials and supplies,390,Other commodities,3999,Other commodities,173410,Minisa Pool,5.33,7421,Expense
@@ -7457,7 +7457,7 @@ fund,fund_title,cur_doc_no,cur_doc_no_sfx,dept,dept_title,obj_lvl_1,obj_lvl_1_ti
 100,General Fund,BU740015,81,13,Public Works & Utilities,2,Contractual services,280,Buildings and grounds charges,2803,Maintenance - buildings,130583,Building Services-Health,50,7456,Expense
 230,Landfill Fund,BU740015,82,13,Public Works & Utilities,5,Other expenditures,530,Other non-operating expenditures,5333,Miscellaneous and sundry,131376,Construction and Demolition Landfill,13750,7457,Expense
 560,STORMWATER UTILITY FUND,BU740015,83,13,Public Works & Utilities,2,Contractual services,270,Equipment charges,2705,Outside services,133116,STORM WATER UTILITY,60,7458,Expense
-255,TIF Districts Fund,BU740015,84,14,Public Works  & Utilities,2,Contractual services,220,Communications,2211,Express mail,148656,North Industrial Corridor-General Progra,2.5,7459,Expense
+255,TIF Districts Fund,BU740015,84,14,Public Works & Utilities,2,Contractual services,220,Communications,2211,Express mail,148656,North Industrial Corridor-General Progra,2.5,7459,Expense
 540,WATER UTILITY FUND,BU740076,34,18,Public Works & Utilities,2,Contractual services,250,Professional services,2599,Other professional services,188201,SERVICE & METER SETS - CUSTOMER PAID,4900,7460,Expense
 540,WATER UTILITY FUND,BU740076,35,18,Public Works & Utilities,2,Contractual services,270,Equipment charges,2700,Motor pool - scheduled charges,188201,SERVICE & METER SETS - CUSTOMER PAID,1000,7461,Expense
 540,WATER UTILITY FUND,BU740076,36,18,Public Works & Utilities,2,Contractual services,290,Other contractuals,2919,Dirt and pavement cuts,188201,SERVICE & METER SETS - CUSTOMER PAID,620,7462,Expense
@@ -7517,19 +7517,19 @@ fund,fund_title,cur_doc_no,cur_doc_no_sfx,dept,dept_title,obj_lvl_1,obj_lvl_1_ti
 540,WATER UTILITY FUND,BU740004,64,18,Public Works & Utilities,3,Materials and supplies,310,Office supplies,3103,Office supplies,183012,SYSTEM PLANNING,10,7516,Expense
 540,WATER UTILITY FUND,BU740004,65,18,Public Works & Utilities,3,Materials and supplies,340,Equipment parts,3405,Fuel,183012,SYSTEM PLANNING,160.01,7517,Expense
 540,WATER UTILITY FUND,BU740004,66,18,Public Works & Utilities,3,Materials and supplies,340,Equipment parts,3499,Other equipment parts,183012,SYSTEM PLANNING,4,7518,Expense
-100,General Fund,BU740004,67,14,Public Works  & Utilities,2,Contractual services,220,Communications,2201,PBX - instrument charges,142044,Food,6,7519,Expense
-100,General Fund,BU740004,68,14,Public Works  & Utilities,2,Contractual services,220,Communications,2203,Long distance service,142044,Food,2,7520,Expense
-100,General Fund,BU740004,69,14,Public Works  & Utilities,2,Contractual services,220,Communications,2207,Postage - regular,142044,Food,3,7521,Expense
-100,General Fund,BU740004,70,14,Public Works  & Utilities,2,Contractual services,220,Communications,2214,Air cards - mobile,142044,Food,4.2,7522,Expense
-100,General Fund,BU740004,71,14,Public Works  & Utilities,2,Contractual services,220,Communications,2216,Voice mail,142044,Food,1.68,7523,Expense
-100,General Fund,BU740004,72,14,Public Works  & Utilities,2,Contractual services,230,Transportation and training,2301,Meals and lodging allowance,142044,Food,7.5,7524,Expense
-100,General Fund,BU740004,73,14,Public Works  & Utilities,2,Contractual services,230,Transportation and training,2302,Out of town registration fees,142044,Food,2.5,7525,Expense
-100,General Fund,BU740004,74,14,Public Works  & Utilities,2,Contractual services,230,Transportation and training,2303,In town registration fees,142044,Food,2.5,7526,Expense
-100,General Fund,BU740004,75,14,Public Works  & Utilities,2,Contractual services,230,Transportation and training,2399,Other training/transportation,142044,Food,2,7527,Expense
-100,General Fund,BU740004,76,14,Public Works  & Utilities,2,Contractual services,240,Insurance,2401,Vehicle liability,142044,Food,28.7,7528,Expense
-100,General Fund,BU740004,77,14,Public Works  & Utilities,2,Contractual services,250,Professional services,2599,Other professional services,142044,Food,1,7529,Expense
-100,General Fund,BU740004,78,14,Public Works  & Utilities,2,Contractual services,260,Data processing,2600,Data center charges,142044,Food,80.48,7530,Expense
-100,General Fund,BU740004,79,14,Public Works  & Utilities,2,Contractual services,260,Data processing,2601,Maintenance - data equipment,142044,Food,8,7531,Expense
+100,General Fund,BU740004,67,14,Public Works & Utilities,2,Contractual services,220,Communications,2201,PBX - instrument charges,142044,Food,6,7519,Expense
+100,General Fund,BU740004,68,14,Public Works & Utilities,2,Contractual services,220,Communications,2203,Long distance service,142044,Food,2,7520,Expense
+100,General Fund,BU740004,69,14,Public Works & Utilities,2,Contractual services,220,Communications,2207,Postage - regular,142044,Food,3,7521,Expense
+100,General Fund,BU740004,70,14,Public Works & Utilities,2,Contractual services,220,Communications,2214,Air cards - mobile,142044,Food,4.2,7522,Expense
+100,General Fund,BU740004,71,14,Public Works & Utilities,2,Contractual services,220,Communications,2216,Voice mail,142044,Food,1.68,7523,Expense
+100,General Fund,BU740004,72,14,Public Works & Utilities,2,Contractual services,230,Transportation and training,2301,Meals and lodging allowance,142044,Food,7.5,7524,Expense
+100,General Fund,BU740004,73,14,Public Works & Utilities,2,Contractual services,230,Transportation and training,2302,Out of town registration fees,142044,Food,2.5,7525,Expense
+100,General Fund,BU740004,74,14,Public Works & Utilities,2,Contractual services,230,Transportation and training,2303,In town registration fees,142044,Food,2.5,7526,Expense
+100,General Fund,BU740004,75,14,Public Works & Utilities,2,Contractual services,230,Transportation and training,2399,Other training/transportation,142044,Food,2,7527,Expense
+100,General Fund,BU740004,76,14,Public Works & Utilities,2,Contractual services,240,Insurance,2401,Vehicle liability,142044,Food,28.7,7528,Expense
+100,General Fund,BU740004,77,14,Public Works & Utilities,2,Contractual services,250,Professional services,2599,Other professional services,142044,Food,1,7529,Expense
+100,General Fund,BU740004,78,14,Public Works & Utilities,2,Contractual services,260,Data processing,2600,Data center charges,142044,Food,80.48,7530,Expense
+100,General Fund,BU740004,79,14,Public Works & Utilities,2,Contractual services,260,Data processing,2601,Maintenance - data equipment,142044,Food,8,7531,Expense
 100,General Fund,BU740016,1,17,Park,1,Personnel services,150,Other personnel services,1500,Planned savings,172103,Athletics Maintenance,1421.92,7532,Expense
 100,General Fund,BU740016,2,17,Park,2,Contractual services,210,Utilities,2100,Electricity,172103,Athletics Maintenance,1069.4,7533,Expense
 100,General Fund,BU740016,3,17,Park,2,Contractual services,210,Utilities,2104,Water,172103,Athletics Maintenance,1355.94,7534,Expense
@@ -7690,23 +7690,23 @@ fund,fund_title,cur_doc_no,cur_doc_no_sfx,dept,dept_title,obj_lvl_1,obj_lvl_1_ti
 265,City/County Joint Operations Fund,BU740028,7,13,Public Works & Utilities,1,Personnel services,110,Regular salaries,1100,Bi-weekly wages,133224,CITY-CTY FLOOD CONTRL,7851.84,7689,Expense
 265,City/County Joint Operations Fund,BU740028,8,13,Public Works & Utilities,1,Personnel services,110,Regular salaries,1101,Longevity,133224,CITY-CTY FLOOD CONTRL,182.28,7690,Expense
 100,General Fund,BU740038,60,13,Public Works & Utilities,2,Contractual services,270,Equipment charges,2708,Uniform rental service,132225,Street Maintenance,50,7691,Expense
-100,General Fund,BU740038,61,14,Public Works  & Utilities,1,Personnel services,140,Employee benefits,1400,FICA,142016,Water Quality ,81.84,7692,Expense
-100,General Fund,BU740038,62,14,Public Works  & Utilities,1,Personnel services,140,Employee benefits,1401,Employee pension,142016,Water Quality ,131.58,7693,Expense
-100,General Fund,BU740038,63,14,Public Works  & Utilities,1,Personnel services,140,Employee benefits,1403,Workers compensation,142016,Water Quality ,28.79,7694,Expense
-100,General Fund,BU740038,64,14,Public Works  & Utilities,1,Personnel services,140,Employee benefits,1404,Unemployment compensation,142016,Water Quality ,2.14,7695,Expense
-100,General Fund,BU740038,65,14,Public Works  & Utilities,1,Personnel services,140,Employee benefits,1405,Group health insurance,142016,Water Quality ,108.59,7696,Expense
-100,General Fund,BU740038,66,14,Public Works  & Utilities,1,Personnel services,140,Employee benefits,1406,Group life insurance,142016,Water Quality ,4.22,7697,Expense
-100,General Fund,BU740038,67,14,Public Works  & Utilities,2,Contractual services,220,Communications,2200,PBX - line charges,142016,Water Quality ,2.28,7698,Expense
-100,General Fund,BU740038,68,14,Public Works  & Utilities,2,Contractual services,220,Communications,2201,PBX - instrument charges,142016,Water Quality ,3,7699,Expense
-100,General Fund,BU740038,69,14,Public Works  & Utilities,2,Contractual services,220,Communications,2203,Long distance service,142016,Water Quality ,1,7700,Expense
-100,General Fund,BU740038,70,14,Public Works  & Utilities,2,Contractual services,220,Communications,2207,Postage - regular,142016,Water Quality ,10,7701,Expense
-100,General Fund,BU740038,71,14,Public Works  & Utilities,2,Contractual services,220,Communications,2214,Air cards - mobile,142016,Water Quality ,8.4,7702,Expense
-100,General Fund,BU740038,72,14,Public Works  & Utilities,2,Contractual services,220,Communications,2216,Voice mail,142016,Water Quality ,1.68,7703,Expense
-100,General Fund,BU740038,73,14,Public Works  & Utilities,2,Contractual services,230,Transportation and training,2301,Meals and lodging allowance,142016,Water Quality ,2.5,7704,Expense
-100,General Fund,BU740038,74,14,Public Works  & Utilities,2,Contractual services,230,Transportation and training,2302,Out of town registration fees,142016,Water Quality ,2.5,7705,Expense
-100,General Fund,BU740038,75,14,Public Works  & Utilities,2,Contractual services,230,Transportation and training,2303,In town registration fees,142016,Water Quality ,1,7706,Expense
-100,General Fund,BU740038,76,14,Public Works  & Utilities,2,Contractual services,240,Insurance,2401,Vehicle liability,142016,Water Quality ,14.4,7707,Expense
-100,General Fund,BU740038,77,14,Public Works  & Utilities,2,Contractual services,250,Professional services,2502,Medical and laboratory services,142016,Water Quality ,5,7708,Expense
+100,General Fund,BU740038,61,14,Public Works & Utilities,1,Personnel services,140,Employee benefits,1400,FICA,142016,Water Quality ,81.84,7692,Expense
+100,General Fund,BU740038,62,14,Public Works & Utilities,1,Personnel services,140,Employee benefits,1401,Employee pension,142016,Water Quality ,131.58,7693,Expense
+100,General Fund,BU740038,63,14,Public Works & Utilities,1,Personnel services,140,Employee benefits,1403,Workers compensation,142016,Water Quality ,28.79,7694,Expense
+100,General Fund,BU740038,64,14,Public Works & Utilities,1,Personnel services,140,Employee benefits,1404,Unemployment compensation,142016,Water Quality ,2.14,7695,Expense
+100,General Fund,BU740038,65,14,Public Works & Utilities,1,Personnel services,140,Employee benefits,1405,Group health insurance,142016,Water Quality ,108.59,7696,Expense
+100,General Fund,BU740038,66,14,Public Works & Utilities,1,Personnel services,140,Employee benefits,1406,Group life insurance,142016,Water Quality ,4.22,7697,Expense
+100,General Fund,BU740038,67,14,Public Works & Utilities,2,Contractual services,220,Communications,2200,PBX - line charges,142016,Water Quality ,2.28,7698,Expense
+100,General Fund,BU740038,68,14,Public Works & Utilities,2,Contractual services,220,Communications,2201,PBX - instrument charges,142016,Water Quality ,3,7699,Expense
+100,General Fund,BU740038,69,14,Public Works & Utilities,2,Contractual services,220,Communications,2203,Long distance service,142016,Water Quality ,1,7700,Expense
+100,General Fund,BU740038,70,14,Public Works & Utilities,2,Contractual services,220,Communications,2207,Postage - regular,142016,Water Quality ,10,7701,Expense
+100,General Fund,BU740038,71,14,Public Works & Utilities,2,Contractual services,220,Communications,2214,Air cards - mobile,142016,Water Quality ,8.4,7702,Expense
+100,General Fund,BU740038,72,14,Public Works & Utilities,2,Contractual services,220,Communications,2216,Voice mail,142016,Water Quality ,1.68,7703,Expense
+100,General Fund,BU740038,73,14,Public Works & Utilities,2,Contractual services,230,Transportation and training,2301,Meals and lodging allowance,142016,Water Quality ,2.5,7704,Expense
+100,General Fund,BU740038,74,14,Public Works & Utilities,2,Contractual services,230,Transportation and training,2302,Out of town registration fees,142016,Water Quality ,2.5,7705,Expense
+100,General Fund,BU740038,75,14,Public Works & Utilities,2,Contractual services,230,Transportation and training,2303,In town registration fees,142016,Water Quality ,1,7706,Expense
+100,General Fund,BU740038,76,14,Public Works & Utilities,2,Contractual services,240,Insurance,2401,Vehicle liability,142016,Water Quality ,14.4,7707,Expense
+100,General Fund,BU740038,77,14,Public Works & Utilities,2,Contractual services,250,Professional services,2502,Medical and laboratory services,142016,Water Quality ,5,7708,Expense
 100,General Fund,BU740038,78,11,CMO - Cultural Arts Division,3,Materials and supplies,380,Non-capitalizable equipment < $5000 each,3899,"Other non-capitalized equip <$5,000 each",112000,Century II,100,7709,Expense
 100,General Fund,BU740038,79,11,CMO - Cultural Arts Division,3,Materials and supplies,390,Other commodities,3901,Custodial supplies,112000,Century II,350,7710,Expense
 100,General Fund,BU740038,80,11,CMO - Cultural Arts Division,3,Materials and supplies,390,Other commodities,3902,Medical supplies,112000,Century II,5,7711,Expense
@@ -7788,17 +7788,17 @@ fund,fund_title,cur_doc_no,cur_doc_no_sfx,dept,dept_title,obj_lvl_1,obj_lvl_1_ti
 100,General Fund,BU740016,70,13,Public Works & Utilities,1,Personnel services,140,Employee benefits,1404,Unemployment compensation,132225,Street Maintenance,60.82,7787,Expense
 100,General Fund,BU740016,71,13,Public Works & Utilities,1,Personnel services,140,Employee benefits,1405,Group health insurance,132225,Street Maintenance,9191.91,7788,Expense
 100,General Fund,BU740016,72,13,Public Works & Utilities,1,Personnel services,140,Employee benefits,1406,Group life insurance,132225,Street Maintenance,120.18,7789,Expense
-100,General Fund,BU740016,73,14,Public Works  & Utilities,1,Personnel services,140,Employee benefits,1403,Workers compensation,142122,Environmental Assmnt and Remedtn ,78.21,7790,Expense
-100,General Fund,BU740016,74,14,Public Works  & Utilities,1,Personnel services,140,Employee benefits,1404,Unemployment compensation,142122,Environmental Assmnt and Remedtn ,6.57,7791,Expense
-100,General Fund,BU740016,75,14,Public Works  & Utilities,1,Personnel services,140,Employee benefits,1405,Group health insurance,142122,Environmental Assmnt and Remedtn ,804.67,7792,Expense
-100,General Fund,BU740016,76,14,Public Works  & Utilities,1,Personnel services,140,Employee benefits,1406,Group life insurance,142122,Environmental Assmnt and Remedtn ,13.03,7793,Expense
-100,General Fund,BU740016,77,14,Public Works  & Utilities,2,Contractual services,220,Communications,2200,PBX - line charges,142122,Environmental Assmnt and Remedtn ,5.7,7794,Expense
-100,General Fund,BU740016,78,14,Public Works  & Utilities,2,Contractual services,220,Communications,2201,PBX - instrument charges,142122,Environmental Assmnt and Remedtn ,11.7,7795,Expense
-100,General Fund,BU740016,79,14,Public Works  & Utilities,2,Contractual services,220,Communications,2203,Long distance service,142122,Environmental Assmnt and Remedtn ,1.5,7796,Expense
-100,General Fund,BU740016,80,14,Public Works  & Utilities,2,Contractual services,220,Communications,2207,Postage - regular,142122,Environmental Assmnt and Remedtn ,0.25,7797,Expense
-100,General Fund,BU740016,81,14,Public Works  & Utilities,2,Contractual services,220,Communications,2211,Express mail,142122,Environmental Assmnt and Remedtn ,0.15,7798,Expense
-100,General Fund,BU740016,82,14,Public Works  & Utilities,2,Contractual services,220,Communications,2216,Voice mail,142122,Environmental Assmnt and Remedtn ,3.36,7799,Expense
-100,General Fund,BU740016,83,14,Public Works  & Utilities,2,Contractual services,230,Transportation and training,2301,Meals and lodging allowance,142122,Environmental Assmnt and Remedtn ,6,7800,Expense
+100,General Fund,BU740016,73,14,Public Works & Utilities,1,Personnel services,140,Employee benefits,1403,Workers compensation,142122,Environmental Assmnt and Remedtn ,78.21,7790,Expense
+100,General Fund,BU740016,74,14,Public Works & Utilities,1,Personnel services,140,Employee benefits,1404,Unemployment compensation,142122,Environmental Assmnt and Remedtn ,6.57,7791,Expense
+100,General Fund,BU740016,75,14,Public Works & Utilities,1,Personnel services,140,Employee benefits,1405,Group health insurance,142122,Environmental Assmnt and Remedtn ,804.67,7792,Expense
+100,General Fund,BU740016,76,14,Public Works & Utilities,1,Personnel services,140,Employee benefits,1406,Group life insurance,142122,Environmental Assmnt and Remedtn ,13.03,7793,Expense
+100,General Fund,BU740016,77,14,Public Works & Utilities,2,Contractual services,220,Communications,2200,PBX - line charges,142122,Environmental Assmnt and Remedtn ,5.7,7794,Expense
+100,General Fund,BU740016,78,14,Public Works & Utilities,2,Contractual services,220,Communications,2201,PBX - instrument charges,142122,Environmental Assmnt and Remedtn ,11.7,7795,Expense
+100,General Fund,BU740016,79,14,Public Works & Utilities,2,Contractual services,220,Communications,2203,Long distance service,142122,Environmental Assmnt and Remedtn ,1.5,7796,Expense
+100,General Fund,BU740016,80,14,Public Works & Utilities,2,Contractual services,220,Communications,2207,Postage - regular,142122,Environmental Assmnt and Remedtn ,0.25,7797,Expense
+100,General Fund,BU740016,81,14,Public Works & Utilities,2,Contractual services,220,Communications,2211,Express mail,142122,Environmental Assmnt and Remedtn ,0.15,7798,Expense
+100,General Fund,BU740016,82,14,Public Works & Utilities,2,Contractual services,220,Communications,2216,Voice mail,142122,Environmental Assmnt and Remedtn ,3.36,7799,Expense
+100,General Fund,BU740016,83,14,Public Works & Utilities,2,Contractual services,230,Transportation and training,2301,Meals and lodging allowance,142122,Environmental Assmnt and Remedtn ,6,7800,Expense
 100,General Fund,BU740039,3,11,CMO - Cultural Arts Division,2,Contractual services,290,Other contractuals,2906,Membership dues,112001,Century II - Ticketing System,5,7801,Expense
 100,General Fund,BU740039,4,11,CMO - Cultural Arts Division,2,Contractual services,290,Other contractuals,2917,Printing and copying,112001,Century II - Ticketing System,15,7802,Expense
 100,General Fund,BU740039,5,11,CMO - Cultural Arts Division,3,Materials and supplies,310,Office supplies,3101,Computer/printer supplies,112001,Century II - Ticketing System,25,7803,Expense
@@ -8329,7 +8329,7 @@ fund,fund_title,cur_doc_no,cur_doc_no_sfx,dept,dept_title,obj_lvl_1,obj_lvl_1_ti
 100,General Fund,BU740017,89,13,Public Works & Utilities,2,Contractual services,280,Buildings and grounds charges,2803,Maintenance - buildings,130526,Art Museum,225,8328,Expense
 605,Fleet Fund,BU740017,90,13,Public Works & Utilities,1,Personnel services,110,Regular salaries,1100,Bi-weekly wages,130809,Fleet Fuel Mgmt System -  I.S.,557.01,8329,Expense
 100,General Fund,BU740017,91,13,Public Works & Utilities,2,Contractual services,280,Buildings and grounds charges,2803,Maintenance - buildings,132225,Street Maintenance,3.5,8330,Expense
-100,General Fund,BU740017,92,14,Public Works  & Utilities,1,Personnel services,110,Regular salaries,1190,Accrual,143083,Child Care Licensing,6.7,8331,Expense
+100,General Fund,BU740017,92,14,Public Works & Utilities,1,Personnel services,110,Regular salaries,1190,Accrual,143083,Child Care Licensing,6.7,8331,Expense
 100,General Fund,BU740017,93,17,Park,3,Materials and supplies,340,Equipment parts,3400,Equipment parts and supplies,173304,Watson Park,1,8332,Expense
 100,General Fund,BU740017,94,17,Park,3,Materials and supplies,340,Equipment parts,3405,Fuel,173304,Watson Park,26.21,8333,Expense
 100,General Fund,BU740017,95,17,Park,3,Materials and supplies,340,Equipment parts,3499,Other equipment parts,173304,Watson Park,20,8334,Expense
@@ -8507,21 +8507,21 @@ fund,fund_title,cur_doc_no,cur_doc_no_sfx,dept,dept_title,obj_lvl_1,obj_lvl_1_ti
 540,WATER UTILITY FUND,BU740068,94,18,Public Works & Utilities,2,Contractual services,220,Communications,2211,Express mail,183509,CHENEY RESERVOIR,2.75,8506,Expense
 540,WATER UTILITY FUND,BU740068,95,18,Public Works & Utilities,2,Contractual services,250,Professional services,2502,Medical and laboratory services,183509,CHENEY RESERVOIR,2,8507,Expense
 540,WATER UTILITY FUND,BU740068,96,18,Public Works & Utilities,2,Contractual services,250,Professional services,2511,Architecture,183509,CHENEY RESERVOIR,195,8508,Expense
-255,TIF Districts Fund,BU740076,17,14,Public Works  & Utilities,2,Contractual services,250,Professional services,2506,Legal services,148557,Gilbert & Mosley-General Program Costs,250,8509,Expense
-255,TIF Districts Fund,BU740076,18,14,Public Works  & Utilities,2,Contractual services,250,Professional services,2507,Audits,148557,Gilbert & Mosley-General Program Costs,8,8510,Expense
-255,TIF Districts Fund,BU740076,19,14,Public Works  & Utilities,2,Contractual services,250,Professional services,2514,Laboratory services,148557,Gilbert & Mosley-General Program Costs,279.5,8511,Expense
-255,TIF Districts Fund,BU740076,20,14,Public Works  & Utilities,2,Contractual services,250,Professional services,2599,Other professional services,148557,Gilbert & Mosley-General Program Costs,3500,8512,Expense
-255,TIF Districts Fund,BU740076,21,14,Public Works  & Utilities,2,Contractual services,270,Equipment charges,2700,Motor pool - scheduled charges,148557,Gilbert & Mosley-General Program Costs,30,8513,Expense
-255,TIF Districts Fund,BU740076,22,14,Public Works  & Utilities,2,Contractual services,270,Equipment charges,2703,Maintenance - equipment,148557,Gilbert & Mosley-General Program Costs,2,8514,Expense
-255,TIF Districts Fund,BU740076,23,14,Public Works  & Utilities,2,Contractual services,280,Buildings and grounds charges,2801,Lease/Rent-Buildings or grounds,148557,Gilbert & Mosley-General Program Costs,455,8515,Expense
-255,TIF Districts Fund,BU740076,24,14,Public Works  & Utilities,2,Contractual services,280,Buildings and grounds charges,2802,Maintenance - grounds,148557,Gilbert & Mosley-General Program Costs,30,8516,Expense
-255,TIF Districts Fund,BU740076,25,14,Public Works  & Utilities,2,Contractual services,280,Buildings and grounds charges,2803,Maintenance - buildings,148557,Gilbert & Mosley-General Program Costs,160,8517,Expense
-255,TIF Districts Fund,BU740076,26,14,Public Works  & Utilities,2,Contractual services,280,Buildings and grounds charges,2805,Janitorial services,148557,Gilbert & Mosley-General Program Costs,100,8518,Expense
-255,TIF Districts Fund,BU740076,27,14,Public Works  & Utilities,2,Contractual services,280,Buildings and grounds charges,2899,Other building/grounds charges,148557,Gilbert & Mosley-General Program Costs,5,8519,Expense
-255,TIF Districts Fund,BU740076,28,14,Public Works  & Utilities,2,Contractual services,290,Other contractuals,2900,City administrative charges,148557,Gilbert & Mosley-General Program Costs,87.67,8520,Expense
-255,TIF Districts Fund,BU740076,29,14,Public Works  & Utilities,2,Contractual services,290,Other contractuals,2902,Advertising,148557,Gilbert & Mosley-General Program Costs,3,8521,Expense
-255,TIF Districts Fund,BU740076,30,14,Public Works  & Utilities,2,Contractual services,290,Other contractuals,2916,Property taxes ,148557,Gilbert & Mosley-General Program Costs,0.5,8522,Expense
-255,TIF Districts Fund,BU740076,31,14,Public Works  & Utilities,2,Contractual services,290,Other contractuals,2917,Printing and copying,148557,Gilbert & Mosley-General Program Costs,1,8523,Expense
+255,TIF Districts Fund,BU740076,17,14,Public Works & Utilities,2,Contractual services,250,Professional services,2506,Legal services,148557,Gilbert & Mosley-General Program Costs,250,8509,Expense
+255,TIF Districts Fund,BU740076,18,14,Public Works & Utilities,2,Contractual services,250,Professional services,2507,Audits,148557,Gilbert & Mosley-General Program Costs,8,8510,Expense
+255,TIF Districts Fund,BU740076,19,14,Public Works & Utilities,2,Contractual services,250,Professional services,2514,Laboratory services,148557,Gilbert & Mosley-General Program Costs,279.5,8511,Expense
+255,TIF Districts Fund,BU740076,20,14,Public Works & Utilities,2,Contractual services,250,Professional services,2599,Other professional services,148557,Gilbert & Mosley-General Program Costs,3500,8512,Expense
+255,TIF Districts Fund,BU740076,21,14,Public Works & Utilities,2,Contractual services,270,Equipment charges,2700,Motor pool - scheduled charges,148557,Gilbert & Mosley-General Program Costs,30,8513,Expense
+255,TIF Districts Fund,BU740076,22,14,Public Works & Utilities,2,Contractual services,270,Equipment charges,2703,Maintenance - equipment,148557,Gilbert & Mosley-General Program Costs,2,8514,Expense
+255,TIF Districts Fund,BU740076,23,14,Public Works & Utilities,2,Contractual services,280,Buildings and grounds charges,2801,Lease/Rent-Buildings or grounds,148557,Gilbert & Mosley-General Program Costs,455,8515,Expense
+255,TIF Districts Fund,BU740076,24,14,Public Works & Utilities,2,Contractual services,280,Buildings and grounds charges,2802,Maintenance - grounds,148557,Gilbert & Mosley-General Program Costs,30,8516,Expense
+255,TIF Districts Fund,BU740076,25,14,Public Works & Utilities,2,Contractual services,280,Buildings and grounds charges,2803,Maintenance - buildings,148557,Gilbert & Mosley-General Program Costs,160,8517,Expense
+255,TIF Districts Fund,BU740076,26,14,Public Works & Utilities,2,Contractual services,280,Buildings and grounds charges,2805,Janitorial services,148557,Gilbert & Mosley-General Program Costs,100,8518,Expense
+255,TIF Districts Fund,BU740076,27,14,Public Works & Utilities,2,Contractual services,280,Buildings and grounds charges,2899,Other building/grounds charges,148557,Gilbert & Mosley-General Program Costs,5,8519,Expense
+255,TIF Districts Fund,BU740076,28,14,Public Works & Utilities,2,Contractual services,290,Other contractuals,2900,City administrative charges,148557,Gilbert & Mosley-General Program Costs,87.67,8520,Expense
+255,TIF Districts Fund,BU740076,29,14,Public Works & Utilities,2,Contractual services,290,Other contractuals,2902,Advertising,148557,Gilbert & Mosley-General Program Costs,3,8521,Expense
+255,TIF Districts Fund,BU740076,30,14,Public Works & Utilities,2,Contractual services,290,Other contractuals,2916,Property taxes ,148557,Gilbert & Mosley-General Program Costs,0.5,8522,Expense
+255,TIF Districts Fund,BU740076,31,14,Public Works & Utilities,2,Contractual services,290,Other contractuals,2917,Printing and copying,148557,Gilbert & Mosley-General Program Costs,1,8523,Expense
 530,SEWER UTILITY FUND,BU740076,32,18,Public Works & Utilities,4,Capital outlay,450,"Vehicular equipment => $10,000",4502,"Trucks => $10,000",184804,SEWER MAINTENANCE DIVISION,2670,8524,Expense
 530,SEWER UTILITY FUND,BU740076,33,18,Public Works & Utilities,4,Capital outlay,460,"Operating equipment => $5,000",4606,"Cleaning equipment => $5,000",184804,SEWER MAINTENANCE DIVISION,8330,8525,Expense
 600,Information Technology Fund,BU740049,4,6,Information Tech/Info Services,1,Personnel services,120,Special salaries,1200,Part time/seasonal,60003,IT/IS Service Desk,577.3,8526,Expense
