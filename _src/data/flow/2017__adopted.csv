@@ -1,23 +1,23 @@
 budget_year,account_type,department,fund_code,account_category,amount,fund_type
-2017,Expense,Public Works  & Utilities,2700,,91.2,100
+2017,Expense,Public Works & Utilities,2700,,91.2,100
 2017,Expense,Park,2599,,110,100
 2017,Expense,Park,2917,,25,100
-2017,Expense,Public Works  & Utilities,2806,,25,100
-2017,Expense,Public Works  & Utilities,2904,,1,100
-2017,Expense,Public Works  & Utilities,2906,,1,100
-2017,Expense,Public Works  & Utilities,2917,,18,100
-2017,Expense,Public Works  & Utilities,3103,,7.5,100
-2017,Expense,Public Works  & Utilities,3405,,18.57,100
-2017,Expense,Public Works  & Utilities,3499,,1,100
-2017,Expense,Public Works  & Utilities,3803,,3,100
-2017,Expense,Public Works  & Utilities,3899,,15,100
-2017,Expense,Public Works  & Utilities,3904,,1,100
-2017,Expense,Public Works  & Utilities,1100,,3257.95,100
-2017,Expense,Public Works  & Utilities,1101,,28.2,100
-2017,Expense,Public Works  & Utilities,1190,,18.89,100
-2017,Expense,Public Works  & Utilities,1208,,12,100
-2017,Expense,Public Works  & Utilities,1400,,251.39,100
-2017,Expense,Public Works  & Utilities,1401,,404.2,100
+2017,Expense,Public Works & Utilities,2806,,25,100
+2017,Expense,Public Works & Utilities,2904,,1,100
+2017,Expense,Public Works & Utilities,2906,,1,100
+2017,Expense,Public Works & Utilities,2917,,18,100
+2017,Expense,Public Works & Utilities,3103,,7.5,100
+2017,Expense,Public Works & Utilities,3405,,18.57,100
+2017,Expense,Public Works & Utilities,3499,,1,100
+2017,Expense,Public Works & Utilities,3803,,3,100
+2017,Expense,Public Works & Utilities,3899,,15,100
+2017,Expense,Public Works & Utilities,3904,,1,100
+2017,Expense,Public Works & Utilities,1100,,3257.95,100
+2017,Expense,Public Works & Utilities,1101,,28.2,100
+2017,Expense,Public Works & Utilities,1190,,18.89,100
+2017,Expense,Public Works & Utilities,1208,,12,100
+2017,Expense,Public Works & Utilities,1400,,251.39,100
+2017,Expense,Public Works & Utilities,1401,,404.2,100
 2017,Expense,Park,2207,,3.5,100
 2017,Expense,Park,2215,,11.16,100
 2017,Expense,Park,2302,,2.5,100
@@ -43,8 +43,8 @@ budget_year,account_type,department,fund_code,account_category,amount,fund_type
 2017,Expense,Park,2916,,0.5,100
 2017,Expense,Park,2917,,6.5,100
 2017,Expense,Park,3103,,5,100
-2017,Expense,Public Works  & Utilities,1406,,2.32,100
-2017,Expense,Public Works  & Utilities,2200,,1.14,100
+2017,Expense,Public Works & Utilities,1406,,2.32,100
+2017,Expense,Public Works & Utilities,2200,,1.14,100
 2017,Expense,Park,2102,,44.79,100
 2017,Expense,Park,2700,,45.6,100
 2017,Expense,Park,3200,,7,100
@@ -107,7 +107,7 @@ budget_year,account_type,department,fund_code,account_category,amount,fund_type
 2017,Expense,Transit,1404,,4.54,520
 2017,Expense,Public Works & Utilities,2100,,18.85,265
 2017,Expense,Public Works & Utilities,2106,,15,265
-2017,Expense,Public Works  & Utilities,2200,,2.28,100
+2017,Expense,Public Works & Utilities,2200,,2.28,100
 2017,Expense,Transit,1405,,502.09,520
 2017,Expense,Park,2599,,90.5,100
 2017,Expense,Park,2801,,75.9,100
@@ -207,11 +207,11 @@ budget_year,account_type,department,fund_code,account_category,amount,fund_type
 2017,Expense,City Manager,5101,,2232.42,236
 2017,Expense,Department of Finance,2502,,407.5,620
 2017,Expense,Department of Finance,3804,,10.25,100
-2017,Expense,Public Works  & Utilities,2302,,3,100
-2017,Expense,Public Works  & Utilities,2303,,1,100
-2017,Expense,Public Works  & Utilities,2308,,1.5,100
-2017,Expense,Public Works  & Utilities,2400,,194.58,100
-2017,Expense,Public Works  & Utilities,2401,,4.8,100
+2017,Expense,Public Works & Utilities,2302,,3,100
+2017,Expense,Public Works & Utilities,2303,,1,100
+2017,Expense,Public Works & Utilities,2308,,1.5,100
+2017,Expense,Public Works & Utilities,2400,,194.58,100
+2017,Expense,Public Works & Utilities,2401,,4.8,100
 2017,Expense,Public Works & Utilities,1199,,454.43,265
 2017,Expense,Public Works & Utilities,1204,,27,265
 2017,Expense,Public Works & Utilities,1208,,12,265
@@ -326,7 +326,7 @@ budget_year,account_type,department,fund_code,account_category,amount,fund_type
 2017,Revenue,,7603,Fines and penalties,1300,100
 2017,Expense,Public Works & Utilities,1100,,2902.45,100
 2017,Expense,Public Works & Utilities,1101,,17.16,100
-2017,Expense,Public Works  & Utilities,2500,,1.1,100
+2017,Expense,Public Works & Utilities,2500,,1.1,100
 2017,Expense,Fire Department,1401,,35.4,100
 2017,Expense,CMO - Cultural Arts Division,1400,,164.8,100
 2017,Expense,Public Works & Utilities,5401,,500,540
@@ -345,20 +345,20 @@ budget_year,account_type,department,fund_code,account_category,amount,fund_type
 2017,Revenue,,7679,Fines and penalties,620,100
 2017,Revenue,,7681,Fines and penalties,40,100
 2017,Revenue,,7683,Fines and penalties,1600,100
-2017,Expense,Public Works  & Utilities,2514,,7.5,100
-2017,Expense,Public Works  & Utilities,2600,,46.2,100
-2017,Expense,Public Works  & Utilities,2700,,21.6,100
-2017,Expense,Public Works  & Utilities,2701,,1,100
-2017,Expense,Public Works  & Utilities,2906,,1.5,100
-2017,Expense,Public Works  & Utilities,2917,,14,100
-2017,Expense,Public Works  & Utilities,3101,,1.5,100
-2017,Expense,Public Works  & Utilities,3103,,5,100
-2017,Expense,Public Works  & Utilities,3405,,5.17,100
-2017,Expense,Public Works  & Utilities,3599,,0.5,100
-2017,Expense,Public Works  & Utilities,3904,,0.5,100
-2017,Expense,Public Works  & Utilities,3999,,10,100
-2017,Expense,Public Works  & Utilities,1100,,1279.05,100
-2017,Expense,Public Works  & Utilities,1101,,18.96,100
+2017,Expense,Public Works & Utilities,2514,,7.5,100
+2017,Expense,Public Works & Utilities,2600,,46.2,100
+2017,Expense,Public Works & Utilities,2700,,21.6,100
+2017,Expense,Public Works & Utilities,2701,,1,100
+2017,Expense,Public Works & Utilities,2906,,1.5,100
+2017,Expense,Public Works & Utilities,2917,,14,100
+2017,Expense,Public Works & Utilities,3101,,1.5,100
+2017,Expense,Public Works & Utilities,3103,,5,100
+2017,Expense,Public Works & Utilities,3405,,5.17,100
+2017,Expense,Public Works & Utilities,3599,,0.5,100
+2017,Expense,Public Works & Utilities,3904,,0.5,100
+2017,Expense,Public Works & Utilities,3999,,10,100
+2017,Expense,Public Works & Utilities,1100,,1279.05,100
+2017,Expense,Public Works & Utilities,1101,,18.96,100
 2017,Expense,Transit,1406,,9.03,520
 2017,Expense,Transit,2200,,6.84,520
 2017,Expense,Transit,2201,,9.6,520
@@ -1045,23 +1045,23 @@ budget_year,account_type,department,fund_code,account_category,amount,fund_type
 2017,Expense,Municipal Court,2200,,161.46,100
 2017,Expense,Transit,3903,,4,520
 2017,Expense,Police Department,1405,,1299.75,100
-2017,Expense,Public Works  & Utilities,2700,,21.6,100
-2017,Expense,Public Works  & Utilities,3804,,1,100
-2017,Expense,Public Works  & Utilities,3999,,50,100
-2017,Expense,Public Works  & Utilities,1199,,200,100
-2017,Expense,Public Works  & Utilities,2502,,20,100
-2017,Expense,Public Works  & Utilities,2703,,5,100
-2017,Expense,Public Works  & Utilities,1100,,594.61,100
-2017,Expense,Public Works  & Utilities,1101,,11.4,100
-2017,Expense,Public Works  & Utilities,1190,,3.54,100
-2017,Expense,Public Works  & Utilities,1208,,6,100
-2017,Expense,Public Works  & Utilities,1300,,95,100
-2017,Expense,Public Works  & Utilities,1400,,46.36,100
-2017,Expense,Public Works  & Utilities,1401,,74.54,100
-2017,Expense,Public Works  & Utilities,1403,,14.42,100
-2017,Expense,Public Works  & Utilities,1404,,1.21,100
-2017,Expense,Public Works  & Utilities,1405,,162.47,100
-2017,Expense,Public Works  & Utilities,1406,,2.38,100
+2017,Expense,Public Works & Utilities,2700,,21.6,100
+2017,Expense,Public Works & Utilities,3804,,1,100
+2017,Expense,Public Works & Utilities,3999,,50,100
+2017,Expense,Public Works & Utilities,1199,,200,100
+2017,Expense,Public Works & Utilities,2502,,20,100
+2017,Expense,Public Works & Utilities,2703,,5,100
+2017,Expense,Public Works & Utilities,1100,,594.61,100
+2017,Expense,Public Works & Utilities,1101,,11.4,100
+2017,Expense,Public Works & Utilities,1190,,3.54,100
+2017,Expense,Public Works & Utilities,1208,,6,100
+2017,Expense,Public Works & Utilities,1300,,95,100
+2017,Expense,Public Works & Utilities,1400,,46.36,100
+2017,Expense,Public Works & Utilities,1401,,74.54,100
+2017,Expense,Public Works & Utilities,1403,,14.42,100
+2017,Expense,Public Works & Utilities,1404,,1.21,100
+2017,Expense,Public Works & Utilities,1405,,162.47,100
+2017,Expense,Public Works & Utilities,1406,,2.38,100
 2017,Expense,Transit,2204,,115.86,520
 2017,Expense,Transit,2214,,12.6,520
 2017,Expense,Transit,2215,,3.72,520
@@ -1172,11 +1172,11 @@ budget_year,account_type,department,fund_code,account_category,amount,fund_type
 2017,Expense,Municipal Court,2904,,29.2,100
 2017,Expense,Municipal Court,2905,,2.28,100
 2017,Expense,Municipal Court,2906,,30,100
-2017,Expense,Public Works  & Utilities,2919,,15,255
-2017,Expense,Public Works  & Utilities,2999,,160,255
-2017,Expense,Public Works  & Utilities,3103,,25,255
-2017,Expense,Public Works  & Utilities,3199,,0.25,255
-2017,Expense,Public Works  & Utilities,3200,,1,255
+2017,Expense,Public Works & Utilities,2919,,15,255
+2017,Expense,Public Works & Utilities,2999,,160,255
+2017,Expense,Public Works & Utilities,3103,,25,255
+2017,Expense,Public Works & Utilities,3199,,0.25,255
+2017,Expense,Public Works & Utilities,3200,,1,255
 2017,Expense,Department of Finance,1404,,3.06,620
 2017,Expense,Department of Finance,3406,,10,620
 2017,Expense,Police Department,1406,,22.83,100
@@ -1444,27 +1444,27 @@ budget_year,account_type,department,fund_code,account_category,amount,fund_type
 2017,Expense,Public Works & Utilities,2999,,600,245
 2017,Expense,Public Works & Utilities,3799,,48,245
 2017,Expense,Public Works & Utilities,3999,,30,245
-2017,Expense,Public Works  & Utilities,1400,,14.34,100
-2017,Expense,Public Works  & Utilities,1403,,4.69,100
-2017,Expense,Public Works  & Utilities,1404,,0.37,100
-2017,Expense,Public Works  & Utilities,2200,,1.14,100
-2017,Expense,Public Works  & Utilities,2201,,1.5,100
-2017,Expense,Public Works  & Utilities,2203,,0.5,100
-2017,Expense,Public Works  & Utilities,2207,,2.25,100
-2017,Expense,Public Works  & Utilities,2600,,11.55,100
-2017,Expense,Public Works  & Utilities,2917,,7.5,100
-2017,Expense,Public Works  & Utilities,3103,,1.5,100
-2017,Expense,Public Works  & Utilities,3200,,1,100
-2017,Expense,Public Works  & Utilities,3399,,0.5,100
-2017,Expense,Public Works  & Utilities,1100,,579.93,100
-2017,Expense,Public Works  & Utilities,1101,,12,100
-2017,Expense,Public Works  & Utilities,1190,,3.38,100
-2017,Expense,Public Works  & Utilities,1208,,6,100
-2017,Expense,Public Works  & Utilities,1400,,45.28,100
-2017,Expense,Public Works  & Utilities,1401,,72.81,100
-2017,Expense,Public Works  & Utilities,1403,,14.09,100
-2017,Expense,Public Works  & Utilities,1404,,1.18,100
-2017,Expense,Public Works  & Utilities,1405,,54.29,100
+2017,Expense,Public Works & Utilities,1400,,14.34,100
+2017,Expense,Public Works & Utilities,1403,,4.69,100
+2017,Expense,Public Works & Utilities,1404,,0.37,100
+2017,Expense,Public Works & Utilities,2200,,1.14,100
+2017,Expense,Public Works & Utilities,2201,,1.5,100
+2017,Expense,Public Works & Utilities,2203,,0.5,100
+2017,Expense,Public Works & Utilities,2207,,2.25,100
+2017,Expense,Public Works & Utilities,2600,,11.55,100
+2017,Expense,Public Works & Utilities,2917,,7.5,100
+2017,Expense,Public Works & Utilities,3103,,1.5,100
+2017,Expense,Public Works & Utilities,3200,,1,100
+2017,Expense,Public Works & Utilities,3399,,0.5,100
+2017,Expense,Public Works & Utilities,1100,,579.93,100
+2017,Expense,Public Works & Utilities,1101,,12,100
+2017,Expense,Public Works & Utilities,1190,,3.38,100
+2017,Expense,Public Works & Utilities,1208,,6,100
+2017,Expense,Public Works & Utilities,1400,,45.28,100
+2017,Expense,Public Works & Utilities,1401,,72.81,100
+2017,Expense,Public Works & Utilities,1403,,14.09,100
+2017,Expense,Public Works & Utilities,1404,,1.18,100
+2017,Expense,Public Works & Utilities,1405,,54.29,100
 2017,Expense,CMO - Cultural Arts Division,1400,,325.46,100
 2017,Expense,CMO - Cultural Arts Division,1401,,377.75,100
 2017,Expense,CMO - Cultural Arts Division,1403,,108.68,100
@@ -1639,7 +1639,7 @@ budget_year,account_type,department,fund_code,account_category,amount,fund_type
 2017,Expense,Public Works & Utilities,2707,,15,540
 2017,Expense,Police Department,5100,,434.98,100
 2017,Expense,Public Works & Utilities,5100,,1500,231
-2017,Expense,Public Works  & Utilities,5100,,3590,255
+2017,Expense,Public Works & Utilities,5100,,3590,255
 2017,Expense,Metropolitan Planning,5100,,140,265
 2017,Expense,Golf Course System,5100,,2865.51,515
 2017,Expense,Golf Course System,5100,,1500,515
@@ -2422,36 +2422,36 @@ budget_year,account_type,department,fund_code,account_category,amount,fund_type
 2017,Expense,Public Works & Utilities,2799,,240,245
 2017,Expense,Public Works & Utilities,2899,,360,245
 2017,Expense,Public Works & Utilities,2900,,23.79,245
-2017,Expense,Public Works  & Utilities,2203,,0.25,100
-2017,Expense,Public Works  & Utilities,2207,,1,100
+2017,Expense,Public Works & Utilities,2203,,0.25,100
+2017,Expense,Public Works & Utilities,2207,,1,100
 2017,Expense,Public Works & Utilities,3200,,350,540
 2017,Expense,Public Works & Utilities,3400,,150,540
 2017,Expense,Public Works & Utilities,3402,,35,540
-2017,Expense,Public Works  & Utilities,2514,,10,100
-2017,Expense,Public Works  & Utilities,2600,,25.42,100
-2017,Expense,Public Works  & Utilities,2601,,1,100
-2017,Expense,Public Works  & Utilities,2700,,63.6,100
-2017,Expense,Public Works  & Utilities,2701,,1,100
-2017,Expense,Public Works  & Utilities,2906,,0.5,100
-2017,Expense,Public Works  & Utilities,2917,,6,100
-2017,Expense,Public Works  & Utilities,3103,,2,100
-2017,Expense,Public Works  & Utilities,3399,,6,100
-2017,Expense,Public Works  & Utilities,3400,,1,100
-2017,Expense,Public Works  & Utilities,3405,,27.85,100
-2017,Expense,Public Works  & Utilities,3804,,7.5,100
-2017,Expense,Public Works  & Utilities,3999,,12.5,100
-2017,Expense,Public Works  & Utilities,1190,,5.18,100
-2017,Expense,Public Works  & Utilities,1199,,503.48,100
-2017,Expense,Public Works  & Utilities,1499,,125.87,100
-2017,Expense,Public Works  & Utilities,2207,,0.25,100
-2017,Expense,Public Works  & Utilities,2310,,0.5,100
-2017,Expense,Public Works  & Utilities,2401,,23.9,100
-2017,Expense,Public Works  & Utilities,2507,,2,100
-2017,Expense,Public Works  & Utilities,2600,,60.07,100
-2017,Expense,Public Works  & Utilities,2700,,144,100
-2017,Expense,Public Works  & Utilities,2799,,2.5,100
-2017,Expense,Public Works  & Utilities,2902,,150,100
-2017,Expense,Public Works  & Utilities,2917,,10,100
+2017,Expense,Public Works & Utilities,2514,,10,100
+2017,Expense,Public Works & Utilities,2600,,25.42,100
+2017,Expense,Public Works & Utilities,2601,,1,100
+2017,Expense,Public Works & Utilities,2700,,63.6,100
+2017,Expense,Public Works & Utilities,2701,,1,100
+2017,Expense,Public Works & Utilities,2906,,0.5,100
+2017,Expense,Public Works & Utilities,2917,,6,100
+2017,Expense,Public Works & Utilities,3103,,2,100
+2017,Expense,Public Works & Utilities,3399,,6,100
+2017,Expense,Public Works & Utilities,3400,,1,100
+2017,Expense,Public Works & Utilities,3405,,27.85,100
+2017,Expense,Public Works & Utilities,3804,,7.5,100
+2017,Expense,Public Works & Utilities,3999,,12.5,100
+2017,Expense,Public Works & Utilities,1190,,5.18,100
+2017,Expense,Public Works & Utilities,1199,,503.48,100
+2017,Expense,Public Works & Utilities,1499,,125.87,100
+2017,Expense,Public Works & Utilities,2207,,0.25,100
+2017,Expense,Public Works & Utilities,2310,,0.5,100
+2017,Expense,Public Works & Utilities,2401,,23.9,100
+2017,Expense,Public Works & Utilities,2507,,2,100
+2017,Expense,Public Works & Utilities,2600,,60.07,100
+2017,Expense,Public Works & Utilities,2700,,144,100
+2017,Expense,Public Works & Utilities,2799,,2.5,100
+2017,Expense,Public Works & Utilities,2902,,150,100
+2017,Expense,Public Works & Utilities,2917,,10,100
 2017,Expense,Public Works & Utilities,2803,,150,100
 2017,Expense,City Manager,1101,,10.2,100
 2017,Expense,City Manager,2701,,5,238
@@ -2565,13 +2565,13 @@ budget_year,account_type,department,fund_code,account_category,amount,fund_type
 2017,Expense,Golf Course System,2201,,9.9,515
 2017,Expense,Golf Course System,2203,,0.6,515
 2017,Expense,Golf Course System,2207,,3,515
-2017,Expense,Public Works  & Utilities,2917,,1.75,100
-2017,Expense,Public Works  & Utilities,3103,,1,100
-2017,Expense,Public Works  & Utilities,3405,,3.01,100
-2017,Expense,Public Works  & Utilities,3899,,5,100
-2017,Expense,Public Works  & Utilities,3904,,2.5,100
-2017,Expense,Public Works  & Utilities,2600,,12.71,100
-2017,Expense,Public Works  & Utilities,2917,,2.9,100
+2017,Expense,Public Works & Utilities,2917,,1.75,100
+2017,Expense,Public Works & Utilities,3103,,1,100
+2017,Expense,Public Works & Utilities,3405,,3.01,100
+2017,Expense,Public Works & Utilities,3899,,5,100
+2017,Expense,Public Works & Utilities,3904,,2.5,100
+2017,Expense,Public Works & Utilities,2600,,12.71,100
+2017,Expense,Public Works & Utilities,2917,,2.9,100
 2017,Expense,Metropolitan Planning,1100,,10192.51,265
 2017,Expense,Metropolitan Planning,1101,,168.6,265
 2017,Expense,Metropolitan Planning,1190,,31,265
@@ -2616,7 +2616,7 @@ budget_year,account_type,department,fund_code,account_category,amount,fund_type
 2017,Expense,Park,3700,,0.5,100
 2017,Expense,Park,2917,,5,100
 2017,Expense,CMO - Cultural Arts Division,3199,,2,100
-2017,Expense,Public Works  & Utilities,3300,,216.5,255
+2017,Expense,Public Works & Utilities,3300,,216.5,255
 2017,Expense,Park,3800,,13.22,100
 2017,Expense,Park,3808,,0.5,100
 2017,Expense,Park,3815,,5,100
@@ -2670,32 +2670,32 @@ budget_year,account_type,department,fund_code,account_category,amount,fund_type
 2017,Expense,Public Works & Utilities,2601,,28.5,530
 2017,Expense,Public Works & Utilities,2700,,3466.44,530
 2017,Expense,Public Works & Utilities,2701,,6.5,530
-2017,Expense,Public Works  & Utilities,3400,,114,255
-2017,Expense,Public Works  & Utilities,3406,,1.5,255
-2017,Expense,Public Works  & Utilities,3499,,4,255
-2017,Expense,Public Works  & Utilities,3599,,100,255
-2017,Expense,Public Works  & Utilities,3802,,1000,255
-2017,Expense,Public Works  & Utilities,3804,,1.5,255
-2017,Expense,Public Works  & Utilities,3805,,10,255
-2017,Expense,Public Works  & Utilities,3808,,1.5,255
-2017,Expense,Public Works  & Utilities,3901,,1.5,255
-2017,Expense,Public Works  & Utilities,3999,,5,255
-2017,Expense,Public Works  & Utilities,5101,,2072.37,255
-2017,Expense,Public Works  & Utilities,5333,,108500,255
-2017,Expense,Public Works  & Utilities,2100,,203.68,255
-2017,Expense,Public Works  & Utilities,2101,,36.29,255
-2017,Expense,Public Works  & Utilities,2104,,14.79,255
-2017,Expense,Public Works  & Utilities,2203,,0.5,255
-2017,Expense,Public Works  & Utilities,2207,,1.5,255
-2017,Expense,Public Works  & Utilities,2217,,7.19,255
-2017,Expense,Public Works  & Utilities,2503,,75,255
-2017,Expense,Public Works  & Utilities,2505,,145,255
-2017,Expense,Public Works  & Utilities,2519,,4,255
-2017,Expense,Public Works  & Utilities,2599,,4.1,255
+2017,Expense,Public Works & Utilities,3400,,114,255
+2017,Expense,Public Works & Utilities,3406,,1.5,255
+2017,Expense,Public Works & Utilities,3499,,4,255
+2017,Expense,Public Works & Utilities,3599,,100,255
+2017,Expense,Public Works & Utilities,3802,,1000,255
+2017,Expense,Public Works & Utilities,3804,,1.5,255
+2017,Expense,Public Works & Utilities,3805,,10,255
+2017,Expense,Public Works & Utilities,3808,,1.5,255
+2017,Expense,Public Works & Utilities,3901,,1.5,255
+2017,Expense,Public Works & Utilities,3999,,5,255
+2017,Expense,Public Works & Utilities,5101,,2072.37,255
+2017,Expense,Public Works & Utilities,5333,,108500,255
+2017,Expense,Public Works & Utilities,2100,,203.68,255
+2017,Expense,Public Works & Utilities,2101,,36.29,255
+2017,Expense,Public Works & Utilities,2104,,14.79,255
+2017,Expense,Public Works & Utilities,2203,,0.5,255
+2017,Expense,Public Works & Utilities,2207,,1.5,255
+2017,Expense,Public Works & Utilities,2217,,7.19,255
+2017,Expense,Public Works & Utilities,2503,,75,255
+2017,Expense,Public Works & Utilities,2505,,145,255
+2017,Expense,Public Works & Utilities,2519,,4,255
+2017,Expense,Public Works & Utilities,2599,,4.1,255
 2017,Expense,Public Works & Utilities,3403,,6.5,100
 2017,Expense,Public Works & Utilities,2201,,2.7,100
 2017,Expense,Public Works & Utilities,3500,,100,100
-2017,Expense,Public Works  & Utilities,2600,,28.69,255
+2017,Expense,Public Works & Utilities,2600,,28.69,255
 2017,Expense,Park,2801,,5,100
 2017,Expense,Park,2806,,5,100
 2017,Expense,Public Works & Utilities,2500,,160,530
@@ -2945,20 +2945,20 @@ budget_year,account_type,department,fund_code,account_category,amount,fund_type
 2017,Expense,Public Works & Utilities,1403,,11.39,100
 2017,Expense,Public Works & Utilities,1404,,0.96,100
 2017,Expense,Park,3103,,3,100
-2017,Expense,Public Works  & Utilities,3405,,0.5,255
-2017,Expense,Public Works  & Utilities,3406,,3,255
-2017,Expense,Public Works  & Utilities,3499,,1,255
-2017,Expense,Public Works  & Utilities,3500,,1,255
-2017,Expense,Public Works  & Utilities,3799,,0.5,255
-2017,Expense,Public Works  & Utilities,3800,,1,255
-2017,Expense,Public Works  & Utilities,3802,,1000,255
-2017,Expense,Public Works  & Utilities,3803,,2.5,255
-2017,Expense,Public Works  & Utilities,3808,,2.5,255
-2017,Expense,Public Works  & Utilities,3899,,24,255
-2017,Expense,Public Works  & Utilities,3995,,0.5,255
-2017,Expense,Public Works  & Utilities,3999,,2,255
-2017,Expense,Public Works  & Utilities,5101,,2072.37,255
-2017,Expense,Public Works  & Utilities,5333,,47500,255
+2017,Expense,Public Works & Utilities,3405,,0.5,255
+2017,Expense,Public Works & Utilities,3406,,3,255
+2017,Expense,Public Works & Utilities,3499,,1,255
+2017,Expense,Public Works & Utilities,3500,,1,255
+2017,Expense,Public Works & Utilities,3799,,0.5,255
+2017,Expense,Public Works & Utilities,3800,,1,255
+2017,Expense,Public Works & Utilities,3802,,1000,255
+2017,Expense,Public Works & Utilities,3803,,2.5,255
+2017,Expense,Public Works & Utilities,3808,,2.5,255
+2017,Expense,Public Works & Utilities,3899,,24,255
+2017,Expense,Public Works & Utilities,3995,,0.5,255
+2017,Expense,Public Works & Utilities,3999,,2,255
+2017,Expense,Public Works & Utilities,5101,,2072.37,255
+2017,Expense,Public Works & Utilities,5333,,47500,255
 2017,Expense,Department of Finance,3500,,51,620
 2017,Expense,Department of Finance,3599,,47.5,620
 2017,Expense,Department of Finance,3804,,8,620
@@ -3447,7 +3447,7 @@ budget_year,account_type,department,fund_code,account_category,amount,fund_type
 2017,Expense,Park,2107,,15,100
 2017,Expense,Public Works & Utilities,3700,,215,540
 2017,Expense,Park,1100,,688.12,100
-2017,Expense,Public Works  & Utilities,1200,,187.4,100
+2017,Expense,Public Works & Utilities,1200,,187.4,100
 2017,Expense,Fire Department,1303,,4092.11,100
 2017,Expense,Information Tech/Info Services,2601,,357.92,600
 2017,Expense,Golf Course System,2211,,0.5,515
@@ -3499,7 +3499,7 @@ budget_year,account_type,department,fund_code,account_category,amount,fund_type
 2017,Revenue,,9655,Rental income,2117.5,515
 2017,Revenue,,9602,Rental income,1.36,515
 2017,Expense,Park,2502,,13.5,100
-2017,Expense,Public Works  & Utilities,1100,,2974.37,100
+2017,Expense,Public Works & Utilities,1100,,2974.37,100
 2017,Expense,CMO - Cultural Arts Division,2102,,400,100
 2017,Expense,Park,2505,,3000,100
 2017,Expense,Park,2599,,2500,100
@@ -3529,32 +3529,32 @@ budget_year,account_type,department,fund_code,account_category,amount,fund_type
 2017,Expense,Airport,2600,,279.69,500
 2017,Expense,Airport,2705,,57,500
 2017,Expense,Airport,2706,,7.5,500
-2017,Expense,Public Works  & Utilities,1101,,33.12,100
-2017,Expense,Public Works  & Utilities,1190,,15.34,100
-2017,Expense,Public Works  & Utilities,1199,,400.16,100
-2017,Expense,Public Works  & Utilities,1208,,6,100
-2017,Expense,Public Works  & Utilities,1400,,230.07,100
-2017,Expense,Public Works  & Utilities,1401,,369.92,100
-2017,Expense,Public Works  & Utilities,1403,,71.58,100
-2017,Expense,Public Works  & Utilities,1404,,6.01,100
-2017,Expense,Public Works  & Utilities,1405,,704.17,100
-2017,Expense,Public Works  & Utilities,1406,,11.9,100
-2017,Expense,Public Works  & Utilities,1499,,100.04,100
-2017,Expense,Public Works  & Utilities,1500,,837.31,100
-2017,Expense,Public Works  & Utilities,2200,,13.68,100
-2017,Expense,Public Works  & Utilities,2201,,19.35,100
-2017,Expense,Public Works  & Utilities,2202,,2,100
-2017,Expense,Public Works  & Utilities,2203,,4,100
-2017,Expense,Public Works  & Utilities,2207,,3.5,100
-2017,Expense,Public Works  & Utilities,2214,,4.2,100
-2017,Expense,Public Works  & Utilities,2216,,3.36,100
-2017,Expense,Public Works  & Utilities,2301,,2,100
-2017,Expense,Public Works  & Utilities,2302,,2,100
-2017,Expense,Public Works  & Utilities,2303,,1.5,100
-2017,Expense,Public Works  & Utilities,2310,,1,100
-2017,Expense,Public Works  & Utilities,2401,,9.6,100
-2017,Expense,Public Works  & Utilities,2502,,0.74,100
-2017,Expense,Public Works  & Utilities,2543,,50,100
+2017,Expense,Public Works & Utilities,1101,,33.12,100
+2017,Expense,Public Works & Utilities,1190,,15.34,100
+2017,Expense,Public Works & Utilities,1199,,400.16,100
+2017,Expense,Public Works & Utilities,1208,,6,100
+2017,Expense,Public Works & Utilities,1400,,230.07,100
+2017,Expense,Public Works & Utilities,1401,,369.92,100
+2017,Expense,Public Works & Utilities,1403,,71.58,100
+2017,Expense,Public Works & Utilities,1404,,6.01,100
+2017,Expense,Public Works & Utilities,1405,,704.17,100
+2017,Expense,Public Works & Utilities,1406,,11.9,100
+2017,Expense,Public Works & Utilities,1499,,100.04,100
+2017,Expense,Public Works & Utilities,1500,,837.31,100
+2017,Expense,Public Works & Utilities,2200,,13.68,100
+2017,Expense,Public Works & Utilities,2201,,19.35,100
+2017,Expense,Public Works & Utilities,2202,,2,100
+2017,Expense,Public Works & Utilities,2203,,4,100
+2017,Expense,Public Works & Utilities,2207,,3.5,100
+2017,Expense,Public Works & Utilities,2214,,4.2,100
+2017,Expense,Public Works & Utilities,2216,,3.36,100
+2017,Expense,Public Works & Utilities,2301,,2,100
+2017,Expense,Public Works & Utilities,2302,,2,100
+2017,Expense,Public Works & Utilities,2303,,1.5,100
+2017,Expense,Public Works & Utilities,2310,,1,100
+2017,Expense,Public Works & Utilities,2401,,9.6,100
+2017,Expense,Public Works & Utilities,2502,,0.74,100
+2017,Expense,Public Works & Utilities,2543,,50,100
 2017,Expense,Golf Course System,2400,,31.78,515
 2017,Expense,Golf Course System,2500,,4.3,515
 2017,Expense,CMO - Cultural Arts Division,2104,,250.7,100
@@ -3604,28 +3604,28 @@ budget_year,account_type,department,fund_code,account_category,amount,fund_type
 2017,Expense,City Manager,2216,,4.2,100
 2017,Expense,City Manager,2301,,7,100
 2017,Expense,CMO - Cultural Arts Division,1200,,1080,100
-2017,Expense,Public Works  & Utilities,2401,,4.8,255
-2017,Expense,Public Works  & Utilities,2503,,20000,255
-2017,Expense,Public Works  & Utilities,2506,,2000,255
-2017,Expense,Public Works  & Utilities,2507,,5,255
-2017,Expense,Public Works  & Utilities,2514,,10,255
-2017,Expense,Public Works  & Utilities,2599,,1000,255
-2017,Expense,Public Works  & Utilities,2699,,25,255
-2017,Expense,Public Works  & Utilities,2700,,57.6,255
-2017,Expense,Public Works  & Utilities,2703,,5,255
-2017,Expense,Public Works  & Utilities,2710,,37,255
-2017,Expense,Public Works  & Utilities,2899,,300,255
-2017,Expense,Public Works  & Utilities,2900,,24.52,255
-2017,Expense,Public Works  & Utilities,2902,,5,255
-2017,Expense,Public Works  & Utilities,2903,,10,255
-2017,Expense,Public Works  & Utilities,2906,,3,255
-2017,Expense,Public Works  & Utilities,2917,,10,255
-2017,Expense,Public Works  & Utilities,2919,,30,255
-2017,Expense,Public Works  & Utilities,3101,,10,255
-2017,Expense,Public Works  & Utilities,3103,,2.5,255
-2017,Expense,Public Works  & Utilities,3199,,1,255
-2017,Expense,Public Works  & Utilities,3200,,2,255
-2017,Expense,Public Works  & Utilities,3400,,0.5,255
+2017,Expense,Public Works & Utilities,2401,,4.8,255
+2017,Expense,Public Works & Utilities,2503,,20000,255
+2017,Expense,Public Works & Utilities,2506,,2000,255
+2017,Expense,Public Works & Utilities,2507,,5,255
+2017,Expense,Public Works & Utilities,2514,,10,255
+2017,Expense,Public Works & Utilities,2599,,1000,255
+2017,Expense,Public Works & Utilities,2699,,25,255
+2017,Expense,Public Works & Utilities,2700,,57.6,255
+2017,Expense,Public Works & Utilities,2703,,5,255
+2017,Expense,Public Works & Utilities,2710,,37,255
+2017,Expense,Public Works & Utilities,2899,,300,255
+2017,Expense,Public Works & Utilities,2900,,24.52,255
+2017,Expense,Public Works & Utilities,2902,,5,255
+2017,Expense,Public Works & Utilities,2903,,10,255
+2017,Expense,Public Works & Utilities,2906,,3,255
+2017,Expense,Public Works & Utilities,2917,,10,255
+2017,Expense,Public Works & Utilities,2919,,30,255
+2017,Expense,Public Works & Utilities,3101,,10,255
+2017,Expense,Public Works & Utilities,3103,,2.5,255
+2017,Expense,Public Works & Utilities,3199,,1,255
+2017,Expense,Public Works & Utilities,3200,,2,255
+2017,Expense,Public Works & Utilities,3400,,0.5,255
 2017,Expense,Park,2215,,6.12,100
 2017,Expense,Park,2301,,3,100
 2017,Expense,Park,2600,,11.55,100
@@ -3654,7 +3654,7 @@ budget_year,account_type,department,fund_code,account_category,amount,fund_type
 2017,Expense,Park,2215,,11.16,100
 2017,Expense,Park,2600,,11.55,100
 2017,Expense,Park,2899,,3,100
-2017,Expense,Public Works  & Utilities,3402,,0.5,255
+2017,Expense,Public Works & Utilities,3402,,0.5,255
 2017,Expense,Department of Finance,1406,,6.05,620
 2017,Expense,Department of Finance,2200,,2.28,620
 2017,Expense,Department of Finance,2201,,3,620
@@ -4100,7 +4100,7 @@ budget_year,account_type,department,fund_code,account_category,amount,fund_type
 2017,Expense,Library,2703,,54.21,100
 2017,Expense,Public Works & Utilities,3407,,4,100
 2017,Expense,Public Works & Utilities,2980,,166.03,540
-2017,Expense,Public Works  & Utilities,2505,,300,255
+2017,Expense,Public Works & Utilities,2505,,300,255
 2017,Expense,Police Department,2200,,6.84,100
 2017,Expense,Police Department,2201,,12.15,100
 2017,Expense,Police Department,2203,,0.8,100
@@ -5059,7 +5059,7 @@ budget_year,account_type,department,fund_code,account_category,amount,fund_type
 2017,Expense,Public Works & Utilities,3499,,240,100
 2017,Expense,Public Works & Utilities,1200,,432.1,100
 2017,Expense,Public Works & Utilities,2107,,2,265
-2017,Expense,Public Works  & Utilities,2201,,1.5,100
+2017,Expense,Public Works & Utilities,2201,,1.5,100
 2017,Expense,Park,1400,,218.95,100
 2017,Expense,Park,2302,,1.1,100
 2017,Expense,Park,2215,,3.72,100
@@ -5184,7 +5184,7 @@ budget_year,account_type,department,fund_code,account_category,amount,fund_type
 2017,Revenue,,9054,Charges for services and sales,350,236
 2017,Revenue,,9248,Charges for services and sales,1500,236
 2017,Revenue,,9250,Charges for services and sales,1000,236
-2017,Expense,Public Works  & Utilities,2503,,120,255
+2017,Expense,Public Works & Utilities,2503,,120,255
 2017,Expense,Public Works & Utilities,3812,,10,560
 2017,Expense,City Manager,2503,,1150,236
 2017,Expense,City Council,1404,,9.18,100
@@ -5450,21 +5450,21 @@ budget_year,account_type,department,fund_code,account_category,amount,fund_type
 2017,Expense,Public Works & Utilities,2708,,33,230
 2017,Expense,Public Works & Utilities,2900,,120.42,230
 2017,Expense,Public Works & Utilities,2906,,10,230
-2017,Expense,Public Works  & Utilities,2906,,1,100
-2017,Expense,Public Works  & Utilities,2916,,0.2,100
-2017,Expense,Public Works  & Utilities,2917,,25,100
-2017,Expense,Public Works  & Utilities,2999,,0.4,100
-2017,Expense,Public Works  & Utilities,3103,,40,100
-2017,Expense,Public Works  & Utilities,3405,,1.47,100
-2017,Expense,Public Works  & Utilities,3406,,1,100
-2017,Expense,Public Works  & Utilities,3804,,10,100
-2017,Expense,Public Works  & Utilities,3812,,2.5,100
-2017,Expense,Public Works  & Utilities,3815,,1,100
-2017,Expense,Public Works  & Utilities,3903,,2.5,100
-2017,Expense,Public Works  & Utilities,3999,,2,100
-2017,Expense,Public Works  & Utilities,1100,,1054.99,100
-2017,Expense,Public Works  & Utilities,1101,,14.76,100
-2017,Expense,Public Works  & Utilities,1190,,6.14,100
+2017,Expense,Public Works & Utilities,2906,,1,100
+2017,Expense,Public Works & Utilities,2916,,0.2,100
+2017,Expense,Public Works & Utilities,2917,,25,100
+2017,Expense,Public Works & Utilities,2999,,0.4,100
+2017,Expense,Public Works & Utilities,3103,,40,100
+2017,Expense,Public Works & Utilities,3405,,1.47,100
+2017,Expense,Public Works & Utilities,3406,,1,100
+2017,Expense,Public Works & Utilities,3804,,10,100
+2017,Expense,Public Works & Utilities,3812,,2.5,100
+2017,Expense,Public Works & Utilities,3815,,1,100
+2017,Expense,Public Works & Utilities,3903,,2.5,100
+2017,Expense,Public Works & Utilities,3999,,2,100
+2017,Expense,Public Works & Utilities,1100,,1054.99,100
+2017,Expense,Public Works & Utilities,1101,,14.76,100
+2017,Expense,Public Works & Utilities,1190,,6.14,100
 2017,Expense,Metropolitan Planning,3499,,4,265
 2017,Expense,Metropolitan Planning,3804,,20,265
 2017,Expense,Metropolitan Planning,3805,,9.5,265
@@ -5562,14 +5562,14 @@ budget_year,account_type,department,fund_code,account_category,amount,fund_type
 2017,Expense,Public Works & Utilities,2902,,0.75,265
 2017,Expense,Public Works & Utilities,2909,,3,265
 2017,Expense,Public Works & Utilities,2917,,9,265
-2017,Expense,Public Works  & Utilities,2216,,0.84,100
-2017,Expense,Public Works  & Utilities,2401,,4.8,100
-2017,Expense,Public Works  & Utilities,2600,,16.53,100
+2017,Expense,Public Works & Utilities,2216,,0.84,100
+2017,Expense,Public Works & Utilities,2401,,4.8,100
+2017,Expense,Public Works & Utilities,2600,,16.53,100
 2017,Expense,Transit,3805,,10,520
 2017,Revenue,,9085,Charges for services and sales,106.25,100
-2017,Expense,Public Works  & Utilities,3103,,0.5,100
-2017,Expense,Public Works  & Utilities,3400,,1,100
-2017,Expense,Public Works  & Utilities,3405,,78.41,100
+2017,Expense,Public Works & Utilities,3103,,0.5,100
+2017,Expense,Public Works & Utilities,3400,,1,100
+2017,Expense,Public Works & Utilities,3405,,78.41,100
 2017,Expense,Transit,3903,,20,520
 2017,Expense,Transit,3904,,5,520
 2017,Expense,Transit,3999,,5,520
@@ -6019,34 +6019,34 @@ budget_year,account_type,department,fund_code,account_category,amount,fund_type
 2017,Expense,Golf Course System,2804,,6.03,515
 2017,Expense,Golf Course System,2806,,5.02,515
 2017,Expense,Golf Course System,2906,,10.3,515
-2017,Expense,Public Works  & Utilities,3700,,50,255
-2017,Expense,Public Works  & Utilities,3702,,40,255
-2017,Expense,Public Works  & Utilities,3799,,0.75,255
-2017,Expense,Public Works  & Utilities,3901,,1.5,255
-2017,Expense,Public Works  & Utilities,3904,,1,255
-2017,Expense,Public Works  & Utilities,3999,,10,255
-2017,Expense,Public Works  & Utilities,2100,,1138.16,255
-2017,Expense,Public Works  & Utilities,2215,,7.44,255
-2017,Expense,Public Works  & Utilities,2503,,1000,255
-2017,Expense,Public Works  & Utilities,2514,,50,255
-2017,Expense,Public Works  & Utilities,2515,,3.2,255
-2017,Expense,Public Works  & Utilities,2599,,400,255
-2017,Expense,Public Works  & Utilities,2703,,17.5,255
-2017,Expense,Public Works  & Utilities,2803,,105,255
-2017,Expense,Public Works  & Utilities,2919,,7.5,255
-2017,Expense,Public Works  & Utilities,2999,,5,255
-2017,Expense,Public Works  & Utilities,3300,,125,255
-2017,Expense,Public Works  & Utilities,3400,,40,255
-2017,Expense,Public Works  & Utilities,3403,,2.25,255
-2017,Expense,Public Works  & Utilities,3406,,0.5,255
-2017,Expense,Public Works  & Utilities,3499,,15,255
-2017,Expense,Public Works  & Utilities,3500,,1,255
-2017,Expense,Public Works  & Utilities,3599,,2,255
-2017,Expense,Public Works  & Utilities,3700,,15,255
-2017,Expense,Public Works  & Utilities,3702,,100,255
-2017,Expense,Public Works  & Utilities,3800,,0.5,255
-2017,Expense,Public Works  & Utilities,2100,,162.07,255
-2017,Expense,Public Works  & Utilities,2104,,4.01,255
+2017,Expense,Public Works & Utilities,3700,,50,255
+2017,Expense,Public Works & Utilities,3702,,40,255
+2017,Expense,Public Works & Utilities,3799,,0.75,255
+2017,Expense,Public Works & Utilities,3901,,1.5,255
+2017,Expense,Public Works & Utilities,3904,,1,255
+2017,Expense,Public Works & Utilities,3999,,10,255
+2017,Expense,Public Works & Utilities,2100,,1138.16,255
+2017,Expense,Public Works & Utilities,2215,,7.44,255
+2017,Expense,Public Works & Utilities,2503,,1000,255
+2017,Expense,Public Works & Utilities,2514,,50,255
+2017,Expense,Public Works & Utilities,2515,,3.2,255
+2017,Expense,Public Works & Utilities,2599,,400,255
+2017,Expense,Public Works & Utilities,2703,,17.5,255
+2017,Expense,Public Works & Utilities,2803,,105,255
+2017,Expense,Public Works & Utilities,2919,,7.5,255
+2017,Expense,Public Works & Utilities,2999,,5,255
+2017,Expense,Public Works & Utilities,3300,,125,255
+2017,Expense,Public Works & Utilities,3400,,40,255
+2017,Expense,Public Works & Utilities,3403,,2.25,255
+2017,Expense,Public Works & Utilities,3406,,0.5,255
+2017,Expense,Public Works & Utilities,3499,,15,255
+2017,Expense,Public Works & Utilities,3500,,1,255
+2017,Expense,Public Works & Utilities,3599,,2,255
+2017,Expense,Public Works & Utilities,3700,,15,255
+2017,Expense,Public Works & Utilities,3702,,100,255
+2017,Expense,Public Works & Utilities,3800,,0.5,255
+2017,Expense,Public Works & Utilities,2100,,162.07,255
+2017,Expense,Public Works & Utilities,2104,,4.01,255
 2017,Expense,Public Works & Utilities,2303,,28.5,100
 2017,Expense,Public Works & Utilities,2308,,9.75,100
 2017,Expense,Public Works & Utilities,2310,,0.1,100
@@ -6223,24 +6223,24 @@ budget_year,account_type,department,fund_code,account_category,amount,fund_type
 2017,Expense,Public Works & Utilities,2701,,3,560
 2017,Expense,Public Works & Utilities,2702,,15,560
 2017,Expense,Public Works & Utilities,2703,,300,560
-2017,Expense,Public Works  & Utilities,2601,,2,255
-2017,Expense,Public Works  & Utilities,2702,,5,255
-2017,Expense,Public Works  & Utilities,2703,,53,255
-2017,Expense,Public Works  & Utilities,2802,,150,255
-2017,Expense,Public Works  & Utilities,2803,,125,255
-2017,Expense,Public Works  & Utilities,2899,,15,255
-2017,Expense,Public Works  & Utilities,2902,,1,255
-2017,Expense,Public Works  & Utilities,2917,,3,255
-2017,Expense,Public Works  & Utilities,2999,,17.5,255
-2017,Expense,Public Works  & Utilities,3103,,5,255
-2017,Expense,Public Works  & Utilities,3200,,1,255
-2017,Expense,Public Works  & Utilities,3299,,2.5,255
-2017,Expense,Public Works  & Utilities,3400,,4,255
-2017,Expense,Public Works  & Utilities,3403,,20,255
-2017,Expense,Public Works  & Utilities,3406,,2.5,255
-2017,Expense,Public Works  & Utilities,3499,,0.5,255
-2017,Expense,Public Works  & Utilities,3500,,0.75,255
-2017,Expense,Public Works  & Utilities,3599,,10,255
+2017,Expense,Public Works & Utilities,2601,,2,255
+2017,Expense,Public Works & Utilities,2702,,5,255
+2017,Expense,Public Works & Utilities,2703,,53,255
+2017,Expense,Public Works & Utilities,2802,,150,255
+2017,Expense,Public Works & Utilities,2803,,125,255
+2017,Expense,Public Works & Utilities,2899,,15,255
+2017,Expense,Public Works & Utilities,2902,,1,255
+2017,Expense,Public Works & Utilities,2917,,3,255
+2017,Expense,Public Works & Utilities,2999,,17.5,255
+2017,Expense,Public Works & Utilities,3103,,5,255
+2017,Expense,Public Works & Utilities,3200,,1,255
+2017,Expense,Public Works & Utilities,3299,,2.5,255
+2017,Expense,Public Works & Utilities,3400,,4,255
+2017,Expense,Public Works & Utilities,3403,,20,255
+2017,Expense,Public Works & Utilities,3406,,2.5,255
+2017,Expense,Public Works & Utilities,3499,,0.5,255
+2017,Expense,Public Works & Utilities,3500,,0.75,255
+2017,Expense,Public Works & Utilities,3599,,10,255
 2017,Expense,CMO - Cultural Arts Division,2101,,34,100
 2017,Expense,CMO - Cultural Arts Division,2102,,69,100
 2017,Expense,CMO - Cultural Arts Division,2104,,100.23,100
@@ -6307,12 +6307,12 @@ budget_year,account_type,department,fund_code,account_category,amount,fund_type
 2017,Expense,Department of Finance,2599,,6752.45,260
 2017,Expense,Department of Finance,2999,,750,255
 2017,Expense,Department of Finance,2407,,1400,620
-2017,Expense,Public Works  & Utilities,2599,,2,100
-2017,Expense,Public Works  & Utilities,2600,,71.5,100
-2017,Expense,Public Works  & Utilities,2601,,1.5,100
-2017,Expense,Public Works  & Utilities,2700,,26.4,100
-2017,Expense,Public Works  & Utilities,2701,,1,100
-2017,Expense,Public Works  & Utilities,2802,,40,100
+2017,Expense,Public Works & Utilities,2599,,2,100
+2017,Expense,Public Works & Utilities,2600,,71.5,100
+2017,Expense,Public Works & Utilities,2601,,1.5,100
+2017,Expense,Public Works & Utilities,2700,,26.4,100
+2017,Expense,Public Works & Utilities,2701,,1,100
+2017,Expense,Public Works & Utilities,2802,,40,100
 2017,Expense,Park,1190,,12.03,100
 2017,Expense,Park,1200,,279.58,100
 2017,Expense,Park,1232,,575.55,100
@@ -6743,20 +6743,20 @@ budget_year,account_type,department,fund_code,account_category,amount,fund_type
 2017,Expense,Public Works & Utilities,2706,,70,605
 2017,Expense,Public Works & Utilities,2707,,70,605
 2017,Expense,Public Works & Utilities,2708,,100,605
-2017,Expense,Public Works  & Utilities,2514,,32.5,255
-2017,Expense,Public Works  & Utilities,2599,,50,255
-2017,Expense,Public Works  & Utilities,2802,,15,255
-2017,Expense,Public Works  & Utilities,3400,,15,255
-2017,Expense,Public Works  & Utilities,3599,,1,255
-2017,Expense,Public Works  & Utilities,3700,,15,255
-2017,Expense,Public Works  & Utilities,3899,,2.5,255
-2017,Expense,Public Works  & Utilities,2100,,66.85,255
-2017,Expense,Public Works  & Utilities,2101,,18.47,255
-2017,Expense,Public Works  & Utilities,2104,,8.28,255
-2017,Expense,Public Works  & Utilities,2503,,25,255
-2017,Expense,Public Works  & Utilities,2599,,50,255
-2017,Expense,Public Works  & Utilities,2803,,6,255
-2017,Expense,Public Works  & Utilities,2207,,2.5,255
+2017,Expense,Public Works & Utilities,2514,,32.5,255
+2017,Expense,Public Works & Utilities,2599,,50,255
+2017,Expense,Public Works & Utilities,2802,,15,255
+2017,Expense,Public Works & Utilities,3400,,15,255
+2017,Expense,Public Works & Utilities,3599,,1,255
+2017,Expense,Public Works & Utilities,3700,,15,255
+2017,Expense,Public Works & Utilities,3899,,2.5,255
+2017,Expense,Public Works & Utilities,2100,,66.85,255
+2017,Expense,Public Works & Utilities,2101,,18.47,255
+2017,Expense,Public Works & Utilities,2104,,8.28,255
+2017,Expense,Public Works & Utilities,2503,,25,255
+2017,Expense,Public Works & Utilities,2599,,50,255
+2017,Expense,Public Works & Utilities,2803,,6,255
+2017,Expense,Public Works & Utilities,2207,,2.5,255
 2017,Expense,Park,2104,,36.56,100
 2017,Expense,Park,2200,,4.56,100
 2017,Expense,Park,2201,,6.9,100
@@ -6901,7 +6901,7 @@ budget_year,account_type,department,fund_code,account_category,amount,fund_type
 2017,Expense,Public Works & Utilities,1190,,83.59,100
 2017,Expense,Public Works & Utilities,1199,,20119.67,100
 2017,Expense,Public Works & Utilities,2917,,15,100
-2017,Expense,Public Works  & Utilities,1208,,12,100
+2017,Expense,Public Works & Utilities,1208,,12,100
 2017,Expense,Transit,2201,,9.6,520
 2017,Expense,Park,3199,,0.5,100
 2017,Expense,Park,1405,,106.06,100
@@ -7400,23 +7400,23 @@ budget_year,account_type,department,fund_code,account_category,amount,fund_type
 2017,Expense,Public Works & Utilities,3406,,6.5,100
 2017,Expense,Public Works & Utilities,3407,,3,100
 2017,Expense,Public Works & Utilities,3499,,175,100
-2017,Expense,Public Works  & Utilities,1199,,382.99,100
-2017,Expense,Public Works  & Utilities,1208,,12,100
-2017,Expense,Public Works  & Utilities,1400,,99.3,100
-2017,Expense,Public Works  & Utilities,1401,,159.65,100
-2017,Expense,Public Works  & Utilities,1403,,30.89,100
-2017,Expense,Public Works  & Utilities,1404,,2.6,100
-2017,Expense,Public Works  & Utilities,1405,,209.09,100
-2017,Expense,Public Works  & Utilities,1406,,5.12,100
-2017,Expense,Public Works  & Utilities,2203,,0.5,100
-2017,Expense,Public Works  & Utilities,2401,,23.9,100
-2017,Expense,Public Works  & Utilities,2700,,136.8,100
-2017,Expense,Public Works  & Utilities,3405,,18.44,100
-2017,Expense,Public Works  & Utilities,2207,,1.5,255
-2017,Expense,Public Works  & Utilities,2211,,1.5,255
-2017,Expense,Public Works  & Utilities,2215,,3.72,255
-2017,Expense,Public Works  & Utilities,2503,,6000,255
-2017,Expense,Public Works  & Utilities,2504,,100,255
+2017,Expense,Public Works & Utilities,1199,,382.99,100
+2017,Expense,Public Works & Utilities,1208,,12,100
+2017,Expense,Public Works & Utilities,1400,,99.3,100
+2017,Expense,Public Works & Utilities,1401,,159.65,100
+2017,Expense,Public Works & Utilities,1403,,30.89,100
+2017,Expense,Public Works & Utilities,1404,,2.6,100
+2017,Expense,Public Works & Utilities,1405,,209.09,100
+2017,Expense,Public Works & Utilities,1406,,5.12,100
+2017,Expense,Public Works & Utilities,2203,,0.5,100
+2017,Expense,Public Works & Utilities,2401,,23.9,100
+2017,Expense,Public Works & Utilities,2700,,136.8,100
+2017,Expense,Public Works & Utilities,3405,,18.44,100
+2017,Expense,Public Works & Utilities,2207,,1.5,255
+2017,Expense,Public Works & Utilities,2211,,1.5,255
+2017,Expense,Public Works & Utilities,2215,,3.72,255
+2017,Expense,Public Works & Utilities,2503,,6000,255
+2017,Expense,Public Works & Utilities,2504,,100,255
 2017,Expense,Park,3901,,0.53,100
 2017,Expense,Park,3902,,0.53,100
 2017,Expense,Park,3999,,5.33,100
@@ -7457,7 +7457,7 @@ budget_year,account_type,department,fund_code,account_category,amount,fund_type
 2017,Expense,Public Works & Utilities,2803,,50,100
 2017,Expense,Public Works & Utilities,5333,,13750,230
 2017,Expense,Public Works & Utilities,2705,,60,560
-2017,Expense,Public Works  & Utilities,2211,,2.5,255
+2017,Expense,Public Works & Utilities,2211,,2.5,255
 2017,Expense,Public Works & Utilities,2599,,4900,540
 2017,Expense,Public Works & Utilities,2700,,1000,540
 2017,Expense,Public Works & Utilities,2919,,620,540
@@ -7517,19 +7517,19 @@ budget_year,account_type,department,fund_code,account_category,amount,fund_type
 2017,Expense,Public Works & Utilities,3103,,10,540
 2017,Expense,Public Works & Utilities,3405,,160.01,540
 2017,Expense,Public Works & Utilities,3499,,4,540
-2017,Expense,Public Works  & Utilities,2201,,6,100
-2017,Expense,Public Works  & Utilities,2203,,2,100
-2017,Expense,Public Works  & Utilities,2207,,3,100
-2017,Expense,Public Works  & Utilities,2214,,4.2,100
-2017,Expense,Public Works  & Utilities,2216,,1.68,100
-2017,Expense,Public Works  & Utilities,2301,,7.5,100
-2017,Expense,Public Works  & Utilities,2302,,2.5,100
-2017,Expense,Public Works  & Utilities,2303,,2.5,100
-2017,Expense,Public Works  & Utilities,2399,,2,100
-2017,Expense,Public Works  & Utilities,2401,,28.7,100
-2017,Expense,Public Works  & Utilities,2599,,1,100
-2017,Expense,Public Works  & Utilities,2600,,80.48,100
-2017,Expense,Public Works  & Utilities,2601,,8,100
+2017,Expense,Public Works & Utilities,2201,,6,100
+2017,Expense,Public Works & Utilities,2203,,2,100
+2017,Expense,Public Works & Utilities,2207,,3,100
+2017,Expense,Public Works & Utilities,2214,,4.2,100
+2017,Expense,Public Works & Utilities,2216,,1.68,100
+2017,Expense,Public Works & Utilities,2301,,7.5,100
+2017,Expense,Public Works & Utilities,2302,,2.5,100
+2017,Expense,Public Works & Utilities,2303,,2.5,100
+2017,Expense,Public Works & Utilities,2399,,2,100
+2017,Expense,Public Works & Utilities,2401,,28.7,100
+2017,Expense,Public Works & Utilities,2599,,1,100
+2017,Expense,Public Works & Utilities,2600,,80.48,100
+2017,Expense,Public Works & Utilities,2601,,8,100
 2017,Expense,Park,1500,,1421.92,100
 2017,Expense,Park,2100,,1069.4,100
 2017,Expense,Park,2104,,1355.94,100
@@ -7690,23 +7690,23 @@ budget_year,account_type,department,fund_code,account_category,amount,fund_type
 2017,Expense,Public Works & Utilities,1100,,7851.84,265
 2017,Expense,Public Works & Utilities,1101,,182.28,265
 2017,Expense,Public Works & Utilities,2708,,50,100
-2017,Expense,Public Works  & Utilities,1400,,81.84,100
-2017,Expense,Public Works  & Utilities,1401,,131.58,100
-2017,Expense,Public Works  & Utilities,1403,,28.79,100
-2017,Expense,Public Works  & Utilities,1404,,2.14,100
-2017,Expense,Public Works  & Utilities,1405,,108.59,100
-2017,Expense,Public Works  & Utilities,1406,,4.22,100
-2017,Expense,Public Works  & Utilities,2200,,2.28,100
-2017,Expense,Public Works  & Utilities,2201,,3,100
-2017,Expense,Public Works  & Utilities,2203,,1,100
-2017,Expense,Public Works  & Utilities,2207,,10,100
-2017,Expense,Public Works  & Utilities,2214,,8.4,100
-2017,Expense,Public Works  & Utilities,2216,,1.68,100
-2017,Expense,Public Works  & Utilities,2301,,2.5,100
-2017,Expense,Public Works  & Utilities,2302,,2.5,100
-2017,Expense,Public Works  & Utilities,2303,,1,100
-2017,Expense,Public Works  & Utilities,2401,,14.4,100
-2017,Expense,Public Works  & Utilities,2502,,5,100
+2017,Expense,Public Works & Utilities,1400,,81.84,100
+2017,Expense,Public Works & Utilities,1401,,131.58,100
+2017,Expense,Public Works & Utilities,1403,,28.79,100
+2017,Expense,Public Works & Utilities,1404,,2.14,100
+2017,Expense,Public Works & Utilities,1405,,108.59,100
+2017,Expense,Public Works & Utilities,1406,,4.22,100
+2017,Expense,Public Works & Utilities,2200,,2.28,100
+2017,Expense,Public Works & Utilities,2201,,3,100
+2017,Expense,Public Works & Utilities,2203,,1,100
+2017,Expense,Public Works & Utilities,2207,,10,100
+2017,Expense,Public Works & Utilities,2214,,8.4,100
+2017,Expense,Public Works & Utilities,2216,,1.68,100
+2017,Expense,Public Works & Utilities,2301,,2.5,100
+2017,Expense,Public Works & Utilities,2302,,2.5,100
+2017,Expense,Public Works & Utilities,2303,,1,100
+2017,Expense,Public Works & Utilities,2401,,14.4,100
+2017,Expense,Public Works & Utilities,2502,,5,100
 2017,Expense,CMO - Cultural Arts Division,3899,,100,100
 2017,Expense,CMO - Cultural Arts Division,3901,,350,100
 2017,Expense,CMO - Cultural Arts Division,3902,,5,100
@@ -7788,17 +7788,17 @@ budget_year,account_type,department,fund_code,account_category,amount,fund_type
 2017,Expense,Public Works & Utilities,1404,,60.82,100
 2017,Expense,Public Works & Utilities,1405,,9191.91,100
 2017,Expense,Public Works & Utilities,1406,,120.18,100
-2017,Expense,Public Works  & Utilities,1403,,78.21,100
-2017,Expense,Public Works  & Utilities,1404,,6.57,100
-2017,Expense,Public Works  & Utilities,1405,,804.67,100
-2017,Expense,Public Works  & Utilities,1406,,13.03,100
-2017,Expense,Public Works  & Utilities,2200,,5.7,100
-2017,Expense,Public Works  & Utilities,2201,,11.7,100
-2017,Expense,Public Works  & Utilities,2203,,1.5,100
-2017,Expense,Public Works  & Utilities,2207,,0.25,100
-2017,Expense,Public Works  & Utilities,2211,,0.15,100
-2017,Expense,Public Works  & Utilities,2216,,3.36,100
-2017,Expense,Public Works  & Utilities,2301,,6,100
+2017,Expense,Public Works & Utilities,1403,,78.21,100
+2017,Expense,Public Works & Utilities,1404,,6.57,100
+2017,Expense,Public Works & Utilities,1405,,804.67,100
+2017,Expense,Public Works & Utilities,1406,,13.03,100
+2017,Expense,Public Works & Utilities,2200,,5.7,100
+2017,Expense,Public Works & Utilities,2201,,11.7,100
+2017,Expense,Public Works & Utilities,2203,,1.5,100
+2017,Expense,Public Works & Utilities,2207,,0.25,100
+2017,Expense,Public Works & Utilities,2211,,0.15,100
+2017,Expense,Public Works & Utilities,2216,,3.36,100
+2017,Expense,Public Works & Utilities,2301,,6,100
 2017,Expense,CMO - Cultural Arts Division,2906,,5,100
 2017,Expense,CMO - Cultural Arts Division,2917,,15,100
 2017,Expense,CMO - Cultural Arts Division,3101,,25,100
@@ -8329,7 +8329,7 @@ budget_year,account_type,department,fund_code,account_category,amount,fund_type
 2017,Expense,Public Works & Utilities,2803,,225,100
 2017,Expense,Public Works & Utilities,1100,,557.01,605
 2017,Expense,Public Works & Utilities,2803,,3.5,100
-2017,Expense,Public Works  & Utilities,1190,,6.7,100
+2017,Expense,Public Works & Utilities,1190,,6.7,100
 2017,Expense,Park,3400,,1,100
 2017,Expense,Park,3405,,26.21,100
 2017,Expense,Park,3499,,20,100
@@ -8507,21 +8507,21 @@ budget_year,account_type,department,fund_code,account_category,amount,fund_type
 2017,Expense,Public Works & Utilities,2211,,2.75,540
 2017,Expense,Public Works & Utilities,2502,,2,540
 2017,Expense,Public Works & Utilities,2511,,195,540
-2017,Expense,Public Works  & Utilities,2506,,250,255
-2017,Expense,Public Works  & Utilities,2507,,8,255
-2017,Expense,Public Works  & Utilities,2514,,279.5,255
-2017,Expense,Public Works  & Utilities,2599,,3500,255
-2017,Expense,Public Works  & Utilities,2700,,30,255
-2017,Expense,Public Works  & Utilities,2703,,2,255
-2017,Expense,Public Works  & Utilities,2801,,455,255
-2017,Expense,Public Works  & Utilities,2802,,30,255
-2017,Expense,Public Works  & Utilities,2803,,160,255
-2017,Expense,Public Works  & Utilities,2805,,100,255
-2017,Expense,Public Works  & Utilities,2899,,5,255
-2017,Expense,Public Works  & Utilities,2900,,87.67,255
-2017,Expense,Public Works  & Utilities,2902,,3,255
-2017,Expense,Public Works  & Utilities,2916,,0.5,255
-2017,Expense,Public Works  & Utilities,2917,,1,255
+2017,Expense,Public Works & Utilities,2506,,250,255
+2017,Expense,Public Works & Utilities,2507,,8,255
+2017,Expense,Public Works & Utilities,2514,,279.5,255
+2017,Expense,Public Works & Utilities,2599,,3500,255
+2017,Expense,Public Works & Utilities,2700,,30,255
+2017,Expense,Public Works & Utilities,2703,,2,255
+2017,Expense,Public Works & Utilities,2801,,455,255
+2017,Expense,Public Works & Utilities,2802,,30,255
+2017,Expense,Public Works & Utilities,2803,,160,255
+2017,Expense,Public Works & Utilities,2805,,100,255
+2017,Expense,Public Works & Utilities,2899,,5,255
+2017,Expense,Public Works & Utilities,2900,,87.67,255
+2017,Expense,Public Works & Utilities,2902,,3,255
+2017,Expense,Public Works & Utilities,2916,,0.5,255
+2017,Expense,Public Works & Utilities,2917,,1,255
 2017,Expense,Public Works & Utilities,4502,,2670,530
 2017,Expense,Public Works & Utilities,4606,,8330,530
 2017,Expense,Information Tech/Info Services,1200,,577.3,600
