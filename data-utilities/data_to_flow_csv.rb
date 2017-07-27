@@ -87,7 +87,7 @@ CSV.open(options[:fileout], "w") do |csvout|
         fundType = row[idx[:fundtype]].strip
 
         program = accountType == "Revenue" ? row[idx[:program]].strip : nil
-        department = accountType == "Revenue" ? nil : row[idx[:agency]].strip
+        department = accountType == "Revenue" ? nil : row[idx[:agency]].gsub(/\s+/, ' ').strip
 
         csvout << [budgetYear, accountType, department, fund, program, value, fundType]  
     end
