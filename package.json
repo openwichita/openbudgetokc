@@ -6,6 +6,7 @@
     "start": "cd _src && harp server",
     "build": "cd _src && harp compile ./ ../www",
     "build-tree-data": "python _treemap/treemap_process_data.py _treemap/config.json $INPUT && mv ./Adopted.*.json _src/data/tree/",
+    "build-flow-data": "./data-utilities/data_to_flow_csv.rb -i data/2017-wichita-adopted-budget-processed.csv -o _src/data/flow/2017__adopted.csv",
     "test": "karma start"
   },
   "repository": {

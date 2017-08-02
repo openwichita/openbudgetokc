@@ -1131,8 +1131,8 @@
     "agency": "City Manager",
     "fund": "023803",
     "lob": "Block 1 Garage Ambassador 360 E William",
-    "program": "Property taxes ",
-    "key": "Property taxes ",
+    "program": "Property taxes",
+    "key": "Property taxes",
     "value": "40"
   },
   {
@@ -1219,8 +1219,8 @@
     "agency": "City Manager",
     "fund": "023804",
     "lob": "Old Town Parking District",
-    "program": "Property taxes ",
-    "key": "Property taxes ",
+    "program": "Property taxes",
+    "key": "Property taxes",
     "value": "600"
   },
   {
@@ -1299,8 +1299,8 @@
     "agency": "City Manager",
     "fund": "023806",
     "lob": "William Street Garage",
-    "program": "Property taxes ",
-    "key": "Property taxes ",
+    "program": "Property taxes",
+    "key": "Property taxes",
     "value": "50"
   },
   {
@@ -1955,8 +1955,8 @@
     "agency": "City Manager",
     "fund": "028001",
     "lob": "Economic Development",
-    "program": "Property taxes ",
-    "key": "Property taxes ",
+    "program": "Property taxes",
+    "key": "Property taxes",
     "value": "30"
   },
   {
@@ -2307,8 +2307,8 @@
     "agency": "City Manager",
     "fund": "028006",
     "lob": "Prop Mgmt - Operations",
-    "program": "Property taxes ",
-    "key": "Property taxes ",
+    "program": "Property taxes",
+    "key": "Property taxes",
     "value": "150000"
   },
   {
@@ -6186,7 +6186,7 @@
   {
     "agency": "Department of Finance",
     "fund": "037024",
-    "lob": "TBID Service ",
+    "lob": "TBID Service",
     "program": "Other professional services",
     "key": "Other professional services",
     "value": "71672"
@@ -6194,7 +6194,7 @@
   {
     "agency": "Department of Finance",
     "fund": "037024",
-    "lob": "TBID Service ",
+    "lob": "TBID Service",
     "program": "Miscellaneous and sundry",
     "key": "Miscellaneous and sundry",
     "value": "2916039"
@@ -11515,8 +11515,8 @@
     "agency": "Public Works & Utilities",
     "fund": "130807",
     "lob": "Fleet maintenance - I.S.",
-    "program": "Garden/grounds/lawn equip < $5,000 each ",
-    "key": "Garden/grounds/lawn equip < $5,000 each ",
+    "program": "Garden/grounds/lawn equip < $5,000 each",
+    "key": "Garden/grounds/lawn equip < $5,000 each",
     "value": "8000"
   },
   {
@@ -13211,8 +13211,8 @@
     "agency": "Public Works & Utilities",
     "fund": "131384",
     "lob": "Landfill Post-Closure Fund",
-    "program": "Property taxes ",
-    "key": "Property taxes ",
+    "program": "Property taxes",
+    "key": "Property taxes",
     "value": "25"
   },
   {
@@ -21755,8 +21755,8 @@
     "agency": "CMO - Cultural Arts Division",
     "fund": "112000",
     "lob": "Century II",
-    "program": "Property taxes ",
-    "key": "Property taxes ",
+    "program": "Property taxes",
+    "key": "Property taxes",
     "value": "20"
   },
   {
@@ -22387,8 +22387,8 @@
     "agency": "Public Works & Utilities",
     "fund": "132225",
     "lob": "Street Maintenance",
-    "program": "Property taxes ",
-    "key": "Property taxes ",
+    "program": "Property taxes",
+    "key": "Property taxes",
     "value": "30"
   },
   {
@@ -23267,8 +23267,8 @@
     "agency": "Public Works & Utilities",
     "fund": "133116",
     "lob": "STORM WATER UTILITY",
-    "program": "Property taxes ",
-    "key": "Property taxes ",
+    "program": "Property taxes",
+    "key": "Property taxes",
     "value": "1500"
   },
   {
@@ -24763,8 +24763,8 @@
     "agency": "Public Works & Utilities",
     "fund": "142002",
     "lob": "Envirn. Health- Administration",
-    "program": "Property taxes ",
-    "key": "Property taxes ",
+    "program": "Property taxes",
+    "key": "Property taxes",
     "value": "20"
   },
   {
@@ -24898,7 +24898,7 @@
   {
     "agency": "Public Works & Utilities",
     "fund": "142016",
-    "lob": "Water Quality ",
+    "lob": "Water Quality",
     "program": "Bi-weekly wages",
     "key": "Bi-weekly wages",
     "value": "105499"
@@ -24906,7 +24906,7 @@
   {
     "agency": "Public Works & Utilities",
     "fund": "142016",
-    "lob": "Water Quality ",
+    "lob": "Water Quality",
     "program": "Longevity",
     "key": "Longevity",
     "value": "1476"
@@ -24914,7 +24914,7 @@
   {
     "agency": "Public Works & Utilities",
     "fund": "142016",
-    "lob": "Water Quality ",
+    "lob": "Water Quality",
     "program": "Accrual",
     "key": "Accrual",
     "value": "614"
@@ -24922,7 +24922,7 @@
   {
     "agency": "Public Works & Utilities",
     "fund": "142016",
-    "lob": "Water Quality ",
+    "lob": "Water Quality",
     "program": "Laboratory services",
     "key": "Laboratory services",
     "value": "1000"
@@ -24930,7 +24930,7 @@
   {
     "agency": "Public Works & Utilities",
     "fund": "142016",
-    "lob": "Water Quality ",
+    "lob": "Water Quality",
     "program": "Data center charges",
     "key": "Data center charges",
     "value": "2542"
@@ -24938,7 +24938,7 @@
   {
     "agency": "Public Works & Utilities",
     "fund": "142016",
-    "lob": "Water Quality ",
+    "lob": "Water Quality",
     "program": "Maintenance - data equipment",
     "key": "Maintenance - data equipment",
     "value": "100"
@@ -24946,7 +24946,7 @@
   {
     "agency": "Public Works & Utilities",
     "fund": "142016",
-    "lob": "Water Quality ",
+    "lob": "Water Quality",
     "program": "Motor pool - scheduled charges",
     "key": "Motor pool - scheduled charges",
     "value": "6360"
@@ -24954,7 +24954,7 @@
   {
     "agency": "Public Works & Utilities",
     "fund": "142016",
-    "lob": "Water Quality ",
+    "lob": "Water Quality",
     "program": "Motor pool-unscheduled charges",
     "key": "Motor pool-unscheduled charges",
     "value": "100"
@@ -24962,7 +24962,7 @@
   {
     "agency": "Public Works & Utilities",
     "fund": "142016",
-    "lob": "Water Quality ",
+    "lob": "Water Quality",
     "program": "Membership dues",
     "key": "Membership dues",
     "value": "50"
@@ -24970,7 +24970,7 @@
   {
     "agency": "Public Works & Utilities",
     "fund": "142016",
-    "lob": "Water Quality ",
+    "lob": "Water Quality",
     "program": "Printing and copying",
     "key": "Printing and copying",
     "value": "600"
@@ -24978,7 +24978,7 @@
   {
     "agency": "Public Works & Utilities",
     "fund": "142016",
-    "lob": "Water Quality ",
+    "lob": "Water Quality",
     "program": "Office supplies",
     "key": "Office supplies",
     "value": "200"
@@ -24986,7 +24986,7 @@
   {
     "agency": "Public Works & Utilities",
     "fund": "142016",
-    "lob": "Water Quality ",
+    "lob": "Water Quality",
     "program": "Other chemicals",
     "key": "Other chemicals",
     "value": "600"
@@ -24994,7 +24994,7 @@
   {
     "agency": "Public Works & Utilities",
     "fund": "142016",
-    "lob": "Water Quality ",
+    "lob": "Water Quality",
     "program": "Equipment parts and supplies",
     "key": "Equipment parts and supplies",
     "value": "100"
@@ -25002,7 +25002,7 @@
   {
     "agency": "Public Works & Utilities",
     "fund": "142016",
-    "lob": "Water Quality ",
+    "lob": "Water Quality",
     "program": "Fuel",
     "key": "Fuel",
     "value": "2785"
@@ -25010,7 +25010,7 @@
   {
     "agency": "Public Works & Utilities",
     "fund": "142016",
-    "lob": "Water Quality ",
+    "lob": "Water Quality",
     "program": "Data processing equipment  < $5,000 each",
     "key": "Data processing equipment  < $5,000 each",
     "value": "750"
@@ -25018,7 +25018,7 @@
   {
     "agency": "Public Works & Utilities",
     "fund": "142016",
-    "lob": "Water Quality ",
+    "lob": "Water Quality",
     "program": "Other commodities",
     "key": "Other commodities",
     "value": "1250"
@@ -25026,7 +25026,7 @@
   {
     "agency": "Public Works & Utilities",
     "fund": "142016",
-    "lob": "Water Quality ",
+    "lob": "Water Quality",
     "program": "FICA",
     "key": "FICA",
     "value": "8184"
@@ -25034,7 +25034,7 @@
   {
     "agency": "Public Works & Utilities",
     "fund": "142016",
-    "lob": "Water Quality ",
+    "lob": "Water Quality",
     "program": "Employee pension",
     "key": "Employee pension",
     "value": "13158"
@@ -25042,7 +25042,7 @@
   {
     "agency": "Public Works & Utilities",
     "fund": "142016",
-    "lob": "Water Quality ",
+    "lob": "Water Quality",
     "program": "Workers compensation",
     "key": "Workers compensation",
     "value": "2879"
@@ -25050,7 +25050,7 @@
   {
     "agency": "Public Works & Utilities",
     "fund": "142016",
-    "lob": "Water Quality ",
+    "lob": "Water Quality",
     "program": "Unemployment compensation",
     "key": "Unemployment compensation",
     "value": "214"
@@ -25058,7 +25058,7 @@
   {
     "agency": "Public Works & Utilities",
     "fund": "142016",
-    "lob": "Water Quality ",
+    "lob": "Water Quality",
     "program": "Group health insurance",
     "key": "Group health insurance",
     "value": "10859"
@@ -25066,7 +25066,7 @@
   {
     "agency": "Public Works & Utilities",
     "fund": "142016",
-    "lob": "Water Quality ",
+    "lob": "Water Quality",
     "program": "Group life insurance",
     "key": "Group life insurance",
     "value": "422"
@@ -25074,7 +25074,7 @@
   {
     "agency": "Public Works & Utilities",
     "fund": "142016",
-    "lob": "Water Quality ",
+    "lob": "Water Quality",
     "program": "PBX - line charges",
     "key": "PBX - line charges",
     "value": "228"
@@ -25082,7 +25082,7 @@
   {
     "agency": "Public Works & Utilities",
     "fund": "142016",
-    "lob": "Water Quality ",
+    "lob": "Water Quality",
     "program": "PBX - instrument charges",
     "key": "PBX - instrument charges",
     "value": "300"
@@ -25090,7 +25090,7 @@
   {
     "agency": "Public Works & Utilities",
     "fund": "142016",
-    "lob": "Water Quality ",
+    "lob": "Water Quality",
     "program": "Long distance service",
     "key": "Long distance service",
     "value": "100"
@@ -25098,7 +25098,7 @@
   {
     "agency": "Public Works & Utilities",
     "fund": "142016",
-    "lob": "Water Quality ",
+    "lob": "Water Quality",
     "program": "Postage - regular",
     "key": "Postage - regular",
     "value": "1000"
@@ -25106,7 +25106,7 @@
   {
     "agency": "Public Works & Utilities",
     "fund": "142016",
-    "lob": "Water Quality ",
+    "lob": "Water Quality",
     "program": "Air cards - mobile",
     "key": "Air cards - mobile",
     "value": "840"
@@ -25114,7 +25114,7 @@
   {
     "agency": "Public Works & Utilities",
     "fund": "142016",
-    "lob": "Water Quality ",
+    "lob": "Water Quality",
     "program": "Voice mail",
     "key": "Voice mail",
     "value": "168"
@@ -25122,7 +25122,7 @@
   {
     "agency": "Public Works & Utilities",
     "fund": "142016",
-    "lob": "Water Quality ",
+    "lob": "Water Quality",
     "program": "Meals and lodging allowance",
     "key": "Meals and lodging allowance",
     "value": "250"
@@ -25130,7 +25130,7 @@
   {
     "agency": "Public Works & Utilities",
     "fund": "142016",
-    "lob": "Water Quality ",
+    "lob": "Water Quality",
     "program": "Out of town registration fees",
     "key": "Out of town registration fees",
     "value": "250"
@@ -25138,7 +25138,7 @@
   {
     "agency": "Public Works & Utilities",
     "fund": "142016",
-    "lob": "Water Quality ",
+    "lob": "Water Quality",
     "program": "In town registration fees",
     "key": "In town registration fees",
     "value": "100"
@@ -25146,7 +25146,7 @@
   {
     "agency": "Public Works & Utilities",
     "fund": "142016",
-    "lob": "Water Quality ",
+    "lob": "Water Quality",
     "program": "Vehicle liability",
     "key": "Vehicle liability",
     "value": "1440"
@@ -25154,7 +25154,7 @@
   {
     "agency": "Public Works & Utilities",
     "fund": "142016",
-    "lob": "Water Quality ",
+    "lob": "Water Quality",
     "program": "Medical and laboratory services",
     "key": "Medical and laboratory services",
     "value": "500"
@@ -25162,7 +25162,7 @@
   {
     "agency": "Public Works & Utilities",
     "fund": "142016",
-    "lob": "Water Quality ",
+    "lob": "Water Quality",
     "program": "Cellular phone allowance",
     "key": "Cellular phone allowance",
     "value": "1200"
@@ -25170,7 +25170,7 @@
   {
     "agency": "Public Works & Utilities",
     "fund": "142021",
-    "lob": "Air Quality ",
+    "lob": "Air Quality",
     "program": "Data processing equipment  < $5,000 each",
     "key": "Data processing equipment  < $5,000 each",
     "value": "100"
@@ -25178,7 +25178,7 @@
   {
     "agency": "Public Works & Utilities",
     "fund": "142021",
-    "lob": "Air Quality ",
+    "lob": "Air Quality",
     "program": "Other commodities",
     "key": "Other commodities",
     "value": "5000"
@@ -25186,7 +25186,7 @@
   {
     "agency": "Public Works & Utilities",
     "fund": "142021",
-    "lob": "Air Quality ",
+    "lob": "Air Quality",
     "program": "Accrual",
     "key": "Accrual",
     "value": "518"
@@ -25194,7 +25194,7 @@
   {
     "agency": "Public Works & Utilities",
     "fund": "142021",
-    "lob": "Air Quality ",
+    "lob": "Air Quality",
     "program": "Other",
     "key": "Other",
     "value": "50348"
@@ -25202,7 +25202,7 @@
   {
     "agency": "Public Works & Utilities",
     "fund": "142021",
-    "lob": "Air Quality ",
+    "lob": "Air Quality",
     "program": "Employee benefits in aggregate",
     "key": "Employee benefits in aggregate",
     "value": "12587"
@@ -25210,7 +25210,7 @@
   {
     "agency": "Public Works & Utilities",
     "fund": "142021",
-    "lob": "Air Quality ",
+    "lob": "Air Quality",
     "program": "Postage - regular",
     "key": "Postage - regular",
     "value": "25"
@@ -25218,7 +25218,7 @@
   {
     "agency": "Public Works & Utilities",
     "fund": "142021",
-    "lob": "Air Quality ",
+    "lob": "Air Quality",
     "program": "Turnpike fees and charges",
     "key": "Turnpike fees and charges",
     "value": "50"
@@ -25226,7 +25226,7 @@
   {
     "agency": "Public Works & Utilities",
     "fund": "142021",
-    "lob": "Air Quality ",
+    "lob": "Air Quality",
     "program": "Vehicle liability",
     "key": "Vehicle liability",
     "value": "2390"
@@ -25234,7 +25234,7 @@
   {
     "agency": "Public Works & Utilities",
     "fund": "142021",
-    "lob": "Air Quality ",
+    "lob": "Air Quality",
     "program": "Audits",
     "key": "Audits",
     "value": "200"
@@ -25242,7 +25242,7 @@
   {
     "agency": "Public Works & Utilities",
     "fund": "142021",
-    "lob": "Air Quality ",
+    "lob": "Air Quality",
     "program": "Data center charges",
     "key": "Data center charges",
     "value": "6007"
@@ -25250,7 +25250,7 @@
   {
     "agency": "Public Works & Utilities",
     "fund": "142021",
-    "lob": "Air Quality ",
+    "lob": "Air Quality",
     "program": "Motor pool - scheduled charges",
     "key": "Motor pool - scheduled charges",
     "value": "14400"
@@ -25258,7 +25258,7 @@
   {
     "agency": "Public Works & Utilities",
     "fund": "142021",
-    "lob": "Air Quality ",
+    "lob": "Air Quality",
     "program": "Other equipment charges",
     "key": "Other equipment charges",
     "value": "250"
@@ -25266,7 +25266,7 @@
   {
     "agency": "Public Works & Utilities",
     "fund": "142021",
-    "lob": "Air Quality ",
+    "lob": "Air Quality",
     "program": "Advertising",
     "key": "Advertising",
     "value": "15000"
@@ -25274,7 +25274,7 @@
   {
     "agency": "Public Works & Utilities",
     "fund": "142021",
-    "lob": "Air Quality ",
+    "lob": "Air Quality",
     "program": "Printing and copying",
     "key": "Printing and copying",
     "value": "1000"
@@ -25282,7 +25282,7 @@
   {
     "agency": "Public Works & Utilities",
     "fund": "142021",
-    "lob": "Air Quality ",
+    "lob": "Air Quality",
     "program": "Office supplies",
     "key": "Office supplies",
     "value": "50"
@@ -25290,7 +25290,7 @@
   {
     "agency": "Public Works & Utilities",
     "fund": "142021",
-    "lob": "Air Quality ",
+    "lob": "Air Quality",
     "program": "Equipment parts and supplies",
     "key": "Equipment parts and supplies",
     "value": "100"
@@ -25298,7 +25298,7 @@
   {
     "agency": "Public Works & Utilities",
     "fund": "142021",
-    "lob": "Air Quality ",
+    "lob": "Air Quality",
     "program": "Fuel",
     "key": "Fuel",
     "value": "7841"
@@ -25618,7 +25618,7 @@
   {
     "agency": "Public Works & Utilities",
     "fund": "142122",
-    "lob": "Environmental Assmnt and Remedtn ",
+    "lob": "Environmental Assmnt and Remedtn",
     "program": "Bi-weekly wages",
     "key": "Bi-weekly wages",
     "value": "325795"
@@ -25626,7 +25626,7 @@
   {
     "agency": "Public Works & Utilities",
     "fund": "142122",
-    "lob": "Environmental Assmnt and Remedtn ",
+    "lob": "Environmental Assmnt and Remedtn",
     "program": "Longevity",
     "key": "Longevity",
     "value": "2820"
@@ -25634,7 +25634,7 @@
   {
     "agency": "Public Works & Utilities",
     "fund": "142122",
-    "lob": "Environmental Assmnt and Remedtn ",
+    "lob": "Environmental Assmnt and Remedtn",
     "program": "Accrual",
     "key": "Accrual",
     "value": "1889"
@@ -25642,7 +25642,7 @@
   {
     "agency": "Public Works & Utilities",
     "fund": "142122",
-    "lob": "Environmental Assmnt and Remedtn ",
+    "lob": "Environmental Assmnt and Remedtn",
     "program": "Cellular phone allowance",
     "key": "Cellular phone allowance",
     "value": "1200"
@@ -25650,7 +25650,7 @@
   {
     "agency": "Public Works & Utilities",
     "fund": "142122",
-    "lob": "Environmental Assmnt and Remedtn ",
+    "lob": "Environmental Assmnt and Remedtn",
     "program": "FICA",
     "key": "FICA",
     "value": "25139"
@@ -25658,7 +25658,7 @@
   {
     "agency": "Public Works & Utilities",
     "fund": "142122",
-    "lob": "Environmental Assmnt and Remedtn ",
+    "lob": "Environmental Assmnt and Remedtn",
     "program": "Employee pension",
     "key": "Employee pension",
     "value": "40420"
@@ -25666,7 +25666,7 @@
   {
     "agency": "Public Works & Utilities",
     "fund": "142122",
-    "lob": "Environmental Assmnt and Remedtn ",
+    "lob": "Environmental Assmnt and Remedtn",
     "program": "Out of town registration fees",
     "key": "Out of town registration fees",
     "value": "300"
@@ -25674,7 +25674,7 @@
   {
     "agency": "Public Works & Utilities",
     "fund": "142122",
-    "lob": "Environmental Assmnt and Remedtn ",
+    "lob": "Environmental Assmnt and Remedtn",
     "program": "In town registration fees",
     "key": "In town registration fees",
     "value": "100"
@@ -25682,7 +25682,7 @@
   {
     "agency": "Public Works & Utilities",
     "fund": "142122",
-    "lob": "Environmental Assmnt and Remedtn ",
+    "lob": "Environmental Assmnt and Remedtn",
     "program": "Transportation - out of town",
     "key": "Transportation - out of town",
     "value": "150"
@@ -25690,7 +25690,7 @@
   {
     "agency": "Public Works & Utilities",
     "fund": "142122",
-    "lob": "Environmental Assmnt and Remedtn ",
+    "lob": "Environmental Assmnt and Remedtn",
     "program": "Building and contents insurance",
     "key": "Building and contents insurance",
     "value": "19458"
@@ -25698,7 +25698,7 @@
   {
     "agency": "Public Works & Utilities",
     "fund": "142122",
-    "lob": "Environmental Assmnt and Remedtn ",
+    "lob": "Environmental Assmnt and Remedtn",
     "program": "Vehicle liability",
     "key": "Vehicle liability",
     "value": "480"
@@ -25706,7 +25706,7 @@
   {
     "agency": "Public Works & Utilities",
     "fund": "142122",
-    "lob": "Environmental Assmnt and Remedtn ",
+    "lob": "Environmental Assmnt and Remedtn",
     "program": "Laboratory services",
     "key": "Laboratory services",
     "value": "750"
@@ -25714,7 +25714,7 @@
   {
     "agency": "Public Works & Utilities",
     "fund": "142122",
-    "lob": "Environmental Assmnt and Remedtn ",
+    "lob": "Environmental Assmnt and Remedtn",
     "program": "Data center charges",
     "key": "Data center charges",
     "value": "4620"
@@ -25722,7 +25722,7 @@
   {
     "agency": "Public Works & Utilities",
     "fund": "142122",
-    "lob": "Environmental Assmnt and Remedtn ",
+    "lob": "Environmental Assmnt and Remedtn",
     "program": "Motor pool - scheduled charges",
     "key": "Motor pool - scheduled charges",
     "value": "2160"
@@ -25730,7 +25730,7 @@
   {
     "agency": "Public Works & Utilities",
     "fund": "142122",
-    "lob": "Environmental Assmnt and Remedtn ",
+    "lob": "Environmental Assmnt and Remedtn",
     "program": "Motor pool-unscheduled charges",
     "key": "Motor pool-unscheduled charges",
     "value": "100"
@@ -25738,7 +25738,7 @@
   {
     "agency": "Public Works & Utilities",
     "fund": "142122",
-    "lob": "Environmental Assmnt and Remedtn ",
+    "lob": "Environmental Assmnt and Remedtn",
     "program": "Membership dues",
     "key": "Membership dues",
     "value": "150"
@@ -25746,7 +25746,7 @@
   {
     "agency": "Public Works & Utilities",
     "fund": "142122",
-    "lob": "Environmental Assmnt and Remedtn ",
+    "lob": "Environmental Assmnt and Remedtn",
     "program": "Printing and copying",
     "key": "Printing and copying",
     "value": "1400"
@@ -25754,7 +25754,7 @@
   {
     "agency": "Public Works & Utilities",
     "fund": "142122",
-    "lob": "Environmental Assmnt and Remedtn ",
+    "lob": "Environmental Assmnt and Remedtn",
     "program": "Computer/printer supplies",
     "key": "Computer/printer supplies",
     "value": "150"
@@ -25762,7 +25762,7 @@
   {
     "agency": "Public Works & Utilities",
     "fund": "142122",
-    "lob": "Environmental Assmnt and Remedtn ",
+    "lob": "Environmental Assmnt and Remedtn",
     "program": "Office supplies",
     "key": "Office supplies",
     "value": "500"
@@ -25770,7 +25770,7 @@
   {
     "agency": "Public Works & Utilities",
     "fund": "142122",
-    "lob": "Environmental Assmnt and Remedtn ",
+    "lob": "Environmental Assmnt and Remedtn",
     "program": "Fuel",
     "key": "Fuel",
     "value": "517"
@@ -25778,7 +25778,7 @@
   {
     "agency": "Public Works & Utilities",
     "fund": "142122",
-    "lob": "Environmental Assmnt and Remedtn ",
+    "lob": "Environmental Assmnt and Remedtn",
     "program": "Other materials",
     "key": "Other materials",
     "value": "50"
@@ -25786,7 +25786,7 @@
   {
     "agency": "Public Works & Utilities",
     "fund": "142122",
-    "lob": "Environmental Assmnt and Remedtn ",
+    "lob": "Environmental Assmnt and Remedtn",
     "program": "Petty cash expenditures",
     "key": "Petty cash expenditures",
     "value": "50"
@@ -25794,7 +25794,7 @@
   {
     "agency": "Public Works & Utilities",
     "fund": "142122",
-    "lob": "Environmental Assmnt and Remedtn ",
+    "lob": "Environmental Assmnt and Remedtn",
     "program": "Other commodities",
     "key": "Other commodities",
     "value": "1000"
@@ -25802,7 +25802,7 @@
   {
     "agency": "Public Works & Utilities",
     "fund": "142122",
-    "lob": "Environmental Assmnt and Remedtn ",
+    "lob": "Environmental Assmnt and Remedtn",
     "program": "Certification fees",
     "key": "Certification fees",
     "value": "110"
@@ -25810,7 +25810,7 @@
   {
     "agency": "Public Works & Utilities",
     "fund": "142122",
-    "lob": "Environmental Assmnt and Remedtn ",
+    "lob": "Environmental Assmnt and Remedtn",
     "program": "Workers compensation",
     "key": "Workers compensation",
     "value": "7821"
@@ -25818,7 +25818,7 @@
   {
     "agency": "Public Works & Utilities",
     "fund": "142122",
-    "lob": "Environmental Assmnt and Remedtn ",
+    "lob": "Environmental Assmnt and Remedtn",
     "program": "Unemployment compensation",
     "key": "Unemployment compensation",
     "value": "657"
@@ -25826,7 +25826,7 @@
   {
     "agency": "Public Works & Utilities",
     "fund": "142122",
-    "lob": "Environmental Assmnt and Remedtn ",
+    "lob": "Environmental Assmnt and Remedtn",
     "program": "Group health insurance",
     "key": "Group health insurance",
     "value": "80467"
@@ -25834,7 +25834,7 @@
   {
     "agency": "Public Works & Utilities",
     "fund": "142122",
-    "lob": "Environmental Assmnt and Remedtn ",
+    "lob": "Environmental Assmnt and Remedtn",
     "program": "Group life insurance",
     "key": "Group life insurance",
     "value": "1303"
@@ -25842,7 +25842,7 @@
   {
     "agency": "Public Works & Utilities",
     "fund": "142122",
-    "lob": "Environmental Assmnt and Remedtn ",
+    "lob": "Environmental Assmnt and Remedtn",
     "program": "PBX - line charges",
     "key": "PBX - line charges",
     "value": "570"
@@ -25850,7 +25850,7 @@
   {
     "agency": "Public Works & Utilities",
     "fund": "142122",
-    "lob": "Environmental Assmnt and Remedtn ",
+    "lob": "Environmental Assmnt and Remedtn",
     "program": "PBX - instrument charges",
     "key": "PBX - instrument charges",
     "value": "1170"
@@ -25858,7 +25858,7 @@
   {
     "agency": "Public Works & Utilities",
     "fund": "142122",
-    "lob": "Environmental Assmnt and Remedtn ",
+    "lob": "Environmental Assmnt and Remedtn",
     "program": "Long distance service",
     "key": "Long distance service",
     "value": "150"
@@ -25866,7 +25866,7 @@
   {
     "agency": "Public Works & Utilities",
     "fund": "142122",
-    "lob": "Environmental Assmnt and Remedtn ",
+    "lob": "Environmental Assmnt and Remedtn",
     "program": "Postage - regular",
     "key": "Postage - regular",
     "value": "25"
@@ -25874,7 +25874,7 @@
   {
     "agency": "Public Works & Utilities",
     "fund": "142122",
-    "lob": "Environmental Assmnt and Remedtn ",
+    "lob": "Environmental Assmnt and Remedtn",
     "program": "Express mail",
     "key": "Express mail",
     "value": "15"
@@ -25882,7 +25882,7 @@
   {
     "agency": "Public Works & Utilities",
     "fund": "142122",
-    "lob": "Environmental Assmnt and Remedtn ",
+    "lob": "Environmental Assmnt and Remedtn",
     "program": "Voice mail",
     "key": "Voice mail",
     "value": "336"
@@ -25890,7 +25890,7 @@
   {
     "agency": "Public Works & Utilities",
     "fund": "142122",
-    "lob": "Environmental Assmnt and Remedtn ",
+    "lob": "Environmental Assmnt and Remedtn",
     "program": "Meals and lodging allowance",
     "key": "Meals and lodging allowance",
     "value": "600"
@@ -26275,8 +26275,8 @@
     "agency": "Public Works & Utilities",
     "fund": "148557",
     "lob": "Gilbert & Mosley-General Program Costs",
-    "program": "Property taxes ",
-    "key": "Property taxes ",
+    "program": "Property taxes",
+    "key": "Property taxes",
     "value": "50"
   },
   {
@@ -28067,8 +28067,8 @@
     "agency": "Transit",
     "fund": "160002",
     "lob": "MTA Administration",
-    "program": "Property taxes ",
-    "key": "Property taxes ",
+    "program": "Property taxes",
+    "key": "Property taxes",
     "value": "10"
   },
   {
@@ -29739,8 +29739,8 @@
     "agency": "Park",
     "fund": "172102",
     "lob": "Park Maintenance",
-    "program": "Property taxes ",
-    "key": "Property taxes ",
+    "program": "Property taxes",
+    "key": "Property taxes",
     "value": "3050"
   },
   {
@@ -29867,8 +29867,8 @@
     "agency": "Park",
     "fund": "172102",
     "lob": "Park Maintenance",
-    "program": "Garden/grounds/lawn equip < $5,000 each ",
-    "key": "Garden/grounds/lawn equip < $5,000 each ",
+    "program": "Garden/grounds/lawn equip < $5,000 each",
+    "key": "Garden/grounds/lawn equip < $5,000 each",
     "value": "16000"
   },
   {
@@ -30115,8 +30115,8 @@
     "agency": "Park",
     "fund": "172103",
     "lob": "Athletics Maintenance",
-    "program": "Property taxes ",
-    "key": "Property taxes ",
+    "program": "Property taxes",
+    "key": "Property taxes",
     "value": "15"
   },
   {
@@ -30235,8 +30235,8 @@
     "agency": "Park",
     "fund": "172103",
     "lob": "Athletics Maintenance",
-    "program": "Garden/grounds/lawn equip < $5,000 each ",
-    "key": "Garden/grounds/lawn equip < $5,000 each ",
+    "program": "Garden/grounds/lawn equip < $5,000 each",
+    "key": "Garden/grounds/lawn equip < $5,000 each",
     "value": "23000"
   },
   {
@@ -30371,8 +30371,8 @@
     "agency": "Park",
     "fund": "172201",
     "lob": "Park Maintenance Central Support",
-    "program": "Garden/grounds/lawn equip < $5,000 each ",
-    "key": "Garden/grounds/lawn equip < $5,000 each ",
+    "program": "Garden/grounds/lawn equip < $5,000 each",
+    "key": "Garden/grounds/lawn equip < $5,000 each",
     "value": "15000"
   },
   {
@@ -31187,8 +31187,8 @@
     "agency": "Park",
     "fund": "172206",
     "lob": "Forestry",
-    "program": "Garden/grounds/lawn equip < $5,000 each ",
-    "key": "Garden/grounds/lawn equip < $5,000 each ",
+    "program": "Garden/grounds/lawn equip < $5,000 each",
+    "key": "Garden/grounds/lawn equip < $5,000 each",
     "value": "12000"
   },
   {
@@ -33259,8 +33259,8 @@
     "agency": "Park",
     "fund": "173203",
     "lob": "Colvin Center",
-    "program": "Garden/grounds/lawn equip < $5,000 each ",
-    "key": "Garden/grounds/lawn equip < $5,000 each ",
+    "program": "Garden/grounds/lawn equip < $5,000 each",
+    "key": "Garden/grounds/lawn equip < $5,000 each",
     "value": "1000"
   },
   {
@@ -34659,8 +34659,8 @@
     "agency": "Park",
     "fund": "173301",
     "lob": "Enclosed Shelters",
-    "program": "Property taxes ",
-    "key": "Property taxes ",
+    "program": "Property taxes",
+    "key": "Property taxes",
     "value": "30"
   },
   {
@@ -35243,8 +35243,8 @@
     "agency": "Park",
     "fund": "173304",
     "lob": "Watson Park",
-    "program": "Property taxes ",
-    "key": "Property taxes ",
+    "program": "Property taxes",
+    "key": "Property taxes",
     "value": "50"
   },
   {
@@ -35315,8 +35315,8 @@
     "agency": "Park",
     "fund": "173304",
     "lob": "Watson Park",
-    "program": "Garden/grounds/lawn equip < $5,000 each ",
-    "key": "Garden/grounds/lawn equip < $5,000 each ",
+    "program": "Garden/grounds/lawn equip < $5,000 each",
+    "key": "Garden/grounds/lawn equip < $5,000 each",
     "value": "1000"
   },
   {
@@ -35747,8 +35747,8 @@
     "agency": "Park",
     "fund": "173401",
     "lob": "Aley Pool",
-    "program": "Property taxes ",
-    "key": "Property taxes ",
+    "program": "Property taxes",
+    "key": "Property taxes",
     "value": "4"
   },
   {
@@ -36011,8 +36011,8 @@
     "agency": "Park",
     "fund": "173403",
     "lob": "College Hill Pool",
-    "program": "Property taxes ",
-    "key": "Property taxes ",
+    "program": "Property taxes",
+    "key": "Property taxes",
     "value": "9"
   },
   {
@@ -36371,8 +36371,8 @@
     "agency": "Park",
     "fund": "173407",
     "lob": "Harvest Pool",
-    "program": "Property taxes ",
-    "key": "Property taxes ",
+    "program": "Property taxes",
+    "key": "Property taxes",
     "value": "13"
   },
   {
@@ -37491,8 +37491,8 @@
     "agency": "Public Works & Utilities",
     "fund": "183004",
     "lob": "WATER ADMINISTRATION",
-    "program": "Property taxes ",
-    "key": "Property taxes ",
+    "program": "Property taxes",
+    "key": "Property taxes",
     "value": "60"
   },
   {
@@ -39099,8 +39099,8 @@
     "agency": "Public Works & Utilities",
     "fund": "183301",
     "lob": "BUILDING EQUIPMENT & MAINTENANCE",
-    "program": "Garden/grounds/lawn equip < $5,000 each ",
-    "key": "Garden/grounds/lawn equip < $5,000 each ",
+    "program": "Garden/grounds/lawn equip < $5,000 each",
+    "key": "Garden/grounds/lawn equip < $5,000 each",
     "value": "1100"
   },
   {
@@ -39931,8 +39931,8 @@
     "agency": "Public Works & Utilities",
     "fund": "183327",
     "lob": "WATER DISTRIBUTION ADMINISTRATION",
-    "program": "Garden/grounds/lawn equip < $5,000 each ",
-    "key": "Garden/grounds/lawn equip < $5,000 each ",
+    "program": "Garden/grounds/lawn equip < $5,000 each",
+    "key": "Garden/grounds/lawn equip < $5,000 each",
     "value": "3000"
   },
   {
@@ -41419,8 +41419,8 @@
     "agency": "Public Works & Utilities",
     "fund": "183517",
     "lob": "EQUUS BEDS GENERAL MAINTENANCE",
-    "program": "Garden/grounds/lawn equip < $5,000 each ",
-    "key": "Garden/grounds/lawn equip < $5,000 each ",
+    "program": "Garden/grounds/lawn equip < $5,000 each",
+    "key": "Garden/grounds/lawn equip < $5,000 each",
     "value": "2100"
   },
   {
@@ -41659,8 +41659,8 @@
     "agency": "Public Works & Utilities",
     "fund": "183520",
     "lob": "ASR Wellfield operations",
-    "program": "Property taxes ",
-    "key": "Property taxes ",
+    "program": "Property taxes",
+    "key": "Property taxes",
     "value": "170"
   },
   {
@@ -43355,8 +43355,8 @@
     "agency": "Public Works & Utilities",
     "fund": "183632",
     "lob": "PROD & PUMPING ADMINISTRATION",
-    "program": "Property taxes ",
-    "key": "Property taxes ",
+    "program": "Property taxes",
+    "key": "Property taxes",
     "value": "45000"
   },
   {
@@ -43619,8 +43619,8 @@
     "agency": "Public Works & Utilities",
     "fund": "184002",
     "lob": "SEWER ADMINISTRATION",
-    "program": "Property taxes ",
-    "key": "Property taxes ",
+    "program": "Property taxes",
+    "key": "Property taxes",
     "value": "400"
   },
   {
@@ -44307,8 +44307,8 @@
     "agency": "Public Works & Utilities",
     "fund": "184150",
     "lob": "STP GROUNDS MAINTENANCE",
-    "program": "Garden/grounds/lawn equip < $5,000 each ",
-    "key": "Garden/grounds/lawn equip < $5,000 each ",
+    "program": "Garden/grounds/lawn equip < $5,000 each",
+    "key": "Garden/grounds/lawn equip < $5,000 each",
     "value": "750"
   },
   {
@@ -45155,8 +45155,8 @@
     "agency": "Golf Course System",
     "fund": "210500",
     "lob": "Sim Park",
-    "program": "Property taxes ",
-    "key": "Property taxes ",
+    "program": "Property taxes",
+    "key": "Property taxes",
     "value": "15"
   },
   {
@@ -47571,8 +47571,8 @@
     "agency": "Public Works & Utilities",
     "fund": "184754",
     "lob": "SEWAGE TREATMENT ADMINISTRATION",
-    "program": "Garden/grounds/lawn equip < $5,000 each ",
-    "key": "Garden/grounds/lawn equip < $5,000 each ",
+    "program": "Garden/grounds/lawn equip < $5,000 each",
+    "key": "Garden/grounds/lawn equip < $5,000 each",
     "value": "5250"
   },
   {
@@ -48163,8 +48163,8 @@
     "agency": "Public Works & Utilities",
     "fund": "184804",
     "lob": "SEWER MAINTENANCE DIVISION",
-    "program": "Garden/grounds/lawn equip < $5,000 each ",
-    "key": "Garden/grounds/lawn equip < $5,000 each ",
+    "program": "Garden/grounds/lawn equip < $5,000 each",
+    "key": "Garden/grounds/lawn equip < $5,000 each",
     "value": "200"
   },
   {
@@ -49323,8 +49323,8 @@
     "agency": "Airport",
     "fund": "190009",
     "lob": "ADMINISTRATION-MID-CONTINENT",
-    "program": "Property taxes ",
-    "key": "Property taxes ",
+    "program": "Property taxes",
+    "key": "Property taxes",
     "value": "750"
   },
   {
@@ -49603,8 +49603,8 @@
     "agency": "Airport",
     "fund": "190017",
     "lob": "AIRFIELD MAINTENANCE-MID-CONTINENT",
-    "program": "Garden/grounds/lawn equip < $5,000 each ",
-    "key": "Garden/grounds/lawn equip < $5,000 each ",
+    "program": "Garden/grounds/lawn equip < $5,000 each",
+    "key": "Garden/grounds/lawn equip < $5,000 each",
     "value": "3000"
   },
   {
@@ -49938,7 +49938,7 @@
   {
     "agency": "Airport",
     "fund": "190025",
-    "lob": "BUILDING MAINTENANCE-MID-CONTINENT ",
+    "lob": "BUILDING MAINTENANCE-MID-CONTINENT",
     "program": "Non-capital shop equipment < $5,000 each",
     "key": "Non-capital shop equipment < $5,000 each",
     "value": "8500"
@@ -49946,7 +49946,7 @@
   {
     "agency": "Airport",
     "fund": "190025",
-    "lob": "BUILDING MAINTENANCE-MID-CONTINENT ",
+    "lob": "BUILDING MAINTENANCE-MID-CONTINENT",
     "program": "Appliances < $5,000 each",
     "key": "Appliances < $5,000 each",
     "value": "500"
@@ -49954,7 +49954,7 @@
   {
     "agency": "Airport",
     "fund": "190025",
-    "lob": "BUILDING MAINTENANCE-MID-CONTINENT ",
+    "lob": "BUILDING MAINTENANCE-MID-CONTINENT",
     "program": "Furniture & equipment <$5000 each",
     "key": "Furniture & equipment <$5000 each",
     "value": "500"
@@ -49962,7 +49962,7 @@
   {
     "agency": "Airport",
     "fund": "190025",
-    "lob": "BUILDING MAINTENANCE-MID-CONTINENT ",
+    "lob": "BUILDING MAINTENANCE-MID-CONTINENT",
     "program": "Communication equipment < $5,000 each",
     "key": "Communication equipment < $5,000 each",
     "value": "10500"
@@ -49970,7 +49970,7 @@
   {
     "agency": "Airport",
     "fund": "190025",
-    "lob": "BUILDING MAINTENANCE-MID-CONTINENT ",
+    "lob": "BUILDING MAINTENANCE-MID-CONTINENT",
     "program": "Other non-capitalized equip <$5,000 each",
     "key": "Other non-capitalized equip <$5,000 each",
     "value": "700"
@@ -49978,7 +49978,7 @@
   {
     "agency": "Airport",
     "fund": "190025",
-    "lob": "BUILDING MAINTENANCE-MID-CONTINENT ",
+    "lob": "BUILDING MAINTENANCE-MID-CONTINENT",
     "program": "Medical supplies",
     "key": "Medical supplies",
     "value": "150"
@@ -49986,7 +49986,7 @@
   {
     "agency": "Airport",
     "fund": "190025",
-    "lob": "BUILDING MAINTENANCE-MID-CONTINENT ",
+    "lob": "BUILDING MAINTENANCE-MID-CONTINENT",
     "program": "Food supplies",
     "key": "Food supplies",
     "value": "2500"
@@ -49994,7 +49994,7 @@
   {
     "agency": "Airport",
     "fund": "190025",
-    "lob": "BUILDING MAINTENANCE-MID-CONTINENT ",
+    "lob": "BUILDING MAINTENANCE-MID-CONTINENT",
     "program": "Other commodities",
     "key": "Other commodities",
     "value": "720"
@@ -50002,7 +50002,7 @@
   {
     "agency": "Airport",
     "fund": "190025",
-    "lob": "BUILDING MAINTENANCE-MID-CONTINENT ",
+    "lob": "BUILDING MAINTENANCE-MID-CONTINENT",
     "program": "Building parts and materials",
     "key": "Building parts and materials",
     "value": "128650"
@@ -50010,7 +50010,7 @@
   {
     "agency": "Airport",
     "fund": "190025",
-    "lob": "BUILDING MAINTENANCE-MID-CONTINENT ",
+    "lob": "BUILDING MAINTENANCE-MID-CONTINENT",
     "program": "Meals and lodging allowance",
     "key": "Meals and lodging allowance",
     "value": "3200"
@@ -50018,7 +50018,7 @@
   {
     "agency": "Airport",
     "fund": "190025",
-    "lob": "BUILDING MAINTENANCE-MID-CONTINENT ",
+    "lob": "BUILDING MAINTENANCE-MID-CONTINENT",
     "program": "Out of town registration fees",
     "key": "Out of town registration fees",
     "value": "2500"
@@ -50026,7 +50026,7 @@
   {
     "agency": "Airport",
     "fund": "190025",
-    "lob": "BUILDING MAINTENANCE-MID-CONTINENT ",
+    "lob": "BUILDING MAINTENANCE-MID-CONTINENT",
     "program": "In town registration fees",
     "key": "In town registration fees",
     "value": "4000"
@@ -50034,7 +50034,7 @@
   {
     "agency": "Airport",
     "fund": "190025",
-    "lob": "BUILDING MAINTENANCE-MID-CONTINENT ",
+    "lob": "BUILDING MAINTENANCE-MID-CONTINENT",
     "program": "Transportation - out of town",
     "key": "Transportation - out of town",
     "value": "1750"
@@ -50042,7 +50042,7 @@
   {
     "agency": "Airport",
     "fund": "190025",
-    "lob": "BUILDING MAINTENANCE-MID-CONTINENT ",
+    "lob": "BUILDING MAINTENANCE-MID-CONTINENT",
     "program": "Certification fees",
     "key": "Certification fees",
     "value": "1000"
@@ -50050,7 +50050,7 @@
   {
     "agency": "Airport",
     "fund": "190025",
-    "lob": "BUILDING MAINTENANCE-MID-CONTINENT ",
+    "lob": "BUILDING MAINTENANCE-MID-CONTINENT",
     "program": "Studies/Consultants",
     "key": "Studies/Consultants",
     "value": "2000"
@@ -50058,7 +50058,7 @@
   {
     "agency": "Airport",
     "fund": "190025",
-    "lob": "BUILDING MAINTENANCE-MID-CONTINENT ",
+    "lob": "BUILDING MAINTENANCE-MID-CONTINENT",
     "program": "Contractors",
     "key": "Contractors",
     "value": "120520"
@@ -50066,7 +50066,7 @@
   {
     "agency": "Airport",
     "fund": "190025",
-    "lob": "BUILDING MAINTENANCE-MID-CONTINENT ",
+    "lob": "BUILDING MAINTENANCE-MID-CONTINENT",
     "program": "Laboratory services",
     "key": "Laboratory services",
     "value": "500"
@@ -50074,7 +50074,7 @@
   {
     "agency": "Airport",
     "fund": "190025",
-    "lob": "BUILDING MAINTENANCE-MID-CONTINENT ",
+    "lob": "BUILDING MAINTENANCE-MID-CONTINENT",
     "program": "Environmental",
     "key": "Environmental",
     "value": "4000"
@@ -50082,7 +50082,7 @@
   {
     "agency": "Airport",
     "fund": "190025",
-    "lob": "BUILDING MAINTENANCE-MID-CONTINENT ",
+    "lob": "BUILDING MAINTENANCE-MID-CONTINENT",
     "program": "Data center charges",
     "key": "Data center charges",
     "value": "16078"
@@ -50090,7 +50090,7 @@
   {
     "agency": "Airport",
     "fund": "190025",
-    "lob": "BUILDING MAINTENANCE-MID-CONTINENT ",
+    "lob": "BUILDING MAINTENANCE-MID-CONTINENT",
     "program": "Lease/rent equipment",
     "key": "Lease/rent equipment",
     "value": "1100"
@@ -50098,7 +50098,7 @@
   {
     "agency": "Airport",
     "fund": "190025",
-    "lob": "BUILDING MAINTENANCE-MID-CONTINENT ",
+    "lob": "BUILDING MAINTENANCE-MID-CONTINENT",
     "program": "Outside services",
     "key": "Outside services",
     "value": "32000"
@@ -50106,7 +50106,7 @@
   {
     "agency": "Airport",
     "fund": "190025",
-    "lob": "BUILDING MAINTENANCE-MID-CONTINENT ",
+    "lob": "BUILDING MAINTENANCE-MID-CONTINENT",
     "program": "Cylinder rental-compressed gas",
     "key": "Cylinder rental-compressed gas",
     "value": "800"
@@ -50114,7 +50114,7 @@
   {
     "agency": "Airport",
     "fund": "190025",
-    "lob": "BUILDING MAINTENANCE-MID-CONTINENT ",
+    "lob": "BUILDING MAINTENANCE-MID-CONTINENT",
     "program": "Bi-weekly wages",
     "key": "Bi-weekly wages",
     "value": "1114758"
@@ -50122,7 +50122,7 @@
   {
     "agency": "Airport",
     "fund": "190025",
-    "lob": "BUILDING MAINTENANCE-MID-CONTINENT ",
+    "lob": "BUILDING MAINTENANCE-MID-CONTINENT",
     "program": "Longevity",
     "key": "Longevity",
     "value": "11352"
@@ -50130,7 +50130,7 @@
   {
     "agency": "Airport",
     "fund": "190025",
-    "lob": "BUILDING MAINTENANCE-MID-CONTINENT ",
+    "lob": "BUILDING MAINTENANCE-MID-CONTINENT",
     "program": "Shift differential",
     "key": "Shift differential",
     "value": "4000"
@@ -50138,7 +50138,7 @@
   {
     "agency": "Airport",
     "fund": "190025",
-    "lob": "BUILDING MAINTENANCE-MID-CONTINENT ",
+    "lob": "BUILDING MAINTENANCE-MID-CONTINENT",
     "program": "Accrual",
     "key": "Accrual",
     "value": "9886"
@@ -50146,7 +50146,7 @@
   {
     "agency": "Airport",
     "fund": "190025",
-    "lob": "BUILDING MAINTENANCE-MID-CONTINENT ",
+    "lob": "BUILDING MAINTENANCE-MID-CONTINENT",
     "program": "Other",
     "key": "Other",
     "value": "-20000"
@@ -50154,7 +50154,7 @@
   {
     "agency": "Airport",
     "fund": "190025",
-    "lob": "BUILDING MAINTENANCE-MID-CONTINENT ",
+    "lob": "BUILDING MAINTENANCE-MID-CONTINENT",
     "program": "Cellular phone allowance",
     "key": "Cellular phone allowance",
     "value": "1200"
@@ -50162,7 +50162,7 @@
   {
     "agency": "Airport",
     "fund": "190025",
-    "lob": "BUILDING MAINTENANCE-MID-CONTINENT ",
+    "lob": "BUILDING MAINTENANCE-MID-CONTINENT",
     "program": "Premium-Overtime",
     "key": "Premium-Overtime",
     "value": "15000"
@@ -50170,7 +50170,7 @@
   {
     "agency": "Airport",
     "fund": "190025",
-    "lob": "BUILDING MAINTENANCE-MID-CONTINENT ",
+    "lob": "BUILDING MAINTENANCE-MID-CONTINENT",
     "program": "Holiday",
     "key": "Holiday",
     "value": "17000"
@@ -50178,7 +50178,7 @@
   {
     "agency": "Airport",
     "fund": "190025",
-    "lob": "BUILDING MAINTENANCE-MID-CONTINENT ",
+    "lob": "BUILDING MAINTENANCE-MID-CONTINENT",
     "program": "FICA",
     "key": "FICA",
     "value": "87000"
@@ -50186,7 +50186,7 @@
   {
     "agency": "Airport",
     "fund": "190025",
-    "lob": "BUILDING MAINTENANCE-MID-CONTINENT ",
+    "lob": "BUILDING MAINTENANCE-MID-CONTINENT",
     "program": "Employee pension",
     "key": "Employee pension",
     "value": "139883"
@@ -50194,7 +50194,7 @@
   {
     "agency": "Airport",
     "fund": "190025",
-    "lob": "BUILDING MAINTENANCE-MID-CONTINENT ",
+    "lob": "BUILDING MAINTENANCE-MID-CONTINENT",
     "program": "Workers compensation",
     "key": "Workers compensation",
     "value": "25829"
@@ -50202,7 +50202,7 @@
   {
     "agency": "Airport",
     "fund": "190025",
-    "lob": "BUILDING MAINTENANCE-MID-CONTINENT ",
+    "lob": "BUILDING MAINTENANCE-MID-CONTINENT",
     "program": "Unemployment compensation",
     "key": "Unemployment compensation",
     "value": "2275"
@@ -50210,7 +50210,7 @@
   {
     "agency": "Airport",
     "fund": "190025",
-    "lob": "BUILDING MAINTENANCE-MID-CONTINENT ",
+    "lob": "BUILDING MAINTENANCE-MID-CONTINENT",
     "program": "Group health insurance",
     "key": "Group health insurance",
     "value": "324047"
@@ -50218,7 +50218,7 @@
   {
     "agency": "Airport",
     "fund": "190025",
-    "lob": "BUILDING MAINTENANCE-MID-CONTINENT ",
+    "lob": "BUILDING MAINTENANCE-MID-CONTINENT",
     "program": "Group life insurance",
     "key": "Group life insurance",
     "value": "4459"
@@ -50226,7 +50226,7 @@
   {
     "agency": "Airport",
     "fund": "190025",
-    "lob": "BUILDING MAINTENANCE-MID-CONTINENT ",
+    "lob": "BUILDING MAINTENANCE-MID-CONTINENT",
     "program": "Other",
     "key": "Other",
     "value": "-9200"
@@ -50234,7 +50234,7 @@
   {
     "agency": "Airport",
     "fund": "190025",
-    "lob": "BUILDING MAINTENANCE-MID-CONTINENT ",
+    "lob": "BUILDING MAINTENANCE-MID-CONTINENT",
     "program": "Trash service",
     "key": "Trash service",
     "value": "1500"
@@ -50242,7 +50242,7 @@
   {
     "agency": "Airport",
     "fund": "190025",
-    "lob": "BUILDING MAINTENANCE-MID-CONTINENT ",
+    "lob": "BUILDING MAINTENANCE-MID-CONTINENT",
     "program": "PBX - line charges",
     "key": "PBX - line charges",
     "value": "15500"
@@ -50250,7 +50250,7 @@
   {
     "agency": "Airport",
     "fund": "190025",
-    "lob": "BUILDING MAINTENANCE-MID-CONTINENT ",
+    "lob": "BUILDING MAINTENANCE-MID-CONTINENT",
     "program": "Long distance service",
     "key": "Long distance service",
     "value": "100"
@@ -50258,7 +50258,7 @@
   {
     "agency": "Airport",
     "fund": "190025",
-    "lob": "BUILDING MAINTENANCE-MID-CONTINENT ",
+    "lob": "BUILDING MAINTENANCE-MID-CONTINENT",
     "program": "Pagers and mobile phones",
     "key": "Pagers and mobile phones",
     "value": "400"
@@ -50266,7 +50266,7 @@
   {
     "agency": "Airport",
     "fund": "190025",
-    "lob": "BUILDING MAINTENANCE-MID-CONTINENT ",
+    "lob": "BUILDING MAINTENANCE-MID-CONTINENT",
     "program": "Postage - regular",
     "key": "Postage - regular",
     "value": "30"
@@ -50274,7 +50274,7 @@
   {
     "agency": "Airport",
     "fund": "190025",
-    "lob": "BUILDING MAINTENANCE-MID-CONTINENT ",
+    "lob": "BUILDING MAINTENANCE-MID-CONTINENT",
     "program": "Express mail",
     "key": "Express mail",
     "value": "150"
@@ -50282,7 +50282,7 @@
   {
     "agency": "Airport",
     "fund": "190025",
-    "lob": "BUILDING MAINTENANCE-MID-CONTINENT ",
+    "lob": "BUILDING MAINTENANCE-MID-CONTINENT",
     "program": "Radio repairs",
     "key": "Radio repairs",
     "value": "1500"
@@ -50290,7 +50290,7 @@
   {
     "agency": "Airport",
     "fund": "190025",
-    "lob": "BUILDING MAINTENANCE-MID-CONTINENT ",
+    "lob": "BUILDING MAINTENANCE-MID-CONTINENT",
     "program": "Maintenance - buildings",
     "key": "Maintenance - buildings",
     "value": "71500"
@@ -50298,7 +50298,7 @@
   {
     "agency": "Airport",
     "fund": "190025",
-    "lob": "BUILDING MAINTENANCE-MID-CONTINENT ",
+    "lob": "BUILDING MAINTENANCE-MID-CONTINENT",
     "program": "Pest control services",
     "key": "Pest control services",
     "value": "4000"
@@ -50306,7 +50306,7 @@
   {
     "agency": "Airport",
     "fund": "190025",
-    "lob": "BUILDING MAINTENANCE-MID-CONTINENT ",
+    "lob": "BUILDING MAINTENANCE-MID-CONTINENT",
     "program": "Advertising",
     "key": "Advertising",
     "value": "500"
@@ -50314,7 +50314,7 @@
   {
     "agency": "Airport",
     "fund": "190025",
-    "lob": "BUILDING MAINTENANCE-MID-CONTINENT ",
+    "lob": "BUILDING MAINTENANCE-MID-CONTINENT",
     "program": "Membership dues",
     "key": "Membership dues",
     "value": "275"
@@ -50322,7 +50322,7 @@
   {
     "agency": "Airport",
     "fund": "190025",
-    "lob": "BUILDING MAINTENANCE-MID-CONTINENT ",
+    "lob": "BUILDING MAINTENANCE-MID-CONTINENT",
     "program": "Printing and copying",
     "key": "Printing and copying",
     "value": "1300"
@@ -50330,7 +50330,7 @@
   {
     "agency": "Airport",
     "fund": "190025",
-    "lob": "BUILDING MAINTENANCE-MID-CONTINENT ",
+    "lob": "BUILDING MAINTENANCE-MID-CONTINENT",
     "program": "Other contractuals",
     "key": "Other contractuals",
     "value": "3000"
@@ -50338,7 +50338,7 @@
   {
     "agency": "Airport",
     "fund": "190025",
-    "lob": "BUILDING MAINTENANCE-MID-CONTINENT ",
+    "lob": "BUILDING MAINTENANCE-MID-CONTINENT",
     "program": "Office supplies",
     "key": "Office supplies",
     "value": "500"
@@ -50346,7 +50346,7 @@
   {
     "agency": "Airport",
     "fund": "190025",
-    "lob": "BUILDING MAINTENANCE-MID-CONTINENT ",
+    "lob": "BUILDING MAINTENANCE-MID-CONTINENT",
     "program": "Clothing and towels",
     "key": "Clothing and towels",
     "value": "3700"
@@ -50354,7 +50354,7 @@
   {
     "agency": "Airport",
     "fund": "190025",
-    "lob": "BUILDING MAINTENANCE-MID-CONTINENT ",
+    "lob": "BUILDING MAINTENANCE-MID-CONTINENT",
     "program": "Industrial chemicals",
     "key": "Industrial chemicals",
     "value": "20950"
@@ -50362,7 +50362,7 @@
   {
     "agency": "Airport",
     "fund": "190025",
-    "lob": "BUILDING MAINTENANCE-MID-CONTINENT ",
+    "lob": "BUILDING MAINTENANCE-MID-CONTINENT",
     "program": "Equipment parts and supplies",
     "key": "Equipment parts and supplies",
     "value": "32500"
@@ -50370,7 +50370,7 @@
   {
     "agency": "Airport",
     "fund": "190025",
-    "lob": "BUILDING MAINTENANCE-MID-CONTINENT ",
+    "lob": "BUILDING MAINTENANCE-MID-CONTINENT",
     "program": "Automotive",
     "key": "Automotive",
     "value": "2500"
@@ -50378,7 +50378,7 @@
   {
     "agency": "Airport",
     "fund": "190025",
-    "lob": "BUILDING MAINTENANCE-MID-CONTINENT ",
+    "lob": "BUILDING MAINTENANCE-MID-CONTINENT",
     "program": "Electrical",
     "key": "Electrical",
     "value": "67000"
@@ -50386,7 +50386,7 @@
   {
     "agency": "Airport",
     "fund": "190025",
-    "lob": "BUILDING MAINTENANCE-MID-CONTINENT ",
+    "lob": "BUILDING MAINTENANCE-MID-CONTINENT",
     "program": "Computer/Printer",
     "key": "Computer/Printer",
     "value": "3500"
@@ -50394,7 +50394,7 @@
   {
     "agency": "Airport",
     "fund": "190025",
-    "lob": "BUILDING MAINTENANCE-MID-CONTINENT ",
+    "lob": "BUILDING MAINTENANCE-MID-CONTINENT",
     "program": "Safety/security equipment",
     "key": "Safety/security equipment",
     "value": "2500"
@@ -50402,7 +50402,7 @@
   {
     "agency": "Airport",
     "fund": "190025",
-    "lob": "BUILDING MAINTENANCE-MID-CONTINENT ",
+    "lob": "BUILDING MAINTENANCE-MID-CONTINENT",
     "program": "Materials",
     "key": "Materials",
     "value": "7250"
@@ -52219,8 +52219,8 @@
     "agency": "Airport",
     "fund": "190108",
     "lob": "ADMINISTRATION-JABARA",
-    "program": "Garden/grounds/lawn equip < $5,000 each ",
-    "key": "Garden/grounds/lawn equip < $5,000 each ",
+    "program": "Garden/grounds/lawn equip < $5,000 each",
+    "key": "Garden/grounds/lawn equip < $5,000 each",
     "value": "1000"
   },
   {
@@ -52459,8 +52459,8 @@
     "agency": "Golf Course System",
     "fund": "210100",
     "lob": "Auburn Hills-Golf Course",
-    "program": "Property taxes ",
-    "key": "Property taxes ",
+    "program": "Property taxes",
+    "key": "Property taxes",
     "value": "30"
   },
   {
@@ -54210,7 +54210,7 @@
   {
     "agency": "Golf Course System",
     "fund": "210400",
-    "lob": "Macdonald Golf Course ",
+    "lob": "Macdonald Golf Course",
     "program": "Bi-weekly wages",
     "key": "Bi-weekly wages",
     "value": "171089"
@@ -54218,7 +54218,7 @@
   {
     "agency": "Golf Course System",
     "fund": "210400",
-    "lob": "Macdonald Golf Course ",
+    "lob": "Macdonald Golf Course",
     "program": "Longevity",
     "key": "Longevity",
     "value": "3600"
@@ -54226,7 +54226,7 @@
   {
     "agency": "Golf Course System",
     "fund": "210400",
-    "lob": "Macdonald Golf Course ",
+    "lob": "Macdonald Golf Course",
     "program": "Accrual",
     "key": "Accrual",
     "value": "1449"
@@ -54234,7 +54234,7 @@
   {
     "agency": "Golf Course System",
     "fund": "210400",
-    "lob": "Macdonald Golf Course ",
+    "lob": "Macdonald Golf Course",
     "program": "Part time/seasonal",
     "key": "Part time/seasonal",
     "value": "59802"
@@ -54242,7 +54242,7 @@
   {
     "agency": "Golf Course System",
     "fund": "210400",
-    "lob": "Macdonald Golf Course ",
+    "lob": "Macdonald Golf Course",
     "program": "Clothing allowance",
     "key": "Clothing allowance",
     "value": "150"
@@ -54250,7 +54250,7 @@
   {
     "agency": "Golf Course System",
     "fund": "210400",
-    "lob": "Macdonald Golf Course ",
+    "lob": "Macdonald Golf Course",
     "program": "FICA",
     "key": "FICA",
     "value": "17939"
@@ -54258,7 +54258,7 @@
   {
     "agency": "Golf Course System",
     "fund": "210400",
-    "lob": "Macdonald Golf Course ",
+    "lob": "Macdonald Golf Course",
     "program": "Employee pension",
     "key": "Employee pension",
     "value": "21487"
@@ -54266,7 +54266,7 @@
   {
     "agency": "Golf Course System",
     "fund": "210400",
-    "lob": "Macdonald Golf Course ",
+    "lob": "Macdonald Golf Course",
     "program": "Workers compensation",
     "key": "Workers compensation",
     "value": "4008"
@@ -54274,7 +54274,7 @@
   {
     "agency": "Golf Course System",
     "fund": "210400",
-    "lob": "Macdonald Golf Course ",
+    "lob": "Macdonald Golf Course",
     "program": "Unemployment compensation",
     "key": "Unemployment compensation",
     "value": "469"
@@ -54282,7 +54282,7 @@
   {
     "agency": "Golf Course System",
     "fund": "210400",
-    "lob": "Macdonald Golf Course ",
+    "lob": "Macdonald Golf Course",
     "program": "Group health insurance",
     "key": "Group health insurance",
     "value": "47974"
@@ -54290,7 +54290,7 @@
   {
     "agency": "Golf Course System",
     "fund": "210400",
-    "lob": "Macdonald Golf Course ",
+    "lob": "Macdonald Golf Course",
     "program": "Group life insurance",
     "key": "Group life insurance",
     "value": "684"
@@ -54298,7 +54298,7 @@
   {
     "agency": "Golf Course System",
     "fund": "210400",
-    "lob": "Macdonald Golf Course ",
+    "lob": "Macdonald Golf Course",
     "program": "Electricity",
     "key": "Electricity",
     "value": "25900"
@@ -54306,7 +54306,7 @@
   {
     "agency": "Golf Course System",
     "fund": "210400",
-    "lob": "Macdonald Golf Course ",
+    "lob": "Macdonald Golf Course",
     "program": "Gas-Black Hills",
     "key": "Gas-Black Hills",
     "value": "5000"
@@ -54314,7 +54314,7 @@
   {
     "agency": "Golf Course System",
     "fund": "210400",
-    "lob": "Macdonald Golf Course ",
+    "lob": "Macdonald Golf Course",
     "program": "Water",
     "key": "Water",
     "value": "36506"
@@ -54322,7 +54322,7 @@
   {
     "agency": "Golf Course System",
     "fund": "210400",
-    "lob": "Macdonald Golf Course ",
+    "lob": "Macdonald Golf Course",
     "program": "Plexar",
     "key": "Plexar",
     "value": "744"
@@ -54330,7 +54330,7 @@
   {
     "agency": "Golf Course System",
     "fund": "210400",
-    "lob": "Macdonald Golf Course ",
+    "lob": "Macdonald Golf Course",
     "program": "Out of town registration fees",
     "key": "Out of town registration fees",
     "value": "337"
@@ -54338,7 +54338,7 @@
   {
     "agency": "Golf Course System",
     "fund": "210400",
-    "lob": "Macdonald Golf Course ",
+    "lob": "Macdonald Golf Course",
     "program": "Studies/Consultants",
     "key": "Studies/Consultants",
     "value": "1060"
@@ -54346,7 +54346,7 @@
   {
     "agency": "Golf Course System",
     "fund": "210400",
-    "lob": "Macdonald Golf Course ",
+    "lob": "Macdonald Golf Course",
     "program": "Other professional services",
     "key": "Other professional services",
     "value": "10000"
@@ -54354,7 +54354,7 @@
   {
     "agency": "Golf Course System",
     "fund": "210400",
-    "lob": "Macdonald Golf Course ",
+    "lob": "Macdonald Golf Course",
     "program": "Motor pool - scheduled charges",
     "key": "Motor pool - scheduled charges",
     "value": "16560"
@@ -54362,7 +54362,7 @@
   {
     "agency": "Golf Course System",
     "fund": "210400",
-    "lob": "Macdonald Golf Course ",
+    "lob": "Macdonald Golf Course",
     "program": "Lease/rent equipment",
     "key": "Lease/rent equipment",
     "value": "900"
@@ -54370,7 +54370,7 @@
   {
     "agency": "Golf Course System",
     "fund": "210400",
-    "lob": "Macdonald Golf Course ",
+    "lob": "Macdonald Golf Course",
     "program": "Vehicle liability",
     "key": "Vehicle liability",
     "value": "200"
@@ -54378,7 +54378,7 @@
   {
     "agency": "Golf Course System",
     "fund": "210400",
-    "lob": "Macdonald Golf Course ",
+    "lob": "Macdonald Golf Course",
     "program": "Outside services",
     "key": "Outside services",
     "value": "10000"
@@ -54386,7 +54386,7 @@
   {
     "agency": "Golf Course System",
     "fund": "210400",
-    "lob": "Macdonald Golf Course ",
+    "lob": "Macdonald Golf Course",
     "program": "Maintenance - buildings",
     "key": "Maintenance - buildings",
     "value": "4000"
@@ -54394,7 +54394,7 @@
   {
     "agency": "Golf Course System",
     "fund": "210400",
-    "lob": "Macdonald Golf Course ",
+    "lob": "Macdonald Golf Course",
     "program": "Other building/grounds charges",
     "key": "Other building/grounds charges",
     "value": "1000"
@@ -54402,7 +54402,7 @@
   {
     "agency": "Golf Course System",
     "fund": "210400",
-    "lob": "Macdonald Golf Course ",
+    "lob": "Macdonald Golf Course",
     "program": "Printing and copying",
     "key": "Printing and copying",
     "value": "60"
@@ -54410,7 +54410,7 @@
   {
     "agency": "Golf Course System",
     "fund": "210400",
-    "lob": "Macdonald Golf Course ",
+    "lob": "Macdonald Golf Course",
     "program": "Clothing and towels",
     "key": "Clothing and towels",
     "value": "94"
@@ -54418,7 +54418,7 @@
   {
     "agency": "Golf Course System",
     "fund": "210400",
-    "lob": "Macdonald Golf Course ",
+    "lob": "Macdonald Golf Course",
     "program": "Industrial chemicals",
     "key": "Industrial chemicals",
     "value": "15407"
@@ -54426,7 +54426,7 @@
   {
     "agency": "Golf Course System",
     "fund": "210400",
-    "lob": "Macdonald Golf Course ",
+    "lob": "Macdonald Golf Course",
     "program": "Other chemicals",
     "key": "Other chemicals",
     "value": "15407"
@@ -54434,7 +54434,7 @@
   {
     "agency": "Golf Course System",
     "fund": "210400",
-    "lob": "Macdonald Golf Course ",
+    "lob": "Macdonald Golf Course",
     "program": "Equipment parts and supplies",
     "key": "Equipment parts and supplies",
     "value": "25000"
@@ -54442,7 +54442,7 @@
   {
     "agency": "Golf Course System",
     "fund": "210400",
-    "lob": "Macdonald Golf Course ",
+    "lob": "Macdonald Golf Course",
     "program": "Automotive",
     "key": "Automotive",
     "value": "1130"
@@ -54450,7 +54450,7 @@
   {
     "agency": "Golf Course System",
     "fund": "210400",
-    "lob": "Macdonald Golf Course ",
+    "lob": "Macdonald Golf Course",
     "program": "Fuel",
     "key": "Fuel",
     "value": "10342"
@@ -54458,7 +54458,7 @@
   {
     "agency": "Golf Course System",
     "fund": "210400",
-    "lob": "Macdonald Golf Course ",
+    "lob": "Macdonald Golf Course",
     "program": "Safety/security equipment",
     "key": "Safety/security equipment",
     "value": "200"
@@ -54466,7 +54466,7 @@
   {
     "agency": "Golf Course System",
     "fund": "210400",
-    "lob": "Macdonald Golf Course ",
+    "lob": "Macdonald Golf Course",
     "program": "Tires",
     "key": "Tires",
     "value": "200"
@@ -54474,7 +54474,7 @@
   {
     "agency": "Golf Course System",
     "fund": "210400",
-    "lob": "Macdonald Golf Course ",
+    "lob": "Macdonald Golf Course",
     "program": "Other equipment parts",
     "key": "Other equipment parts",
     "value": "2000"
@@ -54482,7 +54482,7 @@
   {
     "agency": "Golf Course System",
     "fund": "210400",
-    "lob": "Macdonald Golf Course ",
+    "lob": "Macdonald Golf Course",
     "program": "Materials",
     "key": "Materials",
     "value": "6000"
@@ -54490,7 +54490,7 @@
   {
     "agency": "Golf Course System",
     "fund": "210400",
-    "lob": "Macdonald Golf Course ",
+    "lob": "Macdonald Golf Course",
     "program": "Welding supplies",
     "key": "Welding supplies",
     "value": "60"
@@ -54498,7 +54498,7 @@
   {
     "agency": "Golf Course System",
     "fund": "210400",
-    "lob": "Macdonald Golf Course ",
+    "lob": "Macdonald Golf Course",
     "program": "Non-capital shop equipment < $5,000 each",
     "key": "Non-capital shop equipment < $5,000 each",
     "value": "2000"
@@ -54506,7 +54506,7 @@
   {
     "agency": "Golf Course System",
     "fund": "210400",
-    "lob": "Macdonald Golf Course ",
+    "lob": "Macdonald Golf Course",
     "program": "Plumbing equipment < $5,000 each",
     "key": "Plumbing equipment < $5,000 each",
     "value": "5000"
@@ -54514,7 +54514,7 @@
   {
     "agency": "Golf Course System",
     "fund": "210400",
-    "lob": "Macdonald Golf Course ",
+    "lob": "Macdonald Golf Course",
     "program": "Safety equipment < $5,000 each",
     "key": "Safety equipment < $5,000 each",
     "value": "100"
@@ -54522,7 +54522,7 @@
   {
     "agency": "Golf Course System",
     "fund": "210400",
-    "lob": "Macdonald Golf Course ",
+    "lob": "Macdonald Golf Course",
     "program": "Custodial supplies",
     "key": "Custodial supplies",
     "value": "500"
@@ -54530,7 +54530,7 @@
   {
     "agency": "Golf Course System",
     "fund": "210400",
-    "lob": "Macdonald Golf Course ",
+    "lob": "Macdonald Golf Course",
     "program": "Medical supplies",
     "key": "Medical supplies",
     "value": "100"
@@ -54538,7 +54538,7 @@
   {
     "agency": "Golf Course System",
     "fund": "210400",
-    "lob": "Macdonald Golf Course ",
+    "lob": "Macdonald Golf Course",
     "program": "Other commodities",
     "key": "Other commodities",
     "value": "1500"
@@ -54546,7 +54546,7 @@
   {
     "agency": "Golf Course System",
     "fund": "210400",
-    "lob": "Macdonald Golf Course ",
+    "lob": "Macdonald Golf Course",
     "program": "Lawn and farm equipment => $5,000",
     "key": "Lawn and farm equipment => $5,000",
     "value": "32000"
@@ -54554,7 +54554,7 @@
   {
     "agency": "Golf Course System",
     "fund": "210400",
-    "lob": "Macdonald Golf Course ",
+    "lob": "Macdonald Golf Course",
     "program": "Inventory for resale",
     "key": "Inventory for resale",
     "value": "19091"
@@ -59107,8 +59107,8 @@
     "agency": "Fire Department",
     "fund": "070138",
     "lob": "Support Services",
-    "program": "Garden/grounds/lawn equip < $5,000 each ",
-    "key": "Garden/grounds/lawn equip < $5,000 each ",
+    "program": "Garden/grounds/lawn equip < $5,000 each",
+    "key": "Garden/grounds/lawn equip < $5,000 each",
     "value": "2000"
   },
   {
