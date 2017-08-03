@@ -303,7 +303,10 @@ ob.display = ob.display || {};
                 .data(ob.data.hierarchy().path(d));
 
             crumbs.enter().append("span")
-              .attr("class", "crumb")
+              .attr({
+                "class": "crumb",
+                tabIndex: 0
+              })
               .on("click", function(clicked, i) {
                 if (clicked == current_node) {
                   /* don't transition if they click on the same data that is already
@@ -318,9 +321,7 @@ ob.display = ob.display || {};
                 }
                 _treemap.transition(clicked, levels, false);
               })
-              .text(function(d, i) {
-                return i > 0 ? ' > ' + d.key : d.key;
-              });
+              .text(d => d.key);
           }
 
           /* set parent links */
