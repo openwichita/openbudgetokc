@@ -2,9 +2,11 @@
 
 const csv = require('csv')
 const fs = require('fs')
+const titleCase = require('title-case')
 
 const OL3_ID_IDX = 10
 const OL2_ID_IDX = 8
+const oca_title = 13 // item description in budget tree
 const FIRST_COL_HEADER = 'fund'
 
 fs.createReadStream(process.argv[2], { encoding: 'utf8' })
@@ -18,6 +20,9 @@ fs.createReadStream(process.argv[2], { encoding: 'utf8' })
     if (row[0] === FIRST_COL_HEADER) {
       return row.concat(['account_type', 'fiscal_year'])
     }
+
+    // make all description titles title-case
+    row[oca_title] = titleCase(row[oca_title])
 
     let accountType = accountTypeFromRow(row)
     return row.concat([accountType, '2017'])
