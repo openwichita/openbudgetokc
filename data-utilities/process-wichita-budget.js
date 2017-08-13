@@ -2,7 +2,7 @@
 
 const csv = require('csv')
 const fs = require('fs')
-const titleCase = require('title-case')
+const Case = require('case')
 
 const OL3_ID_IDX = 11
 const OL2_ID_IDX = 9
@@ -33,11 +33,11 @@ fs.createReadStream(process.argv[2], { encoding: 'utf8' })
     }
 
     // make all description titles title-case
-    row[FUND_TITLE] = titleCase(row[FUND_TITLE])
-    row[DEPT_TITLE] = titleCase(row[DEPT_TITLE])
-    row[OCA_TITLE] = titleCase(row[OCA_TITLE])
-    row[OBJ_LVL_1_TITLE] = titleCase(row[OBJ_LVL_1_TITLE])
-    row[OBJ_LVL_2_TITLE] = titleCase(row[OBJ_LVL_2_TITLE])
+    row[FUND_TITLE] = Case.title(row[FUND_TITLE])
+    row[DEPT_TITLE] = Case.title(row[DEPT_TITLE])
+    row[OCA_TITLE] = Case.title(row[OCA_TITLE])
+    row[OBJ_LVL_1_TITLE] = Case.title(row[OBJ_LVL_1_TITLE])
+    row[OBJ_LVL_2_TITLE] = Case.title(row[OBJ_LVL_2_TITLE])
 
     let accountType = accountTypeFromRow(row)
     return row.concat([accountType, '2017'])
