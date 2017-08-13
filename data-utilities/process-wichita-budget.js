@@ -4,14 +4,14 @@ const csv = require('csv')
 const fs = require('fs')
 const titleCase = require('title-case')
 
-const OL3_ID_IDX = 10
-const OL2_ID_IDX = 8
-const FUND_TITLE = 1
-const DEPT_TITLE = 5
-const OCA_TITLE = 13 // item description in budget tree
-const OBJ_LVL_1_TITLE = 7
-const OBJ_LVL_2_TITLE = 9
-const FIRST_COL_HEADER = 'fund'
+const OL3_ID_IDX = 11
+const OL2_ID_IDX = 9
+const FUND_TITLE = 2
+const DEPT_TITLE = 6
+const OCA_TITLE = 14 // item description in budget tree
+const OBJ_LVL_1_TITLE = 8
+const OBJ_LVL_2_TITLE = 10
+const FIRST_COL_HEADER = 'OBJECTID'
 
 fs.createReadStream(process.argv[2], { encoding: 'utf8' })
   .pipe(csv.parse())
@@ -19,10 +19,17 @@ fs.createReadStream(process.argv[2], { encoding: 'utf8' })
     if ( // Is this an interfund transfer? Skip it.
       row[OL2_ID_IDX].toLowerCase() === '510' ||
       row[OL3_ID_IDX].toLowerCase() === '9800'
-    ) { return null; }
+    ) { return null }
 
     if (row[0] === FIRST_COL_HEADER) {
       return row.concat(['account_type', 'fiscal_year'])
+    }
+
+    // The Wichita budget has some entries where the dept title
+    // for Public Works mistakenly has two spaces in it, so we
+    // consolidate those here.
+    if (row[DEPT_TITLE] === 'Public Works  & Utilities') {
+      row[DEPT_TITLE] = 'Public Works & Utilities'
     }
 
     // make all description titles title-case
@@ -38,7 +45,7 @@ fs.createReadStream(process.argv[2], { encoding: 'utf8' })
   .pipe(csv.stringify())
   .pipe(process.stdout)
 
-function accountTypeFromRow(row) {
+function accountTypeFromRow (row) {
   let firstNumber = parseInt(row[OL3_ID_IDX][0])
   return firstNumber <= 5 && firstNumber !== 0 ? 'Expense' : 'Revenue'
 }
