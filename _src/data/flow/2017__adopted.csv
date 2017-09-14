@@ -872,29 +872,7 @@ budget_year,account_type,department,fund_code,account_category,amount,fund_type
 2017,Expense,Golf Course System,2599,,10000,515
 2017,Expense,Golf Course System,2700,,16560,515
 2017,Expense,Golf Course System,2702,,900,515
-2017,Expense,Metro Area Bldg & Construction,5333,,4131,235
-2017,Expense,Metro Area Bldg & Construction,1100,,253474,235
-2017,Expense,Metro Area Bldg & Construction,1101,,5100,235
-2017,Expense,Metro Area Bldg & Construction,1190,,2170,235
-2017,Expense,Metro Area Bldg & Construction,1199,,114550,235
-2017,Expense,Metro Area Bldg & Construction,1204,,600,235
-2017,Expense,Metro Area Bldg & Construction,1400,,28544,235
-2017,Expense,Metro Area Bldg & Construction,1401,,45895,235
-2017,Expense,Metro Area Bldg & Construction,1403,,5685,235
-2017,Expense,Metro Area Bldg & Construction,1404,,746,235
-2017,Expense,Metro Area Bldg & Construction,1405,,54170,235
-2017,Expense,Metro Area Bldg & Construction,1406,,1014,235
-2017,Expense,Metro Area Bldg & Construction,2107,,756,235
-2017,Expense,Metro Area Bldg & Construction,2207,,2000,235
-2017,Expense,Metro Area Bldg & Construction,2401,,4530,235
-2017,Expense,Metro Area Bldg & Construction,3405,,5898,235
 2017,Expense,Metro Area Bldg & Construction,1200,,15625,100
-2017,Expense,Metro Area Bldg & Construction,2303,,700,235
-2017,Expense,Metro Area Bldg & Construction,2700,,21000,235
-2017,Expense,Metro Area Bldg & Construction,2917,,900,235
-2017,Expense,Metro Area Bldg & Construction,3103,,900,235
-2017,Expense,Metro Area Bldg & Construction,3804,,1200,235
-2017,Expense,Metro Area Bldg & Construction,5333,,1783,235
 2017,Expense,Metro Area Bldg & Construction,1400,,1195,100
 2017,Expense,Metro Area Bldg & Construction,1403,,234,100
 2017,Expense,Metro Area Bldg & Construction,1404,,31,100
@@ -934,6 +912,7 @@ budget_year,account_type,department,fund_code,account_category,amount,fund_type
 2017,Expense,Metro Area Bldg & Construction,3999,,200,100
 2017,Expense,City Manager,2301,,10950,100
 2017,Expense,City Manager,3999,,2000,100
+2017,Expense,Department of Finance,5101,,86263,620
 2017,Expense,Law Department,1205,,2400,100
 2017,Expense,Information Tech/Info Services,3101,,35000,600
 2017,Expense,Police Department,2703,,2000,100
@@ -1077,6 +1056,7 @@ budget_year,account_type,department,fund_code,account_category,amount,fund_type
 2017,Expense,Transit,3103,,1800,520
 2017,Expense,Transit,3200,,7500,520
 2017,Expense,Transit,3904,,50,520
+2017,Expense,Transit,5120,,125031,520
 2017,Expense,Park,1100,,419291,100
 2017,Expense,Park,1101,,2988,100
 2017,Expense,Park,2100,,1920,100
@@ -1251,6 +1231,7 @@ budget_year,account_type,department,fund_code,account_category,amount,fund_type
 2017,Expense,Park,3999,,2275,100
 2017,Expense,Park,1100,,51270,100
 2017,Expense,City Manager,2900,,5810,220
+2017,Expense,City Manager,5101,,175000,220
 2017,Expense,City Manager,5300,,501429,220
 2017,Expense,City Manager,5333,,128571,220
 2017,Expense,City Manager,2502,,120000,220
@@ -1710,6 +1691,7 @@ budget_year,account_type,department,fund_code,account_category,amount,fund_type
 2017,Expense,Public Works & Utilities,2980,,1048284,530
 2017,Expense,Public Works & Utilities,2999,,52306,530
 2017,Expense,Public Works & Utilities,3980,,77078,530
+2017,Expense,Public Works & Utilities,5101,,2839118,530
 2017,Expense,Public Works & Utilities,5202,,11253741,530
 2017,Expense,Public Works & Utilities,5205,,7181868,530
 2017,Expense,Public Works & Utilities,5206,,1000000,530
@@ -2003,6 +1985,7 @@ budget_year,account_type,department,fund_code,account_category,amount,fund_type
 2017,Expense,Public Works & Utilities,2214,,840,540
 2017,Expense,Public Works & Utilities,2216,,420,540
 2017,Expense,Public Works & Utilities,4611,,68000,560
+2017,Expense,Public Works & Utilities,5101,,777740,560
 2017,Expense,Public Works & Utilities,5200,,2953786,560
 2017,Expense,Public Works & Utilities,5203,,765071,560
 2017,Expense,Public Works & Utilities,5300,,100000,560
@@ -2145,6 +2128,7 @@ budget_year,account_type,department,fund_code,account_category,amount,fund_type
 2017,Expense,Police Department,2107,,1000,100
 2017,Expense,Police Department,3405,,3231,100
 2017,Expense,Police Department,3999,,3000,100
+2017,Expense,Police Department,5101,,35430,100
 2017,Expense,Police Department,5300,,150000,100
 2017,Expense,Police Department,1100,,1042663,100
 2017,Expense,Police Department,1101,,16584,100
@@ -2584,6 +2568,7 @@ budget_year,account_type,department,fund_code,account_category,amount,fund_type
 2017,Expense,Department of Finance,3903,,700,775
 2017,Expense,Department of Finance,3904,,100,775
 2017,Expense,Department of Finance,3999,,3500,775
+2017,Expense,Department of Finance,5101,,84460,775
 2017,Expense,Department of Finance,2599,,675245,260
 2017,Expense,Department of Finance,2999,,75000,255
 2017,Expense,Department of Finance,2407,,140000,620
@@ -2750,6 +2735,7 @@ budget_year,account_type,department,fund_code,account_category,amount,fund_type
 2017,Expense,Public Works & Utilities,3808,,150,255
 2017,Expense,Public Works & Utilities,3901,,150,255
 2017,Expense,Public Works & Utilities,3999,,500,255
+2017,Expense,Public Works & Utilities,5101,,207237,255
 2017,Expense,Public Works & Utilities,5333,,10850000,255
 2017,Expense,Public Works & Utilities,2100,,20368,255
 2017,Expense,Public Works & Utilities,2101,,3629,255
@@ -2938,6 +2924,7 @@ budget_year,account_type,department,fund_code,account_category,amount,fund_type
 2017,Expense,Department of Finance,2906,,7500,620
 2017,Expense,Department of Finance,2913,,27000,620
 2017,Expense,Department of Finance,2917,,10000,620
+2017,Expense,Department of Finance,5101,,188085,620
 2017,Expense,Department of Finance,2405,,3684125,620
 2017,Expense,Department of Finance,2406,,55247,620
 2017,Expense,Department of Finance,2411,,196058,620
@@ -3587,6 +3574,7 @@ budget_year,account_type,department,fund_code,account_category,amount,fund_type
 2017,Expense,Public Works & Utilities,1400,,1434,100
 2017,Expense,Public Works & Utilities,3899,,2400,255
 2017,Expense,Public Works & Utilities,3995,,50,255
+2017,Expense,Public Works & Utilities,5101,,207237,255
 2017,Expense,Public Works & Utilities,5333,,4750000,255
 2017,Expense,Public Works & Utilities,1403,,469,100
 2017,Expense,Public Works & Utilities,1404,,37,100
@@ -4860,6 +4848,8 @@ budget_year,account_type,department,fund_code,account_category,amount,fund_type
 2017,Expense,Transit,3903,,2000,520
 2017,Expense,Transit,3904,,500,520
 2017,Expense,Transit,3999,,500,520
+2017,Expense,Transit,5101,,67880,520
+2017,Expense,Transit,5120,,191503,520
 2017,Expense,Transit,5302,,300000,520
 2017,Expense,Transit,5333,,18750,520
 2017,Expense,Transit,1100,,307618,520
@@ -5213,6 +5203,7 @@ budget_year,account_type,department,fund_code,account_category,amount,fund_type
 2017,Expense,Airport,3902,,50,500
 2017,Expense,Airport,3903,,13250,500
 2017,Expense,Airport,3999,,17800,500
+2017,Expense,Airport,5101,,990929,500
 2017,Expense,Airport,5200,,2878902,500
 2017,Expense,Airport,5203,,5670260,500
 2017,Expense,Airport,5211,,-193116,500
@@ -5721,6 +5712,36 @@ budget_year,account_type,department,fund_code,account_category,amount,fund_type
 2017,Expense,Airport,1302,,500,500
 2017,Expense,Airport,1303,,110000,500
 2017,Expense,Airport,1400,,83616,500
+2017,Expense,City Manager,5100,,40000,238
+2017,Expense,City Manager,5100,,30000,238
+2017,Expense,Department of Finance,5100,,3438830,778
+2017,Expense,Department of Finance,5100,,351013,776
+2017,Expense,Department of Finance,5100,,2180000,225
+2017,Expense,Department of Finance,5100,,-351013,775
+2017,Expense,Department of Finance,5100,,1690000,255
+2017,Expense,Department of Finance,5100,,590000,255
+2017,Expense,Department of Finance,5100,,31600,255
+2017,Expense,Department of Finance,5100,,196832,255
+2017,Expense,Department of Finance,5100,,174350,255
+2017,Expense,Department of Finance,5100,,53429,255
+2017,Expense,Department of Finance,5100,,1500,100
+2017,Expense,Law Department,5100,,15431,100
+2017,Expense,Information Tech/Info Services,5100,,1114775,600
+2017,Expense,Information Tech/Info Services,5100,,50000,600
+2017,Expense,Police Department,5100,,43498,100
+2017,Expense,Public Works & Utilities,5100,,150000,231
+2017,Expense,Public Works & Utilities,5100,,359000,255
+2017,Expense,Metropolitan Planning,5100,,14000,265
+2017,Expense,Golf Course System,5100,,286551,515
+2017,Expense,Golf Course System,5100,,150000,515
+2017,Expense,Non Departmental,5100,,185000,100
+2017,Expense,Non Departmental,5100,,2663250,215
+2017,Expense,Non Departmental,5100,,3098413,215
+2017,Expense,Non Departmental,5100,,36394376,237
+2017,Expense,Non Departmental,5100,,250000,100
+2017,Expense,Non Departmental,5100,,1102332,100
+2017,Expense,Non Departmental,5100,,3775080,100
+2017,Expense,Non Departmental,5100,,628635,100
 2017,Revenue,,9234,Charges for Services and Sales,47000,100
 2017,Revenue,,9235,Charges for Services and Sales,4000,100
 2017,Revenue,,9236,Charges for Services and Sales,500,100
@@ -6183,10 +6204,7 @@ budget_year,account_type,department,fund_code,account_category,amount,fund_type
 2017,Revenue,,9000,Charges for Services and Sales,150000,100
 2017,Revenue,,9812,Other Revenue,536562,100
 2017,Revenue,,9812,Other Revenue,310000,100
-2017,Revenue,,9811,Other Revenue,1211231,235
-2017,Revenue,,9811,Other Revenue,551157,235
 2017,Revenue,,9457,Fees,11000,100
-2017,Revenue,,9811,Other Revenue,1842208,235
 2017,Revenue,,9456,Fees,8900,100
 2017,Revenue,,7143,Licenses,92000,100
 2017,Revenue,,9438,Fees,24000,100
@@ -6577,6 +6595,16 @@ budget_year,account_type,department,fund_code,account_category,amount,fund_type
 2017,Expense,Public Works & Utilities,3999,,4300,540
 2017,Expense,Public Works & Utilities,1100,,98170,540
 2017,Expense,Public Works & Utilities,1101,,2700,540
+2017,Revenue,,9800,Other Revenue,185000,236
+2017,Revenue,,9800,Other Revenue,400000,778
+2017,Revenue,,9800,Other Revenue,3200000,775
+2017,Revenue,,9800,Other Revenue,27944551,300
+2017,Revenue,,9800,Other Revenue,550000,620
+2017,Revenue,,9800,Other Revenue,191368,209
+2017,Revenue,,9800,Other Revenue,1102333,265
+2017,Revenue,,9800,Other Revenue,628635,265
+2017,Revenue,,9800,Other Revenue,3775080,520
+2017,Revenue,,9800,Other Revenue,5000750,100
 2017,Expense,Law Department,1400,,51405,100
 2017,Expense,Law Department,1401,,82651,100
 2017,Expense,Public Works & Utilities,2999,,1800,540
@@ -7447,6 +7475,7 @@ budget_year,account_type,department,fund_code,account_category,amount,fund_type
 2017,Expense,Park,2599,,9050,100
 2017,Expense,Park,2801,,7590,100
 2017,Expense,Park,2917,,2375,100
+2017,Expense,Public Works & Utilities,5101,,4358801,540
 2017,Expense,Public Works & Utilities,5200,,4665000,540
 2017,Expense,Public Works & Utilities,5202,,12616259,540
 2017,Expense,Public Works & Utilities,5203,,4983725,540
@@ -7589,6 +7618,7 @@ budget_year,account_type,department,fund_code,account_category,amount,fund_type
 2017,Expense,Golf Course System,2917,,2500,515
 2017,Expense,Golf Course System,3103,,3220,515
 2017,Expense,Golf Course System,3990,,5000,515
+2017,Expense,Golf Course System,5101,,80180,515
 2017,Expense,Golf Course System,5333,,27590,515
 2017,Expense,Golf Course System,5400,,19090,515
 2017,Expense,Non Departmental,2200,,341,100
@@ -7749,61 +7779,14 @@ budget_year,account_type,department,fund_code,account_category,amount,fund_type
 2017,Expense,Non Departmental,2900,,2577,215
 2017,Expense,Non Departmental,2507,,2000,215
 2017,Expense,Non Departmental,2599,,40000,215
-2017,Expense,Non Departmental,1199,,1447233,100
-2017,Expense,Non Departmental,2599,,20000,100
-2017,Expense,Non Departmental,2999,,3000000,100
 2017,Expense,Non Departmental,2806,,3000,215
 2017,Expense,Non Departmental,2599,,150000,215
 2017,Expense,Non Departmental,2599,,40000,215
 2017,Expense,Non Departmental,2599,,75000,215
 2017,Expense,Non Departmental,2595,,100000,215
 2017,Expense,Non Departmental,2599,,2476166,215
-2017,Expense,Non Departmental,5333,,230000,100
 2017,Expense,Non Departmental,1500,,-3817477,100
-2017,Expense,Metro Area Bldg & Construction,1100,,1078641,235
-2017,Expense,Metro Area Bldg & Construction,1101,,22735,235
-2017,Expense,Metro Area Bldg & Construction,1190,,8414,235
-2017,Expense,Metro Area Bldg & Construction,1204,,600,235
-2017,Expense,Metro Area Bldg & Construction,1208,,650,235
-2017,Expense,Metro Area Bldg & Construction,1300,,50000,235
-2017,Expense,Metro Area Bldg & Construction,1400,,84255,235
-2017,Expense,Metro Area Bldg & Construction,1401,,135469,235
-2017,Expense,Metro Area Bldg & Construction,2207,,7000,235
-2017,Expense,Metro Area Bldg & Construction,2401,,3530,235
-2017,Expense,Metro Area Bldg & Construction,2505,,40780,235
-2017,Expense,Metro Area Bldg & Construction,1403,,16521,235
-2017,Expense,Metro Area Bldg & Construction,1404,,2203,235
-2017,Expense,Metro Area Bldg & Construction,1405,,223030,235
-2017,Expense,Metro Area Bldg & Construction,1406,,4315,235
-2017,Expense,Metro Area Bldg & Construction,2401,,6329,235
-2017,Expense,Metro Area Bldg & Construction,2507,,1207,235
-2017,Expense,Metro Area Bldg & Construction,2700,,77160,235
-2017,Expense,Metro Area Bldg & Construction,2900,,220198,235
-2017,Expense,Metro Area Bldg & Construction,3405,,27266,235
-2017,Expense,Metro Area Bldg & Construction,5300,,1400000,235
-2017,Expense,Metro Area Bldg & Construction,5333,,15658,235
-2017,Expense,Metro Area Bldg & Construction,1100,,809293,235
-2017,Expense,Metro Area Bldg & Construction,1101,,12600,235
-2017,Expense,Metro Area Bldg & Construction,1190,,5284,235
-2017,Expense,Metro Area Bldg & Construction,1199,,-114550,235
-2017,Expense,Metro Area Bldg & Construction,1204,,1800,235
-2017,Expense,Metro Area Bldg & Construction,1400,,54112,235
-2017,Expense,Metro Area Bldg & Construction,1401,,87003,235
-2017,Expense,Metro Area Bldg & Construction,1208,,600,235
-2017,Expense,Metro Area Bldg & Construction,1403,,10522,235
-2017,Expense,Metro Area Bldg & Construction,1404,,1414,235
-2017,Expense,Metro Area Bldg & Construction,1405,,150967,235
-2017,Expense,Metro Area Bldg & Construction,1406,,3237,235
-2017,Expense,Metro Area Bldg & Construction,2302,,9900,235
-2017,Expense,Metro Area Bldg & Construction,2500,,500,235
-2017,Expense,Metro Area Bldg & Construction,2700,,62880,235
-2017,Expense,Metro Area Bldg & Construction,2803,,20550,235
-2017,Expense,Metro Area Bldg & Construction,2900,,55049,235
-2017,Expense,Metro Area Bldg & Construction,2902,,6119,235
-2017,Expense,Metro Area Bldg & Construction,2917,,8000,235
-2017,Expense,Metro Area Bldg & Construction,3405,,12784,235
-2017,Expense,Metro Area Bldg & Construction,3500,,3000,235
-2017,Expense,Metro Area Bldg & Construction,3999,,1000,235
+2017,Expense,City Manager,5101,,223242,236
 2017,Expense,Department of Finance,2502,,40750,620
 2017,Expense,Park,5400,,1230,100
 2017,Expense,Park,1200,,18130,100
@@ -8195,6 +8178,7 @@ budget_year,account_type,department,fund_code,account_category,amount,fund_type
 2017,Expense,Transit,3200,,22800,520
 2017,Expense,Transit,3904,,100,520
 2017,Expense,Transit,3999,,4500,520
+2017,Expense,Transit,5120,,1644865,520
 2017,Expense,Transit,2100,,13000,520
 2017,Expense,Transit,2101,,46000,520
 2017,Expense,Transit,2104,,2400,520
@@ -8210,6 +8194,7 @@ budget_year,account_type,department,fund_code,account_category,amount,fund_type
 2017,Expense,Transit,3103,,1000,520
 2017,Expense,Transit,3903,,400,520
 2017,Expense,Transit,3904,,200,520
+2017,Expense,Transit,5120,,530588,520
 2017,Expense,Transit,1100,,78899,520
 2017,Expense,Transit,1101,,360,520
 2017,Expense,Transit,1200,,17877,520

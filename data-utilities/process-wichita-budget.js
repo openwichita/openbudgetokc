@@ -17,8 +17,11 @@ fs.createReadStream(process.argv[2], { encoding: 'utf8' })
   .pipe(csv.parse())
   .pipe(csv.transform(row => {
     if ( // Is this an interfund transfer? Skip it.
-      row[OL2_ID_IDX].toLowerCase() === '510' ||
-      row[OL3_ID_IDX].toLowerCase() === '9800'
+      (
+        row[FUND_TITLE].toLowerCase() === 'general fund' &&
+        row[OCA_TITLE].toLowerCase() === 'appropriated fund balance'
+      ) ||
+      row[FUND_TITLE].toLowerCase() === 'metro area building & construction fund'
     ) { return null }
 
     if (row[0] === FIRST_COL_HEADER) {

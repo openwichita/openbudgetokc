@@ -872,29 +872,7 @@ OBJECTID,fund,fund_title,cur_doc_no,cur_doc_no_sfx,dept,dept_title,obj_lvl_1,obj
 1871,515,Golf Course System Fund,BU740015,10,21,Golf Course System,2,Contractual Services,250,Professional Services,2599,Other professional services,210400,Macdonald Golf Course ,10000,Expense,2017
 1872,515,Golf Course System Fund,BU740015,11,21,Golf Course System,2,Contractual Services,270,Equipment Charges,2700,Motor pool - scheduled charges,210400,Macdonald Golf Course ,16560,Expense,2017
 1873,515,Golf Course System Fund,BU740015,12,21,Golf Course System,2,Contractual Services,270,Equipment Charges,2702,Lease/rent equipment,210400,Macdonald Golf Course ,900,Expense,2017
-1874,235,Metro Area Building & Construction Fund,BU740015,13,23,Metro Area Bldg & Construction,5,Other Expenditures,530,Other Non-Operating Expenditures,5333,Miscellaneous and sundry,230200,Condemnation - Housing,4131,Expense,2017
-1875,235,Metro Area Building & Construction Fund,BU740015,14,23,Metro Area Bldg & Construction,1,Personnel Services,110,Regular Salaries,1100,Bi-weekly wages,230202,Commercial Zone Enforcement,253474,Expense,2017
-1876,235,Metro Area Building & Construction Fund,BU740015,15,23,Metro Area Bldg & Construction,1,Personnel Services,110,Regular Salaries,1101,Longevity,230202,Commercial Zone Enforcement,5100,Expense,2017
-1877,235,Metro Area Building & Construction Fund,BU740015,16,23,Metro Area Bldg & Construction,1,Personnel Services,110,Regular Salaries,1190,Accrual,230202,Commercial Zone Enforcement,2170,Expense,2017
-1878,235,Metro Area Building & Construction Fund,BU740015,17,23,Metro Area Bldg & Construction,1,Personnel Services,110,Regular Salaries,1199,Other,230202,Commercial Zone Enforcement,114550,Expense,2017
-1879,235,Metro Area Building & Construction Fund,BU740015,18,23,Metro Area Bldg & Construction,1,Personnel Services,120,Special Salaries,1204,Clothing allowance,230202,Commercial Zone Enforcement,600,Expense,2017
-1880,235,Metro Area Building & Construction Fund,BU740015,19,23,Metro Area Bldg & Construction,1,Personnel Services,140,Employee Benefits,1400,FICA,230202,Commercial Zone Enforcement,28544,Expense,2017
-1881,235,Metro Area Building & Construction Fund,BU740015,20,23,Metro Area Bldg & Construction,1,Personnel Services,140,Employee Benefits,1401,Employee pension,230202,Commercial Zone Enforcement,45895,Expense,2017
-1882,235,Metro Area Building & Construction Fund,BU740015,21,23,Metro Area Bldg & Construction,1,Personnel Services,140,Employee Benefits,1403,Workers compensation,230202,Commercial Zone Enforcement,5685,Expense,2017
-1883,235,Metro Area Building & Construction Fund,BU740015,22,23,Metro Area Bldg & Construction,1,Personnel Services,140,Employee Benefits,1404,Unemployment compensation,230202,Commercial Zone Enforcement,746,Expense,2017
-1884,235,Metro Area Building & Construction Fund,BU740015,23,23,Metro Area Bldg & Construction,1,Personnel Services,140,Employee Benefits,1405,Group health insurance,230202,Commercial Zone Enforcement,54170,Expense,2017
-1885,235,Metro Area Building & Construction Fund,BU740015,24,23,Metro Area Bldg & Construction,1,Personnel Services,140,Employee Benefits,1406,Group life insurance,230202,Commercial Zone Enforcement,1014,Expense,2017
-1886,235,Metro Area Building & Construction Fund,BU740015,25,23,Metro Area Bldg & Construction,2,Contractual Services,210,Utilities,2107,Trash service,230202,Commercial Zone Enforcement,756,Expense,2017
-1887,235,Metro Area Building & Construction Fund,BU740015,26,23,Metro Area Bldg & Construction,2,Contractual Services,220,Communications,2207,Postage - regular,230202,Commercial Zone Enforcement,2000,Expense,2017
-1889,235,Metro Area Building & Construction Fund,BU740015,28,23,Metro Area Bldg & Construction,2,Contractual Services,240,Insurance,2401,Vehicle liability,230202,Commercial Zone Enforcement,4530,Expense,2017
-1893,235,Metro Area Building & Construction Fund,BU740015,32,23,Metro Area Bldg & Construction,3,Materials and Supplies,340,Equipment Parts,3405,Fuel,230202,Commercial Zone Enforcement,5898,Expense,2017
 1896,100,General Fund,BU740015,35,23,Metro Area Bldg & Construction,1,Personnel Services,120,Special Salaries,1200,Part time/seasonal,239054,Lot Mowing,15625,Expense,2017
-1888,235,Metro Area Building & Construction Fund,BU740015,27,23,Metro Area Bldg & Construction,2,Contractual Services,230,Transportation and Training,2303,In town registration fees,230202,Commercial Zone Enforcement,700,Expense,2017
-1890,235,Metro Area Building & Construction Fund,BU740015,29,23,Metro Area Bldg & Construction,2,Contractual Services,270,Equipment Charges,2700,Motor pool - scheduled charges,230202,Commercial Zone Enforcement,21000,Expense,2017
-1891,235,Metro Area Building & Construction Fund,BU740015,30,23,Metro Area Bldg & Construction,2,Contractual Services,290,Other Contractuals,2917,Printing and copying,230202,Commercial Zone Enforcement,900,Expense,2017
-1892,235,Metro Area Building & Construction Fund,BU740015,31,23,Metro Area Bldg & Construction,3,Materials and Supplies,310,Office Supplies,3103,Office supplies,230202,Commercial Zone Enforcement,900,Expense,2017
-1894,235,Metro Area Building & Construction Fund,BU740015,33,23,Metro Area Bldg & Construction,3,Materials and Supplies,380,Non-Capitalizable Equipment < $5000 Each,3804,"Data processing equipment  < $5,000 each",230202,Commercial Zone Enforcement,1200,Expense,2017
-1895,235,Metro Area Building & Construction Fund,BU740015,34,23,Metro Area Bldg & Construction,5,Other Expenditures,530,Other Non-Operating Expenditures,5333,Miscellaneous and sundry,230202,Commercial Zone Enforcement,1783,Expense,2017
 1897,100,General Fund,BU740015,36,23,Metro Area Bldg & Construction,1,Personnel Services,140,Employee Benefits,1400,FICA,239054,Lot Mowing,1195,Expense,2017
 1898,100,General Fund,BU740015,37,23,Metro Area Bldg & Construction,1,Personnel Services,140,Employee Benefits,1403,Workers compensation,239054,Lot Mowing,234,Expense,2017
 1899,100,General Fund,BU740015,38,23,Metro Area Bldg & Construction,1,Personnel Services,140,Employee Benefits,1404,Unemployment compensation,239054,Lot Mowing,31,Expense,2017
@@ -934,6 +912,7 @@ OBJECTID,fund,fund_title,cur_doc_no,cur_doc_no_sfx,dept,dept_title,obj_lvl_1,obj
 1933,100,General Fund,BU740015,72,23,Metro Area Bldg & Construction,3,Materials and Supplies,390,Other Commodities,3999,Other commodities,239081,Code Enforcement,200,Expense,2017
 1934,100,General Fund,BU740015,73,2,City Manager,2,Contractual Services,230,Transportation and Training,2301,Meals and lodging allowance,20008,City Manager Administration,10950,Expense,2017
 1935,100,General Fund,BU740015,74,2,City Manager,3,Materials and Supplies,390,Other Commodities,3999,Other commodities,28105,Marketing Services,2000,Expense,2017
+1936,620,Self Insurance Fund,BU740015,75,3,Department of Finance,5,Other Expenditures,510,Interfund Transfers,5101,Reimbursements-interfund & interdepart,36301,Self Insurance Risk Management,86263,Expense,2017
 1937,100,General Fund,BU740015,76,4,Law Department,1,Personnel Services,120,Special Salaries,1205,Auto allowance,40006,City Attorneys Office,2400,Expense,2017
 1938,600,Information Technology Fund,BU740015,77,6,Information Tech/Info Services,3,Materials and Supplies,310,Office Supplies,3101,Computer/printer supplies,60004,IT/IS Network,35000,Expense,2017
 1939,100,General Fund,BU740015,78,8,Police Department,2,Contractual Services,270,Equipment Charges,2703,Maintenance - equipment,81307,Patrol West,2000,Expense,2017
@@ -1077,6 +1056,7 @@ OBJECTID,fund,fund_title,cur_doc_no,cur_doc_no_sfx,dept,dept_title,obj_lvl_1,obj
 2077,520,Transit Fund,BU740017,16,16,Transit,3,Materials and Supplies,310,Office Supplies,3103,Office supplies,160044,Special Services,1800,Expense,2017
 2078,520,Transit Fund,BU740017,17,16,Transit,3,Materials and Supplies,320,Clothing and Towels,3200,Clothing and towels,160044,Special Services,7500,Expense,2017
 2079,520,Transit Fund,BU740017,18,16,Transit,3,Materials and Supplies,390,Other Commodities,3904,Petty cash expenditures,160044,Special Services,50,Expense,2017
+2080,520,Transit Fund,BU740017,19,16,Transit,5,Other Expenditures,510,Interfund Transfers,5120,Trsfrs to Hot Spot Proj/Operating Grants,160044,Special Services,125031,Expense,2017
 2081,100,General Fund,BU740017,20,17,Park,1,Personnel Services,110,Regular Salaries,1100,Bi-weekly wages,171101,Park - Administration,419291,Expense,2017
 2082,100,General Fund,BU740017,21,17,Park,1,Personnel Services,110,Regular Salaries,1101,Longevity,171101,Park - Administration,2988,Expense,2017
 2083,100,General Fund,BU740017,22,17,Park,2,Contractual Services,210,Utilities,2100,Electricity,173407,Harvest Pool,1920,Expense,2017
@@ -1251,6 +1231,7 @@ OBJECTID,fund,fund_title,cur_doc_no,cur_doc_no_sfx,dept,dept_title,obj_lvl_1,obj
 2249,100,General Fund,BU740035,82,17,Park,3,Materials and Supplies,390,Other Commodities,3999,Other commodities,173101,Recreation - Administration,2275,Expense,2017
 2250,100,General Fund,BU740035,83,17,Park,1,Personnel Services,110,Regular Salaries,1100,Bi-weekly wages,173102,Adult Athletic Administration,51270,Expense,2017
 2251,220,Special Alcohol Program Fund,BU740035,84,2,City Manager,2,Contractual Services,290,Other Contractuals,2900,City administrative charges,28301,Special Alcohol Administration,5810,Expense,2017
+2252,220,Special Alcohol Program Fund,BU740035,85,2,City Manager,5,Other Expenditures,510,Interfund Transfers,5101,Reimbursements-interfund & interdepart,28301,Special Alcohol Administration,175000,Expense,2017
 2253,220,Special Alcohol Program Fund,BU740035,86,2,City Manager,5,Other Expenditures,530,Other Non-Operating Expenditures,5300,Contingency,28301,Special Alcohol Administration,501429,Expense,2017
 2254,220,Special Alcohol Program Fund,BU740035,87,2,City Manager,5,Other Expenditures,530,Other Non-Operating Expenditures,5333,Miscellaneous and sundry,28301,Special Alcohol Administration,128571,Expense,2017
 2255,220,Special Alcohol Program Fund,BU740035,88,2,City Manager,2,Contractual Services,250,Professional Services,2502,Medical and laboratory services,28333,SA&D-Drug Court Defendants Treatment,120000,Expense,2017
@@ -1710,6 +1691,7 @@ OBJECTID,fund,fund_title,cur_doc_no,cur_doc_no_sfx,dept,dept_title,obj_lvl_1,obj
 2712,530,Sewer Utility Fund,BU740040,45,18,Public Works & Utilities,2,Contractual Services,290,Other Contractuals,2980,Reimb Water/Sewer by Sewer/SWU,184002,Sewer Administration,1048284,Expense,2017
 2713,530,Sewer Utility Fund,BU740040,46,18,Public Works & Utilities,2,Contractual Services,290,Other Contractuals,2999,Other contractuals,184002,Sewer Administration,52306,Expense,2017
 2714,530,Sewer Utility Fund,BU740040,47,18,Public Works & Utilities,3,Materials and Supplies,390,Other Commodities,3980,Reimb Water/Sewer by Sewer/SWU,184002,Sewer Administration,77078,Expense,2017
+2715,530,Sewer Utility Fund,BU740040,48,18,Public Works & Utilities,5,Other Expenditures,510,Interfund Transfers,5101,Reimbursements-interfund & interdepart,184002,Sewer Administration,2839118,Expense,2017
 2716,530,Sewer Utility Fund,BU740040,49,18,Public Works & Utilities,5,Other Expenditures,520,Debt Service,5202,Principal - revenue bonds,184002,Sewer Administration,11253741,Expense,2017
 2717,530,Sewer Utility Fund,BU740040,50,18,Public Works & Utilities,5,Other Expenditures,520,Debt Service,5205,Interest - Revenue bonds,184002,Sewer Administration,7181868,Expense,2017
 2718,530,Sewer Utility Fund,BU740040,51,18,Public Works & Utilities,5,Other Expenditures,520,Debt Service,5206,Bond insurance expenditures,184002,Sewer Administration,1000000,Expense,2017
@@ -2003,6 +1985,7 @@ OBJECTID,fund,fund_title,cur_doc_no,cur_doc_no_sfx,dept,dept_title,obj_lvl_1,obj
 4006,540,Water Utility Fund,BU740027,98,18,Public Works & Utilities,2,Contractual Services,220,Communications,2214,Air cards - mobile,183012,System Planning,840,Expense,2017
 4007,540,Water Utility Fund,BU740027,99,18,Public Works & Utilities,2,Contractual Services,220,Communications,2216,Voice mail,183012,System Planning,420,Expense,2017
 4008,560,Stormwater Utility Fund,BU740027,100,13,Public Works & Utilities,4,Capital Outlay,460,"Operating Equipment => $5,000",4611,"Machinery & maintenance equip => $5,000",133116,Storm Water Utility,68000,Expense,2017
+4009,560,Stormwater Utility Fund,BU740028,1,13,Public Works & Utilities,5,Other Expenditures,510,Interfund Transfers,5101,Reimbursements-interfund & interdepart,133116,Storm Water Utility,777740,Expense,2017
 4010,560,Stormwater Utility Fund,BU740028,2,13,Public Works & Utilities,5,Other Expenditures,520,Debt Service,5200,Principal - G.O.,133116,Storm Water Utility,2953786,Expense,2017
 4011,560,Stormwater Utility Fund,BU740028,3,13,Public Works & Utilities,5,Other Expenditures,520,Debt Service,5203,Interest - G.O.,133116,Storm Water Utility,765071,Expense,2017
 4012,560,Stormwater Utility Fund,BU740028,4,13,Public Works & Utilities,5,Other Expenditures,530,Other Non-Operating Expenditures,5300,Contingency,133116,Storm Water Utility,100000,Expense,2017
@@ -2145,6 +2128,7 @@ OBJECTID,fund,fund_title,cur_doc_no,cur_doc_no_sfx,dept,dept_title,obj_lvl_1,obj
 4149,100,General Fund,BU740029,41,8,Police Department,2,Contractual Services,210,Utilities,2107,Trash service,81604,Patrol South,1000,Expense,2017
 4150,100,General Fund,BU740029,42,8,Police Department,3,Materials and Supplies,340,Equipment Parts,3405,Fuel,83303,Administrative Services,3231,Expense,2017
 4151,100,General Fund,BU740029,43,8,Police Department,3,Materials and Supplies,390,Other Commodities,3999,Other commodities,83303,Administrative Services,3000,Expense,2017
+4152,100,General Fund,BU740029,44,8,Police Department,5,Other Expenditures,510,Interfund Transfers,5101,Reimbursements-interfund & interdepart,83303,Administrative Services,35430,Expense,2017
 4153,100,General Fund,BU740029,45,8,Police Department,5,Other Expenditures,530,Other Non-Operating Expenditures,5300,Contingency,83303,Administrative Services,150000,Expense,2017
 4154,100,General Fund,BU740029,46,8,Police Department,1,Personnel Services,110,Regular Salaries,1100,Bi-weekly wages,83306,Animal Control Shelter Services,1042663,Expense,2017
 4155,100,General Fund,BU740029,47,8,Police Department,1,Personnel Services,110,Regular Salaries,1101,Longevity,83306,Animal Control Shelter Services,16584,Expense,2017
@@ -2584,6 +2568,7 @@ OBJECTID,fund,fund_title,cur_doc_no,cur_doc_no_sfx,dept,dept_title,obj_lvl_1,obj
 4589,775,Employees Retirement,BU740033,81,3,Department of Finance,3,Materials and Supplies,390,Other Commodities,3903,Food supplies,31237,Pension Management,700,Expense,2017
 4590,775,Employees Retirement,BU740033,82,3,Department of Finance,3,Materials and Supplies,390,Other Commodities,3904,Petty cash expenditures,31237,Pension Management,100,Expense,2017
 4591,775,Employees Retirement,BU740033,83,3,Department of Finance,3,Materials and Supplies,390,Other Commodities,3999,Other commodities,31237,Pension Management,3500,Expense,2017
+4592,775,Employees Retirement,BU740033,84,3,Department of Finance,5,Other Expenditures,510,Interfund Transfers,5101,Reimbursements-interfund & interdepart,31237,Pension Management,84460,Expense,2017
 4593,260,Self-Supported Municipal Improvement Dis,BU740033,85,3,Department of Finance,2,Contractual Services,250,Professional Services,2599,Other professional services,32301,Ssmid,675245,Expense,2017
 4594,255,TIF Districts Fund,BU740033,86,3,Department of Finance,2,Contractual Services,290,Other Contractuals,2999,Other contractuals,32988,Union Station TIF,75000,Expense,2017
 4595,620,Self Insurance Fund,BU740033,87,3,Department of Finance,2,Contractual Services,240,Insurance,2407,AD&D premium - voluntary,36004,Self Insurance Group Life,140000,Expense,2017
@@ -2750,6 +2735,7 @@ OBJECTID,fund,fund_title,cur_doc_no,cur_doc_no_sfx,dept,dept_title,obj_lvl_1,obj
 4756,255,TIF Districts Fund,BU740035,48,14,Public Works & Utilities,3,Materials and Supplies,380,Non-Capitalizable Equipment < $5000 Each,3808,"Photographic equipment < $5,000 each",148557,Gilbert & Mosley-General Program Costs,150,Expense,2017
 4757,255,TIF Districts Fund,BU740035,49,14,Public Works & Utilities,3,Materials and Supplies,390,Other Commodities,3901,Custodial supplies,148557,Gilbert & Mosley-General Program Costs,150,Expense,2017
 4758,255,TIF Districts Fund,BU740035,50,14,Public Works & Utilities,3,Materials and Supplies,390,Other Commodities,3999,Other commodities,148557,Gilbert & Mosley-General Program Costs,500,Expense,2017
+4759,255,TIF Districts Fund,BU740035,51,14,Public Works & Utilities,5,Other Expenditures,510,Interfund Transfers,5101,Reimbursements-interfund & interdepart,148557,Gilbert & Mosley-General Program Costs,207237,Expense,2017
 4760,255,TIF Districts Fund,BU740035,52,14,Public Works & Utilities,5,Other Expenditures,530,Other Non-Operating Expenditures,5333,Miscellaneous and sundry,148557,Gilbert & Mosley-General Program Costs,10850000,Expense,2017
 4761,255,TIF Districts Fund,BU740035,53,14,Public Works & Utilities,2,Contractual Services,210,Utilities,2100,Electricity,148558,Gilbert & Mosley-WATER Center & Ed Progr,20368,Expense,2017
 4762,255,TIF Districts Fund,BU740035,54,14,Public Works & Utilities,2,Contractual Services,210,Utilities,2101,Gas-ONEOK Kansas Gas Service,148558,Gilbert & Mosley-WATER Center & Ed Progr,3629,Expense,2017
@@ -2938,6 +2924,7 @@ OBJECTID,fund,fund_title,cur_doc_no,cur_doc_no_sfx,dept,dept_title,obj_lvl_1,obj
 4945,620,Self Insurance Fund,BU740071,25,3,Department of Finance,2,Contractual Services,290,Other Contractuals,2906,Membership dues,36103,Self Insurance Group Health,7500,Expense,2017
 4946,620,Self Insurance Fund,BU740071,26,3,Department of Finance,2,Contractual Services,290,Other Contractuals,2913,Flex spending admin charge,36103,Self Insurance Group Health,27000,Expense,2017
 4947,620,Self Insurance Fund,BU740071,27,3,Department of Finance,2,Contractual Services,290,Other Contractuals,2917,Printing and copying,36103,Self Insurance Group Health,10000,Expense,2017
+4948,620,Self Insurance Fund,BU740071,28,3,Department of Finance,5,Other Expenditures,510,Interfund Transfers,5101,Reimbursements-interfund & interdepart,36103,Self Insurance Group Health,188085,Expense,2017
 4949,620,Self Insurance Fund,BU740071,29,3,Department of Finance,2,Contractual Services,240,Insurance,2405,Health expenses,36104,Self Insurance Health - Retirees,3684125,Expense,2017
 4950,620,Self Insurance Fund,BU740071,30,3,Department of Finance,2,Contractual Services,240,Insurance,2406,Health Expenses - Select,36104,Self Insurance Health - Retirees,55247,Expense,2017
 4951,620,Self Insurance Fund,BU740071,31,3,Department of Finance,2,Contractual Services,240,Insurance,2411,Health Admin Expense,36104,Self Insurance Health - Retirees,196058,Expense,2017
@@ -3587,6 +3574,7 @@ OBJECTID,fund,fund_title,cur_doc_no,cur_doc_no_sfx,dept,dept_title,obj_lvl_1,obj
 5599,100,General Fund,BU740025,18,14,Public Works & Utilities,1,Personnel Services,140,Employee Benefits,1400,FICA,149013,Env Hlth / Swimming Pools / City,1434,Expense,2017
 5593,255,TIF Districts Fund,BU740025,12,14,Public Works & Utilities,3,Materials and Supplies,380,Non-Capitalizable Equipment < $5000 Each,3899,"Other non-capitalized equip <$5,000 each",148656,North Industrial Corridor-General Progra,2400,Expense,2017
 5594,255,TIF Districts Fund,BU740025,13,14,Public Works & Utilities,3,Materials and Supplies,390,Other Commodities,3995,Delegate agencies-misc commod,148656,North Industrial Corridor-General Progra,50,Expense,2017
+5596,255,TIF Districts Fund,BU740025,15,14,Public Works & Utilities,5,Other Expenditures,510,Interfund Transfers,5101,Reimbursements-interfund & interdepart,148656,North Industrial Corridor-General Progra,207237,Expense,2017
 5597,255,TIF Districts Fund,BU740025,16,14,Public Works & Utilities,5,Other Expenditures,530,Other Non-Operating Expenditures,5333,Miscellaneous and sundry,148656,North Industrial Corridor-General Progra,4750000,Expense,2017
 5600,100,General Fund,BU740025,19,14,Public Works & Utilities,1,Personnel Services,140,Employee Benefits,1403,Workers compensation,149013,Env Hlth / Swimming Pools / City,469,Expense,2017
 5601,100,General Fund,BU740025,20,14,Public Works & Utilities,1,Personnel Services,140,Employee Benefits,1404,Unemployment compensation,149013,Env Hlth / Swimming Pools / City,37,Expense,2017
@@ -4860,6 +4848,8 @@ OBJECTID,fund,fund_title,cur_doc_no,cur_doc_no_sfx,dept,dept_title,obj_lvl_1,obj
 6869,520,Transit Fund,BU740073,55,16,Transit,3,Materials and Supplies,390,Other Commodities,3903,Food supplies,160002,MTA Administration,2000,Expense,2017
 6870,520,Transit Fund,BU740073,56,16,Transit,3,Materials and Supplies,390,Other Commodities,3904,Petty cash expenditures,160002,MTA Administration,500,Expense,2017
 6871,520,Transit Fund,BU740073,57,16,Transit,3,Materials and Supplies,390,Other Commodities,3999,Other commodities,160002,MTA Administration,500,Expense,2017
+6872,520,Transit Fund,BU740073,58,16,Transit,5,Other Expenditures,510,Interfund Transfers,5101,Reimbursements-interfund & interdepart,160002,MTA Administration,67880,Expense,2017
+6873,520,Transit Fund,BU740073,59,16,Transit,5,Other Expenditures,510,Interfund Transfers,5120,Trsfrs to Hot Spot Proj/Operating Grants,160002,MTA Administration,191503,Expense,2017
 6874,520,Transit Fund,BU740073,60,16,Transit,5,Other Expenditures,530,Other Non-Operating Expenditures,5302,Tort liability claims,160002,MTA Administration,300000,Expense,2017
 6875,520,Transit Fund,BU740073,61,16,Transit,5,Other Expenditures,530,Other Non-Operating Expenditures,5333,Miscellaneous and sundry,160002,MTA Administration,18750,Expense,2017
 6876,520,Transit Fund,BU740073,62,16,Transit,1,Personnel Services,110,Regular Salaries,1100,Bi-weekly wages,160010,Vehicle Operations,307618,Expense,2017
@@ -5213,6 +5203,7 @@ OBJECTID,fund,fund_title,cur_doc_no,cur_doc_no_sfx,dept,dept_title,obj_lvl_1,obj
 7224,500,Airport Authority Fund,BU740077,10,19,Airport,3,Materials and Supplies,390,Other Commodities,3902,Medical supplies,190009,Administration Mid Continent,50,Expense,2017
 7225,500,Airport Authority Fund,BU740077,11,19,Airport,3,Materials and Supplies,390,Other Commodities,3903,Food supplies,190009,Administration Mid Continent,13250,Expense,2017
 7226,500,Airport Authority Fund,BU740077,12,19,Airport,3,Materials and Supplies,390,Other Commodities,3999,Other commodities,190009,Administration Mid Continent,17800,Expense,2017
+7227,500,Airport Authority Fund,BU740077,13,19,Airport,5,Other Expenditures,510,Interfund Transfers,5101,Reimbursements-interfund & interdepart,190009,Administration Mid Continent,990929,Expense,2017
 7228,500,Airport Authority Fund,BU740077,14,19,Airport,5,Other Expenditures,520,Debt Service,5200,Principal - G.O.,190009,Administration Mid Continent,2878902,Expense,2017
 7229,500,Airport Authority Fund,BU740077,15,19,Airport,5,Other Expenditures,520,Debt Service,5203,Interest - G.O.,190009,Administration Mid Continent,5670260,Expense,2017
 7230,500,Airport Authority Fund,BU740077,16,19,Airport,5,Other Expenditures,520,Debt Service,5211,Bond amortization cost,190009,Administration Mid Continent,-193116,Expense,2017
@@ -5721,6 +5712,36 @@ OBJECTID,fund,fund_title,cur_doc_no,cur_doc_no_sfx,dept,dept_title,obj_lvl_1,obj
 7733,500,Airport Authority Fund,BU740079,23,19,Airport,1,Personnel Services,130,Overtime,1302,Court appearance,190058,Safety Mid Continent,500,Expense,2017
 7734,500,Airport Authority Fund,BU740079,24,19,Airport,1,Personnel Services,130,Overtime,1303,Holiday,190058,Safety Mid Continent,110000,Expense,2017
 7735,500,Airport Authority Fund,BU740079,25,19,Airport,1,Personnel Services,140,Employee Benefits,1400,FICA,190058,Safety Mid Continent,83616,Expense,2017
+7736,238,Downtown Parking Fund,BU740080,1,2,City Manager,5,Other Expenditures,510,Interfund Transfers,5100,Contributions to other funds,23804,Old Town Parking District,40000,Expense,2017
+7737,238,Downtown Parking Fund,BU740080,2,2,City Manager,5,Other Expenditures,510,Interfund Transfers,5100,Contributions to other funds,23807,City Hall Parking,30000,Expense,2017
+7738,778,WER - Plan 3 & 3b,BU740080,3,3,Department of Finance,5,Other Expenditures,510,Interfund Transfers,5100,Contributions to other funds,31058,Plan 3 Wichita EE Retirement,3438830,Expense,2017
+7739,776,Police & Fire Retirement,BU740080,4,3,Department of Finance,5,Other Expenditures,510,Interfund Transfers,5100,Contributions to other funds,31070,Police & Fire Retirement,351013,Expense,2017
+7740,225,Special Parks and Recreation Fund,BU740080,5,3,Department of Finance,5,Other Expenditures,510,Interfund Transfers,5100,Contributions to other funds,31229,Special Parks & Rec. Transfer,2180000,Expense,2017
+7741,775,Employees Retirement,BU740080,6,3,Department of Finance,5,Other Expenditures,510,Interfund Transfers,5100,Contributions to other funds,31237,Pension Management,-351013,Expense,2017
+7742,255,TIF Districts Fund,BU740080,7,3,Department of Finance,5,Other Expenditures,510,Interfund Transfers,5100,Contributions to other funds,32951,East Bank TIF- Hyatt,1690000,Expense,2017
+7743,255,TIF Districts Fund,BU740080,8,3,Department of Finance,5,Other Expenditures,510,Interfund Transfers,5100,Contributions to other funds,32979,Old Town Cinema TIF District,590000,Expense,2017
+7744,255,TIF Districts Fund,BU740080,9,3,Department of Finance,5,Other Expenditures,510,Interfund Transfers,5100,Contributions to other funds,32983,Northeast Redevelop TIF District Fund,31600,Expense,2017
+7745,255,TIF Districts Fund,BU740080,10,3,Department of Finance,5,Other Expenditures,510,Interfund Transfers,5100,Contributions to other funds,32984,Center City South-Arena Development Ph 1,196832,Expense,2017
+7746,255,TIF Districts Fund,BU740080,11,3,Department of Finance,5,Other Expenditures,510,Interfund Transfers,5100,Contributions to other funds,32986,Ken Mar TIF,174350,Expense,2017
+7747,255,TIF Districts Fund,BU740080,12,3,Department of Finance,5,Other Expenditures,510,Interfund Transfers,5100,Contributions to other funds,32987,Douglas/Hillside TIF,53429,Expense,2017
+7748,100,General Fund,BU740080,13,3,Department of Finance,5,Other Expenditures,510,Interfund Transfers,5100,Contributions to other funds,37200,General Purchasing,1500,Expense,2017
+7749,100,General Fund,BU740080,14,4,Law Department,5,Other Expenditures,510,Interfund Transfers,5100,Contributions to other funds,40007,Law Prosecution,15431,Expense,2017
+7750,600,Information Technology Fund,BU740080,15,6,Information Tech/Info Services,5,Other Expenditures,510,Interfund Transfers,5100,Contributions to other funds,60001,IT/IS Administration,1114775,Expense,2017
+7751,600,Information Technology Fund,BU740080,16,6,Information Tech/Info Services,5,Other Expenditures,510,Interfund Transfers,5100,Contributions to other funds,60008,IT/IS Telecommunications,50000,Expense,2017
+7752,100,General Fund,BU740080,17,8,Police Department,5,Other Expenditures,510,Interfund Transfers,5100,Contributions to other funds,82206,Crimes Against Persons,43498,Expense,2017
+7753,231,Landfill Post-Closure Fund,BU740080,18,13,Public Works & Utilities,5,Other Expenditures,510,Interfund Transfers,5100,Contributions to other funds,131384,Landfill Post-Closure Fund,150000,Expense,2017
+7754,255,TIF Districts Fund,BU740080,19,14,Public Works & Utilities,5,Other Expenditures,510,Interfund Transfers,5100,Contributions to other funds,148557,Gilbert & Mosley-General Program Costs,359000,Expense,2017
+7755,265,City/County Joint Operations Fund,BU740080,20,15,Metropolitan Planning,5,Other Expenditures,510,Interfund Transfers,5100,Contributions to other funds,150004,Metropolitan Planning,14000,Expense,2017
+7756,515,Golf Course System Fund,BU740080,21,21,Golf Course System,5,Other Expenditures,510,Interfund Transfers,5100,Contributions to other funds,210100,Auburn Hills-Golf Course,286551,Expense,2017
+7757,515,Golf Course System Fund,BU740080,22,21,Golf Course System,5,Other Expenditures,510,Interfund Transfers,5100,Contributions to other funds,210600,Golf Administration,150000,Expense,2017
+7758,100,General Fund,BU740080,23,22,Non Departmental,5,Other Expenditures,510,Interfund Transfers,5100,Contributions to other funds,222061,General Government,185000,Expense,2017
+7759,215,Tourism and Convention Promotion Fund,BU740080,24,22,Non Departmental,5,Other Expenditures,510,Interfund Transfers,5100,Contributions to other funds,225011,Appropriated Reserves,2663250,Expense,2017
+7760,215,Tourism and Convention Promotion Fund,BU740080,25,22,Non Departmental,5,Other Expenditures,510,Interfund Transfers,5100,Contributions to other funds,225094,Cultural Attractions-Capital Improvement,3098413,Expense,2017
+7761,237,Sales Tax Construction Pledge Fund,BU740080,26,22,Non Departmental,5,Other Expenditures,510,Interfund Transfers,5100,Contributions to other funds,225509,Sales Tax Construction Pledge,36394376,Expense,2017
+7763,100,General Fund,BU740080,28,22,Non Departmental,5,Other Expenditures,510,Interfund Transfers,5100,Contributions to other funds,225763,G. F. Transfers to Tort Liability,250000,Expense,2017
+7764,100,General Fund,BU740080,29,22,Non Departmental,5,Other Expenditures,510,Interfund Transfers,5100,Contributions to other funds,225771,G. F. Transfers to Flood Control,1102332,Expense,2017
+7765,100,General Fund,BU740080,30,22,Non Departmental,5,Other Expenditures,510,Interfund Transfers,5100,Contributions to other funds,225797,G. F. Transfers to Transit,3775080,Expense,2017
+7766,100,General Fund,BU740080,31,22,Non Departmental,5,Other Expenditures,510,Interfund Transfers,5100,Contributions to other funds,225805,G. F. Transfers to Planning,628635,Expense,2017
 7767,100,General Fund,BU740081,1,11,CMO - Cultural Arts Division,90,Charges for Services and Sales,923,Amusement,9234,Concessions,111001,Cowtown Operations,47000,Revenue,2017
 7768,100,General Fund,BU740081,2,11,CMO - Cultural Arts Division,90,Charges for Services and Sales,923,Amusement,9235,Film Contracts,111001,Cowtown Operations,4000,Revenue,2017
 7769,100,General Fund,BU740081,3,11,CMO - Cultural Arts Division,90,Charges for Services and Sales,923,Amusement,9236,Vending machines,111001,Cowtown Operations,500,Revenue,2017
@@ -6183,10 +6204,7 @@ OBJECTID,fund,fund_title,cur_doc_no,cur_doc_no_sfx,dept,dept_title,obj_lvl_1,obj
 8226,100,General Fund,BU740085,60,3,Department of Finance,90,Charges for Services and Sales,900,General,9000,Sale of services/commodities,37219,Stationery Stores,150000,Revenue,2017
 8227,100,General Fund,BU740085,61,3,Department of Finance,98,Other Revenue,981,Other Revenue,9812,Reimbursed expend-interfund & interdept,37408,Treasury Office,536562,Revenue,2017
 8228,100,General Fund,BU740085,62,3,Department of Finance,98,Other Revenue,981,Other Revenue,9812,Reimbursed expend-interfund & interdept,37416,Special Assessments,310000,Revenue,2017
-8230,235,Metro Area Building & Construction Fund,BU740085,64,23,Metro Area Bldg & Construction,98,Other Revenue,981,Other Revenue,9811,Reimbursements,230200,Condemnation - Housing,1211231,Revenue,2017
-8231,235,Metro Area Building & Construction Fund,BU740085,65,23,Metro Area Bldg & Construction,98,Other Revenue,981,Other Revenue,9811,Reimbursements,230202,Commercial Zone Enforcement,551157,Revenue,2017
 8232,100,General Fund,BU740085,66,23,Metro Area Bldg & Construction,94,Fees ,945,Health,9457,Nusiance abatement/weed mowing,239054,Lot Mowing,11000,Revenue,2017
-8229,235,Metro Area Building & Construction Fund,BU740085,63,23,Metro Area Bldg & Construction,98,Other Revenue,981,Other Revenue,9811,Reimbursements,230100,Central Inspection - Administration,1842208,Revenue,2017
 8233,100,General Fund,BU740085,67,23,Metro Area Bldg & Construction,94,Fees ,945,Health,9456,Nusiance abatement/lot cleanup,239062,Nuisance Abatement,8900,Revenue,2017
 8234,100,General Fund,BU740085,68,23,Metro Area Bldg & Construction,70,Licenses,714,Health - Other,7143,Solid waste lic/other,239081,Code Enforcement,92000,Revenue,2017
 8235,100,General Fund,BU740085,69,24,Human Resources,94,Fees ,943,Overhead Charges,9438,Court ordered withholding admin fees,240100,Human Resources - Operations,24000,Revenue,2017
@@ -6577,6 +6595,16 @@ OBJECTID,fund,fund_title,cur_doc_no,cur_doc_no_sfx,dept,dept_title,obj_lvl_1,obj
 3090,540,Water Utility Fund,BU740044,23,18,Public Works & Utilities,3,Materials and Supplies,390,Other Commodities,3999,Other commodities,183301,Building Equipment & Maintenance,4300,Expense,2017
 3091,540,Water Utility Fund,BU740044,24,18,Public Works & Utilities,1,Personnel Services,110,Regular Salaries,1100,Bi-weekly wages,183319,Dispatch,98170,Expense,2017
 3092,540,Water Utility Fund,BU740044,25,18,Public Works & Utilities,1,Personnel Services,110,Regular Salaries,1101,Longevity,183319,Dispatch,2700,Expense,2017
+3093,236,General Fund - Economic Development Subf,BU740001,1,2,City Manager,98,Other Revenue,980,Transfers,9800,Interfund transfers,28001,Economic Development,185000,Revenue,2017
+3094,778,WER - Plan 3 & 3b,BU740001,2,3,Department of Finance,98,Other Revenue,980,Transfers,9800,Interfund transfers,31056,Plan 3b Wichita EE Retirement,400000,Revenue,2017
+3095,775,Employees Retirement,BU740001,3,3,Department of Finance,98,Other Revenue,980,Transfers,9800,Interfund transfers,31062,Employees Retirement,3200000,Revenue,2017
+3096,300,Debt Service Fund,BU740001,4,3,Department of Finance,98,Other Revenue,980,Transfers,9800,Interfund transfers,300095,Debt Service Fund,27944551,Revenue,2017
+3097,620,Self Insurance Fund,BU740001,5,4,Law Department,98,Other Revenue,980,Transfers,9800,Interfund transfers,40063,Gen. Liability-Tort Management,550000,Revenue,2017
+3098,209,Homelessness Assistance Fund,BU740001,6,9,Housing & Community Services,98,Other Revenue,980,Transfers,9800,Interfund transfers,90900,Homelessness Assistance Fund,191368,Revenue,2017
+3099,265,City/County Joint Operations Fund,BU740001,7,13,Public Works & Utilities,98,Other Revenue,980,Transfers,9800,Interfund transfers,133224,City-Cty Flood Contrl,1102333,Revenue,2017
+3100,265,City/County Joint Operations Fund,BU740001,8,15,Metropolitan Planning,98,Other Revenue,980,Transfers,9800,Interfund transfers,150004,Metropolitan Planning,628635,Revenue,2017
+3101,520,Transit Fund,BU740001,9,16,Transit,98,Other Revenue,980,Transfers,9800,Interfund transfers,300129,MTA Administration,3775080,Revenue,2017
+3102,100,General Fund,BU740001,10,22,Non Departmental,98,Other Revenue,980,Transfers,9800,Interfund transfers,300004,General Fund Revenues,5000750,Revenue,2017
 3103,100,General Fund,BU740002,1,4,Law Department,1,Personnel Services,140,Employee Benefits,1400,FICA,40007,Law Prosecution,51405,Expense,2017
 3104,100,General Fund,BU740002,2,4,Law Department,1,Personnel Services,140,Employee Benefits,1401,Employee pension,40007,Law Prosecution,82651,Expense,2017
 3105,540,Water Utility Fund,BU740002,3,18,Public Works & Utilities,2,Contractual Services,290,Other Contractuals,2999,Other contractuals,183301,Building Equipment & Maintenance,1800,Expense,2017
@@ -7447,6 +7475,7 @@ OBJECTID,fund,fund_title,cur_doc_no,cur_doc_no_sfx,dept,dept_title,obj_lvl_1,obj
 3970,100,General Fund,BU740027,62,17,Park,2,Contractual Services,250,Professional Services,2599,Other professional services,173502,Activity Camp,9050,Expense,2017
 3971,100,General Fund,BU740027,63,17,Park,2,Contractual Services,280,Buildings and Grounds Charges,2801,Lease/Rent-Buildings or grounds,173502,Activity Camp,7590,Expense,2017
 3972,100,General Fund,BU740027,64,17,Park,2,Contractual Services,290,Other Contractuals,2917,Printing and copying,173502,Activity Camp,2375,Expense,2017
+3973,540,Water Utility Fund,BU740027,65,18,Public Works & Utilities,5,Other Expenditures,510,Interfund Transfers,5101,Reimbursements-interfund & interdepart,183004,Water Administration,4358801,Expense,2017
 3974,540,Water Utility Fund,BU740027,66,18,Public Works & Utilities,5,Other Expenditures,520,Debt Service,5200,Principal - G.O.,183004,Water Administration,4665000,Expense,2017
 3975,540,Water Utility Fund,BU740027,67,18,Public Works & Utilities,5,Other Expenditures,520,Debt Service,5202,Principal - revenue bonds,183004,Water Administration,12616259,Expense,2017
 3976,540,Water Utility Fund,BU740027,68,18,Public Works & Utilities,5,Other Expenditures,520,Debt Service,5203,Interest - G.O.,183004,Water Administration,4983725,Expense,2017
@@ -7589,6 +7618,7 @@ OBJECTID,fund,fund_title,cur_doc_no,cur_doc_no_sfx,dept,dept_title,obj_lvl_1,obj
 113,515,Golf Course System Fund,BU740057,59,21,Golf Course System,2,Contractual Services,290,Other Contractuals,2917,Printing and copying,210600,Golf Administration,2500,Expense,2017
 114,515,Golf Course System Fund,BU740057,60,21,Golf Course System,3,Materials and Supplies,310,Office Supplies,3103,Office supplies,210600,Golf Administration,3220,Expense,2017
 115,515,Golf Course System Fund,BU740057,61,21,Golf Course System,3,Materials and Supplies,390,Other Commodities,3990,Purchasing Card Clearing,210600,Golf Administration,5000,Expense,2017
+116,515,Golf Course System Fund,BU740057,62,21,Golf Course System,5,Other Expenditures,510,Interfund Transfers,5101,Reimbursements-interfund & interdepart,210600,Golf Administration,80180,Expense,2017
 117,515,Golf Course System Fund,BU740057,63,21,Golf Course System,5,Other Expenditures,530,Other Non-Operating Expenditures,5333,Miscellaneous and sundry,210600,Golf Administration,27590,Expense,2017
 118,515,Golf Course System Fund,BU740057,64,21,Golf Course System,5,Other Expenditures,540,Inventory,5400,Inventory for resale,210600,Golf Administration,19090,Expense,2017
 119,100,General Fund,BU740057,65,22,Non Departmental,2,Contractual Services,220,Communications,2200,PBX - line charges,220202,Broadcasting,341,Expense,2017
@@ -7749,61 +7779,14 @@ OBJECTID,fund,fund_title,cur_doc_no,cur_doc_no_sfx,dept,dept_title,obj_lvl_1,obj
 274,215,Tourism and Convention Promotion Fund,BU740059,20,22,Non Departmental,2,Contractual Services,290,Other Contractuals,2900,City administrative charges,225003,T & C Administrative Charges,2577,Expense,2017
 275,215,Tourism and Convention Promotion Fund,BU740059,21,22,Non Departmental,2,Contractual Services,250,Professional Services,2507,Audits,225011,Appropriated Reserves,2000,Expense,2017
 276,215,Tourism and Convention Promotion Fund,BU740059,22,22,Non Departmental,2,Contractual Services,250,Professional Services,2599,Other professional services,225011,Appropriated Reserves,40000,Expense,2017
-283,100,General Fund,BU740059,29,22,Non Departmental,1,Personnel Services,110,Regular Salaries,1199,Other,225516,Appropriated Fund Balance,1447233,Expense,2017
-284,100,General Fund,BU740059,30,22,Non Departmental,2,Contractual Services,250,Professional Services,2599,Other professional services,225516,Appropriated Fund Balance,20000,Expense,2017
-285,100,General Fund,BU740059,31,22,Non Departmental,2,Contractual Services,290,Other Contractuals,2999,Other contractuals,225516,Appropriated Fund Balance,3000000,Expense,2017
 277,215,Tourism and Convention Promotion Fund,BU740059,23,22,Non Departmental,2,Contractual Services,280,Buildings and Grounds Charges,2806,Security/Fire services,225011,Appropriated Reserves,3000,Expense,2017
 278,215,Tourism and Convention Promotion Fund,BU740059,24,22,Non Departmental,2,Contractual Services,250,Professional Services,2599,Other professional services,225052,Convention Promotion Contingency,150000,Expense,2017
 279,215,Tourism and Convention Promotion Fund,BU740059,25,22,Non Departmental,2,Contractual Services,250,Professional Services,2599,Other professional services,225055,Wichita Aviation Festival,40000,Expense,2017
 280,215,Tourism and Convention Promotion Fund,BU740059,26,22,Non Departmental,2,Contractual Services,250,Professional Services,2599,Other professional services,225149,Tourism Research / Marketing,75000,Expense,2017
 281,215,Tourism and Convention Promotion Fund,BU740059,27,22,Non Departmental,2,Contractual Services,250,Professional Services,2595,Delegate agencies-profess svcs,225151,Wichita Convention & Tourism,100000,Expense,2017
 282,215,Tourism and Convention Promotion Fund,BU740059,28,22,Non Departmental,2,Contractual Services,250,Professional Services,2599,Other professional services,225151,Wichita Convention & Tourism,2476166,Expense,2017
-286,100,General Fund,BU740059,32,22,Non Departmental,5,Other Expenditures,530,Other Non-Operating Expenditures,5333,Miscellaneous and sundry,225516,Appropriated Fund Balance,230000,Expense,2017
 287,100,General Fund,BU740059,33,22,Non Departmental,1,Personnel Services,150,Other Personnel Services,1500,Planned savings,300004,General Fund Revenues,-3817477,Expense,2017
-288,235,Metro Area Building & Construction Fund,BU740059,34,23,Metro Area Bldg & Construction,1,Personnel Services,110,Regular Salaries,1100,Bi-weekly wages,230100,Central Inspection - Administration,1078641,Expense,2017
-289,235,Metro Area Building & Construction Fund,BU740059,35,23,Metro Area Bldg & Construction,1,Personnel Services,110,Regular Salaries,1101,Longevity,230100,Central Inspection - Administration,22735,Expense,2017
-290,235,Metro Area Building & Construction Fund,BU740059,36,23,Metro Area Bldg & Construction,1,Personnel Services,110,Regular Salaries,1190,Accrual,230100,Central Inspection - Administration,8414,Expense,2017
-291,235,Metro Area Building & Construction Fund,BU740059,37,23,Metro Area Bldg & Construction,1,Personnel Services,120,Special Salaries,1204,Clothing allowance,230100,Central Inspection - Administration,600,Expense,2017
-292,235,Metro Area Building & Construction Fund,BU740059,38,23,Metro Area Bldg & Construction,1,Personnel Services,120,Special Salaries,1208,Cellular phone allowance,230100,Central Inspection - Administration,650,Expense,2017
-293,235,Metro Area Building & Construction Fund,BU740059,39,23,Metro Area Bldg & Construction,1,Personnel Services,130,Overtime,1300,Premium-Overtime,230100,Central Inspection - Administration,50000,Expense,2017
-294,235,Metro Area Building & Construction Fund,BU740059,40,23,Metro Area Bldg & Construction,1,Personnel Services,140,Employee Benefits,1400,FICA,230100,Central Inspection - Administration,84255,Expense,2017
-295,235,Metro Area Building & Construction Fund,BU740059,41,23,Metro Area Bldg & Construction,1,Personnel Services,140,Employee Benefits,1401,Employee pension,230100,Central Inspection - Administration,135469,Expense,2017
-320,235,Metro Area Building & Construction Fund,BU740059,66,23,Metro Area Bldg & Construction,2,Contractual Services,220,Communications,2207,Postage - regular,230200,Condemnation - Housing,7000,Expense,2017
-322,235,Metro Area Building & Construction Fund,BU740059,68,23,Metro Area Bldg & Construction,2,Contractual Services,240,Insurance,2401,Vehicle liability,230200,Condemnation - Housing,3530,Expense,2017
-324,235,Metro Area Building & Construction Fund,BU740059,70,23,Metro Area Bldg & Construction,2,Contractual Services,250,Professional Services,2505,Contractors,230200,Condemnation - Housing,40780,Expense,2017
-296,235,Metro Area Building & Construction Fund,BU740059,42,23,Metro Area Bldg & Construction,1,Personnel Services,140,Employee Benefits,1403,Workers compensation,230100,Central Inspection - Administration,16521,Expense,2017
-297,235,Metro Area Building & Construction Fund,BU740059,43,23,Metro Area Bldg & Construction,1,Personnel Services,140,Employee Benefits,1404,Unemployment compensation,230100,Central Inspection - Administration,2203,Expense,2017
-298,235,Metro Area Building & Construction Fund,BU740059,44,23,Metro Area Bldg & Construction,1,Personnel Services,140,Employee Benefits,1405,Group health insurance,230100,Central Inspection - Administration,223030,Expense,2017
-299,235,Metro Area Building & Construction Fund,BU740059,45,23,Metro Area Bldg & Construction,1,Personnel Services,140,Employee Benefits,1406,Group life insurance,230100,Central Inspection - Administration,4315,Expense,2017
-300,235,Metro Area Building & Construction Fund,BU740059,46,23,Metro Area Bldg & Construction,2,Contractual Services,240,Insurance,2401,Vehicle liability,230100,Central Inspection - Administration,6329,Expense,2017
-301,235,Metro Area Building & Construction Fund,BU740059,47,23,Metro Area Bldg & Construction,2,Contractual Services,250,Professional Services,2507,Audits,230100,Central Inspection - Administration,1207,Expense,2017
-302,235,Metro Area Building & Construction Fund,BU740059,48,23,Metro Area Bldg & Construction,2,Contractual Services,270,Equipment Charges,2700,Motor pool - scheduled charges,230100,Central Inspection - Administration,77160,Expense,2017
-303,235,Metro Area Building & Construction Fund,BU740059,49,23,Metro Area Bldg & Construction,2,Contractual Services,290,Other Contractuals,2900,City administrative charges,230100,Central Inspection - Administration,220198,Expense,2017
-304,235,Metro Area Building & Construction Fund,BU740059,50,23,Metro Area Bldg & Construction,3,Materials and Supplies,340,Equipment Parts,3405,Fuel,230100,Central Inspection - Administration,27266,Expense,2017
-306,235,Metro Area Building & Construction Fund,BU740059,52,23,Metro Area Bldg & Construction,5,Other Expenditures,530,Other Non-Operating Expenditures,5300,Contingency,230100,Central Inspection - Administration,1400000,Expense,2017
-307,235,Metro Area Building & Construction Fund,BU740059,53,23,Metro Area Bldg & Construction,5,Other Expenditures,530,Other Non-Operating Expenditures,5333,Miscellaneous and sundry,230100,Central Inspection - Administration,15658,Expense,2017
-308,235,Metro Area Building & Construction Fund,BU740059,54,23,Metro Area Bldg & Construction,1,Personnel Services,110,Regular Salaries,1100,Bi-weekly wages,230200,Condemnation - Housing,809293,Expense,2017
-309,235,Metro Area Building & Construction Fund,BU740059,55,23,Metro Area Bldg & Construction,1,Personnel Services,110,Regular Salaries,1101,Longevity,230200,Condemnation - Housing,12600,Expense,2017
-310,235,Metro Area Building & Construction Fund,BU740059,56,23,Metro Area Bldg & Construction,1,Personnel Services,110,Regular Salaries,1190,Accrual,230200,Condemnation - Housing,5284,Expense,2017
-311,235,Metro Area Building & Construction Fund,BU740059,57,23,Metro Area Bldg & Construction,1,Personnel Services,110,Regular Salaries,1199,Other,230200,Condemnation - Housing,-114550,Expense,2017
-312,235,Metro Area Building & Construction Fund,BU740059,58,23,Metro Area Bldg & Construction,1,Personnel Services,120,Special Salaries,1204,Clothing allowance,230200,Condemnation - Housing,1800,Expense,2017
-314,235,Metro Area Building & Construction Fund,BU740059,60,23,Metro Area Bldg & Construction,1,Personnel Services,140,Employee Benefits,1400,FICA,230200,Condemnation - Housing,54112,Expense,2017
-315,235,Metro Area Building & Construction Fund,BU740059,61,23,Metro Area Bldg & Construction,1,Personnel Services,140,Employee Benefits,1401,Employee pension,230200,Condemnation - Housing,87003,Expense,2017
-313,235,Metro Area Building & Construction Fund,BU740059,59,23,Metro Area Bldg & Construction,1,Personnel Services,120,Special Salaries,1208,Cellular phone allowance,230200,Condemnation - Housing,600,Expense,2017
-316,235,Metro Area Building & Construction Fund,BU740059,62,23,Metro Area Bldg & Construction,1,Personnel Services,140,Employee Benefits,1403,Workers compensation,230200,Condemnation - Housing,10522,Expense,2017
-317,235,Metro Area Building & Construction Fund,BU740059,63,23,Metro Area Bldg & Construction,1,Personnel Services,140,Employee Benefits,1404,Unemployment compensation,230200,Condemnation - Housing,1414,Expense,2017
-318,235,Metro Area Building & Construction Fund,BU740059,64,23,Metro Area Bldg & Construction,1,Personnel Services,140,Employee Benefits,1405,Group health insurance,230200,Condemnation - Housing,150967,Expense,2017
-319,235,Metro Area Building & Construction Fund,BU740059,65,23,Metro Area Bldg & Construction,1,Personnel Services,140,Employee Benefits,1406,Group life insurance,230200,Condemnation - Housing,3237,Expense,2017
-321,235,Metro Area Building & Construction Fund,BU740059,67,23,Metro Area Bldg & Construction,2,Contractual Services,230,Transportation and Training,2302,Out of town registration fees,230200,Condemnation - Housing,9900,Expense,2017
-323,235,Metro Area Building & Construction Fund,BU740059,69,23,Metro Area Bldg & Construction,2,Contractual Services,250,Professional Services,2500,Certification fees,230200,Condemnation - Housing,500,Expense,2017
-325,235,Metro Area Building & Construction Fund,BU740059,71,23,Metro Area Bldg & Construction,2,Contractual Services,270,Equipment Charges,2700,Motor pool - scheduled charges,230200,Condemnation - Housing,62880,Expense,2017
-326,235,Metro Area Building & Construction Fund,BU740059,72,23,Metro Area Bldg & Construction,2,Contractual Services,280,Buildings and Grounds Charges,2803,Maintenance - buildings,230200,Condemnation - Housing,20550,Expense,2017
-327,235,Metro Area Building & Construction Fund,BU740059,73,23,Metro Area Bldg & Construction,2,Contractual Services,290,Other Contractuals,2900,City administrative charges,230200,Condemnation - Housing,55049,Expense,2017
-328,235,Metro Area Building & Construction Fund,BU740059,74,23,Metro Area Bldg & Construction,2,Contractual Services,290,Other Contractuals,2902,Advertising,230200,Condemnation - Housing,6119,Expense,2017
-329,235,Metro Area Building & Construction Fund,BU740059,75,23,Metro Area Bldg & Construction,2,Contractual Services,290,Other Contractuals,2917,Printing and copying,230200,Condemnation - Housing,8000,Expense,2017
-330,235,Metro Area Building & Construction Fund,BU740059,76,23,Metro Area Bldg & Construction,3,Materials and Supplies,340,Equipment Parts,3405,Fuel,230200,Condemnation - Housing,12784,Expense,2017
-331,235,Metro Area Building & Construction Fund,BU740059,77,23,Metro Area Bldg & Construction,3,Materials and Supplies,350,Materials,3500,Materials,230200,Condemnation - Housing,3000,Expense,2017
-332,235,Metro Area Building & Construction Fund,BU740059,78,23,Metro Area Bldg & Construction,3,Materials and Supplies,390,Other Commodities,3999,Other commodities,230200,Condemnation - Housing,1000,Expense,2017
+333,236,General Fund - Economic Development Subf,BU740059,79,2,City Manager,5,Other Expenditures,510,Interfund Transfers,5101,Reimbursements-interfund & interdepart,28001,Economic Development,223242,Expense,2017
 334,620,Self Insurance Fund,BU740059,80,3,Department of Finance,2,Contractual Services,250,Professional Services,2502,Medical and laboratory services,36103,Self Insurance Group Health,40750,Expense,2017
 360,100,General Fund,BU740060,6,17,Park,5,Other Expenditures,540,Inventory,5400,Inventory for resale,173401,Aley Pool,1230,Expense,2017
 361,100,General Fund,BU740060,7,17,Park,1,Personnel Services,120,Special Salaries,1200,Part time/seasonal,173402,Boston Pool,18130,Expense,2017
@@ -8195,6 +8178,7 @@ OBJECTID,fund,fund_title,cur_doc_no,cur_doc_no_sfx,dept,dept_title,obj_lvl_1,obj
 722,520,Transit Fund,BU740045,96,16,Transit,3,Materials and Supplies,320,Clothing and Towels,3200,Clothing and towels,160010,Vehicle Operations,22800,Expense,2017
 723,520,Transit Fund,BU740045,97,16,Transit,3,Materials and Supplies,390,Other Commodities,3904,Petty cash expenditures,160010,Vehicle Operations,100,Expense,2017
 724,520,Transit Fund,BU740045,98,16,Transit,3,Materials and Supplies,390,Other Commodities,3999,Other commodities,160010,Vehicle Operations,4500,Expense,2017
+725,520,Transit Fund,BU740045,99,16,Transit,5,Other Expenditures,510,Interfund Transfers,5120,Trsfrs to Hot Spot Proj/Operating Grants,160010,Vehicle Operations,1644865,Expense,2017
 726,520,Transit Fund,BU740045,100,16,Transit,2,Contractual Services,210,Utilities,2100,Electricity,160028,Vehicle Maintenance,13000,Expense,2017
 727,520,Transit Fund,BU740046,1,16,Transit,2,Contractual Services,210,Utilities,2101,Gas-ONEOK Kansas Gas Service,160028,Vehicle Maintenance,46000,Expense,2017
 728,520,Transit Fund,BU740046,2,16,Transit,2,Contractual Services,210,Utilities,2104,Water,160028,Vehicle Maintenance,2400,Expense,2017
@@ -8210,6 +8194,7 @@ OBJECTID,fund,fund_title,cur_doc_no,cur_doc_no_sfx,dept,dept_title,obj_lvl_1,obj
 738,520,Transit Fund,BU740046,12,16,Transit,3,Materials and Supplies,310,Office Supplies,3103,Office supplies,160028,Vehicle Maintenance,1000,Expense,2017
 739,520,Transit Fund,BU740046,13,16,Transit,3,Materials and Supplies,390,Other Commodities,3903,Food supplies,160028,Vehicle Maintenance,400,Expense,2017
 740,520,Transit Fund,BU740046,14,16,Transit,3,Materials and Supplies,390,Other Commodities,3904,Petty cash expenditures,160028,Vehicle Maintenance,200,Expense,2017
+741,520,Transit Fund,BU740046,15,16,Transit,5,Other Expenditures,510,Interfund Transfers,5120,Trsfrs to Hot Spot Proj/Operating Grants,160028,Vehicle Maintenance,530588,Expense,2017
 742,520,Transit Fund,BU740046,16,16,Transit,1,Personnel Services,110,Regular Salaries,1100,Bi-weekly wages,160037,Transit Center,78899,Expense,2017
 743,520,Transit Fund,BU740046,17,16,Transit,1,Personnel Services,110,Regular Salaries,1101,Longevity,160037,Transit Center,360,Expense,2017
 744,520,Transit Fund,BU740046,18,16,Transit,1,Personnel Services,120,Special Salaries,1200,Part time/seasonal,160037,Transit Center,17877,Expense,2017
