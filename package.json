@@ -30,6 +30,7 @@
   "devDependencies": {
     "amdefine": "^1.0.1",
     "case": "^1.5.3",
+    "csv": "^1.1.1",
     "destroy": "^1.0.4",
     "encodeurl": "^1.0.1",
     "jasmine-core": "^2.6.4",

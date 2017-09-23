@@ -7,6 +7,7 @@ const Case = require('case')
 const OL3_ID_IDX = 11
 const OL2_ID_IDX = 9
 const FUND_TITLE = 2
+const FUND_NUM = 1
 const DEPT_TITLE = 6
 const OCA_TITLE = 14 // item description in budget tree
 const OBJ_LVL_1_TITLE = 8
@@ -16,12 +17,19 @@ const FIRST_COL_HEADER = 'OBJECTID'
 fs.createReadStream(process.argv[2], { encoding: 'utf8' })
   .pipe(csv.parse())
   .pipe(csv.transform(row => {
-    if ( // Is this an interfund transfer? Skip it.
+    /**
+     * The following items are excluded to match to page 65 in the city's budget book,
+     * this is considered the standard to match against for accuracy.
+     */
+    if (
       (
         row[FUND_TITLE].toLowerCase() === 'general fund' &&
         row[OCA_TITLE].toLowerCase() === 'appropriated fund balance'
       ) ||
-      row[FUND_TITLE].toLowerCase() === 'metro area building & construction fund'
+      row[FUND_NUM] === '775' || // Employees Retirement Fund
+      row[FUND_NUM] === '778' || // WER Plan 3 & 3b
+      row[FUND_NUM] === '776' || // Police & Fire Retirement Fund
+      row[FUND_NUM] === '759'    // TBID - Tourism Business Improvement Dist
     ) { return null }
 
     if (row[0] === FIRST_COL_HEADER) {
