@@ -392,10 +392,18 @@ ob.display = ob.display || {};
                 elem.attr("class", "item").html(d.key);
               }
               else if (i == 2) {
-                elem.attr("class", "money").html(_format.number(d.data.expense));
-              }
+                if(config.dropdown_choice.Account == "Revenue") {
+                  elem.attr("class", "money").html('n/a*')
+                } else {
+                  elem.attr("class", "money").html(_format.number(d.data.expense));
+                }
+              } 
               else if (i == 3) {
-                elem.attr("class", "money").html(_format.number(d.data.revenue));
+                if(config.dropdown_choice.Account == "Expense") {
+                  elem.attr("class", "money").html('n/a*')
+                } else {
+                   elem.attr("class", "money").html(_format.number(d.data.revenue));   
+                }
               }
               if (i == 0) {
                 var parent_node = d3.select(elem.node().parentNode);
